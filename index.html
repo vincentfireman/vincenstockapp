@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>주식 쉬운 브리핑</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FAF6EE;
+    --card:#FFFFFF;
+    --ink:#1B3A4B;
+    --muted:#7A7266;
+    --line:#E7DFCF;
+    --highlight:#D7E88C;
+    --highlight-dark:#9CB33F;
+    --warn:#E15A3E;
+    --warn-bg:#FBE7E1;
+    --good:#2F7A5E;
+    --good-bg:#E4F1EA;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    display:flex;
+    justify-content:center;
+    padding:24px 16px 60px;
+  }
+  .app{
+    width:100%;
+    max-width:440px;
+  }
+  .app-title{
+    font-family:'Fraunces',serif;
+    font-size:22px;
+    font-weight:700;
+    margin:4px 0 4px;
+  }
+  .app-sub{
+    font-size:13px;
+    color:var(--muted);
+    margin-bottom:18px;
+  }
+  .search-box{
+    position:relative;
+    margin-bottom:20px;
+  }
+  .search-box input{
+    width:100%;
+    padding:13px 16px;
+    border-radius:14px;
+    border:1px solid var(--line);
+    background:var(--card);
+    font-size:15px;
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    outline:none;
+  }
+  .search-box input:focus{border-color:var(--highlight-dark);}
+  .search-results{
+    margin-top:8px;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    overflow:hidden;
+  }
+  .search-result-item{
+    padding:12px 16px;
+    cursor:pointer;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .search-result-item:last-child{border-bottom:none;}
+  .search-result-item:hover{background:var(--paper);}
+  .search-result-empty{
+    padding:14px 16px;
+    font-size:13px;
+    color:var(--muted);
+    line-height:1.5;
+  }
+  .section-label{
+    font-size:13px;
+    font-weight:600;
+    color:var(--muted);
+    margin:22px 0 10px;
+  }
+  .watchlist{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+  .watch-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:16px;
+    padding:14px 16px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    cursor:pointer;
+  }
+  .watch-card:hover{border-color:var(--highlight-dark);}
+  .watch-left .name{font-weight:600;font-size:15px;}
+  .watch-left .ticker{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    color:var(--muted);
+  }
+  .watch-right{text-align:right;}
+  .watch-price{
+    font-family:'IBM Plex Mono',monospace;
+    font-weight:600;
+    font-size:15px;
+  }
+  .watch-change{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    font-weight:600;
+    padding:2px 7px;
+    border-radius:20px;
+    display:inline-block;
+    margin-top:3px;
+  }
+  .up{color:var(--good);background:var(--good-bg);}
+  .down{color:var(--warn);background:var(--warn-bg);}
+  .empty-state{
+    text-align:center;
+    padding:36px 20px;
+    color:var(--muted);
+    font-size:13.5px;
+    line-height:1.6;
+    background:var(--card);
+    border:1px dashed var(--line);
+    border-radius:16px;
+  }
+
+  /* 상세 화면 */
+  .detail{display:none;}
+  .detail.active{display:block;}
+  .home{display:block;}
+  .home.hidden{display:none;}
+
+  .back-btn{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    background:none;
+    border:none;
+    color:var(--muted);
+    font-size:13px;
+    font-family:'Inter',sans-serif;
+    cursor:pointer;
+    padding:8px 0;
+    margin-bottom:6px;
+  }
+
+  .detail-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:20px;
+    overflow:hidden;
+  }
+  .detail-header{padding:22px 20px 18px;border-bottom:1px solid var(--line);}
+  .ticker-row{display:flex;justify-content:space-between;align-items:baseline;}
+  .ticker{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);}
+  .star-btn{
+    background:none;border:none;cursor:pointer;font-size:20px;
+    color:var(--muted);
+  }
+  .star-btn.active{color:var(--highlight-dark);}
+  .company{font-family:'Fraunces',serif;font-size:24px;font-weight:600;margin:4px 0 10px;}
+  .price-row{display:flex;align-items:baseline;gap:10px;}
+  .price{font-family:'IBM Plex Mono',monospace;font-size:32px;font-weight:600;}
+  .change-badge{
+    font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:600;
+    padding:3px 9px;border-radius:20px;
+  }
+  .asof{font-size:12px;color:var(--muted);margin-top:6px;}
+  .oneliner{
+    margin-top:16px;font-size:14.5px;line-height:1.6;
+    background:var(--paper);border:1px solid var(--line);
+    border-radius:14px;padding:14px 16px;
+  }
+  .section{padding:20px;border-bottom:1px solid var(--line);}
+  .section:last-child{border-bottom:none;}
+  .section-title{font-family:'Fraunces',serif;font-size:17px;font-weight:600;margin:0 0 4px;}
+  .indicator{display:flex;justify-content:space-between;gap:12px;padding:11px 0;border-bottom:1px dashed var(--line);}
+  .indicator:last-child{border-bottom:none;}
+  .ind-label{font-size:12.5px;color:var(--muted);min-width:70px;}
+  .ind-value{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:14px;}
+
+  .disclaimer{
+    margin-top:16px;padding:14px 16px;font-size:11px;color:var(--muted);
+    line-height:1.6;background:#F2ECDD;border-radius:12px;
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <!-- 홈 화면 -->
+  <div class="home" id="homeScreen">
+    <div class="app-title">주식 쉬운 브리핑</div>
+    <div class="app-sub" id="updatedAt">데이터 불러오는 중...</div>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="종목명이나 티커 검색 (예: 엔비디아, NVDA)">
+      <div class="search-results" id="searchResults" style="display:none;"></div>
+    </div>
+
+    <div class="section-label">내 관심 종목</div>
+    <div class="watchlist" id="watchlist"></div>
+  </div>
+
+  <!-- 상세 화면 -->
+  <div class="detail" id="detailScreen">
+    <button class="back-btn" onclick="showHome()">← 목록으로</button>
+    <div class="detail-card" id="detailContent"></div>
+  </div>
+
+</div>
+
+<script>
+let DATA = null;
+let watchlist = JSON.parse(localStorage.getItem('watchlist') || '[]');
+
+// data.json은 이 html 파일과 같은 폴더(저장소)에 있다고 가정
+fetch('data.json')
+  .then(r => r.json())
+  .then(json => {
+    DATA = json;
+    document.getElementById('updatedAt').textContent = `${json.updated_at} 기준 브리핑`;
+    renderWatchlist();
+  })
+  .catch(() => {
+    document.getElementById('updatedAt').textContent = '데이터를 불러오지 못했어요. data.json 위치를 확인해주세요.';
+  });
+
+const COMPANY_NAMES = { NVDA: '엔비디아', INTC: '인텔' };
+
+function saveWatchlist(){
+  localStorage.setItem('watchlist', JSON.stringify(watchlist));
+}
+
+function toggleWatch(symbol){
+  if (watchlist.includes(symbol)) {
+    watchlist = watchlist.filter(s => s !== symbol);
+  } else {
+    watchlist.push(symbol);
+  }
+  saveWatchlist();
+  renderWatchlist();
+}
+
+function renderWatchlist(){
+  const el = document.getElementById('watchlist');
+  if (!DATA) return;
+
+  if (watchlist.length === 0) {
+    el.innerHTML = `<div class="empty-state">아직 즐겨찾기한 종목이 없어요.<br>위 검색창에서 종목을 찾아 추가해보세요.</div>`;
+    return;
+  }
+
+  el.innerHTML = watchlist.map(symbol => {
+    const s = DATA.stocks[symbol];
+    if (!s) return '';
+    const dir = s.change_pct >= 0 ? 'up' : 'down';
+    const arrow = s.change_pct >= 0 ? '+' : '';
+    return `
+      <div class="watch-card" onclick="showDetail('${symbol}')">
+        <div class="watch-left">
+          <div class="name">${COMPANY_NAMES[symbol] || symbol}</div>
+          <div class="ticker">${symbol}</div>
+        </div>
+        <div class="watch-right">
+          <div class="watch-price">$${s.price?.toFixed(2)}</div>
+          <div class="watch-change ${dir}">${arrow}${s.change_pct?.toFixed(2)}%</div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  const resultsEl = document.getElementById('searchResults');
+
+  if (!q || !DATA) { resultsEl.style.display = 'none'; return; }
+
+  const matches = Object.keys(DATA.stocks).filter(symbol => {
+    const name = (COMPANY_NAMES[symbol] || '').toLowerCase();
+    return symbol.toLowerCase().includes(q) || name.includes(q);
+  });
+
+  resultsEl.style.display = 'block';
+
+  if (matches.length === 0) {
+    resultsEl.innerHTML = `<div class="search-result-empty">"${e.target.value}"에 대한 샘플 데이터가 없어요.<br>지금은 엔비디아(NVDA), 인텔(INTC)만 제공돼요.</div>`;
+    return;
+  }
+
+  resultsEl.innerHTML = matches.map(symbol => `
+    <div class="search-result-item" onclick="showDetail('${symbol}')">
+      <span>${COMPANY_NAMES[symbol] || symbol} <span style="color:var(--muted);font-size:12px;">${symbol}</span></span>
+      <span style="font-size:12px;color:var(--muted);">${watchlist.includes(symbol) ? '★ 즐겨찾기됨' : '탭하여 보기'}</span>
+    </div>`).join('');
+});
+
+function showDetail(symbol){
+  const s = DATA.stocks[symbol];
+  if (!s) return;
+
+  const dir = s.change_pct >= 0 ? 'up' : 'down';
+  const arrow = s.change_pct >= 0 ? '+' : '';
+  const isWatched = watchlist.includes(symbol);
+
+  document.getElementById('detailContent').innerHTML = `
+    <div class="detail-header">
+      <div class="ticker-row">
+        <span class="ticker">NASDAQ · ${symbol}</span>
+        <button class="star-btn ${isWatched ? 'active' : ''}" onclick="toggleWatch('${symbol}'); showDetail('${symbol}')">${isWatched ? '★' : '☆'}</button>
+      </div>
+      <div class="company">${COMPANY_NAMES[symbol] || symbol}</div>
+      <div class="price-row">
+        <span class="price">$${s.price?.toFixed(2)}</span>
+        <span class="change-badge ${dir === 'up' ? 'up' : 'down'}">${arrow}${s.change_pct?.toFixed(2)}%</span>
+      </div>
+      <div class="asof">${DATA.updated_at} 종가 기준</div>
+      <div class="oneliner">${s.easy_explanation || '아직 설명이 준비되지 않았어요.'}</div>
+    </div>
+    <div class="section">
+      <div class="section-title">주요 지표</div>
+      <div class="indicator"><span class="ind-label">전일종가</span><span class="ind-value">$${s.prev_close?.toFixed(2) ?? '-'}</span></div>
+      <div class="indicator"><span class="ind-label">PER</span><span class="ind-value">${s.pe_ttm ? s.pe_ttm.toFixed(1) + '배' : '-'}</span></div>
+      <div class="indicator"><span class="ind-label">52주 최고</span><span class="ind-value">$${s.week52_high?.toFixed(2) ?? '-'}</span></div>
+      <div class="indicator"><span class="ind-label">52주 최저</span><span class="ind-value">$${s.week52_low?.toFixed(2) ?? '-'}</span></div>
+    </div>
+    <div class="section">
+      <div class="disclaimer">이 화면은 정보 정리 도구이며 투자 조언이나 매수·매도 권유가 아닙니다. 투자 판단과 그 책임은 본인에게 있습니다.</div>
+    </div>
+  `;
+
+  document.getElementById('homeScreen').classList.add('hidden');
+  document.getElementById('detailScreen').classList.add('active');
+  document.getElementById('searchInput').value = '';
+  document.getElementById('searchResults').style.display = 'none';
+}
+
+function showHome(){
+  document.getElementById('homeScreen').classList.remove('hidden');
+  document.getElementById('detailScreen').classList.remove('active');
+  renderWatchlist();
+}
+</script>
+</body>
+</html>
