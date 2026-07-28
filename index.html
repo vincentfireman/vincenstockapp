@@ -1,3 +1,6 @@
+
+</body>
+</html>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -8,18 +11,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#FBF2E4;
+    --paper:#EEF6FA;
     --card:#FFFFFF;
-    --ink:#3A2F27;
-    --muted:#8B7C68;
-    --line:#EEE1C8;
-    --highlight:#FFDE85;
-    --highlight-dark:#E0A93A;
-    --accent:#C96A44;
-    --warn:#D95F3B;
-    --warn-bg:#FBE7DD;
-    --good:#3D8A63;
-    --good-bg:#E6F3EA;
+    --ink:#1F3D52;
+    --muted:#6C8598;
+    --line:#D9E9F1;
+    --highlight:#BEE6F7;
+    --highlight-dark:#3E9FCC;
+    --accent:#3E9FCC;
+    --warn:#D9694B;
+    --warn-bg:#FBE7DE;
+    --good:#2E8F72;
+    --good-bg:#E1F3EC;
   }
   *{box-sizing:border-box;}
   body{
@@ -54,7 +57,7 @@
     outline:none;
     box-shadow:0 2px 10px -6px rgba(58,47,39,0.15);
   }
-  .search-box input::placeholder{color:#B5A88F;}
+  .search-box input::placeholder{color:#8FA9BA;}
   .search-box input:focus{border-color:var(--highlight-dark);}
   .search-results{
     margin-top:10px;
@@ -134,7 +137,7 @@
   .detail-header{padding:24px 22px 20px;border-bottom:1px solid var(--line);}
   .ticker-row{display:flex;justify-content:space-between;align-items:baseline;}
   .ticker{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);font-weight:600;}
-  .star-btn{background:none;border:none;cursor:pointer;font-size:22px;color:#D8CBB0;}
+  .star-btn{background:none;border:none;cursor:pointer;font-size:22px;color:#C3D6E1;}
   .star-btn.active{color:var(--highlight-dark);}
   .company{font-family:'Fraunces',serif;font-size:26px;font-weight:700;margin:5px 0 12px;}
   .price-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
@@ -164,21 +167,19 @@
   .tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:6px;}
   .tag.good{background:var(--good-bg);color:var(--good);}
   .tag.warn{background:var(--warn-bg);color:var(--warn);}
-  .tag.neutral{background:#F1E9D8;color:var(--muted);}
+  .tag.neutral{background:#E3EFF5;color:var(--muted);}
 
-  .news-item{padding:12px 0;border-bottom:1px solid var(--line);}
-  .news-item:last-child{border-bottom:none;padding-bottom:0;}
-  .news-headline{font-size:14px;line-height:1.55;font-weight:500;}
-  .news-headline a{color:var(--ink);text-decoration:none;}
-  .news-headline a:hover{text-decoration:underline;}
-  .news-source{font-size:11.5px;color:var(--muted);margin-top:4px;}
+  .news-summary{font-size:14.5px;line-height:1.65;color:var(--ink);}
+  .news-sources{font-size:11.5px;color:var(--muted);margin-top:10px;line-height:1.6;}
+  .news-sources a{color:var(--accent);text-decoration:none;}
+  .news-sources a:hover{text-decoration:underline;}
   .news-empty{font-size:13px;color:var(--muted);line-height:1.6;}
 
   .rec-box{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:18px;}
   .rec-bar-row{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
   .rec-bar-row:last-child{margin-bottom:0;}
   .rec-label{width:78px;font-size:12.5px;color:var(--ink);font-weight:500;}
-  .rec-track{flex:1;height:12px;background:#EFE4CE;border-radius:8px;overflow:hidden;}
+  .rec-track{flex:1;height:12px;background:#E3EFF5;border-radius:8px;overflow:hidden;}
   .rec-fill{height:100%;border-radius:8px;}
   .rec-count{width:26px;text-align:right;font-family:'IBM Plex Mono',monospace;font-size:12.5px;font-weight:700;}
   .rec-note{font-size:11.5px;color:var(--muted);line-height:1.6;margin-top:12px;}
@@ -306,15 +307,18 @@ function positionTag(current, high, low){
   return { text: `최고가 대비 -${(100 - pos).toFixed(0)}%`, tag };
 }
 
-function renderNews(news){
-  if (!news || news.length === 0) {
-    return `<div class="news-empty">최근 일주일 사이 새로 올라온 뉴스가 없어요.</div>`;
+function renderNews(newsSummary, newsList){
+  const summaryHtml = `<div class="news-summary">${newsSummary || '최근 뉴스 요약이 아직 없어요.'}</div>`;
+
+  if (!newsList || newsList.length === 0) {
+    return summaryHtml;
   }
-  return news.map(n => `
-    <div class="news-item">
-      <div class="news-headline"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a></div>
-      <div class="news-source">${n.source || ''}</div>
-    </div>`).join('');
+
+  const sources = newsList.map(n =>
+    `<a href="${n.url}" target="_blank" rel="noopener">${n.source || '기사'}</a>`
+  ).join(' · ');
+
+  return `${summaryHtml}<div class="news-sources">출처: ${sources}</div>`;
 }
 
 function renderRecommendation(rec){
@@ -323,8 +327,8 @@ function renderRecommendation(rec){
   }
   const items = [
     { label: '적극 매수', value: rec.strongBuy, color: 'var(--good)' },
-    { label: '매수', value: rec.buy, color: '#7CB88F' },
-    { label: '중립', value: rec.hold, color: '#D8CBB0' },
+    { label: '매수', value: rec.buy, color: '#7FBFA0' },
+    { label: '중립', value: rec.hold, color: '#C3D6E1' },
     { label: '매도', value: rec.sell, color: '#E8A98D' },
     { label: '적극 매도', value: rec.strongSell, color: 'var(--warn)' },
   ];
@@ -398,7 +402,7 @@ function showDetail(symbol){
 
     <div class="section">
       <div class="section-title">📰 요즘 무슨 일이 있었나요?</div>
-      ${renderNews(s.news)}
+      ${renderNews(s.news_summary, s.news)}
     </div>
 
     <div class="section">
