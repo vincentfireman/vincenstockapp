@@ -33,6 +33,7 @@ jobs:
       - name: 데이터 수집 스크립트 실행
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_stock_data.py
 
       - name: 변경된 data.json 자동 저장
