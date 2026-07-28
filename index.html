@@ -5,20 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>주식 쉬운 브리핑</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#FAF6EE;
+    --paper:#FBF2E4;
     --card:#FFFFFF;
-    --ink:#1B3A4B;
-    --muted:#7A7266;
-    --line:#E7DFCF;
-    --highlight:#D7E88C;
-    --highlight-dark:#9CB33F;
-    --warn:#E15A3E;
-    --warn-bg:#FBE7E1;
-    --good:#2F7A5E;
-    --good-bg:#E4F1EA;
+    --ink:#3A2F27;
+    --muted:#8B7C68;
+    --line:#EEE1C8;
+    --highlight:#FFDE85;
+    --highlight-dark:#E0A93A;
+    --accent:#C96A44;
+    --warn:#D95F3B;
+    --warn-bg:#FBE7DD;
+    --good:#3D8A63;
+    --good-bg:#E6F3EA;
   }
   *{box-sizing:border-box;}
   body{
@@ -28,183 +29,169 @@
     color:var(--ink);
     display:flex;
     justify-content:center;
-    padding:24px 16px 60px;
+    padding:28px 16px 60px;
+    -webkit-font-smoothing:antialiased;
   }
-  .app{
-    width:100%;
-    max-width:440px;
-  }
+  .app{width:100%;max-width:460px;}
   .app-title{
     font-family:'Fraunces',serif;
-    font-size:22px;
+    font-size:25px;
     font-weight:700;
     margin:4px 0 4px;
   }
-  .app-sub{
-    font-size:13px;
-    color:var(--muted);
-    margin-bottom:18px;
-  }
-  .search-box{
-    position:relative;
-    margin-bottom:20px;
-  }
+  .app-sub{font-size:13px;color:var(--muted);margin-bottom:20px;}
+
+  .search-box{position:relative;margin-bottom:24px;}
   .search-box input{
     width:100%;
-    padding:13px 16px;
-    border-radius:14px;
-    border:1px solid var(--line);
+    padding:15px 18px;
+    border-radius:16px;
+    border:1.5px solid var(--line);
     background:var(--card);
     font-size:15px;
     font-family:'Inter',sans-serif;
     color:var(--ink);
     outline:none;
+    box-shadow:0 2px 10px -6px rgba(58,47,39,0.15);
   }
+  .search-box input::placeholder{color:#B5A88F;}
   .search-box input:focus{border-color:var(--highlight-dark);}
   .search-results{
-    margin-top:8px;
+    margin-top:10px;
     background:var(--card);
-    border:1px solid var(--line);
-    border-radius:14px;
+    border:1.5px solid var(--line);
+    border-radius:16px;
     overflow:hidden;
+    box-shadow:0 6px 20px -10px rgba(58,47,39,0.25);
   }
   .search-result-item{
-    padding:12px 16px;
+    padding:14px 18px;
     cursor:pointer;
     border-bottom:1px solid var(--line);
     display:flex;
     justify-content:space-between;
     align-items:center;
+    font-size:14.5px;
   }
   .search-result-item:last-child{border-bottom:none;}
   .search-result-item:hover{background:var(--paper);}
-  .search-result-empty{
-    padding:14px 16px;
-    font-size:13px;
-    color:var(--muted);
-    line-height:1.5;
-  }
+  .search-result-empty{padding:16px 18px;font-size:13px;color:var(--muted);line-height:1.6;}
+
   .section-label{
     font-size:13px;
-    font-weight:600;
+    font-weight:700;
     color:var(--muted);
-    margin:22px 0 10px;
+    margin:24px 2px 12px;
+    letter-spacing:0.02em;
   }
-  .watchlist{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-  }
+  .watchlist{display:flex;flex-direction:column;gap:12px;}
   .watch-card{
     background:var(--card);
-    border:1px solid var(--line);
-    border-radius:16px;
-    padding:14px 16px;
+    border:1.5px solid var(--line);
+    border-radius:18px;
+    padding:16px 18px;
     display:flex;
     justify-content:space-between;
     align-items:center;
     cursor:pointer;
+    box-shadow:0 2px 10px -6px rgba(58,47,39,0.12);
+    transition:transform .12s ease, border-color .12s ease;
   }
-  .watch-card:hover{border-color:var(--highlight-dark);}
-  .watch-left .name{font-weight:600;font-size:15px;}
-  .watch-left .ticker{
-    font-family:'IBM Plex Mono',monospace;
-    font-size:11.5px;
-    color:var(--muted);
-  }
+  .watch-card:hover{border-color:var(--highlight-dark);transform:translateY(-1px);}
+  .watch-left .name{font-weight:700;font-size:16px;}
+  .watch-left .ticker{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);margin-top:2px;}
   .watch-right{text-align:right;}
-  .watch-price{
-    font-family:'IBM Plex Mono',monospace;
-    font-weight:600;
-    font-size:15px;
-  }
+  .watch-price{font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:16px;}
   .watch-change{
-    font-family:'IBM Plex Mono',monospace;
-    font-size:12px;
-    font-weight:600;
-    padding:2px 7px;
-    border-radius:20px;
-    display:inline-block;
-    margin-top:3px;
+    font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;
+    padding:3px 8px;border-radius:20px;display:inline-block;margin-top:4px;
   }
   .up{color:var(--good);background:var(--good-bg);}
   .down{color:var(--warn);background:var(--warn-bg);}
+
   .empty-state{
-    text-align:center;
-    padding:36px 20px;
-    color:var(--muted);
-    font-size:13.5px;
-    line-height:1.6;
-    background:var(--card);
-    border:1px dashed var(--line);
-    border-radius:16px;
+    text-align:center;padding:40px 22px;color:var(--muted);
+    font-size:13.5px;line-height:1.7;background:var(--card);
+    border:1.5px dashed var(--line);border-radius:18px;
   }
 
-  /* 상세 화면 */
   .detail{display:none;}
   .detail.active{display:block;}
   .home{display:block;}
   .home.hidden{display:none;}
 
   .back-btn{
-    display:inline-flex;
-    align-items:center;
-    gap:6px;
-    background:none;
-    border:none;
-    color:var(--muted);
-    font-size:13px;
-    font-family:'Inter',sans-serif;
-    cursor:pointer;
-    padding:8px 0;
-    margin-bottom:6px;
+    display:inline-flex;align-items:center;gap:6px;background:none;border:none;
+    color:var(--muted);font-size:13.5px;font-weight:600;font-family:'Inter',sans-serif;
+    cursor:pointer;padding:8px 0;margin-bottom:8px;
   }
+  .back-btn:hover{color:var(--ink);}
 
   .detail-card{
-    background:var(--card);
-    border:1px solid var(--line);
-    border-radius:20px;
-    overflow:hidden;
+    background:var(--card);border:1.5px solid var(--line);border-radius:24px;
+    overflow:hidden;box-shadow:0 8px 30px -14px rgba(58,47,39,0.3);
   }
-  .detail-header{padding:22px 20px 18px;border-bottom:1px solid var(--line);}
+  .detail-header{padding:24px 22px 20px;border-bottom:1px solid var(--line);}
   .ticker-row{display:flex;justify-content:space-between;align-items:baseline;}
-  .ticker{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);}
-  .star-btn{
-    background:none;border:none;cursor:pointer;font-size:20px;
-    color:var(--muted);
-  }
+  .ticker{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);font-weight:600;}
+  .star-btn{background:none;border:none;cursor:pointer;font-size:22px;color:#D8CBB0;}
   .star-btn.active{color:var(--highlight-dark);}
-  .company{font-family:'Fraunces',serif;font-size:24px;font-weight:600;margin:4px 0 10px;}
-  .price-row{display:flex;align-items:baseline;gap:10px;}
-  .price{font-family:'IBM Plex Mono',monospace;font-size:32px;font-weight:600;}
-  .change-badge{
-    font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:600;
-    padding:3px 9px;border-radius:20px;
-  }
-  .asof{font-size:12px;color:var(--muted);margin-top:6px;}
+  .company{font-family:'Fraunces',serif;font-size:26px;font-weight:700;margin:5px 0 12px;}
+  .price-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
+  .price{font-family:'IBM Plex Mono',monospace;font-size:34px;font-weight:700;}
+  .change-badge{font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:700;padding:4px 10px;border-radius:20px;}
+  .asof{font-size:12px;color:var(--muted);margin-top:8px;}
   .oneliner{
-    margin-top:16px;font-size:14.5px;line-height:1.6;
+    margin-top:18px;font-size:15px;line-height:1.65;
     background:var(--paper);border:1px solid var(--line);
-    border-radius:14px;padding:14px 16px;
+    border-radius:16px;padding:16px 18px;
   }
-  .section{padding:20px;border-bottom:1px solid var(--line);}
+  .oneliner b{background:linear-gradient(transparent 60%, var(--highlight) 60%);}
+
+  .section{padding:22px;border-bottom:1px solid var(--line);}
   .section:last-child{border-bottom:none;}
-  .section-title{font-family:'Fraunces',serif;font-size:17px;font-weight:600;margin:0 0 4px;}
-  .indicator{display:flex;justify-content:space-between;gap:12px;padding:11px 0;border-bottom:1px dashed var(--line);}
+  .section-title{
+    font-family:'Fraunces',serif;font-size:18px;font-weight:700;margin:0 0 14px;
+    display:flex;align-items:center;gap:8px;
+  }
+
+  .indicator{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;padding:13px 0;border-bottom:1px dashed var(--line);}
   .indicator:last-child{border-bottom:none;}
-  .ind-label{font-size:12.5px;color:var(--muted);min-width:70px;}
-  .ind-value{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:14px;}
+  .ind-label{font-size:13px;color:var(--muted);min-width:76px;padding-top:2px;}
+  .ind-body{flex:1;text-align:right;}
+  .ind-value{font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:15px;}
+  .ind-explain{font-size:12.5px;line-height:1.55;color:#6B5D4C;margin-top:5px;text-align:right;}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:6px;}
+  .tag.good{background:var(--good-bg);color:var(--good);}
+  .tag.warn{background:var(--warn-bg);color:var(--warn);}
+  .tag.neutral{background:#F1E9D8;color:var(--muted);}
+
+  .news-item{padding:12px 0;border-bottom:1px solid var(--line);}
+  .news-item:last-child{border-bottom:none;padding-bottom:0;}
+  .news-headline{font-size:14px;line-height:1.55;font-weight:500;}
+  .news-headline a{color:var(--ink);text-decoration:none;}
+  .news-headline a:hover{text-decoration:underline;}
+  .news-source{font-size:11.5px;color:var(--muted);margin-top:4px;}
+  .news-empty{font-size:13px;color:var(--muted);line-height:1.6;}
+
+  .rec-box{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:18px;}
+  .rec-bar-row{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+  .rec-bar-row:last-child{margin-bottom:0;}
+  .rec-label{width:78px;font-size:12.5px;color:var(--ink);font-weight:500;}
+  .rec-track{flex:1;height:12px;background:#EFE4CE;border-radius:8px;overflow:hidden;}
+  .rec-fill{height:100%;border-radius:8px;}
+  .rec-count{width:26px;text-align:right;font-family:'IBM Plex Mono',monospace;font-size:12.5px;font-weight:700;}
+  .rec-note{font-size:11.5px;color:var(--muted);line-height:1.6;margin-top:12px;}
 
   .disclaimer{
-    margin-top:16px;padding:14px 16px;font-size:11px;color:var(--muted);
-    line-height:1.6;background:#F2ECDD;border-radius:12px;
+    margin-top:4px;padding:15px 17px;font-size:11px;color:var(--muted);
+    line-height:1.7;background:var(--paper);border-radius:14px;
   }
 </style>
 </head>
 <body>
 <div class="app">
 
-  <!-- 홈 화면 -->
   <div class="home" id="homeScreen">
     <div class="app-title">주식 쉬운 브리핑</div>
     <div class="app-sub" id="updatedAt">데이터 불러오는 중...</div>
@@ -218,7 +205,6 @@
     <div class="watchlist" id="watchlist"></div>
   </div>
 
-  <!-- 상세 화면 -->
   <div class="detail" id="detailScreen">
     <button class="back-btn" onclick="showHome()">← 목록으로</button>
     <div class="detail-card" id="detailContent"></div>
@@ -230,7 +216,6 @@
 let DATA = null;
 let watchlist = JSON.parse(localStorage.getItem('watchlist') || '[]');
 
-// data.json은 이 html 파일과 같은 폴더(저장소)에 있다고 가정
 fetch('data.json')
   .then(r => r.json())
   .then(json => {
@@ -244,16 +229,11 @@ fetch('data.json')
 
 const COMPANY_NAMES = { NVDA: '엔비디아', INTC: '인텔' };
 
-function saveWatchlist(){
-  localStorage.setItem('watchlist', JSON.stringify(watchlist));
-}
+function saveWatchlist(){ localStorage.setItem('watchlist', JSON.stringify(watchlist)); }
 
 function toggleWatch(symbol){
-  if (watchlist.includes(symbol)) {
-    watchlist = watchlist.filter(s => s !== symbol);
-  } else {
-    watchlist.push(symbol);
-  }
+  if (watchlist.includes(symbol)) watchlist = watchlist.filter(s => s !== symbol);
+  else watchlist.push(symbol);
   saveWatchlist();
   renderWatchlist();
 }
@@ -289,7 +269,6 @@ function renderWatchlist(){
 document.getElementById('searchInput').addEventListener('input', (e) => {
   const q = e.target.value.trim().toLowerCase();
   const resultsEl = document.getElementById('searchResults');
-
   if (!q || !DATA) { resultsEl.style.display = 'none'; return; }
 
   const matches = Object.keys(DATA.stocks).filter(symbol => {
@@ -311,6 +290,56 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
     </div>`).join('');
 });
 
+function peTag(pe){
+  if (!pe) return '';
+  if (pe < 20) return '<span class="tag good">저렴한 편</span>';
+  if (pe > 40) return '<span class="tag warn">비싼 편</span>';
+  return '<span class="tag neutral">보통 수준</span>';
+}
+
+function positionTag(current, high, low){
+  if (!current || !high || !low || high === low) return { text: '-', tag: '' };
+  const pos = (current - low) / (high - low) * 100;
+  let tag = '<span class="tag neutral">중간 구간</span>';
+  if (pos < 35) tag = '<span class="tag good">저점권</span>';
+  if (pos > 80) tag = '<span class="tag warn">고점권</span>';
+  return { text: `최고가 대비 -${(100 - pos).toFixed(0)}%`, tag };
+}
+
+function renderNews(news){
+  if (!news || news.length === 0) {
+    return `<div class="news-empty">최근 일주일 사이 새로 올라온 뉴스가 없어요.</div>`;
+  }
+  return news.map(n => `
+    <div class="news-item">
+      <div class="news-headline"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a></div>
+      <div class="news-source">${n.source || ''}</div>
+    </div>`).join('');
+}
+
+function renderRecommendation(rec){
+  if (!rec) {
+    return `<div class="rec-note">이 종목의 애널리스트 의견 데이터가 아직 없어요.</div>`;
+  }
+  const items = [
+    { label: '적극 매수', value: rec.strongBuy, color: 'var(--good)' },
+    { label: '매수', value: rec.buy, color: '#7CB88F' },
+    { label: '중립', value: rec.hold, color: '#D8CBB0' },
+    { label: '매도', value: rec.sell, color: '#E8A98D' },
+    { label: '적극 매도', value: rec.strongSell, color: 'var(--warn)' },
+  ];
+  const max = Math.max(...items.map(i => i.value || 0), 1);
+
+  const bars = items.map(i => `
+    <div class="rec-bar-row">
+      <span class="rec-label">${i.label}</span>
+      <div class="rec-track"><div class="rec-fill" style="width:${((i.value||0)/max*100)}%;background:${i.color};"></div></div>
+      <span class="rec-count">${i.value ?? 0}</span>
+    </div>`).join('');
+
+  return `${bars}<div class="rec-note">월가 애널리스트들이 최근 이 종목에 대해 낸 의견을 그대로 보여드리는 거예요. 미래를 맞히는 예측이 아니라 "전문가들 생각이 이렇게 갈려있다"는 참고 자료로 봐주세요.</div>`;
+}
+
 function showDetail(symbol){
   const s = DATA.stocks[symbol];
   if (!s) return;
@@ -318,6 +347,7 @@ function showDetail(symbol){
   const dir = s.change_pct >= 0 ? 'up' : 'down';
   const arrow = s.change_pct >= 0 ? '+' : '';
   const isWatched = watchlist.includes(symbol);
+  const pos = positionTag(s.price, s.week52_high, s.week52_low);
 
   document.getElementById('detailContent').innerHTML = `
     <div class="detail-header">
@@ -333,13 +363,49 @@ function showDetail(symbol){
       <div class="asof">${DATA.updated_at} 종가 기준</div>
       <div class="oneliner">${s.easy_explanation || '아직 설명이 준비되지 않았어요.'}</div>
     </div>
+
     <div class="section">
-      <div class="section-title">주요 지표</div>
-      <div class="indicator"><span class="ind-label">전일종가</span><span class="ind-value">$${s.prev_close?.toFixed(2) ?? '-'}</span></div>
-      <div class="indicator"><span class="ind-label">PER</span><span class="ind-value">${s.pe_ttm ? s.pe_ttm.toFixed(1) + '배' : '-'}</span></div>
-      <div class="indicator"><span class="ind-label">52주 최고</span><span class="ind-value">$${s.week52_high?.toFixed(2) ?? '-'}</span></div>
-      <div class="indicator"><span class="ind-label">52주 최저</span><span class="ind-value">$${s.week52_low?.toFixed(2) ?? '-'}</span></div>
+      <div class="section-title">📊 지금 이 가격, 싼 걸까요?</div>
+      <div class="indicator">
+        <span class="ind-label">주가 위치</span>
+        <div class="ind-body">
+          <div class="ind-value">${pos.text}${pos.tag}</div>
+          <div class="ind-explain">1년 중 가장 비쌌을 때와 가장 쌌을 때 사이에서 지금이 어디쯤인지 보여줘요.</div>
+        </div>
+      </div>
+      <div class="indicator">
+        <span class="ind-label">PER</span>
+        <div class="ind-body">
+          <div class="ind-value">${s.pe_ttm ? s.pe_ttm.toFixed(1) + '배' : '-'}${peTag(s.pe_ttm)}</div>
+          <div class="ind-explain">${s.pe_ttm ? `이 회사가 1년에 버는 돈의 ${s.pe_ttm.toFixed(0)}배 가격에 거래되고 있다는 뜻이에요.` : '데이터가 아직 없어요.'}</div>
+        </div>
+      </div>
+      <div class="indicator">
+        <span class="ind-label">52주 최고</span>
+        <div class="ind-body">
+          <div class="ind-value">$${s.week52_high?.toFixed(2) ?? '-'}</div>
+          <div class="ind-explain">최근 1년 중 가장 비쌌던 가격이에요.</div>
+        </div>
+      </div>
+      <div class="indicator">
+        <span class="ind-label">52주 최저</span>
+        <div class="ind-body">
+          <div class="ind-value">$${s.week52_low?.toFixed(2) ?? '-'}</div>
+          <div class="ind-explain">최근 1년 중 가장 쌌던 가격이에요.</div>
+        </div>
+      </div>
     </div>
+
+    <div class="section">
+      <div class="section-title">📰 요즘 무슨 일이 있었나요?</div>
+      ${renderNews(s.news)}
+    </div>
+
+    <div class="section">
+      <div class="section-title">🎯 전문가들은 어떻게 볼까요?</div>
+      <div class="rec-box">${renderRecommendation(s.recommendation)}</div>
+    </div>
+
     <div class="section">
       <div class="disclaimer">이 화면은 정보 정리 도구이며 투자 조언이나 매수·매도 권유가 아닙니다. 투자 판단과 그 책임은 본인에게 있습니다.</div>
     </div>
