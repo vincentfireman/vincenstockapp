@@ -1,41 +1,35 @@
 {
-  "updated_at": "2026-07-28 06:56",
+  "updated_at": "2026-07-28 22:02",
   "stocks": {
     "NVDA": {
-      "price": 196.51,
-      "change_pct": -4.9942,
-      "prev_close": 206.84,
-      "pe_ttm": 30.6599,
+      "price": 197.01,
+      "change_pct": 0.2544,
+      "prev_close": 196.51,
+      "pe_ttm": 29.4486,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 4.99% 내렸어요. PER은 30.7배로, 회사가 1년에 버는 돈의 31배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. PER은 29.4배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia behind $50 billion lease on Texas data center, FT reports",
-          "summary": "Nvidia has signed leases worth up to $50 billion for Hut 8's Texas data ‌center, the Financial Times reported on Tuesday, ‌citing five people familiar with the deal.  Hut 8 said last week ​its 1-gigawatt Beacon Point campus had a base-term contract value of $19.6 billion over 15 years, rising to as much as $50.2 billion if renewal options are exercised.  The FT reported that Nvidia was the data center's ​tenant, citing ​sources.",
+          "headline": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+          "summary": "AI Chip Stocks Under Pressure as China Competition and Funding Fears Hit Sector",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c5cff7de226365b88134bac96ec96ca319905daddc0a5b3deff0d5782391d2a"
+          "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e"
         },
         {
-          "headline": "Why Nvidia Stock Fell Today",
-          "summary": "Investors are growing uneasy with the semiconductor titan's financing deals with its customers.",
+          "headline": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
+          "summary": "The reported commitment involves Hut 8's one-gigawatt Beacon Point AI campus and could include leases extending beyond an initial 15-year term.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ea61aa936b9cea298c8cebb85210e54054df502268dc86bf13b587e569841b8"
+          "url": "https://finnhub.io/api/news?id=effd67f156a29d983c9fbac85990b88ba53cce725f7f929b031d4dd8c6851adc"
         },
         {
-          "headline": "SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation",
-          "summary": "New Chinese AI technologies and a remarkably strong listing by the country’s largest memory chip firm weighed on sentiment toward U.S. semiconductors.",
+          "headline": "Prediction: Nvidia-SK Hynix Partnership Will Make Both Stocks Big Winners",
+          "summary": "The deal should greatly benefit both companies -- and their stocks.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=594f8f71f456ec94d344282b1c1ecf3f076b8340d73bb40b0d455be39d7c2517"
-        },
-        {
-          "headline": "US Stock Futures Retreat Amid Chip Pressure Even As Oil Pulls Back On Iran Optimism: APLD, CAPR, NVDA, AMKR In Focus",
-          "summary": "Markets are largely focused on pivotal earnings from major hyperscalers this week, including Amazon.com, Apple, Meta and Microsoft.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9e9760fc8bb9c5fe892cb75386d0238c44b59c159714997f4f4492f80629d1f"
+          "url": "https://finnhub.io/api/news?id=87d2210caf097bbd12950ba848e17ebd67b708a1d635bed9170a20d5574f8719"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia behind $50 billion lease on Texas data center, FT reports / Why Nvidia Stock Fell Today / SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation / US Stock Futures Retreat Amid Chip Pressure Even As Oil Pulls Back On Iran Optimism: APLD, CAPR, NVDA, AMKR In Focus",
+      "news_summary": "최근 뉴스 헤드라인: AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears / Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease / Prediction: Nvidia-SK Hynix Partnership Will Make Both Stocks Big Winners",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -47,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 91.67,
-      "change_pct": -0.7041,
-      "prev_close": 92.32,
+      "price": 86.3,
+      "change_pct": -5.858,
+      "prev_close": 91.67,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 0.70% 내렸어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.86% 내렸어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel's Server Pricing Power Shows Sharp Improvement",
-          "summary": "Wells Fargo sees stronger profitability inside the data centre unit",
+          "headline": "Why Intel Stock Just Fell Again",
+          "summary": "Between AI spending doubts, a potential Fed surprise, and new competition from China, here's what's rattling investors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92d5da65c45e2f741bfdca1b59653af3c9e1f3b80fbd284c8e4e895312d3b584"
+          "url": "https://finnhub.io/api/news?id=9da2b3ec369a2f6ae282187d13b4bd0d190d5a8c2b247ea4c99634075829e71a"
         },
         {
-          "headline": "Intel Just Secured a Huge Customer for Its Foundry Business",
-          "summary": "The tech company recently landed Fortinet as a customer of its foundry service.",
+          "headline": "Intel’s 14A chips aren’t built yet: Synopsys is already there",
+          "summary": "Anyone who has shipped software before it was fully tested knows the math. A bug caught in code review costs an afternoon. The same bug caught after launch costs a weekend, an apology, and sometimes a customer. Chip design runs on a version of that math, except the much-higher stakes involve ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bdd5d8decc8cb2fc3255f2579eb568dc132517a61467c3883fb3ca5261ca27bf"
+          "url": "https://finnhub.io/api/news?id=54a107239e989aff39a1f4d09c75286421f1e5aa71eb8d2a351303fe807b7b93"
         },
         {
-          "headline": "Intel’s Capex Plans Offer a Quiet Positive for the Foundry Business. The Real Test Is Still Execution.",
-          "summary": "Intel said 2026 capital expenditures will rise above $20 billion, with 2027 spending expected to be even higher, as the company invests to address tight capacity and AI-driven demand in its foundry business.",
+          "headline": "Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼",
+          "summary": "Intel is back in focus after analysts lifted their fair value estimate from US$88.61 to US$115.65, a sharp reset that puts recent price target moves under a brighter spotlight. Many firms now cluster in the US$120 to US$200 range, reflecting optimism around Q2 results, AI driven server CPU demand and improving foundry traction, even as valuation and execution questions keep plenty of Neutral and Hold ratings in play. In the sections that follow, you will see how this evolving narrative might...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f0473ced61f0048f2852ffc7b6bc7653e4bac53b32b21458a2aca8d0c7edfd87"
+          "url": "https://finnhub.io/api/news?id=5e6f3d62cd5ebc1190bb96a181ead959ef0d5977da3e0f31a87833f7804bec1c"
         },
         {
-          "headline": "5-star analyst aggressively resets Intel stock price target after earnings",
-          "summary": "Wall Street has spent years wondering when Intel would turn the corner. For a long stretch, patience wore thin. Now one of the most closely watched chip analysts on Wall Street is sending a clear signal that the turnaround story has legs. His latest note landed just days after Intel (INTC) posted ...",
+          "headline": "Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
+          "summary": "INTC teams up with Lens Technology to advance glass substrate packaging, improving chip performance and power efficiency for AI and next-gen computing.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c80f55af8f345bd4874be24afc365fe718e55ebfd7511815d0f7815db14de2d"
+          "url": "https://finnhub.io/api/news?id=776c111104cd6b9d32b2ae46c5330c143a2465657a435141f252603be8b5a03f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel's Server Pricing Power Shows Sharp Improvement / Intel Just Secured a Huge Customer for Its Foundry Business / Intel’s Capex Plans Offer a Quiet Positive for the Foundry Business. The Real Test Is Still Execution. / 5-star analyst aggressively resets Intel stock price target after earnings",
+      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Just Fell Again / Intel’s 14A chips aren’t built yet: Synopsys is already there / Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼ / Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
