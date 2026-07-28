@@ -22,8 +22,19 @@ from datetime import datetime, timedelta
 FALLBACK_KEY = ""  # 로컬 테스트용. GitHub에 올리기 전 반드시 빈 문자열("")로 되돌릴 것!
 API_KEY = os.environ.get("FINNHUB_API_KEY") or FALLBACK_KEY
 
+# 뉴스 요약을 만들어줄 Claude API 키. 마찬가지로 환경변수(GitHub Secrets)에서 읽어온다.
+ANTHROPIC_FALLBACK_KEY = ""  # 로컬 테스트용. GitHub에 올리기 전 반드시 빈 문자열("")로 되돌릴 것!
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") or ANTHROPIC_FALLBACK_KEY
+
 if not API_KEY:
-    raise SystemExit("API 키가 없어요. FALLBACK_KEY에 임시로 적거나 FINNHUB_API_KEY 환경변수를 설정하세요.")
+    raise SystemExit("Finnhub API 키가 없어요. FALLBACK_KEY에 임시로 적거나 FINNHUB_API_KEY 환경변수를 설정하세요.")
+
+# 종목별 회사 이름(뉴스 헤드라인에 이 단어가 실제로 들어있는지 걸러낼 때 씀)
+COMPANY_KEYWORDS = {
+    "NVDA": ["nvidia", "nvda"],
+    "INTC": ["intel", "intc"],
+}
+COMPANY_NAMES_KR = {"NVDA": "엔비디아", "INTC": "인텔"}
 
 # 1차 버전 관심 종목 목록. 나중에 종목을 추가하고 싶으면 이 리스트에 티커만 추가하면 됨.
 TICKERS = ["NVDA", "INTC"]
@@ -49,8 +60,13 @@ def fetch_metrics(symbol):
     return response.json().get("metric", {})
 
 
-def fetch_news(symbol, limit=3):
-    """최근 일주일 이내 뉴스 헤드라인을 가져온다."""
+def fetch_news(symbol, limit=4, pool=25):
+    """
+    최근 일주일 이내 뉴스를 넉넉히 가져온 뒤(pool개),
+    헤드라인에 실제로 회사 이름이 들어간 것만 걸러서(limit개) 반환한다.
+    Finnhub 무료 티어는 "관련" 뉴스에 업종 전체 뉴스를 섞어 줄 때가 있어서
+    이 필터링이 없으면 엉뚱한 회사 뉴스가 섞여 들어온다.
+    """
     today = datetime.now()
     week_ago = today - timedelta(days=7)
     url = f"{BASE_URL}/company-news"
@@ -64,14 +80,79 @@ def fetch_news(symbol, limit=3):
     response.raise_for_status()
     articles = response.json()
 
+    keywords = COMPANY_KEYWORDS.get(symbol, [symbol.lower()])
+    relevant = [
+        a for a in articles[:pool]
+        if any(kw in (a.get("headline") or "").lower() for kw in keywords)
+    ]
+
     news_list = []
-    for article in articles[:limit]:
+    for article in relevant[:limit]:
         news_list.append({
             "headline": article.get("headline"),
+            "summary": article.get("summary"),
             "source": article.get("source"),
             "url": article.get("url"),
         })
     return news_list
+
+
+def summarize_news_with_claude(symbol, news_list):
+    """
+    걸러낸 뉴스 헤드라인·요약을 Claude API에 보내서
+    초보 투자자도 이해하기 쉬운 3~4문장짜리 요약을 만든다.
+    Claude API 키가 없거나 호출이 실패하면, 헤드라인만 이어붙인
+    간단한 문장으로 대신한다(앱이 죽지 않도록).
+    """
+    company = COMPANY_NAMES_KR.get(symbol, symbol)
+
+    if not news_list:
+        return f"최근 일주일 사이 {company} 관련 뉴스가 눈에 띄게 없었어요."
+
+    if not ANTHROPIC_API_KEY:
+        headlines = " / ".join(n["headline"] for n in news_list if n.get("headline"))
+        return f"최근 뉴스 헤드라인: {headlines}"
+
+    articles_text = "\n".join(
+        f"- {n.get('headline')}: {n.get('summary') or ''}" for n in news_list
+    )
+
+    prompt = f"""아래는 {company}({symbol}) 관련 최근 뉴스 목록이야.
+이 뉴스들을 종합해서, 주식 투자를 처음 해보는 초보자도 이해할 수 있도록
+쉬운 말로 3~4문장짜리 요약을 만들어줘.
+
+규칙:
+- 전문 용어는 풀어서 설명할 것
+- "사세요/파세요" 같은 투자 권유 표현은 절대 쓰지 말 것
+- 사실 위주로, 과장 없이 담백하게 쓸 것
+- 요약 문장만 출력하고 다른 말은 붙이지 말 것
+
+뉴스 목록:
+{articles_text}
+"""
+
+    try:
+        response = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": "claude-haiku-4-5-20251001",
+                "max_tokens": 400,
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        data = response.json()
+        return data["content"][0]["text"].strip()
+    except Exception as e:
+        # AI 요약이 실패해도 스크립트 전체가 멈추지 않도록 안전하게 대체 문장을 준다.
+        headlines = " / ".join(n["headline"] for n in news_list if n.get("headline"))
+        return f"최근 뉴스 헤드라인: {headlines}"
 
 
 def fetch_recommendation(symbol):
@@ -125,6 +206,7 @@ def main():
         quote = fetch_quote(symbol)
         metrics = fetch_metrics(symbol)
         news = fetch_news(symbol)
+        news_summary = summarize_news_with_claude(symbol, news)
         recommendation = fetch_recommendation(symbol)
 
         result["stocks"][symbol] = {
@@ -136,6 +218,7 @@ def main():
             "week52_low": metrics.get("52WeekLow"),
             "easy_explanation": build_easy_explanation(quote, metrics),
             "news": news,
+            "news_summary": news_summary,
             "recommendation": recommendation,
         }
 
