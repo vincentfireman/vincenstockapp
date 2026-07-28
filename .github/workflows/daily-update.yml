@@ -1,0 +1,42 @@
+# 이 파일이 하는 일:
+# 매일 한국시간 오전 6시에 GitHub 서버가 자동으로 깨어나서
+# fetch_stock_data.py를 실행하고, 결과로 나온 data.json을
+# 이 저장소(repository)에 자동으로 다시 저장(commit)해줍니다.
+# 내 컴퓨터가 꺼져 있어도 문제없이 돌아갑니다.
+
+name: 주식 데이터 매일 업데이트
+
+on:
+  schedule:
+    # UTC 21:00 = 한국시간(KST) 06:00. 평일(월~금)만 실행.
+    - cron: "0 21 * * 1-5"
+  workflow_dispatch: # 이 버튼을 누르면 원할 때 수동으로도 실행 가능
+
+permissions:
+  contents: write # data.json을 저장소에 다시 커밋하려면 이 권한이 필요함
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 필요한 라이브러리 설치
+        run: pip install requests
+
+      - name: 데이터 수집 스크립트 실행
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python fetch_stock_data.py
+
+      - name: 변경된 data.json 자동 저장
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "데이터 자동 업데이트"
+          file_pattern: data.json
