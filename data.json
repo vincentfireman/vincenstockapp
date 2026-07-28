@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 06:30",
+  "updated_at": "2026-07-28 06:34",
   "stocks": {
     "NVDA": {
       "price": 196.51,
@@ -8,7 +8,33 @@
       "pe_ttm": 30.6599,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 4.99% 내렸어요. PER은 30.7배로, 회사가 1년에 버는 돈의 31배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요."
+      "easy_explanation": "오늘 전일 대비 4.99% 내렸어요. PER은 30.7배로, 회사가 1년에 버는 돈의 31배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
+      "news": [
+        {
+          "headline": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=435cf31ac78cd92c4be8c593e89a7b85803b246a6f5c8b32db37e5997e524732"
+        },
+        {
+          "headline": "Prediction: SpaceX Stock Will Fall After Aug. 4",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc7faa512ae6e797908aabb475eff261501a26748c1b046fd769dcaaf4f68cd3"
+        },
+        {
+          "headline": "Ford Yields 4.1% and Lost $6.1 Billion Over the Past Year. Its Earnings Land Tuesday Afternoon.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d481244de20ddc268931467263e072d8b968fd8d0862de5f844260afa29e4d6"
+        }
+      ],
+      "recommendation": {
+        "symbol": "NVDA",
+        "period": "2026-07-01",
+        "strongBuy": 24,
+        "buy": 40,
+        "hold": 4,
+        "sell": 1,
+        "strongSell": 0
+      }
     },
     "INTC": {
       "price": 91.67,
@@ -17,7 +43,33 @@
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 0.70% 내렸어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요."
+      "easy_explanation": "오늘 전일 대비 0.70% 내렸어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
+      "news": [
+        {
+          "headline": "Market Brief: The Quarter's Most Pivotal 48 Hours",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d650c2ed7ce3d7b4adc6589f89b154e4c4260c943c361d5b9a671581a2bcdca2"
+        },
+        {
+          "headline": "Intel's Server Pricing Power Shows Sharp Improvement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=92d5da65c45e2f741bfdca1b59653af3c9e1f3b80fbd284c8e4e895312d3b584"
+        },
+        {
+          "headline": "Intel Just Secured a Huge Customer for Its Foundry Business",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bdd5d8decc8cb2fc3255f2579eb568dc132517a61467c3883fb3ca5261ca27bf"
+        }
+      ],
+      "recommendation": {
+        "symbol": "INTC",
+        "period": "2026-07-01",
+        "strongBuy": 5,
+        "buy": 13,
+        "hold": 34,
+        "sell": 3,
+        "strongSell": 0
+      }
     }
   }
 }
