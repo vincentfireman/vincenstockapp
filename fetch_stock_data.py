@@ -3,7 +3,7 @@
 
 이 스크립트가 하는 일:
 1. 관심 종목(NVDA, INTC) 목록을 순회하면서
-2. Finnhub API로 시세(quote)와 지표(metric)를 가져오고
+2. Finnhub API로 시세(quote), 지표(metric), 최근 뉴스, 애널리스트 의견을 가져오고
 3. 필요한 값만 뽑아서 data.json 파일 하나로 저장한다
 
 나중에 이 스크립트를 GitHub Actions에 걸어두면
@@ -13,7 +13,7 @@
 import os
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # API 키는 이제 코드에 직접 적지 않고, "환경변수"라는 곳에서 읽어옵니다.
 # - 로컬(내 컴퓨터)에서 테스트할 땐 아래 FALLBACK_KEY에 본인 키를 잠깐 적어서 써도 되지만,
@@ -36,7 +36,7 @@ def fetch_quote(symbol):
     url = f"{BASE_URL}/quote"
     params = {"symbol": symbol, "token": API_KEY}
     response = requests.get(url, params=params)
-    response.raise_for_status()  # 요청이 실패하면 여기서 에러를 발생시켜 바로 알 수 있게 함
+    response.raise_for_status()
     return response.json()
 
 
@@ -49,13 +49,50 @@ def fetch_metrics(symbol):
     return response.json().get("metric", {})
 
 
+def fetch_news(symbol, limit=3):
+    """최근 일주일 이내 뉴스 헤드라인을 가져온다."""
+    today = datetime.now()
+    week_ago = today - timedelta(days=7)
+    url = f"{BASE_URL}/company-news"
+    params = {
+        "symbol": symbol,
+        "from": week_ago.strftime("%Y-%m-%d"),
+        "to": today.strftime("%Y-%m-%d"),
+        "token": API_KEY,
+    }
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    articles = response.json()
+
+    news_list = []
+    for article in articles[:limit]:
+        news_list.append({
+            "headline": article.get("headline"),
+            "source": article.get("source"),
+            "url": article.get("url"),
+        })
+    return news_list
+
+
+def fetch_recommendation(symbol):
+    """가장 최근 애널리스트 의견 분포(강력매수/매수/중립/매도/강력매도 수)를 가져온다."""
+    url = f"{BASE_URL}/stock/recommendation"
+    params = {"symbol": symbol, "token": API_KEY}
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    trends = response.json()
+    if not trends:
+        return None
+    return trends[0]  # 가장 최근 기간이 0번째에 옴
+
+
 def build_easy_explanation(quote, metrics):
     """
     숫자를 그대로 보여주지 않고 쉬운 문장으로 바꿔주는 부분.
     지금은 간단한 규칙 기반이고, 나중에 여기를 AI 호출로 바꾸면
     더 자연스러운 문장을 만들 수 있다.
     """
-    change_pct = quote.get("dp", 0)  # 전일 대비 변동률(%)
+    change_pct = quote.get("dp", 0)
     pe = metrics.get("peTTM")
     high52 = metrics.get("52WeekHigh")
     low52 = metrics.get("52WeekLow")
@@ -87,6 +124,8 @@ def main():
         print(f"{symbol} 데이터를 가져오는 중...")
         quote = fetch_quote(symbol)
         metrics = fetch_metrics(symbol)
+        news = fetch_news(symbol)
+        recommendation = fetch_recommendation(symbol)
 
         result["stocks"][symbol] = {
             "price": quote.get("c"),
@@ -96,6 +135,8 @@ def main():
             "week52_high": metrics.get("52WeekHigh"),
             "week52_low": metrics.get("52WeekLow"),
             "easy_explanation": build_easy_explanation(quote, metrics),
+            "news": news,
+            "recommendation": recommendation,
         }
 
     with open("data.json", "w", encoding="utf-8") as f:
