@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 00:13",
+  "updated_at": "2026-07-29 00:38",
   "stocks": {
     "NVDA": {
       "price": 197.01,
@@ -11,25 +11,25 @@
       "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. PER은 29.4배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
       "news": [
         {
+          "headline": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+          "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a314860f09ade468ae9216d6ba0ce30c3b02347ce42bf83865031caf8b984b2c"
+        },
+        {
+          "headline": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
+          "summary": "The first wave of the AI boom crowned Nvidia Corp. and memory leader SK Hynix Inc. as Wall Street’s biggest winners. But as AI infrastructure spending broadens, the next opportunities may lie deeper in the supply chain. GraniteShares CEO Will...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f84aa69e33046f8b1ac689ed8688e62e7cd8d4c8423e0dcc787feff8dc1ad554"
+        },
+        {
           "headline": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
           "summary": "From one perspective, Nvidia is priced at nearly the same level as the S&P 500.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=12a7091502c000f87f96eca1a7a0c6cbb40a80fb986611d797394c9e8c3ada80"
-        },
-        {
-          "headline": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
-          "summary": "AI Chip Stocks Under Pressure as China Competition and Funding Fears Hit Sector",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e"
-        },
-        {
-          "headline": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
-          "summary": "The reported commitment involves Hut 8's one-gigawatt Beacon Point AI campus and could include leases extending beyond an initial 15-year term.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=effd67f156a29d983c9fbac85990b88ba53cce725f7f929b031d4dd8c6851adc"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy / AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears / Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
+      "news_summary": "최근 뉴스 헤드라인: Apple Overtakes Nvidia—Which Will Be Bigger by End of July? / EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says / Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
