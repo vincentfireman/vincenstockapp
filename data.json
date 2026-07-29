@@ -1,35 +1,41 @@
 {
-  "updated_at": "2026-07-29 01:08",
+  "updated_at": "2026-07-29 21:59",
   "stocks": {
     "NVDA": {
-      "price": 197.01,
-      "change_pct": 0.2544,
-      "prev_close": 196.51,
-      "pe_ttm": 29.4486,
+      "price": 190.01,
+      "change_pct": -3.5531,
+      "prev_close": 197.01,
+      "pe_ttm": 29.776,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. PER은 29.4배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.55% 내렸어요. PER은 29.8배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 36% 지점에 있어요.",
       "news": [
         {
-          "headline": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
-          "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+          "headline": "NVIDIA Stock Falls 2.3% as AI-Chip Selloff Deepens",
+          "summary": "SK Hynix's earnings disappointment intensified investor scrutiny of AI spending and semiconductor growth expectations.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a314860f09ade468ae9216d6ba0ce30c3b02347ce42bf83865031caf8b984b2c"
+          "url": "https://finnhub.io/api/news?id=f69275c69a8b38e60ec212c9bde8d1ba6c550ac00a237865a0b93a8f07abb486"
         },
         {
-          "headline": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
-          "summary": "The first wave of the AI boom crowned Nvidia Corp. and memory leader SK Hynix Inc. as Wall Street’s biggest winners. But as AI infrastructure spending broadens, the next opportunities may lie deeper in the supply chain. GraniteShares CEO Will...",
+          "headline": "Wedbush Spots Hidden Risk in Nvidia's AI Expansion",
+          "summary": "One component is starting to dictate pricing and design",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f84aa69e33046f8b1ac689ed8688e62e7cd8d4c8423e0dcc787feff8dc1ad554"
+          "url": "https://finnhub.io/api/news?id=c1c38e473f04ee6dd1f897630bbd03b7b589804ecfc7bd0c4d78c8fead95b5da"
         },
         {
-          "headline": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
-          "summary": "From one perspective, Nvidia is priced at nearly the same level as the S&P 500.",
+          "headline": "Cathie Wood Just Bought Nvidia Stock Again",
+          "summary": "Cathie Wood Just Sent a Bullish Signal on Nvidia Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=12a7091502c000f87f96eca1a7a0c6cbb40a80fb986611d797394c9e8c3ada80"
+          "url": "https://finnhub.io/api/news?id=5ad8a1741a816a2e0447e8e8b3bb1910f4243f2fc652327972e69634d224cb99"
+        },
+        {
+          "headline": "Wedbush Delivers Urgent Message on Nvidia Stock",
+          "summary": "Nvidia's AI Roadmap Hits a New Hurdle as Memory Prices Surge",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e6cc66d2f3862f012e1a75a92bc70e709766bfa1edf13acc1a68bcf0581e51d6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Apple Overtakes Nvidia—Which Will Be Bigger by End of July? / EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says / Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
+      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Falls 2.3% as AI-Chip Selloff Deepens / Wedbush Spots Hidden Risk in Nvidia's AI Expansion / Cathie Wood Just Bought Nvidia Stock Again / Wedbush Delivers Urgent Message on Nvidia Stock",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -41,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 86.3,
-      "change_pct": -5.858,
-      "prev_close": 91.67,
+      "price": 81.88,
+      "change_pct": -5.1217,
+      "prev_close": 86.3,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 5.86% 내렸어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.12% 내렸어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Is Down By 39% Since June. Time to Buy?",
-          "summary": "The stock has gone down after a massive run-up, but when will it stop falling?",
+          "headline": "Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support",
+          "summary": "Intel stock has delivered a very large 1 year gain, yet the current intrinsic value estimate from a Discounted Cash Flow (DCF) model and the broader valuation checks now point to something closer to fair rather than clearly cheap or clearly expensive. Over the past 1 year Intel has returned 322.8%, which puts extra focus on whether recent price weakness changes the longer term valuation picture or simply cools a rapid rerating. Progress in advanced manufacturing and AI focused products, such...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7f965542b39ddc0533961e85126e2be1f6c42d40ae2a45a2c6258df5e62c4ab"
+          "url": "https://finnhub.io/api/news?id=62fb9b3f200b28beb252608f582c5b741730a81d1589097f5098845fda3ad663"
         },
         {
-          "headline": "Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why",
-          "summary": "A quarter that nearly doubled expected profit still could not outweigh a rising capital bill, a softer profit guide, and a foundry deep in the red.",
+          "headline": "Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras.",
+          "summary": "Jim Cramer just told a caller with a compelling Cerebras bull case that he liked their logic, then put his money somewhere else entirely. The stock he chose surprises almost everyone betting on pure-play AI inference winners right now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c25cf4fed6bcb782aace81074cba950a25694dcd2368fae76b42d474f197add"
+          "url": "https://finnhub.io/api/news?id=9216ad29e789b070b6c8332ea07348b3470df96e5487da5017e9caecd0337ca0"
         },
         {
-          "headline": "Why Intel Stock Just Fell Again",
-          "summary": "Between AI spending doubts, a potential Fed surprise, and new competition from China, here's what's rattling investors.",
+          "headline": "Is Intel or Micron More Dangerous for the Rest of 2026?",
+          "summary": "Both chipmakers just crushed their earnings yet their stocks are cratering, and only one of them has a business reason to survive the back half of 2026 intact.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9da2b3ec369a2f6ae282187d13b4bd0d190d5a8c2b247ea4c99634075829e71a"
+          "url": "https://finnhub.io/api/news?id=15ed784c8875f69fe20904797cf66ae75d80eff928b5c6b5e4f38ad6303a2af4"
         },
         {
-          "headline": "Intel’s 14A chips aren’t built yet: Synopsys is already there",
-          "summary": "Anyone who has shipped software before it was fully tested knows the math. A bug caught in code review costs an afternoon. The same bug caught after launch costs a weekend, an apology, and sometimes a customer. Chip design runs on a version of that math, except the much-higher stakes involve ...",
+          "headline": "Intel's Data Center Revenue Soared 59% in the Second Quarter. So, Why Did Wall Street Sell the Stock?",
+          "summary": "There was a lot to like in Intel's Q2 earnings. However, investors are taking issue with Intel's ambitious spending plans.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54a107239e989aff39a1f4d09c75286421f1e5aa71eb8d2a351303fe807b7b93"
+          "url": "https://finnhub.io/api/news?id=02fcdf958492fb67e5e20b2bb367a8169e80da123805633ab7dae556b1eea4cf"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Is Down By 39% Since June. Time to Buy? / Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why / Why Intel Stock Just Fell Again / Intel’s 14A chips aren’t built yet: Synopsys is already there",
+      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support / Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras. / Is Intel or Micron More Dangerous for the Rest of 2026? / Intel's Data Center Revenue Soared 59% in the Second Quarter. So, Why Did Wall Street Sell the Stock?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
