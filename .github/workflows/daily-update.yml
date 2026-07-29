@@ -30,9 +30,20 @@ jobs:
       - name: 필요한 라이브러리 설치
         run: pip install requests
 
+      - name: "[진단] 시크릿 전달 여부 확인"
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TEST_SECRET: ${{ secrets.TEST_SECRET }}
+        run: |
+          echo "FINNHUB_API_KEY 길이: ${#FINNHUB_API_KEY}"
+          echo "ANTHROPIC_API_KEY 길이: ${#ANTHROPIC_API_KEY}"
+          echo "TEST_SECRET 길이: ${#TEST_SECRET}"
+
       - name: 데이터 수집 스크립트 실행
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_stock_data.py
 
       - name: 변경된 data.json 자동 저장
