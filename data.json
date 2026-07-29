@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 22:02",
+  "updated_at": "2026-07-29 00:00",
   "stocks": {
     "NVDA": {
       "price": 197.01,
@@ -11,6 +11,12 @@
       "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. PER은 29.4배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
       "news": [
         {
+          "headline": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
+          "summary": "From one perspective, Nvidia is priced at nearly the same level as the S&P 500.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=12a7091502c000f87f96eca1a7a0c6cbb40a80fb986611d797394c9e8c3ada80"
+        },
+        {
           "headline": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
           "summary": "AI Chip Stocks Under Pressure as China Competition and Funding Fears Hit Sector",
           "source": "Yahoo",
@@ -21,15 +27,9 @@
           "summary": "The reported commitment involves Hut 8's one-gigawatt Beacon Point AI campus and could include leases extending beyond an initial 15-year term.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=effd67f156a29d983c9fbac85990b88ba53cce725f7f929b031d4dd8c6851adc"
-        },
-        {
-          "headline": "Prediction: Nvidia-SK Hynix Partnership Will Make Both Stocks Big Winners",
-          "summary": "The deal should greatly benefit both companies -- and their stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87d2210caf097bbd12950ba848e17ebd67b708a1d635bed9170a20d5574f8719"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears / Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease / Prediction: Nvidia-SK Hynix Partnership Will Make Both Stocks Big Winners",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy / AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears / Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -50,6 +50,18 @@
       "easy_explanation": "오늘 전일 대비 5.86% 내렸어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
       "news": [
         {
+          "headline": "Intel Is Down By 39% Since June. Time to Buy?",
+          "summary": "The stock has gone down after a massive run-up, but when will it stop falling?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7f965542b39ddc0533961e85126e2be1f6c42d40ae2a45a2c6258df5e62c4ab"
+        },
+        {
+          "headline": "Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why",
+          "summary": "A quarter that nearly doubled expected profit still could not outweigh a rising capital bill, a softer profit guide, and a foundry deep in the red.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4c25cf4fed6bcb782aace81074cba950a25694dcd2368fae76b42d474f197add"
+        },
+        {
           "headline": "Why Intel Stock Just Fell Again",
           "summary": "Between AI spending doubts, a potential Fed surprise, and new competition from China, here's what's rattling investors.",
           "source": "Yahoo",
@@ -60,21 +72,9 @@
           "summary": "Anyone who has shipped software before it was fully tested knows the math. A bug caught in code review costs an afternoon. The same bug caught after launch costs a weekend, an apology, and sometimes a customer. Chip design runs on a version of that math, except the much-higher stakes involve ...",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=54a107239e989aff39a1f4d09c75286421f1e5aa71eb8d2a351303fe807b7b93"
-        },
-        {
-          "headline": "Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼",
-          "summary": "Intel is back in focus after analysts lifted their fair value estimate from US$88.61 to US$115.65, a sharp reset that puts recent price target moves under a brighter spotlight. Many firms now cluster in the US$120 to US$200 range, reflecting optimism around Q2 results, AI driven server CPU demand and improving foundry traction, even as valuation and execution questions keep plenty of Neutral and Hold ratings in play. In the sections that follow, you will see how this evolving narrative might...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e6f3d62cd5ebc1190bb96a181ead959ef0d5977da3e0f31a87833f7804bec1c"
-        },
-        {
-          "headline": "Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
-          "summary": "INTC teams up with Lens Technology to advance glass substrate packaging, improving chip performance and power efficiency for AI and next-gen computing.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=776c111104cd6b9d32b2ae46c5330c143a2465657a435141f252603be8b5a03f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Just Fell Again / Intel’s 14A chips aren’t built yet: Synopsys is already there / Intel (INTC) Stock Sees Fair Value Lift After Q2 Beat And AI Demand Strength￼ / Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
+      "news_summary": "최근 뉴스 헤드라인: Intel Is Down By 39% Since June. Time to Buy? / Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why / Why Intel Stock Just Fell Again / Intel’s 14A chips aren’t built yet: Synopsys is already there",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
