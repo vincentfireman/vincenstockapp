@@ -156,7 +156,10 @@ def summarize_news_with_claude(symbol, news_list):
         return data["content"][0]["text"].strip()
     except Exception as e:
         # 실패 원인을 GitHub Actions 로그에 남겨서 나중에 진단할 수 있게 한다.
-        print(f"  ⚠️ Claude 뉴스 요약 실패 ({symbol}): {type(e).__name__}: {e}")
+        detail = ""
+        if hasattr(e, "response") and e.response is not None:
+            detail = f" / 응답 내용: {e.response.text}"
+        print(f"  ⚠️ Claude 뉴스 요약 실패 ({symbol}): {type(e).__name__}: {e}{detail}")
         headlines = " / ".join(n["headline"] for n in news_list if n.get("headline"))
         return f"최근 뉴스 헤드라인: {headlines}"
 
