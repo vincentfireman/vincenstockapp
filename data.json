@@ -1,41 +1,35 @@
 {
-  "updated_at": "2026-07-29 21:59",
+  "updated_at": "2026-07-30 22:04",
   "stocks": {
     "NVDA": {
-      "price": 190.01,
-      "change_pct": -3.5531,
-      "prev_close": 197.01,
-      "pe_ttm": 29.776,
+      "price": 195.04,
+      "change_pct": 2.6472,
+      "prev_close": 190.01,
+      "pe_ttm": 29.1741,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 3.55% 내렸어요. PER은 29.8배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 36% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.65% 올랐어요. PER은 29.2배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 43% 지점에 있어요.",
       "news": [
         {
-          "headline": "NVIDIA Stock Falls 2.3% as AI-Chip Selloff Deepens",
-          "summary": "SK Hynix's earnings disappointment intensified investor scrutiny of AI spending and semiconductor growth expectations.",
+          "headline": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
+          "summary": "Microsoft and Meta maintained substantial infrastructure programs, supporting expectations for continuing demand for NVIDIA processors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f69275c69a8b38e60ec212c9bde8d1ba6c550ac00a237865a0b93a8f07abb486"
+          "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38"
         },
         {
-          "headline": "Wedbush Spots Hidden Risk in Nvidia's AI Expansion",
-          "summary": "One component is starting to dictate pricing and design",
+          "headline": "Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks",
+          "summary": "Jensen Huang once joked during an internal company meeting that Nvidia was \"basically holding the planet together,” and it's not untrue. He was pointing at memes. The audience laughed. It was funny because it was close enough to true to land. On July 28, Mark Cuban and Michael Burry were making a ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c1c38e473f04ee6dd1f897630bbd03b7b589804ecfc7bd0c4d78c8fead95b5da"
+          "url": "https://finnhub.io/api/news?id=45a60676894f6240b0eec09461ef65b477f310627485470c29240b6f38c25ad4"
         },
         {
-          "headline": "Cathie Wood Just Bought Nvidia Stock Again",
-          "summary": "Cathie Wood Just Sent a Bullish Signal on Nvidia Stock",
+          "headline": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+          "summary": "Some ETFs on Wall Street advertise yields above 50 percent, and a few clear 100 percent, but the payout you see on the fact sheet and the money you actually keep are two very different numbers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ad8a1741a816a2e0447e8e8b3bb1910f4243f2fc652327972e69634d224cb99"
-        },
-        {
-          "headline": "Wedbush Delivers Urgent Message on Nvidia Stock",
-          "summary": "Nvidia's AI Roadmap Hits a New Hurdle as Memory Prices Surge",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6cc66d2f3862f012e1a75a92bc70e709766bfa1edf13acc1a68bcf0581e51d6"
+          "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Falls 2.3% as AI-Chip Selloff Deepens / Wedbush Spots Hidden Risk in Nvidia's AI Expansion / Cathie Wood Just Bought Nvidia Stock Again / Wedbush Delivers Urgent Message on Nvidia Stock",
+      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending / Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks / Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -47,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 81.88,
-      "change_pct": -5.1217,
-      "prev_close": 86.3,
+      "price": 91.13,
+      "change_pct": 11.297,
+      "prev_close": 81.88,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 5.12% 내렸어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 11.30% 올랐어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support",
-          "summary": "Intel stock has delivered a very large 1 year gain, yet the current intrinsic value estimate from a Discounted Cash Flow (DCF) model and the broader valuation checks now point to something closer to fair rather than clearly cheap or clearly expensive. Over the past 1 year Intel has returned 322.8%, which puts extra focus on whether recent price weakness changes the longer term valuation picture or simply cools a rapid rerating. Progress in advanced manufacturing and AI focused products, such...",
+          "headline": "TSMC's next AI chip move sends Intel stock soaring",
+          "summary": "Intel shares soar as TSMC takes on its AI chip packaging technology",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=62fb9b3f200b28beb252608f582c5b741730a81d1589097f5098845fda3ad663"
+          "url": "https://finnhub.io/api/news?id=baa89514fe4f741cd77e5b6f42f37f3871ccd045d40a3daffcb1c9fa5b69631f"
         },
         {
-          "headline": "Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras.",
-          "summary": "Jim Cramer just told a caller with a compelling Cerebras bull case that he liked their logic, then put his money somewhere else entirely. The stock he chose surprises almost everyone betting on pure-play AI inference winners right now.",
+          "headline": "Intel's Rare AI Advantage Faces a New Threat",
+          "summary": "One manufacturing bottleneck is becoming a crucial battleground",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9216ad29e789b070b6c8332ea07348b3470df96e5487da5017e9caecd0337ca0"
+          "url": "https://finnhub.io/api/news?id=e0d16ccc264ff4d6bb4e9a2e1835e8b26909f0f91b60cbb554c64164dc3a7bd2"
         },
         {
-          "headline": "Is Intel or Micron More Dangerous for the Rest of 2026?",
-          "summary": "Both chipmakers just crushed their earnings yet their stocks are cratering, and only one of them has a business reason to survive the back half of 2026 intact.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15ed784c8875f69fe20904797cf66ae75d80eff928b5c6b5e4f38ad6303a2af4"
+          "headline": "Intel: AI Bubble Hysteria Is Not For Bulls",
+          "summary": "Hubbell Incorporated earns a Buy: advanced packaging (EMIBâT, glass substrates) powers AI upside. Click for more on INTC and see why I bullish.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cab8cd908ec4ce377fc48b1be6932206528c9d3e9fd6266e9f7a851ab5e014af"
         },
         {
-          "headline": "Intel's Data Center Revenue Soared 59% in the Second Quarter. So, Why Did Wall Street Sell the Stock?",
-          "summary": "There was a lot to like in Intel's Q2 earnings. However, investors are taking issue with Intel's ambitious spending plans.",
+          "headline": "Intel Is Opening a Door It Usually Keeps Closed",
+          "summary": "The chipmaker reportedly gave a new startup access to Atom processor technology in a rare licensing move.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02fcdf958492fb67e5e20b2bb367a8169e80da123805633ab7dae556b1eea4cf"
+          "url": "https://finnhub.io/api/news?id=00105214ed756cb17544c48aa035b4bd1246c76710194b92917a03d3740a9748"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support / Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras. / Is Intel or Micron More Dangerous for the Rest of 2026? / Intel's Data Center Revenue Soared 59% in the Second Quarter. So, Why Did Wall Street Sell the Stock?",
+      "news_summary": "최근 뉴스 헤드라인: TSMC's next AI chip move sends Intel stock soaring / Intel's Rare AI Advantage Faces a New Threat / Intel: AI Bubble Hysteria Is Not For Bulls / Intel Is Opening a Door It Usually Keeps Closed",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
