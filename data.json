@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-07-30 22:04",
+  "updated_at": "2026-07-31 22:03",
   "stocks": {
     "NVDA": {
-      "price": 195.04,
-      "change_pct": 2.6472,
-      "prev_close": 190.01,
-      "pe_ttm": 29.1741,
+      "price": 200.75,
+      "change_pct": 2.9276,
+      "prev_close": 195.04,
+      "pe_ttm": 29.9951,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.65% 올랐어요. PER은 29.2배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 43% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.93% 올랐어요. PER은 30.0배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
       "news": [
         {
-          "headline": "NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending",
-          "summary": "Microsoft and Meta maintained substantial infrastructure programs, supporting expectations for continuing demand for NVIDIA processors.",
+          "headline": "NVIDIA Stock Rises 1.8% as Morningstar Sees $280 Value",
+          "summary": "Morningstar described NVIDIA as undervalued after its pullback, while retaining a very-high uncertainty assessment.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38"
+          "url": "https://finnhub.io/api/news?id=f6fef22dbf59b8cf97a8eddaca61d3ebfda42f18aeafeff1bdbd8d2127358ad7"
         },
         {
-          "headline": "Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks",
-          "summary": "Jensen Huang once joked during an internal company meeting that Nvidia was \"basically holding the planet together,” and it's not untrue. He was pointing at memes. The audience laughed. It was funny because it was close enough to true to land. On July 28, Mark Cuban and Michael Burry were making a ...",
+          "headline": "How Alphabet and Amazon Each Built The ‘Best’ Nvidia Chip Alternatives",
+          "summary": "Google and Amazon both claim their custom chips can replace Nvidia, but they built completely opposite silicon strategies to get there. Which approach actually holds up when the free cash flow bills come due?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=45a60676894f6240b0eec09461ef65b477f310627485470c29240b6f38c25ad4"
+          "url": "https://finnhub.io/api/news?id=e8f0f7b42945adf29c1f154d7f3e09f7952c3ab4884519b990253f859f70ba8f"
         },
         {
-          "headline": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
-          "summary": "Some ETFs on Wall Street advertise yields above 50 percent, and a few clear 100 percent, but the payout you see on the fact sheet and the money you actually keep are two very different numbers.",
+          "headline": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
+          "summary": "Owning Nvidia and Microsoft while collecting a fat dividend income used to mean picking one or the other. A new generation of ETFs rewrites that tradeoff in three very different ways, and the mechanics behind each one matter before you buy.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843"
+          "url": "https://finnhub.io/api/news?id=666f398b3c9903163793a2fb36e4591fd07d0216f6c1860a3081546801102cd9"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Rises as Microsoft Sustains Massive AI Spending / Mark Cuban, Michael Burry send strong warning on Nvidia, AI stocks / Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Rises 1.8% as Morningstar Sees $280 Value / How Alphabet and Amazon Each Built The ‘Best’ Nvidia Chip Alternatives / These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -41,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 91.13,
-      "change_pct": 11.297,
-      "prev_close": 81.88,
+      "price": 90.2,
+      "change_pct": -1.0205,
+      "prev_close": 91.13,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 11.30% 올랐어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
       "news": [
         {
-          "headline": "TSMC's next AI chip move sends Intel stock soaring",
-          "summary": "Intel shares soar as TSMC takes on its AI chip packaging technology",
+          "headline": "Intel Stock Rises as Analyst Sees Apple Supply Opportunity",
+          "summary": "Melius suggested Apple could reduce manufacturing risk by using Intel alongside its principal processor supplier.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=baa89514fe4f741cd77e5b6f42f37f3871ccd045d40a3daffcb1c9fa5b69631f"
+          "url": "https://finnhub.io/api/news?id=258af3c7948b607db2a09d4d87bd2d5f66f067f31dcbdb41e67ae88e29728f15"
         },
         {
-          "headline": "Intel's Rare AI Advantage Faces a New Threat",
-          "summary": "One manufacturing bottleneck is becoming a crucial battleground",
+          "headline": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
+          "summary": "Intel swung from an operating loss to an operating profit with the costly part of its turnaround still running, and that swing is what the spending debate keeps drowning out.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0d16ccc264ff4d6bb4e9a2e1835e8b26909f0f91b60cbb554c64164dc3a7bd2"
+          "url": "https://finnhub.io/api/news?id=7e6cfad79a4575319eca70a67e672978d1261ae307c865b5a6f81edf43ef1a6a"
         },
         {
-          "headline": "Intel: AI Bubble Hysteria Is Not For Bulls",
-          "summary": "Hubbell Incorporated earns a Buy: advanced packaging (EMIBâT, glass substrates) powers AI upside. Click for more on INTC and see why I bullish.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cab8cd908ec4ce377fc48b1be6932206528c9d3e9fd6266e9f7a851ab5e014af"
+          "headline": "Why Apple Needs Intel to Overcome Supply Worries",
+          "summary": "Apple stock was falling Friday as limited supply of chips held back its outlook.  The solution could lie with Intel, according to Melius Research.  Apple shares were down 8% in the premarket as shortages of memory chips and other processors limited the iPhone market's guidance for the September quarter.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ad5331501cd5dc8d9e21079d3c2246e185759b198384155490f738a879d9582d"
         },
         {
-          "headline": "Intel Is Opening a Door It Usually Keeps Closed",
-          "summary": "The chipmaker reportedly gave a new startup access to Atom processor technology in a rare licensing move.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00105214ed756cb17544c48aa035b4bd1246c76710194b92917a03d3740a9748"
+          "headline": "Intel Stock Is Surging Friday: What's Going On?",
+          "summary": "Intel (INTC) jumped 4%+ premarket on AI spending optimism. Explore stock price targets, technical support levels, and ETF exposure.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=df92947340e982d597c8ab91debd8683dbacac36d523e763876bcb70ffb1e8d1"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: TSMC's next AI chip move sends Intel stock soaring / Intel's Rare AI Advantage Faces a New Threat / Intel: AI Bubble Hysteria Is Not For Bulls / Intel Is Opening a Door It Usually Keeps Closed",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stock Rises as Analyst Sees Apple Supply Opportunity / Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money / Why Apple Needs Intel to Overcome Supply Worries / Intel Stock Is Surging Friday: What's Going On?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
