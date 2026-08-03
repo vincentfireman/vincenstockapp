@@ -1,35 +1,29 @@
 {
-  "updated_at": "2026-07-31 22:03",
+  "updated_at": "2026-08-03 22:07",
   "stocks": {
     "NVDA": {
-      "price": 200.75,
-      "change_pct": 2.9276,
-      "prev_close": 195.04,
-      "pe_ttm": 29.9951,
+      "price": 206.64,
+      "change_pct": 2.934,
+      "prev_close": 200.75,
+      "pe_ttm": 30.4371,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.93% 올랐어요. PER은 30.0배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.93% 올랐어요. PER은 30.4배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
       "news": [
         {
-          "headline": "NVIDIA Stock Rises 1.8% as Morningstar Sees $280 Value",
-          "summary": "Morningstar described NVIDIA as undervalued after its pullback, while retaining a very-high uncertainty assessment.",
+          "headline": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
+          "summary": "Every hyperscaler pays NVIDIA a massive toll to compete at the AI frontier, but one Mag 7 giant has quietly built an escape route that the others lack. The answer comes down to who actually owns the silicon running their biggest bets.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6fef22dbf59b8cf97a8eddaca61d3ebfda42f18aeafeff1bdbd8d2127358ad7"
+          "url": "https://finnhub.io/api/news?id=c5d0b551fd47c275cf9db9925b2e4c3b4402c1280c8129f719f7968dc5c1e13f"
         },
         {
-          "headline": "How Alphabet and Amazon Each Built The ‘Best’ Nvidia Chip Alternatives",
-          "summary": "Google and Amazon both claim their custom chips can replace Nvidia, but they built completely opposite silicon strategies to get there. Which approach actually holds up when the free cash flow bills come due?",
+          "headline": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
+          "summary": "Chip stocks were a mixed bag on Monday as the Philadelphia semiconductor index, known as SOX, struggled to hold gains. However, Nvidia stock retook a key support level. In afternoon trades on the stock market today, the SOX rose a fraction.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8f0f7b42945adf29c1f154d7f3e09f7952c3ab4884519b990253f859f70ba8f"
-        },
-        {
-          "headline": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
-          "summary": "Owning Nvidia and Microsoft while collecting a fat dividend income used to mean picking one or the other. A new generation of ETFs rewrites that tradeoff in three very different ways, and the mechanics behind each one matter before you buy.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=666f398b3c9903163793a2fb36e4591fd07d0216f6c1860a3081546801102cd9"
+          "url": "https://finnhub.io/api/news?id=4047fa6ee0c38c8c5719be84646d875e4177c4d6981d0b4d99aa01a52c29672d"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: NVIDIA Stock Rises 1.8% as Morningstar Sees $280 Value / How Alphabet and Amazon Each Built The ‘Best’ Nvidia Chip Alternatives / These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
+      "news_summary": "최근 뉴스 헤드라인: The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock / Nvidia Stock Retakes Key Level As Chip Stocks Waver",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-07-01",
@@ -41,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 90.2,
-      "change_pct": -1.0205,
-      "prev_close": 91.13,
+      "price": 91,
+      "change_pct": 0.8869,
+      "prev_close": 90.2,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 18.97,
-      "easy_explanation": "오늘 전일 대비 1.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.89% 올랐어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stock Rises as Analyst Sees Apple Supply Opportunity",
-          "summary": "Melius suggested Apple could reduce manufacturing risk by using Intel alongside its principal processor supplier.",
+          "headline": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
+          "summary": "TSMC dominates on every traditional metric, yet one overlooked structural factor is quietly making its scrappier rival a more compelling bet for the next 24 months.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=258af3c7948b607db2a09d4d87bd2d5f66f067f31dcbdb41e67ae88e29728f15"
+          "url": "https://finnhub.io/api/news?id=7e45f21e04f36e7e87ddd8614176f3c83733c53f1b849d88b1b394e3c0b19ff0"
         },
         {
-          "headline": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
-          "summary": "Intel swung from an operating loss to an operating profit with the costly part of its turnaround still running, and that swing is what the spending debate keeps drowning out.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e6cfad79a4575319eca70a67e672978d1261ae307c865b5a6f81edf43ef1a6a"
-        },
-        {
-          "headline": "Why Apple Needs Intel to Overcome Supply Worries",
-          "summary": "Apple stock was falling Friday as limited supply of chips held back its outlook.  The solution could lie with Intel, according to Melius Research.  Apple shares were down 8% in the premarket as shortages of memory chips and other processors limited the iPhone market's guidance for the September quarter.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ad5331501cd5dc8d9e21079d3c2246e185759b198384155490f738a879d9582d"
-        },
-        {
-          "headline": "Intel Stock Is Surging Friday: What's Going On?",
-          "summary": "Intel (INTC) jumped 4%+ premarket on AI spending optimism. Explore stock price targets, technical support levels, and ETF exposure.",
+          "headline": "Intel Stock Is Falling Monday: What's Going On?",
+          "summary": "Intel (INTC) dips premarket after rally. Explore Q2 AI revenue growth, $20B capex plan, technical support levels, and analyst targets.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=df92947340e982d597c8ab91debd8683dbacac36d523e763876bcb70ffb1e8d1"
+          "url": "https://finnhub.io/api/news?id=3932da13f93dbd689ff3d9122e3823e3e1c98c8302dcea0a0de9b9678cd8c05d"
+        },
+        {
+          "headline": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+          "summary": "Taiwan Semiconductor Manufacturing Co. is reportedly developing an advanced packaging technology, which could erode Intel Corp.‘s competitive advantage. Intel’s stock is trading 4.62% higher in Friday’s pre-market trading session, while TSMC stock is trading 3.69% higher. Don’t Miss: A single...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bbcffad250950b0d88b01ab065fe85a7572f55c688c20f83a6625576de3ace49"
+        },
+        {
+          "headline": "The 5 Most Interesting Analyst Questions From Intel’s Q2 Earnings Call",
+          "summary": "Despite exceeding Wall Street’s estimates for both revenue and non-GAAP profit, Intel’s second quarter results prompted a significant negative market reaction. Management pointed to record demand for server CPUs, robust data center performance, and improving manufacturing execution as key drivers of the period. CEO Lip-Bu Tan highlighted, “Our core server CPU franchise is growing faster than ever,” and emphasized progress in Intel’s advanced packaging and foundry offerings. However, the company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7c1204f060ec02c596c6ed6b03efda6182956b3052f67039a6a24f4d7be0165"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stock Rises as Analyst Sees Apple Supply Opportunity / Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money / Why Apple Needs Intel to Overcome Supply Worries / Intel Stock Is Surging Friday: What's Going On?",
+      "news_summary": "최근 뉴스 헤드라인: Buying Intel Over TSMC Isn’t as Crazy as It Might Seem / Intel Stock Is Falling Monday: What's Going On? / TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance / The 5 Most Interesting Analyst Questions From Intel’s Q2 Earnings Call",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-07-01",
