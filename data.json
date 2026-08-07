@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-08-07 01:00",
+  "updated_at": "2026-08-07 21:36",
   "stocks": {
     "NVDA": {
-      "price": 218.99,
-      "change_pct": -0.1049,
-      "prev_close": 219.22,
-      "pe_ttm": 33.6817,
+      "price": 223.96,
+      "change_pct": 2.2695,
+      "prev_close": 218.99,
+      "pe_ttm": 33.7021,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.10% 내렸어요. PER은 33.7배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.27% 올랐어요. PER은 33.7배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia dominates AI chips, but BofA sees AMD closing in",
-          "summary": "Twenty years ago, Advanced Micro Devices Inc. (AMD) spent the better part of a decade selling processors into a market Intel dominated, waiting for the moment Intel could not keep pace with demand on its own. That moment eventually arrived, and AMD converted patience into real share of the server ...",
+          "headline": "Nvidia Faces New Pressure From U.S. Government",
+          "summary": "A legal workaround could become the next regulatory target",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7682473df258ccd46df4cf66a3a1bf90ec0b1b17556f50669717dda624feb80"
+          "url": "https://finnhub.io/api/news?id=a8dd001fa7bb111253999c4c6ae39e618ce9d380cb4757de2e33efedfc865dbd"
+        },
+        {
+          "headline": "Nvidia Stock Rises 2.2% as SpaceX Commits to Its Chips",
+          "summary": "SpaceX's exclusive hardware decision strengthens Nvidia's position inside another exceptionally capital-intensive AI computing program.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1e9714ff169664d3fbe8c4fa5dfddb6309ce3115f715f86cb177d165422b081"
+        },
+        {
+          "headline": "Nvidia Stock Forecast: NVDA Targets Record-High After New $2 Billion AI Deal",
+          "summary": "Firmus raised $2 billion with Nvidia backing, adding an AI infrastructure catalyst as NVDA stock nears its record high.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=533a98bc86cde4cf3e424e9a83156bfaaf109385c63fd5cf0c208b2e5a10da96"
+        },
+        {
+          "headline": "AI Stock Jumps After Unusual Nvidia Hedge Fund Deal",
+          "summary": "A new revenue model could lift returns on costly GPUs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73cdb9f504a1f7ed05bde6a81e921c605f7d73e233b5bf7b53d98c210c083c7a"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia dominates AI chips, but BofA sees AMD closing in",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Faces New Pressure From U.S. Government / Nvidia Stock Rises 2.2% as SpaceX Commits to Its Chips / Nvidia Stock Forecast: NVDA Targets Record-High After New $2 Billion AI Deal / AI Stock Jumps After Unusual Nvidia Hedge Fund Deal",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -29,40 +47,34 @@
       }
     },
     "INTC": {
-      "price": 99.81,
-      "change_pct": -1.2369,
-      "prev_close": 101.06,
+      "price": 101.65,
+      "change_pct": 1.8435,
+      "prev_close": 99.81,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 19.6,
-      "easy_explanation": "오늘 전일 대비 1.24% 내렸어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.84% 올랐어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stock Does Not Need A Market Crash To Fall By Nearly Half",
-          "summary": "Intel stock has dropped harder than the index in past shocks, and the spending it carries into the next one is rising rather than easing.",
+          "headline": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
+          "summary": "SANTA CLARA, Calif., August 07, 2026--Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2af7b4ccd12dc65545b69f842391b7f6bafa5561d4100eb64f5fc34a52144df"
+          "url": "https://finnhub.io/api/news?id=b66823eae762a34189d264fc1662213e371d09d28ac062ed61c1d707818e4422"
         },
         {
-          "headline": "Is the Intel stock rally back? AlphaSpace stats to know.",
-          "summary": "Keep an eye on Intel here.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=880ae4e5d6d693a0fa2d7c1271dce48c2e10766083f1b692e45cb25bb30389a8"
-        },
-        {
-          "headline": "SoftBank Q1 2026 earnings beat: Intel stake drives profit",
-          "summary": "The Japanese investment giant posted a $2.2 billion quarterly profit, with a 1.3 trillion yen gain on Intel stock doing most of the heavy lifting",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9055b7c27e7bca1dabb5f6ba4780ed3ba364220965093d8149ae186ca1e3ce3"
-        },
-        {
-          "headline": "What's Going On With Intel Stock Thursday?",
-          "summary": "Intel stock edges higher to $101.19. Discover Intel&#39;s technical levels, SoftBank’s $8.2B profit, analyst ratings, and top ETF weightings.",
+          "headline": "Intel Appoints Dean Jarnac As Executive Vice President And Chief Sales Officer To Lead Global Sales Strategy Across AI, Data Center, Networking And ASIC Businesses; Greg Ernst To Leave Intel After 27 Years",
+          "summary": "Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer. Jarnac will lead Intel&#39;s global sales organization—strengthening Intel&#39;s customer",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c47bfe02960f17f859dc4eb3f2a1617c087fda61cd49050b1403c3c2b92438e6"
+          "url": "https://finnhub.io/api/news?id=3eb919931445d8b4f6a1f5538ad19608f945d9d88b60453cc1b59ccfceaad8ec"
+        },
+        {
+          "headline": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
+          "summary": "TSMC and Intel both reported blowout quarters riding the same AI wave, yet one walks away with a 67% gross margin while the other bleeds billions from its foundry. Whether Intel can close that gap in the next year comes down to a single unresolved bet.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3cdc372d60db42e3a3c29e6056e20208e9b29d104db7709524518ab1af3671a3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stock Does Not Need A Market Crash To Fall By Nearly Half / Is the Intel stock rally back? AlphaSpace stats to know. / SoftBank Q1 2026 earnings beat: Intel stake drives profit / What's Going On With Intel Stock Thursday?",
+      "news_summary": "최근 뉴스 헤드라인: Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth / Intel Appoints Dean Jarnac As Executive Vice President And Chief Sales Officer To Lead Global Sales Strategy Across AI, Data Center, Networking And ASIC Businesses; Greg Ernst To Leave Intel After 27 Years / How Will Intel Really Be Able to Beat TSMC in The Next Year?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
