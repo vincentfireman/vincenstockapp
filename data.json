@@ -1,41 +1,23 @@
 {
-  "updated_at": "2026-08-05 22:11",
+  "updated_at": "2026-08-07 01:00",
   "stocks": {
     "NVDA": {
-      "price": 219.22,
-      "change_pct": 3.4349,
-      "prev_close": 211.94,
-      "pe_ttm": 32.1336,
+      "price": 218.99,
+      "change_pct": -0.1049,
+      "prev_close": 219.22,
+      "pe_ttm": 33.6817,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 3.43% 올랐어요. PER은 32.1배로, 회사가 1년에 버는 돈의 32배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.10% 내렸어요. PER은 33.7배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Stock Is the Only Magnificent 7 Name in the Green",
-          "summary": "Nvidia stock was seeing solid gains on Wednesday, though you wouldn't guess it by taking a look at major index moves. The AI chip maker was up 4.3% and was the only Magnificent Seven name in the green on Wednesday afternoon.",
+          "headline": "Nvidia dominates AI chips, but BofA sees AMD closing in",
+          "summary": "Twenty years ago, Advanced Micro Devices Inc. (AMD) spent the better part of a decade selling processors into a market Intel dominated, waiting for the moment Intel could not keep pace with demand on its own. That moment eventually arrived, and AMD converted patience into real share of the server ...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8220bcaa71a2d1bccfc6f382b152d4219d5ebf991de2db94affdd5d619c7aa7"
-        },
-        {
-          "headline": "Micron (MU) Has More to Gain Than Nvidia (NVDA) Has to Lose From Samsung’s 2028 Warning",
-          "summary": "Samsung said on July 30 that memory shortages could worsen in 2027 and persist through 2028. The warning strengthened the pricing outlook for Micron Technology, Inc. (NASDAQ:MU) while exposing a potential supply constraint for NVIDIA Corporation (NASDAQ:NVDA). Micron shares jumped 18.4% that day as Samsung’s report revived confidence in the memory cycle. Samsung has signed […]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02e925c783ae9bb799bde06879d9047e5c6bb3ca72dcb5ab18d1c7b71da6ec5b"
-        },
-        {
-          "headline": "Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks",
-          "summary": "Nvidia Stock Rises as SpaceX Picks It Over AMD for AI Infrastructure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=942de0347c20ef7b7c90228449f973050a6e380adb50fec9c10c304eb60a7729"
-        },
-        {
-          "headline": "This Is Nvidia CEO Jensen Huang's Favorite Biotech Stock -- and You've Probably Never Heard of It",
-          "summary": "Generate Biomedicines focuses on AI-enabled drug discovery.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a45fde2af96800187cc1ec7f154f1beaf09c3ee96cdd40d48e7a860ba80c1eb"
+          "url": "https://finnhub.io/api/news?id=e7682473df258ccd46df4cf66a3a1bf90ec0b1b17556f50669717dda624feb80"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Stock Is the Only Magnificent 7 Name in the Green / Micron (MU) Has More to Gain Than Nvidia (NVDA) Has to Lose From Samsung’s 2028 Warning / Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks / This Is Nvidia CEO Jensen Huang's Favorite Biotech Stock -- and You've Probably Never Heard of It",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia dominates AI chips, but BofA sees AMD closing in",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 101.06,
-      "change_pct": 0.1983,
-      "prev_close": 100.86,
+      "price": 99.81,
+      "change_pct": -1.2369,
+      "prev_close": 101.06,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 19.35,
-      "easy_explanation": "오늘 전일 대비 0.20% 올랐어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
+      "week52_low": 19.6,
+      "easy_explanation": "오늘 전일 대비 1.24% 내렸어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
       "news": [
         {
-          "headline": "Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027.",
-          "summary": "In this segment of the AI Investor Podcast from 24/7 Wall St., co-hosts Eric Bleeker and Austin Smith work through Intel's quarter and the whipsaw price action around it. Bleeker opens with the trading pattern as a microcosm of the month: Intel rose 10% after hours on the report, then fell roughly 30% over the following days, leaving it down 34% on the month at the end of last week. Yet, zoomed out, the stock is up 134% year to date and still more than double its post-February level, while most momentum names have given back their post-February gains entirely. He reads that as evidence Intel remains a structural winner. Bleeker credits two calls made earlier. The first was the rise of CPUs, which he says is playing out more forcefully than expected, with Intel's CPU prices up 48%. The second, and the one that matters more long term, is the foundry business. Intel guided 14A to volume production in 2028, which Bleeker takes as on track. Wall Street's disappointment centered on Intel declining to name customers, but Bleeker argues that silence is rational: a company shifting volume away from Taiwan Semiconductor has no interest in publicizing it and risking its existing allocation. What Intel needs, he notes, is wafer customers rather than packaging work, and he sees potential majors like Google drifting toward it. Smith agrees the non-disclosure is sensible and adds that these are not phantom customers. He points to reporting on xAI and the widely covered Apple arrangement as reasonably well established, meaning Intel gains little by confirming them publicly.",
+          "headline": "Intel Stock Does Not Need A Market Crash To Fall By Nearly Half",
+          "summary": "Intel stock has dropped harder than the index in past shocks, and the spending it carries into the next one is rising rather than easing.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3ec6314c467cf27984652fba89dd194d6fab49fc3ffc90a6a4f91527103af88"
+          "url": "https://finnhub.io/api/news?id=c2af7b4ccd12dc65545b69f842391b7f6bafa5561d4100eb64f5fc34a52144df"
         },
         {
-          "headline": "Intel Diversifies The Direction Of Your Returns, Not Their Size",
-          "summary": "Intel's moderate correlation to the market is partial independence, but the stock travels at more than three times the index's volatility.",
+          "headline": "Is the Intel stock rally back? AlphaSpace stats to know.",
+          "summary": "Keep an eye on Intel here.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17131a09d2c2d5d5765a9e7e67fc87cddb8d0476e12ab2d37ead21b485f0d6ac"
+          "url": "https://finnhub.io/api/news?id=880ae4e5d6d693a0fa2d7c1271dce48c2e10766083f1b692e45cb25bb30389a8"
         },
         {
-          "headline": "What Is Going on With Intel Stock on Wednesday?",
-          "summary": "Intel (INTC) stock falls more than 1% on Wednesday as traders recalibrate high expectations across the chip sector following a strong multi-month rally.",
+          "headline": "SoftBank Q1 2026 earnings beat: Intel stake drives profit",
+          "summary": "The Japanese investment giant posted a $2.2 billion quarterly profit, with a 1.3 trillion yen gain on Intel stock doing most of the heavy lifting",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9055b7c27e7bca1dabb5f6ba4780ed3ba364220965093d8149ae186ca1e3ce3"
+        },
+        {
+          "headline": "What's Going On With Intel Stock Thursday?",
+          "summary": "Intel stock edges higher to $101.19. Discover Intel&#39;s technical levels, SoftBank’s $8.2B profit, analyst ratings, and top ETF weightings.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=19c5cc36e30500dcbc52222cad245c3fa1d96287457d4df88f4a9c39effd8524"
-        },
-        {
-          "headline": "AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market",
-          "summary": "FEATURE  Stock futures were rising on Wednesday, putting both the and the on track to notch record highs.  SpaceX slumped 11% in premarket trading after the rockets, telecom, and AI company beat analysts’ second-quarter earnings target but reported higher capital expenditure than Wall Street was expecting.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4c0007494da3c705739bc7d1b8f7a6e1036b20e0ac8fdc00a72560e8f94a26bf"
+          "url": "https://finnhub.io/api/news?id=c47bfe02960f17f859dc4eb3f2a1617c087fda61cd49050b1403c3c2b92438e6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027. / Intel Diversifies The Direction Of Your Returns, Not Their Size / What Is Going on With Intel Stock on Wednesday? / AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stock Does Not Need A Market Crash To Fall By Nearly Half / Is the Intel stock rally back? AlphaSpace stats to know. / SoftBank Q1 2026 earnings beat: Intel stake drives profit / What's Going On With Intel Stock Thursday?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
