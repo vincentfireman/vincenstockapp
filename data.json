@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-10 21:39",
+  "updated_at": "2026-08-11 21:43",
   "stocks": {
     "NVDA": {
-      "price": 217.55,
-      "change_pct": -2.8621,
-      "prev_close": 223.96,
+      "price": 217.5,
+      "change_pct": -0.023,
+      "prev_close": 217.55,
       "pe_ttm": 33.8067,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.86% 내렸어요. PER은 33.8배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.02% 내렸어요. PER은 33.8배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Just Added $562 Billion in a Week",
-          "summary": "The rally added about $562 billion to its market value.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d9cdbfe7b7b6f269d9da16b4dc88ab0e76c2d0c2e7f77d0016e6753d3aeb1180"
+          "headline": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+          "summary": "Nvidia is spearheading a $500B compute financing platform with major financiers, marking a next step in infrastructure finance. Click for more on NVDA stock.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7d04f3c38184512a87b9b527202ee954e42a83656b8f5ffbe1904a428c3e5b53"
         },
         {
-          "headline": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
-          "summary": "Nvidia Bets Billions on AI Power: Chip Giant Eyes $3 Billion Lancium Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e35fc514f78d8e8092c31998882af3ce551e3a7f8f03035e954f066efa6efc1"
+          "headline": "Nvidia: Guess Who Backstops The $500 Billion (Rating Downgrade)",
+          "summary": "Nvidia Corporationâs residual-value guarantees may back $500B AI credit, boosting semis near term but risking long-term sustainability. Click for NVDA takeaways.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=f847afba36db398499a2001b95b9eb0a543bb254217d503204ec6c0eca665057"
         },
         {
-          "headline": "Wall Street Mobilizes $500 Billion Consortium With Nvidia to Underwrite AI Infrastructure",
-          "summary": "Wall Street has officially moved to underwrite artificial intelligence infrastructure as a sovereign-grade asset class. A consortium comprising Apollo Global, Blackstone, BlackRock Global Infrastructure Partners, Brookfield Asset Management, Goldman Sachs, and KKR is reportedly assembling a $500 billion funding package in partnership with Nvidia. This massive capital mobilization, intended to cover the full stack of […]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d53d98c2315dd0a97715566c4fb1be3ac737946117e6de42ddfafbc250fbcb0a"
+          "headline": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
+          "summary": "\n\n\n\nMasterstroke Creates More Risk\n\n\n\nPlease click here for an enlarged chart of NVIDIA Corp (NASDAQ:NVDA).\n\n\n\nNote the following:\n\n\n\n\nThis article is about the big picture, not an individual stock.  The chart of NVDA",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e"
         },
         {
-          "headline": "Nvidia Made Them Rich. Redditors Say These 2 Stocks Are Next",
-          "summary": "Nvidia shares have shown explosive growth since ChatGPT launched in late 2022. The stock minted a lot of millionaires and retail investors rejoiced. But doubts are creeping in now and growth is not what it used to be. The logical question every long-term investor asks is this: what is the next Nvidia? Which stocks can […]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e16eb8604a66b9263a05052e4eb2c4bb93082f56c389e7edc3cc6ca4cbf2f1d1"
+          "headline": "Nvidia's $500 billion financing deal: How to trade it",
+          "summary": "The Investment Committee debate what Nvidia's $500 Billion financing deal announced yesterday means for the stock and the AI trade.",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=642dfff22cb0816f7f5e6c93c330b4f0bd919c71e7519326ea8ca2f9f2816407"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Just Added $562 Billion in a Week / Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next / Wall Street Mobilizes $500 Billion Consortium With Nvidia to Underwrite AI Infrastructure / Nvidia Made Them Rich. Redditors Say These 2 Stocks Are Next",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade) / Nvidia: Guess Who Backstops The $500 Billion (Rating Downgrade) / Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed / Nvidia's $500 billion financing deal: How to trade it",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 97.52,
-      "change_pct": -4.063,
-      "prev_close": 101.65,
+      "price": 97.71,
+      "change_pct": 0.1948,
+      "prev_close": 97.52,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 19.6,
-      "easy_explanation": "오늘 전일 대비 4.06% 내렸어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
+      "week52_low": 19.61,
+      "easy_explanation": "오늘 전일 대비 0.19% 올랐어요. 최근 1년 최저가~최고가 구간에서 64% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Intel Stock Is Falling Today",
-          "summary": "Intel Stock Falls as Chip Giant Unveils $15 Billion AI-Focused Funding Plan",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f972092a1b77f0cd2bfe5b5170710c55a58416ba900037237abd062de7380d33"
+          "headline": "Cramer’s Mad Dash: Intel",
+          "summary": "CNBC’s Jim Cramer delivers his daily Mad Dash.",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=89cd995075d137bee1653c0c6791c50967893dd8cfe2c3d4bfd5a9f16f9917a6"
         },
         {
-          "headline": "Dan Niles sees Intel foundry win as imminent amid $15B stock offering",
-          "summary": "Intel Foundry Services would be the direct beneficiary of any large-scale 14A anchor win, with the entire capital raise framed around funding capacity for external wafer production — a business line that would transform Intel's revenue mix and margin profile if it scales.",
+          "headline": "Why Intel Is Increasing Its  Stock Offering to $20 Billion",
+          "summary": "Intel stock was down after it said it plans to issue 210.5 million shares at a price of $95 a share.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc46d33e43cc0276ddf32b312b3deba11289d9c7e94fa65d2440c9ea0c37ee0d"
+          "url": "https://finnhub.io/api/news?id=cc3e9a957ec2390155fa739eefbc9e828aa31b53ed3f2e4c76dca4ccfd216c26"
         },
         {
-          "headline": "Intel Plans $15 Billion Stock Offering as AI Demand Requires Higher Capital Spending",
-          "summary": "Intel (INTC) plans to raise $15 billion from a common stock offering to support capital expenditures",
+          "headline": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+          "summary": "Retail sentiment on Stocktwits has declined to ‘neutral’ on SPY and ‘extremely bearish’ on QQQ.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=663cb01e575e69a4fef90fad0b1c6c07b61764e2f7e1e26f97ddd24154c6a9fb"
+          "url": "https://finnhub.io/api/news?id=ed3ebaad429867949cc2a2be8ad01fbb1079e34a31499f03efa43a5b02c3e876"
         },
         {
-          "headline": "Intel trades lower on $15B share sale",
-          "summary": "Intel Corp (NASDAQ:INTC, XETRA:INL) shares fell about 3% Monday after the company announced a $15 billion underwritten public offering of common stock, with proceeds intended for general corporate purposes including capital expenditures and working capital. Intel said the offering is intended...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44a54ed26bee7b4d71bb42e0b2fd867da259ab788f9badb778970179eb26e38e"
+          "headline": "Intel: This Pullback Is A Golden Opportunity (Rating Upgrade)",
+          "summary": "Intel's robust turnaround gains momentum, with a nearly 30% stock pullback improving risk/reward. Learn why INTC stock is a Buy.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5d8c7365ec2403285a45a88f19e3c0ec2e9b632c4020882f6cff843f78a1dd10"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Is Falling Today / Dan Niles sees Intel foundry win as imminent amid $15B stock offering / Intel Plans $15 Billion Stock Offering as AI Demand Requires Higher Capital Spending / Intel trades lower on $15B share sale",
+      "news_summary": "최근 뉴스 헤드라인: Cramer’s Mad Dash: Intel / Why Intel Is Increasing Its  Stock Offering to $20 Billion / S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus / Intel: This Pullback Is A Golden Opportunity (Rating Upgrade)",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
