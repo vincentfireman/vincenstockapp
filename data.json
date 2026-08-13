@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-12 21:42",
+  "updated_at": "2026-08-13 21:41",
   "stocks": {
     "NVDA": {
-      "price": 224.09,
-      "change_pct": 3.0299,
-      "prev_close": 217.5,
-      "pe_ttm": 33.8067,
+      "price": 225.3,
+      "change_pct": 0.54,
+      "prev_close": 224.09,
+      "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 3.03% 올랐어요. PER은 33.8배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.54% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "What's Going On With Nvidia Stock on Wednesday?",
-          "summary": "Nvidia stock climbed nearly 3% as strong signals of AI infrastructure spending build momentum ahead of August 26 earnings.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4d9ae563e2279b481d646b84e08fe74b4b77682dd2a874763635a86f84af4cbb"
+          "headline": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
+          "summary": "Strong AI demand may already be priced in.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e"
         },
         {
-          "headline": "CoreWeave Is Making Old Nvidia Chips Look New Again",
-          "summary": "CoreWeave says older Nvidia GPUs are still winning long-term AI contracts: AI infra may deliver returns beyond its initial deployment.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3c58943aeb07f7ceaee0d0d04cc89cca8306055562a3ce2125abdfeced432e47"
+          "headline": "Jim Cramer says Nvidia now signals something much bigger",
+          "summary": "Jim Cramer was supposed to be on vacation. Instead, the MadMoney host was looking at three critical market signals that, in his view, can tell investors all they need to know. Two of them were the usual suspects: bonds and oil. The third, though, was Nvidia (NVDA), a surprise, to say ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=56a198a8dd9fb90db9e2b832f8310ed5d2ba8e9d397257a9cf0b7029d56715c0"
         },
         {
-          "headline": "Tech Veteran Warns Nvidia Is Playing Intel’s Old Game Against AMD — and It Could Become a Dangerous Trap",
-          "summary": "Former AMD CVP Patrick Moorhead compares Nvidia’s AI dominance to peak Intel and the trap of &#39;financial engineering.&#39;",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f614713bf49eaa1185fbe0094b899c29646f3468a4b3204a2899013f0bcea0f6"
+          "headline": "IREN Stock Jumps as Microsoft and Nvidia Back Its AI Cloud Push",
+          "summary": "IREN shares surge after Microsoft accepts first Texas AI cloud installation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fb791839c5d79928197399fd456bb00537021ab87643677a06e7a3bc03d09ef"
         },
         {
-          "headline": "Nvidia's $500 Billion Deal Changes AI Story",
-          "summary": "Nvidia secures a $500B financing deal with top financial firms, offloading credit risk and enabling AI infrastructure expansion. Read more on NVDA stock here.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=58dc2dd6bfeea65c2ceaf36455009b4e9ac024684092e5c7ba66f30ef21800c0"
+          "headline": "Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI, Even as SoftBank Faces a $40 Billion Loan Deadline in 2027. Here's What That Tension Means for Microsoft and Nvidia Shareholders.",
+          "summary": "OpenAI's IPO target is colliding with SoftBank's 2027 deadline.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee1eb3c5a973910c9ec6c992ec58f936b2cb48869738f7abbfcd5c4be0c7cb12"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What's Going On With Nvidia Stock on Wednesday? / CoreWeave Is Making Old Nvidia Chips Look New Again / Tech Veteran Warns Nvidia Is Playing Intel’s Old Game Against AMD — and It Could Become a Dangerous Trap / Nvidia's $500 Billion Deal Changes AI Story",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High / Jim Cramer says Nvidia now signals something much bigger / IREN Stock Jumps as Microsoft and Nvidia Back Its AI Cloud Push / Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI, Even as SoftBank Faces a $40 Billion Loan Deadline in 2027. Here's What That Tension Means for Microsoft and Nvidia Shareholders.",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 100.95,
-      "change_pct": 3.3159,
-      "prev_close": 97.71,
+      "price": 104.56,
+      "change_pct": 3.576,
+      "prev_close": 100.95,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 20.44,
-      "easy_explanation": "오늘 전일 대비 3.32% 올랐어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
+      "week52_low": 20.76,
+      "easy_explanation": "오늘 전일 대비 3.58% 올랐어요. 최근 1년 최저가~최고가 구간에서 69% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel’s $20 Billion Capital Raise Is a Bullish Tell for Its Foundry Business, Analyst Says",
-          "summary": "Intel (INTC) receives a bullish endorsement from BofA as its $20B equity raise boosts confidence in its foundry growth and AI strategy.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a56b79e8ef5dbb4aafe65515c8c15168b7e26bb4b9a60b5355b74b1b2aff97a5"
+          "headline": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
+          "summary": "Intel Gets AI Boost as Bank of America Sees Massive CPU Market Growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=956eaff712938785b1bf441f8d4a23fd997ec4649ae35ca48ae3658aff488df6"
         },
         {
-          "headline": "Intel: The Turnaround Is Real, But The Stock Is Now Dangerous",
-          "summary": "Intel (INTC) Q2 results surged, but a $500B valuation, foundry losses, and $20B equity issuance raise risk.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=10ae41fca2135725c5a761dca5d919b0dc34dac921e346e45b5c8691f83d2f20"
+          "headline": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
+          "summary": "Cerebras is getting crushed after earnings while nearly every other AI chip and infrastructure name surges to fresh highs. What one company's bad day reveals about where this trade is actually headed matters more than the headline loss.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=310a10ba2298e2e85ac0362b9b37f2a21b4387b1c7880ee0fa5dbb0fbf61c17f"
         },
         {
-          "headline": "Intel: $20 Billion Bought Time, Not A Customer",
-          "summary": "Intel priced a $20B stock raise, boosting dilution as capex outpaces foundry revenue and customer wins remain unproven.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c27c56d026c6d9fd1d1c25234fb1d0a34bb184fec0eded7be3dd40bbebb14f4f"
+          "headline": "Why Intel Stock Popped Today",
+          "summary": "AI used to mean GPUs. Today, it means CPUs as well.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1544cb6f1046c3e4db9ec2ce582b25c46a07bced1d88d76ff77eec32e814c213"
         },
         {
-          "headline": "UBS Maintains Neutral on Intel, Lowers Price Target to $112",
-          "summary": "UBS  analyst Timothy Arcuri   maintains Intel (NASDAQ:INTC) with a Neutral and lowers the price target from $121 to $112.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=88f3ff8be6c1004bd387a2308e39417700436c3a78b88c6c57f5cc54d866e3d1"
+          "headline": "Intel's $20 billion stock sale has surprising upside",
+          "summary": "Intel (INTC) priced a $20 billion stock offering this week, one of the largest equity raises in the history of the chip industry. Shares fell nearly 4% when the deal was first announced, the kind of sell-off dilution almost always produces, according to CNBC. But at Bank of America, longtime ...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a281a6ccee3bdec1428af68329cd533e65b347e0291c1df7f07ad7c7d04cae52"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel’s $20 Billion Capital Raise Is a Bullish Tell for Its Foundry Business, Analyst Says / Intel: The Turnaround Is Real, But The Stock Is Now Dangerous / Intel: $20 Billion Bought Time, Not A Customer / UBS Maintains Neutral on Intel, Lowers Price Target to $112",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stock Jumps as Bank of America Sees Bigger CPU Market / Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains. / Why Intel Stock Popped Today / Intel's $20 billion stock sale has surprising upside",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
