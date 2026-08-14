@@ -1,41 +1,29 @@
 {
-  "updated_at": "2026-08-13 21:41",
+  "updated_at": "2026-08-14 21:22",
   "stocks": {
     "NVDA": {
-      "price": 225.3,
-      "change_pct": 0.54,
-      "prev_close": 224.09,
+      "price": 225.16,
+      "change_pct": -0.0621,
+      "prev_close": 225.3,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.54% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.06% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
-          "summary": "Strong AI demand may already be priced in.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e"
+          "headline": "Trade Tracker: Bill Baruch buys more Nvidia",
+          "summary": "Bill Baruch, Founder & President Blue Line Capital, joins CNBC’s 'Halftime Report' to explain why he's buying more Nvidia at these levels.",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=f697f373812040888471f87c5de5deefc8fc797acd5982d85cf3abefff69be21"
         },
         {
-          "headline": "Jim Cramer says Nvidia now signals something much bigger",
-          "summary": "Jim Cramer was supposed to be on vacation. Instead, the MadMoney host was looking at three critical market signals that, in his view, can tell investors all they need to know. Two of them were the usual suspects: bonds and oil. The third, though, was Nvidia (NVDA), a surprise, to say ...",
+          "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+          "summary": "The next AI winners may look nothing like Nvidia.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56a198a8dd9fb90db9e2b832f8310ed5d2ba8e9d397257a9cf0b7029d56715c0"
-        },
-        {
-          "headline": "IREN Stock Jumps as Microsoft and Nvidia Back Its AI Cloud Push",
-          "summary": "IREN shares surge after Microsoft accepts first Texas AI cloud installation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fb791839c5d79928197399fd456bb00537021ab87643677a06e7a3bc03d09ef"
-        },
-        {
-          "headline": "Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI, Even as SoftBank Faces a $40 Billion Loan Deadline in 2027. Here's What That Tension Means for Microsoft and Nvidia Shareholders.",
-          "summary": "OpenAI's IPO target is colliding with SoftBank's 2027 deadline.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee1eb3c5a973910c9ec6c992ec58f936b2cb48869738f7abbfcd5c4be0c7cb12"
+          "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High / Jim Cramer says Nvidia now signals something much bigger / IREN Stock Jumps as Microsoft and Nvidia Back Its AI Cloud Push / Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI, Even as SoftBank Faces a $40 Billion Loan Deadline in 2027. Here's What That Tension Means for Microsoft and Nvidia Shareholders.",
+      "news_summary": "최근 뉴스 헤드라인: Trade Tracker: Bill Baruch buys more Nvidia / The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,14 +35,26 @@
       }
     },
     "INTC": {
-      "price": 104.56,
-      "change_pct": 3.576,
-      "prev_close": 100.95,
+      "price": 102.5,
+      "change_pct": -1.9702,
+      "prev_close": 104.56,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 20.76,
-      "easy_explanation": "오늘 전일 대비 3.58% 올랐어요. 최근 1년 최저가~최고가 구간에서 69% 지점에 있어요.",
+      "week52_low": 21.36,
+      "easy_explanation": "오늘 전일 대비 1.97% 내렸어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
       "news": [
+        {
+          "headline": "Should You Be Adding To Intel Stock Or Trimming It?",
+          "summary": "Intel's free cash flow has turned positive for the first time in four years, and its own capital plans decide whether it stays there.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e40e1be86d7fd5162a65ff0f56495781544d0fadb40a8f604b55ea1bc03914c2"
+        },
+        {
+          "headline": "Why Intel Is Wise to Issue $20 Billion in Stock Right Now",
+          "summary": "A move that hurts shareholders in the short term could actually benefit investors in the end.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9edfaa9c1eaaa99e96821e6bd32aedf1072d72d880224161c576d68d4a72b407"
+        },
         {
           "headline": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
           "summary": "Intel Gets AI Boost as Bank of America Sees Massive CPU Market Growth",
@@ -66,21 +66,9 @@
           "summary": "Cerebras is getting crushed after earnings while nearly every other AI chip and infrastructure name surges to fresh highs. What one company's bad day reveals about where this trade is actually headed matters more than the headline loss.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=310a10ba2298e2e85ac0362b9b37f2a21b4387b1c7880ee0fa5dbb0fbf61c17f"
-        },
-        {
-          "headline": "Why Intel Stock Popped Today",
-          "summary": "AI used to mean GPUs. Today, it means CPUs as well.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1544cb6f1046c3e4db9ec2ce582b25c46a07bced1d88d76ff77eec32e814c213"
-        },
-        {
-          "headline": "Intel's $20 billion stock sale has surprising upside",
-          "summary": "Intel (INTC) priced a $20 billion stock offering this week, one of the largest equity raises in the history of the chip industry. Shares fell nearly 4% when the deal was first announced, the kind of sell-off dilution almost always produces, according to CNBC. But at Bank of America, longtime ...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a281a6ccee3bdec1428af68329cd533e65b347e0291c1df7f07ad7c7d04cae52"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stock Jumps as Bank of America Sees Bigger CPU Market / Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains. / Why Intel Stock Popped Today / Intel's $20 billion stock sale has surprising upside",
+      "news_summary": "최근 뉴스 헤드라인: Should You Be Adding To Intel Stock Or Trimming It? / Why Intel Is Wise to Issue $20 Billion in Stock Right Now / Intel Stock Jumps as Bank of America Sees Bigger CPU Market / Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
