@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-08-14 21:22",
+  "updated_at": "2026-08-17 21:23",
   "stocks": {
     "NVDA": {
-      "price": 225.16,
-      "change_pct": -0.0621,
-      "prev_close": 225.3,
+      "price": 225.01,
+      "change_pct": -0.0666,
+      "prev_close": 225.16,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.06% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.07% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "Trade Tracker: Bill Baruch buys more Nvidia",
-          "summary": "Bill Baruch, Founder & President Blue Line Capital, joins CNBC’s 'Halftime Report' to explain why he's buying more Nvidia at these levels.",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=f697f373812040888471f87c5de5deefc8fc797acd5982d85cf3abefff69be21"
+          "headline": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+          "summary": "\n\n\n\nAI Gets Even Hotter\n\n\n\nPlease click here for an enlarged chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ).\n\n\n\nNote the following:\n\n\n\n\nThe chart shows QQQ is approaching the low band of zone 1 (resistance).\n\n\n\nOf",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b"
         },
         {
-          "headline": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
-          "summary": "The next AI winners may look nothing like Nvidia.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552"
+          "headline": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
+          "summary": "The investor exited Meta, Nvidia, Broadcom, KLA and Lam Research while adding major positions in Warner Bros. Discovery, Riot Platforms and Block.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=39c45bd1c4671c997137747a4ebe9a9e60dd43b31069cf16dab7c70f771b3539"
+        },
+        {
+          "headline": "SpaceX Stock Is Everywhere: Google, Nvidia, AMD, Harvard Disclose Stakes",
+          "summary": "SpaceX is one of the most disclosed names in Q2 13F filings, with tech giants, hedge funds, and universities reporting large positions.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=6c8636a0eabfcfd07c9b0f1337afd14e81e9070d29b93a09cf66aa94ff6a00b5"
+        },
+        {
+          "headline": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
+          "summary": "Nvidia Corporation stays a Strong Buy as AI demand turns into signed backlogs, supporting $91B revenue and stable marginsâclick to see what to watch for with NVDA.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b47b350b282d296daa35eac5e76c4c1f74454410dc092e3cd0bf3265d67bc471"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Trade Tracker: Bill Baruch buys more Nvidia / The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+      "news_summary": "최근 뉴스 헤드라인: Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat / Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery / SpaceX Stock Is Everywhere: Google, Nvidia, AMD, Harvard Disclose Stakes / Nvidia: One Number In Q2 Decides Where This Stock Goes",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 102.5,
-      "change_pct": -1.9702,
-      "prev_close": 104.56,
+      "price": 103.49,
+      "change_pct": 0.9659,
+      "prev_close": 102.5,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 21.36,
-      "easy_explanation": "오늘 전일 대비 1.97% 내렸어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
+      "week52_low": 21.9,
+      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
       "news": [
         {
-          "headline": "Should You Be Adding To Intel Stock Or Trimming It?",
-          "summary": "Intel's free cash flow has turned positive for the first time in four years, and its own capital plans decide whether it stays there.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e40e1be86d7fd5162a65ff0f56495781544d0fadb40a8f604b55ea1bc03914c2"
+          "headline": "QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares",
+          "summary": "Intel shares climb Monday after CEO Lip-Bu Tan disclosed a large insider stock purchase.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=eaf8dbf4ecefeb09afdb023fcf528ca85469446f769dd0f6dec3306941b6a49f"
         },
         {
-          "headline": "Why Intel Is Wise to Issue $20 Billion in Stock Right Now",
-          "summary": "A move that hurts shareholders in the short term could actually benefit investors in the end.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9edfaa9c1eaaa99e96821e6bd32aedf1072d72d880224161c576d68d4a72b407"
+          "headline": "What's Going On With Intel Stock Monday?",
+          "summary": "INTC stock trends higher amid mixed technicals. Intel holds a neutral 52.47 RSI with strong key support holding near $89.50.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d618a7a11762b58ad02cdf49549fef6f304664df5b9ddd8612c7b3a5e6c4e7f9"
         },
         {
-          "headline": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
-          "summary": "Intel Gets AI Boost as Bank of America Sees Massive CPU Market Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=956eaff712938785b1bf441f8d4a23fd997ec4649ae35ca48ae3658aff488df6"
+          "headline": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=39ab5b87161dc2e04009f54aecc0cd67da45470fd4e8ac5712df59e5e2c2789f"
         },
         {
-          "headline": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-          "summary": "Cerebras is getting crushed after earnings while nearly every other AI chip and infrastructure name surges to fresh highs. What one company's bad day reveals about where this trade is actually headed matters more than the headline loss.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=310a10ba2298e2e85ac0362b9b37f2a21b4387b1c7880ee0fa5dbb0fbf61c17f"
+          "headline": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+          "summary": "Billionaire Stanley Druckenmiller added IREN to his $5.2B Q2 portfolio. See why he left chipmakers for AI data centers.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=476c91d56b69809ec33fde86aa1a6143a6d1f4ed46b543e7175bd4346036b058"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Should You Be Adding To Intel Stock Or Trimming It? / Why Intel Is Wise to Issue $20 Billion in Stock Right Now / Intel Stock Jumps as Bank of America Sees Bigger CPU Market / Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
+      "news_summary": "최근 뉴스 헤드라인: QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares / What's Going On With Intel Stock Monday? / Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more / Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
