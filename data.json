@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-17 21:23",
+  "updated_at": "2026-08-18 21:21",
   "stocks": {
     "NVDA": {
-      "price": 225.01,
-      "change_pct": -0.0666,
-      "prev_close": 225.16,
+      "price": 219.74,
+      "change_pct": -2.3421,
+      "prev_close": 225.01,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.07% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.34% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 77% 지점에 있어요.",
       "news": [
         {
-          "headline": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
-          "summary": "\n\n\n\nAI Gets Even Hotter\n\n\n\nPlease click here for an enlarged chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ).\n\n\n\nNote the following:\n\n\n\n\nThe chart shows QQQ is approaching the low band of zone 1 (resistance).\n\n\n\nOf",
+          "headline": "Michael Burry Says This AI Chip Startup Is 'Serious Competition' for Nvidia",
+          "summary": "Michael Burry points to Etched, which hires former Nvidia engineers, as posing a threat to Nvidia&#39;s AI dominance.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b"
+          "url": "https://finnhub.io/api/news?id=513958df9793a3410f6c4df86c3b03a3161546526084f9e359256007028e29a1"
         },
         {
-          "headline": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
-          "summary": "The investor exited Meta, Nvidia, Broadcom, KLA and Lam Research while adding major positions in Warner Bros. Discovery, Riot Platforms and Block.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=39c45bd1c4671c997137747a4ebe9a9e60dd43b31069cf16dab7c70f771b3539"
-        },
-        {
-          "headline": "SpaceX Stock Is Everywhere: Google, Nvidia, AMD, Harvard Disclose Stakes",
-          "summary": "SpaceX is one of the most disclosed names in Q2 13F filings, with tech giants, hedge funds, and universities reporting large positions.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6c8636a0eabfcfd07c9b0f1337afd14e81e9070d29b93a09cf66aa94ff6a00b5"
-        },
-        {
-          "headline": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
-          "summary": "Nvidia Corporation stays a Strong Buy as AI demand turns into signed backlogs, supporting $91B revenue and stable marginsâclick to see what to watch for with NVDA.",
+          "headline": "Nvidia's Q2 Preview: A $7 Trillion Market Cap Within Reach",
+          "summary": "Nvidia Corporation earnings: why an FQ2 beat isnât enough. See what FQ3 guidance, gross profit, & valuation (25x fwd) imply for the stock. Click for a NVDA update.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=b47b350b282d296daa35eac5e76c4c1f74454410dc092e3cd0bf3265d67bc471"
+          "url": "https://finnhub.io/api/news?id=2c9fd5b4a29b335a95254bf04e23a19d41c7d6acf84641325d2ac1db5d1a52fb"
+        },
+        {
+          "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+          "summary": "Nvidia, AMD, Broadcom and Meta fell as bond yields surged, putting pressure on high-growth tech stocks and AI names.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8be0662f56a93fc1a3eafb7348c7ea178f1847ba7757168a8bfdfcfd45768efa"
+        },
+        {
+          "headline": "Nvidia: Owning This Is Betting On Future Technology Advancements (Earnings Preview)",
+          "summary": "Nvidia Corporation eyes a blockbuster Q2: $92B revenue, 96% growth and $2+ EPS. Click for this NVDA earnings preview update and see what to expect.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9f4c75fd37381175db0576565afbf8a8d220ba7b83f2d6be57bbd0f26eff6015"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat / Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery / SpaceX Stock Is Everywhere: Google, Nvidia, AMD, Harvard Disclose Stakes / Nvidia: One Number In Q2 Decides Where This Stock Goes",
+      "news_summary": "최근 뉴스 헤드라인: Michael Burry Says This AI Chip Startup Is 'Serious Competition' for Nvidia / Nvidia's Q2 Preview: A $7 Trillion Market Cap Within Reach / Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit / Nvidia: Owning This Is Betting On Future Technology Advancements (Earnings Preview)",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 103.49,
-      "change_pct": 0.9659,
-      "prev_close": 102.5,
+      "price": 96.685,
+      "change_pct": -6.5755,
+      "prev_close": 103.49,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 21.9,
-      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
+      "week52_low": 22.78,
+      "easy_explanation": "오늘 전일 대비 6.58% 내렸어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
       "news": [
         {
-          "headline": "QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares",
-          "summary": "Intel shares climb Monday after CEO Lip-Bu Tan disclosed a large insider stock purchase.",
+          "headline": "What's Going On With Intel Stock Tuesday?",
+          "summary": "Intel stock drops nearly 5% premarket in broad tech selloff. Read technical key support levels and analyst price forecasts for INTC.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=eaf8dbf4ecefeb09afdb023fcf528ca85469446f769dd0f6dec3306941b6a49f"
+          "url": "https://finnhub.io/api/news?id=3a176e26ab5015fc893e0e97c4cbff05ea224917184efc7003daf98949da3bb6"
         },
         {
-          "headline": "What's Going On With Intel Stock Monday?",
-          "summary": "INTC stock trends higher amid mixed technicals. Intel holds a neutral 52.47 RSI with strong key support holding near $89.50.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d618a7a11762b58ad02cdf49549fef6f304664df5b9ddd8612c7b3a5e6c4e7f9"
+          "headline": "Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026",
+          "summary": "The family office increased its Amazon stake by more than 1,000% while completely exiting Broadcom, Intel, and Micron",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be1afacdbd083d618d61bd2fd141831f9978a407294dd4365342233959915c16"
         },
         {
-          "headline": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
-          "summary": "These are the stocks posting the largest moves premarket.",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=39ab5b87161dc2e04009f54aecc0cd67da45470fd4e8ac5712df59e5e2c2789f"
+          "headline": "Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
+          "summary": "A Wedbush note linking Cerebras to OpenAI's fastest inference tier sent shares surging after last week's brutal selloff, and the 13F filings landing Monday reveal exactly which major funds are quietly betting billions on the AI chip race.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c107594edbb81b34f937a736ba68cd5329bb48f58ba5800d41f9b2ff05d6c4e"
         },
         {
-          "headline": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
-          "summary": "Billionaire Stanley Druckenmiller added IREN to his $5.2B Q2 portfolio. See why he left chipmakers for AI data centers.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=476c91d56b69809ec33fde86aa1a6143a6d1f4ed46b543e7175bd4346036b058"
+          "headline": "What Quadrupled Intel Stock Was Not Foundry Customers",
+          "summary": "Demand for its server chips runs ahead of what Intel can make, and the price now carries a build-out that is still years from finished.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9bd10b70dae9aeb0a8a42177e78e0a697857fae56236957a78da6c96d40408be"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares / What's Going On With Intel Stock Monday? / Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more / Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+      "news_summary": "최근 뉴스 헤드라인: What's Going On With Intel Stock Tuesday? / Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 / Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly / What Quadrupled Intel Stock Was Not Foundry Customers",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
