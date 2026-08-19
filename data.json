@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-18 21:21",
+  "updated_at": "2026-08-19 21:22",
   "stocks": {
     "NVDA": {
-      "price": 219.74,
-      "change_pct": -2.3421,
-      "prev_close": 225.01,
+      "price": 217.56,
+      "change_pct": -0.9921,
+      "prev_close": 219.74,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.34% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 77% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.99% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
       "news": [
         {
-          "headline": "Michael Burry Says This AI Chip Startup Is 'Serious Competition' for Nvidia",
-          "summary": "Michael Burry points to Etched, which hires former Nvidia engineers, as posing a threat to Nvidia&#39;s AI dominance.",
+          "headline": "Why Falling AI Prices Could Be Good News for Nvidia Stock",
+          "summary": "AI companies like OpenAI, DeepSeek are slashing prices. Cheaper AI could, increase demand for Nvidia&#39;s GPUs by accelerating adoption.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=513958df9793a3410f6c4df86c3b03a3161546526084f9e359256007028e29a1"
+          "url": "https://finnhub.io/api/news?id=ee70e602e4fbf100b1bc05dc912afc1bd8514b2a1b0473ed81f3cbdb8f3c3250"
         },
         {
-          "headline": "Nvidia's Q2 Preview: A $7 Trillion Market Cap Within Reach",
-          "summary": "Nvidia Corporation earnings: why an FQ2 beat isnât enough. See what FQ3 guidance, gross profit, & valuation (25x fwd) imply for the stock. Click for a NVDA update.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2c9fd5b4a29b335a95254bf04e23a19d41c7d6acf84641325d2ac1db5d1a52fb"
+          "headline": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+          "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=92b53ba3845e0f6516253c98186b838b8beb933356b88baf293df526014a2acf"
         },
         {
-          "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-          "summary": "Nvidia, AMD, Broadcom and Meta fell as bond yields surged, putting pressure on high-growth tech stocks and AI names.",
+          "headline": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
+          "summary": "NVIDIA fits affordable growth: strong earnings/revenue growth, forward P/E below S&P 500, top profitability/health. A balanced growth-value pick.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=c76fb2ffc4b6a48e2bb32a05ecaa356238a074c97e35811359aa83d3f9934d42"
+        },
+        {
+          "headline": "NVDA Rival Cerebras Unveils New AI System It Says Is Up to 30X Faster Than Nvidia GPUs",
+          "summary": "Cerebras unveiled its new CS-4 AI system, claiming up to 30X faster inference than Nvidia GPUs as it targets the AI inference market.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8be0662f56a93fc1a3eafb7348c7ea178f1847ba7757168a8bfdfcfd45768efa"
-        },
-        {
-          "headline": "Nvidia: Owning This Is Betting On Future Technology Advancements (Earnings Preview)",
-          "summary": "Nvidia Corporation eyes a blockbuster Q2: $92B revenue, 96% growth and $2+ EPS. Click for this NVDA earnings preview update and see what to expect.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9f4c75fd37381175db0576565afbf8a8d220ba7b83f2d6be57bbd0f26eff6015"
+          "url": "https://finnhub.io/api/news?id=97c38c7eb2b362648d3ffdaeb95f2a1fa89a786d2852d14e1a334361a80ba94e"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Michael Burry Says This AI Chip Startup Is 'Serious Competition' for Nvidia / Nvidia's Q2 Preview: A $7 Trillion Market Cap Within Reach / Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit / Nvidia: Owning This Is Betting On Future Technology Advancements (Earnings Preview)",
+      "news_summary": "최근 뉴스 헤드라인: Why Falling AI Prices Could Be Good News for Nvidia Stock / Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region / NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick / NVDA Rival Cerebras Unveils New AI System It Says Is Up to 30X Faster Than Nvidia GPUs",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,14 +47,20 @@
       }
     },
     "INTC": {
-      "price": 96.685,
-      "change_pct": -6.5755,
-      "prev_close": 103.49,
+      "price": 92.8,
+      "change_pct": -4.0182,
+      "prev_close": 96.685,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 22.78,
-      "easy_explanation": "오늘 전일 대비 6.58% 내렸어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
       "news": [
+        {
+          "headline": "Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
+          "summary": "Intel (INTC) targets a $2T AI hardware boom by challenging Taiwan Semiconductor (TSM) in advanced packaging.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d7b8d9a8df655952f22aceb3fbb26d322a316cb314383e7106c8660a73a44372"
+        },
         {
           "headline": "What's Going On With Intel Stock Tuesday?",
           "summary": "Intel stock drops nearly 5% premarket in broad tech selloff. Read technical key support levels and analyst price forecasts for INTC.",
@@ -72,15 +78,9 @@
           "summary": "A Wedbush note linking Cerebras to OpenAI's fastest inference tier sent shares surging after last week's brutal selloff, and the 13F filings landing Monday reveal exactly which major funds are quietly betting billions on the AI chip race.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7c107594edbb81b34f937a736ba68cd5329bb48f58ba5800d41f9b2ff05d6c4e"
-        },
-        {
-          "headline": "What Quadrupled Intel Stock Was Not Foundry Customers",
-          "summary": "Demand for its server chips runs ahead of what Intel can make, and the price now carries a build-out that is still years from finished.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9bd10b70dae9aeb0a8a42177e78e0a697857fae56236957a78da6c96d40408be"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What's Going On With Intel Stock Tuesday? / Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 / Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly / What Quadrupled Intel Stock Was Not Foundry Customers",
+      "news_summary": "최근 뉴스 헤드라인: Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress / What's Going On With Intel Stock Tuesday? / Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 / Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
