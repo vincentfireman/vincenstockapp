@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-19 21:22",
+  "updated_at": "2026-08-20 21:25",
   "stocks": {
     "NVDA": {
-      "price": 217.56,
-      "change_pct": -0.9921,
-      "prev_close": 219.74,
+      "price": 216.85,
+      "change_pct": -0.3263,
+      "prev_close": 217.56,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.99% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.33% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 73% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Falling AI Prices Could Be Good News for Nvidia Stock",
-          "summary": "AI companies like OpenAI, DeepSeek are slashing prices. Cheaper AI could, increase demand for Nvidia&#39;s GPUs by accelerating adoption.",
+          "headline": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
+          "summary": "Ouster CEO Angus Pacala says Tesla and Waymo are accelerating Physical AI adoption rather than competing with the lidar maker.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ee70e602e4fbf100b1bc05dc912afc1bd8514b2a1b0473ed81f3cbdb8f3c3250"
+          "url": "https://finnhub.io/api/news?id=f50aa2ea2ee3192a197d90d5fb6a2e046fbfc65772a5c7ed156d4bc479e0098f"
         },
         {
-          "headline": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-          "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=92b53ba3845e0f6516253c98186b838b8beb933356b88baf293df526014a2acf"
-        },
-        {
-          "headline": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
-          "summary": "NVIDIA fits affordable growth: strong earnings/revenue growth, forward P/E below S&P 500, top profitability/health. A balanced growth-value pick.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=c76fb2ffc4b6a48e2bb32a05ecaa356238a074c97e35811359aa83d3f9934d42"
-        },
-        {
-          "headline": "NVDA Rival Cerebras Unveils New AI System It Says Is Up to 30X Faster Than Nvidia GPUs",
-          "summary": "Cerebras unveiled its new CS-4 AI system, claiming up to 30X faster inference than Nvidia GPUs as it targets the AI inference market.",
+          "headline": "QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each",
+          "summary": "Ouster CEO Angus Pacala says humanoid robots could use up to 12 cameras alongside lidar, pointing to a larger sensing hardware opportunity.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=97c38c7eb2b362648d3ffdaeb95f2a1fa89a786d2852d14e1a334361a80ba94e"
+          "url": "https://finnhub.io/api/news?id=6845460f59d48e0503f46022cfa7a10f6403bb97a9391d500cd202cc059ac89f"
+        },
+        {
+          "headline": "EXCLUSIVE: Nvidia Partner Ouster Says Physical AI Is Moving From 'Demo To Deployment'",
+          "summary": "Ouster&#39;s CEO Angus Pacala tells Benzinga that Physical AI is shifting from demos to real-world deployments as pilots move into production.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7c044be95f7988c35bf7222376ff430050abc57a0aea5999eea559dc847d76bf"
+        },
+        {
+          "headline": "CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
+          "summary": "CoreWeave lands a multibillion-dollar AI cloud deal with Hudson River Trading as Wall Street&#39;s trading giants race for Nvidia&#39;s newest chips.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8cfc4b742ab1b52daa98e5678147ad342d5e9dcaefdd61ad243bcce4ee50dc4c"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Falling AI Prices Could Be Good News for Nvidia Stock / Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region / NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick / NVDA Rival Cerebras Unveils New AI System It Says Is Up to 30X Faster Than Nvidia GPUs",
+      "news_summary": "최근 뉴스 헤드라인: EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It / QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each / EXCLUSIVE: Nvidia Partner Ouster Says Physical AI Is Moving From 'Demo To Deployment' / CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 92.8,
-      "change_pct": -4.0182,
-      "prev_close": 96.685,
+      "price": 92.13,
+      "change_pct": -0.722,
+      "prev_close": 92.8,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 22.78,
-      "easy_explanation": "오늘 전일 대비 4.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.72% 내렸어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
       "news": [
+        {
+          "headline": "What's Going On With Intel Stock Thursday?",
+          "summary": "Intel shares slide premarket as cooling tech sentiment pressures INTC below key moving averages despite bullish momentum.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=1ccf756b8385cecad2e473115523d1ebcaf085b8c227a85fffdabe834ef74726"
+        },
+        {
+          "headline": "‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
+          "summary": "Investor Tom Hayes warns Berkshire Hathaway is &#34;done.&#34; Discover why he&#39;s betting big on turnaround stocks like PayPal and Intel instead.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=cd9e6949bfb80c5589ff96757f14852069bc5112d3b5990d52a9649436f1b4e1"
+        },
+        {
+          "headline": "Intel: Why I Am Not Buying The Dip",
+          "summary": "Intel Q2 revenue +25% and Data Center/AI +59% signal momentum, but dilution, capex and foundry losses loom.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=989a721f431e07fffef2d3f9c914422cbce089c165f3e696f7dfd3da07e53fe4"
+        },
         {
           "headline": "Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
           "summary": "Intel (INTC) targets a $2T AI hardware boom by challenging Taiwan Semiconductor (TSM) in advanced packaging.",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=d7b8d9a8df655952f22aceb3fbb26d322a316cb314383e7106c8660a73a44372"
-        },
-        {
-          "headline": "What's Going On With Intel Stock Tuesday?",
-          "summary": "Intel stock drops nearly 5% premarket in broad tech selloff. Read technical key support levels and analyst price forecasts for INTC.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3a176e26ab5015fc893e0e97c4cbff05ea224917184efc7003daf98949da3bb6"
-        },
-        {
-          "headline": "Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026",
-          "summary": "The family office increased its Amazon stake by more than 1,000% while completely exiting Broadcom, Intel, and Micron",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be1afacdbd083d618d61bd2fd141831f9978a407294dd4365342233959915c16"
-        },
-        {
-          "headline": "Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
-          "summary": "A Wedbush note linking Cerebras to OpenAI's fastest inference tier sent shares surging after last week's brutal selloff, and the 13F filings landing Monday reveal exactly which major funds are quietly betting billions on the AI chip race.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c107594edbb81b34f937a736ba68cd5329bb48f58ba5800d41f9b2ff05d6c4e"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress / What's Going On With Intel Stock Tuesday? / Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026 / Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
+      "news_summary": "최근 뉴스 헤드라인: What's Going On With Intel Stock Thursday? / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead / Intel: Why I Am Not Buying The Dip / Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
