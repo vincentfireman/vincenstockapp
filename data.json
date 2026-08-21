@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-20 21:25",
+  "updated_at": "2026-08-21 21:21",
   "stocks": {
     "NVDA": {
-      "price": 216.85,
-      "change_pct": -0.3263,
-      "prev_close": 217.56,
+      "price": 214.72,
+      "change_pct": -0.9822,
+      "prev_close": 216.85,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.33% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 73% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.98% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 70% 지점에 있어요.",
       "news": [
         {
-          "headline": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
-          "summary": "Ouster CEO Angus Pacala says Tesla and Waymo are accelerating Physical AI adoption rather than competing with the lidar maker.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f50aa2ea2ee3192a197d90d5fb6a2e046fbfc65772a5c7ed156d4bc479e0098f"
+          "headline": "Nvidia: 500 Billion Reasons Why This Is A Strong Buy",
+          "summary": "Nvidia Corporation remains a top AI infrastructure buy ahead of earnings. Click here for this NVDA stock update and earnings preview.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=de473d47c7154cab7bedd61dbe6401e23429d2b6b534b03c459cc77845107462"
         },
         {
-          "headline": "QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each",
-          "summary": "Ouster CEO Angus Pacala says humanoid robots could use up to 12 cameras alongside lidar, pointing to a larger sensing hardware opportunity.",
+          "headline": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
+          "summary": "BMO initiates AMD with an Outperform rating and $550 price target, citing massive AI growth driven by its upcoming Helios system.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=6845460f59d48e0503f46022cfa7a10f6403bb97a9391d500cd202cc059ac89f"
+          "url": "https://finnhub.io/api/news?id=5d8a9a0835da26801e64673775cbd08c883f4336b1e946c12f9bbca1eba4b385"
         },
         {
-          "headline": "EXCLUSIVE: Nvidia Partner Ouster Says Physical AI Is Moving From 'Demo To Deployment'",
-          "summary": "Ouster&#39;s CEO Angus Pacala tells Benzinga that Physical AI is shifting from demos to real-world deployments as pilots move into production.",
+          "headline": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
+          "summary": "Elon Musk says Wall Street still underestimates SpaceX despite analysts projecting revenue growth far ahead of Nvidia&#39;s.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7c044be95f7988c35bf7222376ff430050abc57a0aea5999eea559dc847d76bf"
+          "url": "https://finnhub.io/api/news?id=c9f4c1adeb6acc5a651d1e0fc889c5945b89b35f5496dd3857fac3a3baa1a5a6"
         },
         {
-          "headline": "CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
-          "summary": "CoreWeave lands a multibillion-dollar AI cloud deal with Hudson River Trading as Wall Street&#39;s trading giants race for Nvidia&#39;s newest chips.",
+          "headline": "'Nvidia in Talks to Invest Several Hundred Million Dollars in Data-Center Power Developer Cloverleaf Infrastructure' - WSJ Exclusive",
+          "summary": "https://www.wsj.com/business/deals/nvidia-in-talks-to-invest-in-data-center-power-developer-cloverleaf-infrastructure-ff94c556",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8cfc4b742ab1b52daa98e5678147ad342d5e9dcaefdd61ad243bcce4ee50dc4c"
+          "url": "https://finnhub.io/api/news?id=21dc927504d33063621c310ad3c56846d2332d91b976641f660e7f3329d675e9"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It / QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each / EXCLUSIVE: Nvidia Partner Ouster Says Physical AI Is Moving From 'Demo To Deployment' / CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia: 500 Billion Reasons Why This Is A Strong Buy / AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says / Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low. / 'Nvidia in Talks to Invest Several Hundred Million Dollars in Data-Center Power Developer Cloverleaf Infrastructure' - WSJ Exclusive",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,14 +47,20 @@
       }
     },
     "INTC": {
-      "price": 92.13,
-      "change_pct": -0.722,
-      "prev_close": 92.8,
+      "price": 90.07,
+      "change_pct": -2.236,
+      "prev_close": 92.13,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 22.78,
-      "easy_explanation": "오늘 전일 대비 0.72% 내렸어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.24% 내렸어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
       "news": [
+        {
+          "headline": "Trump’s ‘Do Magnets’ Push Could Spark the Next Intel-Style Rally — 2 Stocks to Watch (UPDATED)",
+          "summary": "Editor’s Note: The story has been refreshed with the latest market price action and a revised headline.\n\n\n\nPresident Donald Trump recently urged the American industrial base to “Do magnets,” placing a massive spotlight",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=da10ec0c73db248e17e5e46b7b27f64f173aafaa355b079fe841ccafc4145b9c"
+        },
         {
           "headline": "What's Going On With Intel Stock Thursday?",
           "summary": "Intel shares slide premarket as cooling tech sentiment pressures INTC below key moving averages despite bullish momentum.",
@@ -72,15 +78,9 @@
           "summary": "Intel Q2 revenue +25% and Data Center/AI +59% signal momentum, but dilution, capex and foundry losses loom.",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=989a721f431e07fffef2d3f9c914422cbce089c165f3e696f7dfd3da07e53fe4"
-        },
-        {
-          "headline": "Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
-          "summary": "Intel (INTC) targets a $2T AI hardware boom by challenging Taiwan Semiconductor (TSM) in advanced packaging.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d7b8d9a8df655952f22aceb3fbb26d322a316cb314383e7106c8660a73a44372"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What's Going On With Intel Stock Thursday? / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead / Intel: Why I Am Not Buying The Dip / Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
+      "news_summary": "최근 뉴스 헤드라인: Trump’s ‘Do Magnets’ Push Could Spark the Next Intel-Style Rally — 2 Stocks to Watch (UPDATED) / What's Going On With Intel Stock Thursday? / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead / Intel: Why I Am Not Buying The Dip",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
