@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-21 21:21",
+  "updated_at": "2026-08-24 21:26",
   "stocks": {
     "NVDA": {
-      "price": 214.72,
-      "change_pct": -0.9822,
-      "prev_close": 216.85,
+      "price": 208.48,
+      "change_pct": -2.9061,
+      "prev_close": 214.72,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.98% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 70% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.91% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia: 500 Billion Reasons Why This Is A Strong Buy",
-          "summary": "Nvidia Corporation remains a top AI infrastructure buy ahead of earnings. Click here for this NVDA stock update and earnings preview.",
+          "headline": "Nvidia Earnings Preview: Q2 2027",
+          "summary": "Could the Q2 release and guidance provide the next positive catalyst for Nvidia stock, or are expectations largely priced in for now?",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=de473d47c7154cab7bedd61dbe6401e23429d2b6b534b03c459cc77845107462"
+          "url": "https://finnhub.io/api/news?id=3c90fc0543b2d66d1c1e133aca14148f77fa634c1632fd67d6a4da33a5f77b1f"
         },
         {
-          "headline": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
-          "summary": "BMO initiates AMD with an Outperform rating and $550 price target, citing massive AI growth driven by its upcoming Helios system.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5d8a9a0835da26801e64673775cbd08c883f4336b1e946c12f9bbca1eba4b385"
+          "headline": "Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments",
+          "summary": "",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2e89ef21adffa834d2233b744bf1c031a94c4326cda283b7f8d865627254cd23"
         },
         {
-          "headline": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
-          "summary": "Elon Musk says Wall Street still underestimates SpaceX despite analysts projecting revenue growth far ahead of Nvidia&#39;s.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c9f4c1adeb6acc5a651d1e0fc889c5945b89b35f5496dd3857fac3a3baa1a5a6"
+          "headline": "Why Nvidia Is A Broken Stock",
+          "summary": "Nvidia Corporation: why itâs a near-term sellâserver price hikes, supply chain pressures, AI investments, and valuation/technical risks. Click for an NVDA update.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d37019d68f23137395beb94121c4b9e6f6555b7f0efacc5ec55984526fa81a15"
         },
         {
-          "headline": "'Nvidia in Talks to Invest Several Hundred Million Dollars in Data-Center Power Developer Cloverleaf Infrastructure' - WSJ Exclusive",
-          "summary": "https://www.wsj.com/business/deals/nvidia-in-talks-to-invest-in-data-center-power-developer-cloverleaf-infrastructure-ff94c556",
+          "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+          "summary": "\n\n\n\nWild Stock Moves Ahead\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that drove the stock market",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=21dc927504d33063621c310ad3c56846d2332d91b976641f660e7f3329d675e9"
+          "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia: 500 Billion Reasons Why This Is A Strong Buy / AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says / Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low. / 'Nvidia in Talks to Invest Several Hundred Million Dollars in Data-Center Power Developer Cloverleaf Infrastructure' - WSJ Exclusive",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Earnings Preview: Q2 2027 / Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments / Why Nvidia Is A Broken Stock / Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,28 @@
       }
     },
     "INTC": {
-      "price": 90.07,
-      "change_pct": -2.236,
-      "prev_close": 92.13,
+      "price": 87.26,
+      "change_pct": -3.1198,
+      "prev_close": 90.07,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 22.78,
-      "easy_explanation": "오늘 전일 대비 2.24% 내렸어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.12% 내렸어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Trump’s ‘Do Magnets’ Push Could Spark the Next Intel-Style Rally — 2 Stocks to Watch (UPDATED)",
-          "summary": "Editor’s Note: The story has been refreshed with the latest market price action and a revised headline.\n\n\n\nPresident Donald Trump recently urged the American industrial base to “Do magnets,” placing a massive spotlight",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=da10ec0c73db248e17e5e46b7b27f64f173aafaa355b079fe841ccafc4145b9c"
-        },
-        {
-          "headline": "What's Going On With Intel Stock Thursday?",
-          "summary": "Intel shares slide premarket as cooling tech sentiment pressures INTC below key moving averages despite bullish momentum.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=1ccf756b8385cecad2e473115523d1ebcaf085b8c227a85fffdabe834ef74726"
+          "headline": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
+          "summary": "Anyone still holding shares from the $20 billion stock sale that priced on Aug. 10 is down on the trade. What would it take to get them back to even?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=df168fa33197a3cfe327cfb541dff88c722f6f5e002b77a51a8184aa265c1f3f"
         },
         {
           "headline": "‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
-          "summary": "Investor Tom Hayes warns Berkshire Hathaway is &#34;done.&#34; Discover why he&#39;s betting big on turnaround stocks like PayPal and Intel instead.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=cd9e6949bfb80c5589ff96757f14852069bc5112d3b5990d52a9649436f1b4e1"
-        },
-        {
-          "headline": "Intel: Why I Am Not Buying The Dip",
-          "summary": "Intel Q2 revenue +25% and Data Center/AI +59% signal momentum, but dilution, capex and foundry losses loom.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=989a721f431e07fffef2d3f9c914422cbce089c165f3e696f7dfd3da07e53fe4"
+          "summary": "Great Hill Capital founder Tom Hayes believes Berkshire Hathaway Inc. will fail to beat the S&P 500 over the next decade, declaring the conglomerate’s era of market outperformance is “done.” Instead, the contrarian investor is placing high-conviction turnaround bets on...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7dd93ad8e7c6ff3c3e4466954be58ef2f1217d2c211ff97252da70f81a7c592a"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Trump’s ‘Do Magnets’ Push Could Spark the Next Intel-Style Rally — 2 Stocks to Watch (UPDATED) / What's Going On With Intel Stock Thursday? / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead / Intel: Why I Am Not Buying The Dip",
+      "news_summary": "최근 뉴스 헤드라인: Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93. / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
