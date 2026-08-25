@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-24 21:26",
+  "updated_at": "2026-08-25 21:25",
   "stocks": {
     "NVDA": {
-      "price": 208.48,
-      "change_pct": -2.9061,
-      "prev_close": 214.72,
+      "price": 213.05,
+      "change_pct": 2.1921,
+      "prev_close": 208.48,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.91% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.19% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Earnings Preview: Q2 2027",
-          "summary": "Could the Q2 release and guidance provide the next positive catalyst for Nvidia stock, or are expectations largely priced in for now?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3c90fc0543b2d66d1c1e133aca14148f77fa634c1632fd67d6a4da33a5f77b1f"
-        },
-        {
-          "headline": "Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments",
-          "summary": "",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2e89ef21adffa834d2233b744bf1c031a94c4326cda283b7f8d865627254cd23"
-        },
-        {
-          "headline": "Why Nvidia Is A Broken Stock",
-          "summary": "Nvidia Corporation: why itâs a near-term sellâserver price hikes, supply chain pressures, AI investments, and valuation/technical risks. Click for an NVDA update.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d37019d68f23137395beb94121c4b9e6f6555b7f0efacc5ec55984526fa81a15"
-        },
-        {
-          "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
-          "summary": "\n\n\n\nWild Stock Moves Ahead\n\n\n\nPlease click here for an enlarged chart of Direxion Daily Semiconductor Bull 3X ETF (NYSE:SOXL).\n\n\n\nNote the following:\n\n\n\n\nSemiconductors are the leading sector that drove the stock market",
+          "headline": "Nvidia Could Swing By $286 Billion After Earnings",
+          "summary": "Options markets are pricing major post-earnings moves for Nvidia, Salesforce, CrowdStrike, Okta, Kohls and Abercrombie &amp; Fitch, with implied volatility reaching 13.26%.",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f"
+          "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
+        },
+        {
+          "headline": "Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets",
+          "summary": "Leveraged ETF launches are surging in 2026, but 63 funds have closed as assets concentrate in winners tied to Nvidia, AI and semiconductors.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=2c25c4250c0ba4a06b66038c48c26ef7bacbd77337e30f813a2e4fc83e9a24d7"
+        },
+        {
+          "headline": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
+          "summary": "Cisco&#39;s expanded Nvidia partnership highlights why liquid cooling is becoming the new standard for AI infrastructure.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=db888e98b43af6fd0d53bb6a4568216a1e35097cf3436184052ca0153965543c"
+        },
+        {
+          "headline": "Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
+          "summary": "OpenAI's (OPENAI) in-house inference chip JalapeÃ±o outperformed Nvidia's (NVDA) Blackwell in some scenarios, according to testing results from the company.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fb8ca1eedca9f58590f4646471abc9fe297199ad2a3d31e80bee673b0207762b"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Earnings Preview: Q2 2027 / Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments / Why Nvidia Is A Broken Stock / Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Could Swing By $286 Billion After Earnings / Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets / Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet / Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,28 +47,40 @@
       }
     },
     "INTC": {
-      "price": 87.26,
-      "change_pct": -3.1198,
-      "prev_close": 90.07,
+      "price": 87.48,
+      "change_pct": 0.2521,
+      "prev_close": 87.26,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 22.78,
-      "easy_explanation": "오늘 전일 대비 3.12% 내렸어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
+      "week52_low": 23.65,
+      "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
-          "summary": "Anyone still holding shares from the $20 billion stock sale that priced on Aug. 10 is down on the trade. What would it take to get them back to even?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df168fa33197a3cfe327cfb541dff88c722f6f5e002b77a51a8184aa265c1f3f"
+          "headline": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
+          "summary": "Raymond James upgrades AMD to Strong Buy, sees it overtaking Intel by 2027 as agentic AI drives CPU market growth.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=773e1d89845978e54e5326c30b7f62f4b7ac52a8848d521c0cb071859bb33ce6"
         },
         {
-          "headline": "‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
-          "summary": "Great Hill Capital founder Tom Hayes believes Berkshire Hathaway Inc. will fail to beat the S&P 500 over the next decade, declaring the conglomerate’s era of market outperformance is “done.” Instead, the contrarian investor is placing high-conviction turnaround bets on...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7dd93ad8e7c6ff3c3e4466954be58ef2f1217d2c211ff97252da70f81a7c592a"
+          "headline": "Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
+          "summary": "Intel stock climbed premarket as the chipmaker unveiled its new Diamond Rapids, Crescent Island, and Wildcat Lake processors to target expanding AI workloads.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4ccd2cc9e0b65308121867bf5c4329f7d7e6e9e39361d5867db279ed9ec35839"
+        },
+        {
+          "headline": "Intel: Priced For Potential Of CPUs, Not For The Momentum Of The Foundry (Upgrade)",
+          "summary": "Intel Corporation completed a $20 billion share issuance, which will strengthen the company's balance sheet. Read why INTC stock is upgraded to a strong buy.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3a364419d44913e51349443cd237ecc05e7dc87f176e939bf3e2e3bc0cace544"
+        },
+        {
+          "headline": "Why Is Intel Stock Falling on Monday?",
+          "summary": "Intel Corp. (NASDAQ: INTC) stock drops on Monday, August 24, 2026, amid a semiconductor sell-off and pressure from its $20 billion stock offering.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5ef323c3799fdbf5d2f6a089bed0947e80534730e203890d7a69aef7afbc58c0"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93. / ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
+      "news_summary": "최근 뉴스 헤드라인: This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market / Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth / Intel: Priced For Potential Of CPUs, Not For The Momentum Of The Foundry (Upgrade) / Why Is Intel Stock Falling on Monday?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
