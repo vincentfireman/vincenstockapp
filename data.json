@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-25 21:25",
+  "updated_at": "2026-08-27 00:26",
   "stocks": {
     "NVDA": {
-      "price": 213.05,
-      "change_pct": 2.1921,
-      "prev_close": 208.48,
+      "price": 209.66,
+      "change_pct": -1.5912,
+      "prev_close": 213.05,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.19% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.59% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Could Swing By $286 Billion After Earnings",
-          "summary": "Options markets are pricing major post-earnings moves for Nvidia, Salesforce, CrowdStrike, Okta, Kohls and Abercrombie &amp; Fitch, with implied volatility reaching 13.26%.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=68674c47e49b20815fd38ebc9ce8a659b68d1509dabebe169fe463302b55049a"
-        },
-        {
-          "headline": "Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets",
-          "summary": "Leveraged ETF launches are surging in 2026, but 63 funds have closed as assets concentrate in winners tied to Nvidia, AI and semiconductors.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2c25c4250c0ba4a06b66038c48c26ef7bacbd77337e30f813a2e4fc83e9a24d7"
-        },
-        {
-          "headline": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
-          "summary": "Cisco&#39;s expanded Nvidia partnership highlights why liquid cooling is becoming the new standard for AI infrastructure.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=db888e98b43af6fd0d53bb6a4568216a1e35097cf3436184052ca0153965543c"
-        },
-        {
-          "headline": "Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
-          "summary": "OpenAI's (OPENAI) in-house inference chip JalapeÃ±o outperformed Nvidia's (NVDA) Blackwell in some scenarios, according to testing results from the company.",
+          "headline": "Nvidia Q2: The $10 Trillion Thesis",
+          "summary": "Nvidia posts triple-digit AI revenue growth, strong margins, and upbeat guidanceâsupporting a compelling valuation and $10T upside. Click to know more on NVDA.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fb8ca1eedca9f58590f4646471abc9fe297199ad2a3d31e80bee673b0207762b"
+          "url": "https://finnhub.io/api/news?id=2817a606305ccb037b2cf67f2e2d75762fde7f333f8228b530d0fdf68286741e"
+        },
+        {
+          "headline": "Nvidia Q2 FY27: I'm Buying This Weakness",
+          "summary": "Nvidia (NVDA) is a Strong Buy as P/E compresses and earnings surge; see Q2 revenue +106% and key risks like margins and supplyâread now.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3c01c0f0f65d887f542e7cb91ac6587ac2ae2faf1f4a662e998555f76be9d6df"
+        },
+        {
+          "headline": "Nvidia: Compressing Multiples And A $260 Technical Target",
+          "summary": "Nvidia Corporation Buy thesis: revenue growth to $108B, P/E 23, liquidity tailwinds, and chart consolidation point to a breakout toward $260â$265. Click for this NVDA update.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=dacaeb5ee70b17f16e637054a02ebead758986b7845eaa7e3a081e89f45e659b"
+        },
+        {
+          "headline": "Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
+          "summary": "Nvidia Corporation delivered another earnings beat in its latest fiscal Q2 report, showcasing robust growth. Read more on NVDA stock here.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=164eb0c70a1abd1892a4f35247601a94d22f6b0160d748c5511cf31afb7c06eb"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Could Swing By $286 Billion After Earnings / Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets / Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet / Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Q2: The $10 Trillion Thesis / Nvidia Q2 FY27: I'm Buying This Weakness / Nvidia: Compressing Multiples And A $260 Technical Target / Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,14 +47,26 @@
       }
     },
     "INTC": {
-      "price": 87.48,
-      "change_pct": 0.2521,
-      "prev_close": 87.26,
+      "price": 88.24,
+      "change_pct": 0.8688,
+      "prev_close": 87.48,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 23.65,
-      "easy_explanation": "오늘 전일 대비 0.25% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
+      "week52_low": 23.68,
+      "easy_explanation": "오늘 전일 대비 0.87% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
+        {
+          "headline": "Intel Corporation (INTC) Presents at Deutsche Bank 2026 Technology Conference Transcript",
+          "summary": "Intel Corporation (INTC) Deutsche Bank 2026 Technology Conference August 26, 2026 1:35 PM EDTCompany ParticipantsDavid Zinsner - Executive VP, CFO and...",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e343f4aaa37168d3aedd22ff158c1dfe7f30573e281101737624c4876669454e"
+        },
+        {
+          "headline": "Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch",
+          "summary": "rump&#39;s solar tariffs could trigger the next Intel-style deal. Kellogg expert reveals why First Solar (FSLR) and Corning (GLW) are key.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=dbb852ca6d2cf765856c7cc5397d25bb96a7e711fe15795c2a907448fb59217c"
+        },
         {
           "headline": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
           "summary": "Raymond James upgrades AMD to Strong Buy, sees it overtaking Intel by 2027 as agentic AI drives CPU market growth.",
@@ -66,21 +78,9 @@
           "summary": "Intel stock climbed premarket as the chipmaker unveiled its new Diamond Rapids, Crescent Island, and Wildcat Lake processors to target expanding AI workloads.",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=4ccd2cc9e0b65308121867bf5c4329f7d7e6e9e39361d5867db279ed9ec35839"
-        },
-        {
-          "headline": "Intel: Priced For Potential Of CPUs, Not For The Momentum Of The Foundry (Upgrade)",
-          "summary": "Intel Corporation completed a $20 billion share issuance, which will strengthen the company's balance sheet. Read why INTC stock is upgraded to a strong buy.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3a364419d44913e51349443cd237ecc05e7dc87f176e939bf3e2e3bc0cace544"
-        },
-        {
-          "headline": "Why Is Intel Stock Falling on Monday?",
-          "summary": "Intel Corp. (NASDAQ: INTC) stock drops on Monday, August 24, 2026, amid a semiconductor sell-off and pressure from its $20 billion stock offering.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5ef323c3799fdbf5d2f6a089bed0947e80534730e203890d7a69aef7afbc58c0"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market / Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth / Intel: Priced For Potential Of CPUs, Not For The Momentum Of The Foundry (Upgrade) / Why Is Intel Stock Falling on Monday?",
+      "news_summary": "최근 뉴스 헤드라인: Intel Corporation (INTC) Presents at Deutsche Bank 2026 Technology Conference Transcript / Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch / This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market / Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
