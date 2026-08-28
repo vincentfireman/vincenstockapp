@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-27 00:26",
+  "updated_at": "2026-08-28 05:06",
   "stocks": {
     "NVDA": {
-      "price": 209.66,
-      "change_pct": -1.5912,
-      "prev_close": 213.05,
+      "price": 227.98,
+      "change_pct": 8.738,
+      "prev_close": 209.66,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 1.59% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 8.74% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 88% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Q2: The $10 Trillion Thesis",
-          "summary": "Nvidia posts triple-digit AI revenue growth, strong margins, and upbeat guidanceâsupporting a compelling valuation and $10T upside. Click to know more on NVDA.",
+          "headline": "Nvidia Picks Up The Slack",
+          "summary": "The S&P 500 is on pace to finish Thursday with a healthy gain of 0.77% as of this writing; however, it's a thin rally.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2817a606305ccb037b2cf67f2e2d75762fde7f333f8228b530d0fdf68286741e"
+          "url": "https://finnhub.io/api/news?id=57173a9a84b6f555310e18def1a2ba8805ae1b041d6906c7384d9c58c7cd3c82"
         },
         {
-          "headline": "Nvidia Q2 FY27: I'm Buying This Weakness",
-          "summary": "Nvidia (NVDA) is a Strong Buy as P/E compresses and earnings surge; see Q2 revenue +106% and key risks like margins and supplyâread now.",
+          "headline": "Nvidia: The 'Coiled Spring' Poised To Jump",
+          "summary": "Nvidia Corporation is deeply undervalued with massive AI growth ahead. See the P/E, PEG, demand-supply outlook & price targets ($300-$400). Click for an NVDA stock update.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3c01c0f0f65d887f542e7cb91ac6587ac2ae2faf1f4a662e998555f76be9d6df"
+          "url": "https://finnhub.io/api/news?id=2cc4a9c1f698b781123b0ae14a5b20f2743779d7e68ec543de2f90442810e647"
         },
         {
-          "headline": "Nvidia: Compressing Multiples And A $260 Technical Target",
-          "summary": "Nvidia Corporation Buy thesis: revenue growth to $108B, P/E 23, liquidity tailwinds, and chart consolidation point to a breakout toward $260â$265. Click for this NVDA update.",
+          "headline": "Nvidia Climbing The Wall Of Worries",
+          "summary": "Given Nvidia's tone during the call, I think itâs fair to say ~70% revenue growth may be a floor for next year.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=dacaeb5ee70b17f16e637054a02ebead758986b7845eaa7e3a081e89f45e659b"
+          "url": "https://finnhub.io/api/news?id=56eef22a8f122ae48aa02dd61ef4e6d881045e40c0c2b6bd3ddf2afed3db7b64"
         },
         {
-          "headline": "Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
-          "summary": "Nvidia Corporation delivered another earnings beat in its latest fiscal Q2 report, showcasing robust growth. Read more on NVDA stock here.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=164eb0c70a1abd1892a4f35247601a94d22f6b0160d748c5511cf31afb7c06eb"
+          "headline": "Why I’m Keeping My Nvidia Position After Q2 27",
+          "summary": "Nvidia’s Q2 strengthens my long-term thesis, but margin pressure, AI financing risks and portfolio concentration keep me from adding shares.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=9703c5632cc803771924dd91b2e1870cc772d31c41c6803613b263bd67282061"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Q2: The $10 Trillion Thesis / Nvidia Q2 FY27: I'm Buying This Weakness / Nvidia: Compressing Multiples And A $260 Technical Target / Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Picks Up The Slack / Nvidia: The 'Coiled Spring' Poised To Jump / Nvidia Climbing The Wall Of Worries / Why I’m Keeping My Nvidia Position After Q2 27",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 88.24,
-      "change_pct": 0.8688,
-      "prev_close": 87.48,
+      "price": 92.09,
+      "change_pct": 4.3631,
+      "prev_close": 88.24,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 23.68,
-      "easy_explanation": "오늘 전일 대비 0.87% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.36% 올랐어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
       "news": [
+        {
+          "headline": "QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value",
+          "summary": "If Nvidia were to reach that level from its current price of around $226, its market capitalization would climb to about $12.5 trillion.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=71cc3ad2649da68e781627f0ad4f59a6b2bac2cf3bc1526e85b2842f492c638d"
+        },
+        {
+          "headline": "Why Is Intel Stock Surging on Thursday?",
+          "summary": "Intel Corp. (INTC) stock is surging Thursday following Nvidia’s strong Q2 financial results and reports of potential broad U.S. chip tariffs.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=11eea201d99328cff3a38bc92799a37096f8fa2b5c01f04cb132dd97dabbb39e"
+        },
+        {
+          "headline": "Nvidia Stock Climbs Over 7% in Thursday Pre-Market: What’s Lifting Micron, Intel and Other Chip Stocks?",
+          "summary": "Nvidia shares surge 7.4% premarket as strong guidance boosts chip stocks, while CEO Jensen Huang cites robust AI demand.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5bac38b5d50e9af866da848c31d5f2cba85176e2d5723bdce8ff92ca7fa4fcda"
+        },
         {
           "headline": "Intel Corporation (INTC) Presents at Deutsche Bank 2026 Technology Conference Transcript",
           "summary": "Intel Corporation (INTC) Deutsche Bank 2026 Technology Conference August 26, 2026 1:35 PM EDTCompany ParticipantsDavid Zinsner - Executive VP, CFO and...",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e343f4aaa37168d3aedd22ff158c1dfe7f30573e281101737624c4876669454e"
-        },
-        {
-          "headline": "Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch",
-          "summary": "rump&#39;s solar tariffs could trigger the next Intel-style deal. Kellogg expert reveals why First Solar (FSLR) and Corning (GLW) are key.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=dbb852ca6d2cf765856c7cc5397d25bb96a7e711fe15795c2a907448fb59217c"
-        },
-        {
-          "headline": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
-          "summary": "Raymond James upgrades AMD to Strong Buy, sees it overtaking Intel by 2027 as agentic AI drives CPU market growth.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=773e1d89845978e54e5326c30b7f62f4b7ac52a8848d521c0cb071859bb33ce6"
-        },
-        {
-          "headline": "Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
-          "summary": "Intel stock climbed premarket as the chipmaker unveiled its new Diamond Rapids, Crescent Island, and Wildcat Lake processors to target expanding AI workloads.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4ccd2cc9e0b65308121867bf5c4329f7d7e6e9e39361d5867db279ed9ec35839"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Corporation (INTC) Presents at Deutsche Bank 2026 Technology Conference Transcript / Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch / This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market / Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
+      "news_summary": "최근 뉴스 헤드라인: QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value / Why Is Intel Stock Surging on Thursday? / Nvidia Stock Climbs Over 7% in Thursday Pre-Market: What’s Lifting Micron, Intel and Other Chip Stocks? / Intel Corporation (INTC) Presents at Deutsche Bank 2026 Technology Conference Transcript",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-08-01",
