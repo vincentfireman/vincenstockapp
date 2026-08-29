@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-28 05:06",
+  "updated_at": "2026-08-29 03:04",
   "stocks": {
     "NVDA": {
-      "price": 227.98,
-      "change_pct": 8.738,
-      "prev_close": 209.66,
+      "price": 217.55,
+      "change_pct": -4.575,
+      "prev_close": 227.98,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 8.74% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 88% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.58% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Picks Up The Slack",
-          "summary": "The S&P 500 is on pace to finish Thursday with a healthy gain of 0.77% as of this writing; however, it's a thin rally.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=57173a9a84b6f555310e18def1a2ba8805ae1b041d6906c7384d9c58c7cd3c82"
+          "headline": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
+          "summary": "Kevin Warsh reignites rate-hike bets, Nvidia posts its best day since April, and CrowdStrike prints the biggest gain in its history.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=226a087fb2c034cf2076b7844135dd196ce111c2eb8062283e71ffc0a6e21d87"
         },
         {
-          "headline": "Nvidia: The 'Coiled Spring' Poised To Jump",
-          "summary": "Nvidia Corporation is deeply undervalued with massive AI growth ahead. See the P/E, PEG, demand-supply outlook & price targets ($300-$400). Click for an NVDA stock update.",
+          "headline": "Nvidia Just Validated Micron's Biggest AI Bull Case",
+          "summary": "Micron Technology, Inc. stock dips despite rising DRAM prices; HBM4E may tighten supply. Click for this MU update.",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2cc4a9c1f698b781123b0ae14a5b20f2743779d7e68ec543de2f90442810e647"
+          "url": "https://finnhub.io/api/news?id=e1beb79c3a41438a4f20b4928d8e3e9b46d4347fe67132d017c829edfa50d91f"
         },
         {
-          "headline": "Nvidia Climbing The Wall Of Worries",
-          "summary": "Given Nvidia's tone during the call, I think itâs fair to say ~70% revenue growth may be a floor for next year.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=56eef22a8f122ae48aa02dd61ef4e6d881045e40c0c2b6bd3ddf2afed3db7b64"
-        },
-        {
-          "headline": "Why I’m Keeping My Nvidia Position After Q2 27",
-          "summary": "Nvidia’s Q2 strengthens my long-term thesis, but margin pressure, AI financing risks and portfolio concentration keep me from adding shares.",
+          "headline": "NVIDIA (NASDAQ:NVDA) Shows High-Growth Leadership and Strong Momentum",
+          "summary": "NVIDIA excels in CANSLIM screen with 111% EPS growth, strong sales, high ROE, and momentum—though extended setup warrants patience.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=9703c5632cc803771924dd91b2e1870cc772d31c41c6803613b263bd67282061"
+          "url": "https://finnhub.io/api/news?id=f3bb331db396cabf04b82d32af09e0c81dccf2e90d680e84c21011e0e97cc6d5"
+        },
+        {
+          "headline": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
+          "summary": "NBA star Kevin Durant may have just had one of his best moves ever and it wasn&#39;t on the court. Here&#39;s how much he made from one of his investments.",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4141431b468d3817c9b323acee210375da9b570a6765935d61703f4e22629ba8"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Picks Up The Slack / Nvidia: The 'Coiled Spring' Poised To Jump / Nvidia Climbing The Wall Of Worries / Why I’m Keeping My Nvidia Position After Q2 27",
+      "news_summary": "최근 뉴스 헤드라인: Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street / Nvidia Just Validated Micron's Biggest AI Bull Case / NVIDIA (NASDAQ:NVDA) Shows High-Growth Leadership and Strong Momentum / Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-08-01",
@@ -47,13 +47,13 @@
       }
     },
     "INTC": {
-      "price": 92.09,
-      "change_pct": 4.3631,
-      "prev_close": 88.24,
+      "price": 89.47,
+      "change_pct": -2.845,
+      "prev_close": 92.09,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 23.68,
-      "easy_explanation": "오늘 전일 대비 4.36% 올랐어요. 최근 1년 최저가~최고가 구간에서 58% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.85% 내렸어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
       "news": [
         {
           "headline": "QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value",
