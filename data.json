@@ -1,39 +1,45 @@
 {
-  "updated_at": "2026-09-01 23:00",
+  "updated_at": "2026-09-02 22:58",
   "stocks": {
     "NVDA": {
-      "price": 217.44,
-      "change_pct": -1.5128,
-      "prev_close": 220.78,
+      "price": 224.41,
+      "change_pct": 3.2055,
+      "prev_close": 217.44,
       "pe_ttm": 33.9758,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 1.51% 내렸어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 74% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.21% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Sells the Brains of the AI Boom. Something Else Is Selling the Muscle -- and It's Not on Wall Street's Radar.",
-          "summary": "AI data center owners are looking to cut operating costs. One way is to drop a century-old electricity convention and replace it with something surprising.",
+          "headline": "NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026",
+          "summary": "NVIDIA and four tech giants offer quantum exposure through cloud, software and infrastructure, helping investors tap the boom beyond pure plays.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99be8f57191c0c8d6a52fcc0e4ac2336cfc50e21c4243622efd96ad584760f40"
+          "url": "https://finnhub.io/api/news?id=04d60ae2a32e57082622429af5d36b2a8f4061119b63296192b1f09318aa9a17"
         },
         {
-          "headline": "Nvidia Slips as 700-Gigawatt Data-Center Pipeline Faces Texas Scrutiny",
-          "summary": "Texas paused new grid connections while auditing whether proposed data-center projects represent genuine demand.",
+          "headline": "Prediction: $1,104 Invested in Nvidia Today Will Be Worth This Much by 2030",
+          "summary": "The chipmaking giant's valuation can't go down forever.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7a72f34e62112b669d71e369bca58e4c1a8ce290fa2e4e53dd9307ab860f75b"
+          "url": "https://finnhub.io/api/news?id=a11b11c0d76fb73692ab033afa3b7e12ebdb87ad98f62d69355f138268dddb4c"
         },
         {
-          "headline": "Nvidia: Unstoppable Momentum As Vera Rubin Platform Takes Off",
-          "summary": "Nvidia Corporation retakes top U.S. market-cap spot as shares jump 15% YTD, driven by growth, Q2 beat and Vera Rubin traction. Click for this NVDA stock update.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d7a82738066e6cd87991a741cf9c9dbbf5c4296e1bb9d0f722feba3d0c81a6f6"
+          "headline": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
+          "summary": "AMD is scaling its Saudi AI push with HUMAIN, targeting 250 MW from 2027 and up to 1 GW by 2030 as it challenges NVIDIA and Broadcom.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a5fccd10ca5888c8678cafd239aa4a038b9d707de62f8c1b92b6267fcd0c7e6c"
+        },
+        {
+          "headline": "Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
+          "summary": "The major indexes rose about 0.4% Wednesday. Nvidia and Meta Platforms did nearly all of the work. Here's the math behind the quiet tape.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=32a0b6d9b3baf11ba3f7649c1895f9f2b1d65a94fa9ba2dcaf834934c5ee7712"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Sells the Brains of the AI Boom. Something Else Is Selling the Muscle -- and It's Not on Wall Street's Radar. / Nvidia Slips as 700-Gigawatt Data-Center Pipeline Faces Texas Scrutiny / Nvidia: Unstoppable Momentum As Vera Rubin Platform Takes Off",
+      "news_summary": "최근 뉴스 헤드라인: NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026 / Prediction: $1,104 Invested in Nvidia Today Will Be Worth This Much by 2030 / Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? / Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
       "recommendation": {
         "symbol": "NVDA",
-        "period": "2026-08-01",
-        "strongBuy": 23,
+        "period": "2026-09-01",
+        "strongBuy": 24,
         "buy": 41,
         "hold": 3,
         "sell": 1,
@@ -41,47 +47,47 @@
       }
     },
     "INTC": {
-      "price": 88.97,
-      "change_pct": -0.6033,
-      "prev_close": 89.51,
+      "price": 90.05,
+      "change_pct": 1.2139,
+      "prev_close": 88.97,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 23.68,
-      "easy_explanation": "오늘 전일 대비 0.60% 내렸어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.21% 올랐어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
       "news": [
         {
-          "headline": "If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on",
-          "summary": "They could be attractive buys on the dip.",
+          "headline": "Prediction: Intel Stock Could Have a Major Catalyst Ahead",
+          "summary": "Intel has staged one of the most dramatic reversals in semiconductor history, but the real question is whether the forces driving its comeback can hold long enough to justify where the stock sits today.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=092653ec3259ec1705cce90c34f0893f6a27ab23f03422df61fc7e2a76d4a68a"
+          "url": "https://finnhub.io/api/news?id=93a3cfc4e250815dda44717b6270a37c61e25962e640fdc2da31cb7929b7e996"
         },
         {
-          "headline": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
-          "summary": "A global bond selloff sent long-term yields surging to levels not seen in over a year, and the chips sector is bearing the brunt as traders reprice the market's most ambitious AI growth bets.",
+          "headline": "Prediction: This Is What a $1,000 Investment in Intel Will Be Worth by 2030",
+          "summary": "Intel's pullback gives investors an opportunity to buy a top stock that could make them richer in the long run.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eee0f7082b069c45d973aabac70b91f371df91e53cfdeb082e6561287225c5b4"
+          "url": "https://finnhub.io/api/news?id=3b531ac70fc8697dd84872e651c29f586eee1e5492c3a1ddeb5570491c9c04e7"
         },
         {
-          "headline": "Archive Intel Partners With Zocks to Streamline AI Compliance Reviews",
-          "summary": "ALPHARETTA, Ga., September 01, 2026--Archive Intel, an AI-powered communications compliance platform for financial institutions, today announced an integration with Zocks, the privacy-first AI platform for financial services.",
+          "headline": "What Is Intel (INTC) Doing In Open Source 5G And NextG Networks?",
+          "summary": "Intel (NasdaqGS: INTC) is collaborating with COSMOS and Airspan Networks on open source 5G to NextG infrastructure using the OCUDU software stack. The partnership centers on a city scale testbed aimed at advancing open source 5G deployments and evaluating NextG solutions toward 6G networks. The project brings together academic and industry partners and focuses on open source software in wireless connectivity infrastructure. This push into open and programmable wireless networks points to a...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cfb71fff997795e610fb821b3eb1e516a9167d574f227298280dcd868bcb0cb3"
+          "url": "https://finnhub.io/api/news?id=3f82fe091a7e32e479ee2727c5412bca02275f73b79d2920193d48b1e5807a23"
         },
         {
-          "headline": "The Zacks Analyst Blog Highlights Microsoft, Intel, Bank of America, AMREP and United Bancorp",
-          "summary": "Microsoft, Intel and Bank of America lead this week's stock picks, with AMREP and United Bancorp offering microcap opportunities.",
+          "headline": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+          "summary": "On Sept. 1, 2026, higher Treasury yields weighed on Intel and peers, keeping focus on whether AI demand can offset valuation headwinds.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e0cb0524bbe4cae4fe2dfebd7b82de969a1070d38f656b2d86f6be5b4e92927"
+          "url": "https://finnhub.io/api/news?id=414d4ecbf50d8436ed528681a78503db385ac131e6ce1f0991d417d42eb903fa"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on / Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip / Archive Intel Partners With Zocks to Streamline AI Compliance Reviews / The Zacks Analyst Blog Highlights Microsoft, Intel, Bank of America, AMREP and United Bancorp",
+      "news_summary": "최근 뉴스 헤드라인: Prediction: Intel Stock Could Have a Major Catalyst Ahead / Prediction: This Is What a $1,000 Investment in Intel Will Be Worth by 2030 / What Is Intel (INTC) Doing In Open Source 5G And NextG Networks? / Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
       "recommendation": {
         "symbol": "INTC",
-        "period": "2026-08-01",
+        "period": "2026-09-01",
         "strongBuy": 4,
         "buy": 15,
-        "hold": 33,
-        "sell": 3,
+        "hold": 34,
+        "sell": 2,
         "strongSell": 0
       }
     }
