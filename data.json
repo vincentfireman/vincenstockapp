@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-02 22:58",
+  "updated_at": "2026-09-03 22:58",
   "stocks": {
     "NVDA": {
-      "price": 224.41,
-      "change_pct": 3.2055,
-      "prev_close": 217.44,
-      "pe_ttm": 33.9758,
+      "price": 228.45,
+      "change_pct": 1.8003,
+      "prev_close": 224.41,
+      "pe_ttm": 28.0398,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 3.21% 올랐어요. PER은 34.0배로, 회사가 1년에 버는 돈의 34배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.80% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
       "news": [
         {
-          "headline": "NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026",
-          "summary": "NVIDIA and four tech giants offer quantum exposure through cloud, software and infrastructure, helping investors tap the boom beyond pure plays.",
+          "headline": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+          "summary": "Nvidia’s $5 billion Intel investment has produced an extraordinary paper gain, but the timeline matters. The companies announced the investment and product collaboration on September 18, 2025. Intel’s SEC filing shows that NVIDIA Corporation (NASDAQ:NVDA) actually completed the purchase on December 26, 2025, acquiring 214,776,632 Intel shares at $23.28 each for $5 billion. Nvidia’s June […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04d60ae2a32e57082622429af5d36b2a8f4061119b63296192b1f09318aa9a17"
+          "url": "https://finnhub.io/api/news?id=8316bfe61c35a3736280c7432450477ce7b65b3cb2e2b4370124e71ff192953e"
         },
         {
-          "headline": "Prediction: $1,104 Invested in Nvidia Today Will Be Worth This Much by 2030",
-          "summary": "The chipmaking giant's valuation can't go down forever.",
+          "headline": "Rosenblatt Doubles Down on Nvidia After Massive Deal",
+          "summary": "The acquisition may be about far more than software",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a11b11c0d76fb73692ab033afa3b7e12ebdb87ad98f62d69355f138268dddb4c"
+          "url": "https://finnhub.io/api/news?id=1bf6f8843f780644c22602f7937c87c53524cf9d44b2fc1c010df9e34e549f2b"
         },
         {
-          "headline": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
-          "summary": "AMD is scaling its Saudi AI push with HUMAIN, targeting 250 MW from 2027 and up to 1 GW by 2030 as it challenges NVIDIA and Broadcom.",
+          "headline": "Nvidia lands surprise $6B GPU windfall with humanoid robotics titan Figure",
+          "summary": "AI cloud Nscale ignites robotics flywheel with Figure, deploying Nvidia's Vera Rubin in 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5fccd10ca5888c8678cafd239aa4a038b9d707de62f8c1b92b6267fcd0c7e6c"
+          "url": "https://finnhub.io/api/news?id=b1a6120d51f53e19aeb1a39dac70c1c1567074edf007cd51a5eb408fa6ca347b"
         },
         {
-          "headline": "Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
-          "summary": "The major indexes rose about 0.4% Wednesday. Nvidia and Meta Platforms did nearly all of the work. Here's the math behind the quiet tape.",
+          "headline": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+          "summary": "Cathie Wood appears to have made a sharp choice inside the same AI trade. ARK Invest’s August 28 transaction disclosure showed sales of 156,286 shares of Advanced Micro Devices, Inc. (NASDAQ:AMD) and purchases of 243,707 shares of NVIDIA Corporation (NASDAQ:NVDA). Based on the August 28 closing prices, the moves were worth an estimated $72.8 million […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32a0b6d9b3baf11ba3f7649c1895f9f2b1d65a94fa9ba2dcaf834934c5ee7712"
+          "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026 / Prediction: $1,104 Invested in Nvidia Today Will Be Worth This Much by 2030 / Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom? / Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced? / Rosenblatt Doubles Down on Nvidia After Massive Deal / Nvidia lands surprise $6B GPU windfall with humanoid robotics titan Figure / Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 90.05,
-      "change_pct": 1.2139,
-      "prev_close": 88.97,
+      "price": 91.67,
+      "change_pct": 1.799,
+      "prev_close": 90.05,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 23.68,
-      "easy_explanation": "오늘 전일 대비 1.21% 올랐어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
+      "week52_low": 23.72,
+      "easy_explanation": "오늘 전일 대비 1.80% 올랐어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
       "news": [
         {
-          "headline": "Prediction: Intel Stock Could Have a Major Catalyst Ahead",
-          "summary": "Intel has staged one of the most dramatic reversals in semiconductor history, but the real question is whether the forces driving its comeback can hold long enough to justify where the stock sits today.",
+          "headline": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+          "summary": "Nvidia’s $5 billion Intel investment has produced an extraordinary paper gain, but the timeline matters. The companies announced the investment and product collaboration on September 18, 2025. Intel’s SEC filing shows that NVIDIA Corporation (NASDAQ:NVDA) actually completed the purchase on December 26, 2025, acquiring 214,776,632 Intel shares at $23.28 each for $5 billion. Nvidia’s June […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93a3cfc4e250815dda44717b6270a37c61e25962e640fdc2da31cb7929b7e996"
+          "url": "https://finnhub.io/api/news?id=8316bfe61c35a3736280c7432450477ce7b65b3cb2e2b4370124e71ff192953e"
         },
         {
-          "headline": "Prediction: This Is What a $1,000 Investment in Intel Will Be Worth by 2030",
-          "summary": "Intel's pullback gives investors an opportunity to buy a top stock that could make them richer in the long run.",
+          "headline": "AMD is Quietly Eating Intel’s Lunch",
+          "summary": "AMD and Intel both posted blockbuster data center quarters, but one company is bleeding billions from its own factories while the other signs gigawatt GPU deals with Anthropic and Microsoft. The gap between their margin stories reveals which x86 giant is actually winning the AI era.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b531ac70fc8697dd84872e651c29f586eee1e5492c3a1ddeb5570491c9c04e7"
+          "url": "https://finnhub.io/api/news?id=3577b3383e7b6b7ac340201e2b25e75bef5b793e8bf04c3c5e4813688dac7de4"
         },
         {
-          "headline": "What Is Intel (INTC) Doing In Open Source 5G And NextG Networks?",
-          "summary": "Intel (NasdaqGS: INTC) is collaborating with COSMOS and Airspan Networks on open source 5G to NextG infrastructure using the OCUDU software stack. The partnership centers on a city scale testbed aimed at advancing open source 5G deployments and evaluating NextG solutions toward 6G networks. The project brings together academic and industry partners and focuses on open source software in wireless connectivity infrastructure. This push into open and programmable wireless networks points to a...",
+          "headline": "Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership",
+          "summary": "Intel (INTC) is back in focus after Kasm Technologies expanded their partnership to run private large language models on Intel Xeon 6 processors with Advanced Matrix Extensions, targeting regulated industries that need local, compliant AI. Against this backdrop, Intel’s share price has cooled in recent months, with a 90 day share price return down 19.44%, even as the year-to-date share price return is 128.67% and the 1 year total shareholder return is 275.21%. This suggests powerful long-term...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f82fe091a7e32e479ee2727c5412bca02275f73b79d2920193d48b1e5807a23"
+          "url": "https://finnhub.io/api/news?id=5ea5610c9f7b503761640d56cf69d35aa270e00eaaf0b7da3f048e8b3efdfe7d"
         },
         {
-          "headline": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
-          "summary": "On Sept. 1, 2026, higher Treasury yields weighed on Intel and peers, keeping focus on whether AI demand can offset valuation headwinds.",
+          "headline": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
+          "summary": "A $24 stock became an $89 stock. The next five years depend on three things.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=414d4ecbf50d8436ed528681a78503db385ac131e6ce1f0991d417d42eb903fa"
+          "url": "https://finnhub.io/api/news?id=66de8b389445dcffe91465cf96dfb9e76ec485e0f14515f5caea99fe55974f22"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Prediction: Intel Stock Could Have a Major Catalyst Ahead / Prediction: This Is What a $1,000 Investment in Intel Will Be Worth by 2030 / What Is Intel (INTC) Doing In Open Source 5G And NextG Networks? / Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced? / AMD is Quietly Eating Intel’s Lunch / Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership / Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
