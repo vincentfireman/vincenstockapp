@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-03 22:58",
+  "updated_at": "2026-09-04 22:46",
   "stocks": {
     "NVDA": {
-      "price": 228.45,
-      "change_pct": 1.8003,
-      "prev_close": 224.41,
+      "price": 230.36,
+      "change_pct": 0.8361,
+      "prev_close": 228.45,
       "pe_ttm": 28.0398,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 1.80% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.84% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 91% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
-          "summary": "Nvidia’s $5 billion Intel investment has produced an extraordinary paper gain, but the timeline matters. The companies announced the investment and product collaboration on September 18, 2025. Intel’s SEC filing shows that NVIDIA Corporation (NASDAQ:NVDA) actually completed the purchase on December 26, 2025, acquiring 214,776,632 Intel shares at $23.28 each for $5 billion. Nvidia’s June […]",
+          "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+          "summary": "The stock market fell this week before bouncing. Nvidia, Micron, Sandisk are new buys, but for how long? Apple, inflation data loom.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8316bfe61c35a3736280c7432450477ce7b65b3cb2e2b4370124e71ff192953e"
+          "url": "https://finnhub.io/api/news?id=d03216108133aa4afcbdb834039cee863839189ba8da999efecd7e54466d934e"
         },
         {
-          "headline": "Rosenblatt Doubles Down on Nvidia After Massive Deal",
-          "summary": "The acquisition may be about far more than software",
+          "headline": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest",
+          "summary": "Some investors worry that the pace of artificial intelligence (AI) infrastructure build-outs is not sustainable.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bf6f8843f780644c22602f7937c87c53524cf9d44b2fc1c010df9e34e549f2b"
+          "url": "https://finnhub.io/api/news?id=a5780ce71208da929d7e94afc0f406ffd8b63c5bfa672682bba81e20d449bd34"
         },
         {
-          "headline": "Nvidia lands surprise $6B GPU windfall with humanoid robotics titan Figure",
-          "summary": "AI cloud Nscale ignites robotics flywheel with Figure, deploying Nvidia's Vera Rubin in 2027",
+          "headline": "NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside",
+          "summary": "NVDA's 63.7% net profit margin and 93.3% expected earnings growth put it among three profitable stocks positioned for market volatility.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1a6120d51f53e19aeb1a39dac70c1c1567074edf007cd51a5eb408fa6ca347b"
+          "url": "https://finnhub.io/api/news?id=692f1d73f0e7bd0105d9362ab0c2f4f21f1ad452316a0e7e683d29c0c77664ff"
         },
         {
-          "headline": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
-          "summary": "Cathie Wood appears to have made a sharp choice inside the same AI trade. ARK Invest’s August 28 transaction disclosure showed sales of 156,286 shares of Advanced Micro Devices, Inc. (NASDAQ:AMD) and purchases of 243,707 shares of NVIDIA Corporation (NASDAQ:NVDA). Based on the August 28 closing prices, the moves were worth an estimated $72.8 million […]",
+          "headline": "Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
+          "summary": "Nvidia is poised to deliver a terrific increase in earnings over the next three years, paving the way for solid upside in its stock price.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22"
+          "url": "https://finnhub.io/api/news?id=a66ed4faf49cd3e317fb028b55ee9afdc5cd19f5e98efdb9fa706188a4acfc93"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced? / Rosenblatt Doubles Down on Nvidia After Massive Deal / Nvidia lands surprise $6B GPU windfall with humanoid robotics titan Figure / Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead / Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest / NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside / Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 91.67,
-      "change_pct": 1.799,
-      "prev_close": 90.05,
+      "price": 95.8,
+      "change_pct": 4.5053,
+      "prev_close": 91.67,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 23.72,
-      "easy_explanation": "오늘 전일 대비 1.80% 올랐어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
+      "week52_low": 23.75,
+      "easy_explanation": "오늘 전일 대비 4.51% 올랐어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
-          "summary": "Nvidia’s $5 billion Intel investment has produced an extraordinary paper gain, but the timeline matters. The companies announced the investment and product collaboration on September 18, 2025. Intel’s SEC filing shows that NVIDIA Corporation (NASDAQ:NVDA) actually completed the purchase on December 26, 2025, acquiring 214,776,632 Intel shares at $23.28 each for $5 billion. Nvidia’s June […]",
+          "headline": "Mizuho Resets Intel Target For the Rest of 2026",
+          "summary": "Mizuho resets Intel's target, but its outlook is hardly bearish",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8316bfe61c35a3736280c7432450477ce7b65b3cb2e2b4370124e71ff192953e"
+          "url": "https://finnhub.io/api/news?id=7e4fe45071f147ab081db0216118154770e5e22dd27ad677f0fb1baf4832b0df"
         },
         {
-          "headline": "AMD is Quietly Eating Intel’s Lunch",
-          "summary": "AMD and Intel both posted blockbuster data center quarters, but one company is bleeding billions from its own factories while the other signs gigawatt GPU deals with Anthropic and Microsoft. The gap between their margin stories reveals which x86 giant is actually winning the AI era.",
+          "headline": "Why Intel Stock Popped Today",
+          "summary": "Intel Stock Gets Powerful Wall Street Catalyst From Explosive Dell Server Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3577b3383e7b6b7ac340201e2b25e75bef5b793e8bf04c3c5e4813688dac7de4"
+          "url": "https://finnhub.io/api/news?id=607920634da9b41e00728359cc681e6216463bcb503cf34eb8c3f69730aa7035"
         },
         {
-          "headline": "Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership",
-          "summary": "Intel (INTC) is back in focus after Kasm Technologies expanded their partnership to run private large language models on Intel Xeon 6 processors with Advanced Matrix Extensions, targeting regulated industries that need local, compliant AI. Against this backdrop, Intel’s share price has cooled in recent months, with a 90 day share price return down 19.44%, even as the year-to-date share price return is 128.67% and the 1 year total shareholder return is 275.21%. This suggests powerful long-term...",
+          "headline": "Dell’s earning report was bullish for Intel CPU demand, analyst says",
+          "summary": "Intel (NASDAQ: INTC) is the most direct equity expression of the structural shift Chowdhry describes. The firm's $200 price target and a 2031 EPS estimate of $20 rest on three interlocking arguments: rising CPU-to-GPU ratios in AI clusters, x86's entrenched enterprise position, and the architectural advantages of Intel's Clearwater Forest processor.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ea5610c9f7b503761640d56cf69d35aa270e00eaaf0b7da3f048e8b3efdfe7d"
+          "url": "https://finnhub.io/api/news?id=d7365847f7dd6963cef4e4c800f020c4aa4836c5efda586907f76a0355cb11a8"
         },
         {
-          "headline": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
-          "summary": "A $24 stock became an $89 stock. The next five years depend on three things.",
+          "headline": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
+          "summary": "A blowout jobs report pushed September rate hike odds past 60%, which should have hammered high-multiple chip stocks. Instead, the semiconductor complex ran straight into the headwind and left the rest of tech behind.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66de8b389445dcffe91465cf96dfb9e76ec485e0f14515f5caea99fe55974f22"
+          "url": "https://finnhub.io/api/news?id=d94742c36fa5c21aba9d3ca34344de025f148b2dfb09f43974498918f2086391"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced? / AMD is Quietly Eating Intel’s Lunch / Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership / Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
+      "news_summary": "최근 뉴스 헤드라인: Mizuho Resets Intel Target For the Rest of 2026 / Why Intel Stock Popped Today / Dell’s earning report was bullish for Intel CPU demand, analyst says / Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
