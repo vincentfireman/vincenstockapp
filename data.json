@@ -1,41 +1,35 @@
 {
-  "updated_at": "2026-09-04 22:46",
+  "updated_at": "2026-09-07 23:16",
   "stocks": {
     "NVDA": {
       "price": 230.36,
       "change_pct": 0.8361,
       "prev_close": 228.45,
-      "pe_ttm": 28.0398,
+      "pe_ttm": 28.7832,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.84% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 91% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.84% 올랐어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 91% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-          "summary": "The stock market fell this week before bouncing. Nvidia, Micron, Sandisk are new buys, but for how long? Apple, inflation data loom.",
+          "headline": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
+          "summary": "While investors pile into Nvidia, a quieter memory supplier has already outpaced it with gains topping 700% in a year, and analysts think the run is nowhere near finished.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d03216108133aa4afcbdb834039cee863839189ba8da999efecd7e54466d934e"
+          "url": "https://finnhub.io/api/news?id=609fd8dc7ca05cb32273a37e4bf4e411a5b7aaa02536fa011c5e01eb09f77ee1"
         },
         {
-          "headline": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest",
-          "summary": "Some investors worry that the pace of artificial intelligence (AI) infrastructure build-outs is not sustainable.",
+          "headline": "How Nvidia’s Investment Juggernaut Can Jump from Big to Enormous",
+          "summary": "Nvidia has big investments in Intel, SpaceX and many more public companies. But its stakes in OpenAI and Anthropic are the real prize.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a5780ce71208da929d7e94afc0f406ffd8b63c5bfa672682bba81e20d449bd34"
+          "url": "https://finnhub.io/api/news?id=dfd32d6523dd94c55deb552b3ac63439d8b04483f0fd0b24d6db0a6273308319"
         },
         {
-          "headline": "NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside",
-          "summary": "NVDA's 63.7% net profit margin and 93.3% expected earnings growth put it among three profitable stocks positioned for market volatility.",
+          "headline": "Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook",
+          "summary": "Sustainable Growth Advisers (SGA), an investment management company, released its second-quarter 2026 investor letter for its “U.S. Large Cap Growth Strategy.” The letter can be downloaded here. SGA focuses on building high-conviction portfolios of quality growth businesses expected to achieve mid-teens earnings growth with less variability. Their investment strategy aims to protect and compound client capital. […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=692f1d73f0e7bd0105d9362ab0c2f4f21f1ad452316a0e7e683d29c0c77664ff"
-        },
-        {
-          "headline": "Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
-          "summary": "Nvidia is poised to deliver a terrific increase in earnings over the next three years, paving the way for solid upside in its stock price.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a66ed4faf49cd3e317fb028b55ee9afdc5cd19f5e98efdb9fa706188a4acfc93"
+          "url": "https://finnhub.io/api/news?id=1c26bc114e29547cdc275a10e3b3f68ea97c9bfc5b1e963ea89938a599c93c7d"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead / Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest / NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside / Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
+      "news_summary": "최근 뉴스 헤드라인: Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner / How Nvidia’s Investment Juggernaut Can Jump from Big to Enormous / Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -52,35 +46,35 @@
       "prev_close": 91.67,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 23.75,
+      "week52_low": 24.05,
       "easy_explanation": "오늘 전일 대비 4.51% 올랐어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
       "news": [
         {
-          "headline": "Mizuho Resets Intel Target For the Rest of 2026",
-          "summary": "Mizuho resets Intel's target, but its outlook is hardly bearish",
+          "headline": "Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead",
+          "summary": "Intel shares have already surged over 140% this year, but a bold price target sitting 64% above current levels is forcing a real question: does the math actually hold, or is this rally running on fumes?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e4fe45071f147ab081db0216118154770e5e22dd27ad677f0fb1baf4832b0df"
+          "url": "https://finnhub.io/api/news?id=b82267692fe3a5d79f70cf73457e49ff1548034f2375ca039bc025ca35ed546d"
         },
         {
-          "headline": "Why Intel Stock Popped Today",
-          "summary": "Intel Stock Gets Powerful Wall Street Catalyst From Explosive Dell Server Growth",
+          "headline": "Nvidia just sent a strong signal to AMD and Intel investors",
+          "summary": "Nvidia’s earnings report had a number buried inside that AMD and Intel investors needed to see.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=607920634da9b41e00728359cc681e6216463bcb503cf34eb8c3f69730aa7035"
+          "url": "https://finnhub.io/api/news?id=00c8cfd525bf14bd48049b2e979bbffe40a06485b2b4df5d36fac5e000bd2094"
         },
         {
-          "headline": "Dell’s earning report was bullish for Intel CPU demand, analyst says",
-          "summary": "Intel (NASDAQ: INTC) is the most direct equity expression of the structural shift Chowdhry describes. The firm's $200 price target and a 2031 EPS estimate of $20 rest on three interlocking arguments: rising CPU-to-GPU ratios in AI clusters, x86's entrenched enterprise position, and the architectural advantages of Intel's Clearwater Forest processor.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d7365847f7dd6963cef4e4c800f020c4aa4836c5efda586907f76a0355cb11a8"
+          "headline": "Intel: The $23 Billion Dilution I'm Willing To Accept",
+          "summary": "Intel raises $23B in an upsized equity offering to fund 14A/18A-P, foundry shift, and AI buildout. Click for more on INTC stock.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2e480e2a3a316e2a1ff4ef0d5a74faa17d14b929cb0e7bdb578d9e25c76208b"
         },
         {
-          "headline": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
-          "summary": "A blowout jobs report pushed September rate hike odds past 60%, which should have hammered high-multiple chip stocks. Instead, the semiconductor complex ran straight into the headwind and left the rest of tech behind.",
+          "headline": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
+          "summary": "AMD gained 4.7% and Intel rose 4.5% on September 4, while Nvidia added only 0.8%. The one-session gap is consistent with investors widening the AI trade beyond Nvidia, but it cannot identify buyer motive or prove a lasting rotation. Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation (NASDAQ:INTC) each offer a route to AI spending […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d94742c36fa5c21aba9d3ca34344de025f148b2dfb09f43974498918f2086391"
+          "url": "https://finnhub.io/api/news?id=a97c4c3bbf4cc854d29fe686707ac03ab6469988755199d6ae7d69903cf0ee56"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Mizuho Resets Intel Target For the Rest of 2026 / Why Intel Stock Popped Today / Dell’s earning report was bullish for Intel CPU demand, analyst says / Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
+      "news_summary": "최근 뉴스 헤드라인: Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead / Nvidia just sent a strong signal to AMD and Intel investors / Intel: The $23 Billion Dilution I'm Willing To Accept / AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
