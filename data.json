@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-09-08 23:11",
+  "updated_at": "2026-09-09 22:55",
   "stocks": {
     "NVDA": {
-      "price": 225.73,
-      "change_pct": -2.0099,
-      "prev_close": 230.36,
+      "price": 223.67,
+      "change_pct": -0.9126,
+      "prev_close": 225.73,
       "pe_ttm": 28.7832,
       "week52_high": 236.54,
       "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 2.01% 내렸어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 85% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.91% 내렸어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Falls as Its Firmus Bet Lands OpenAI",
-          "summary": "The Malaysian agreement validates Nvidia's infrastructure ecosystem, but the chipmaker's direct economics remain undisclosed.",
+          "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
+          "summary": "Qualcomm is gradually making a dent in the AI chip market.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e68d5b0219b8755050bcdaf1df4f6fa845f134ab21b34644909566a1bd8bb2bb"
+          "url": "https://finnhub.io/api/news?id=835f3b1f585ccb6ae04d006003d09a06bad19dbccf12a972791656216f94634e"
         },
         {
-          "headline": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
-          "summary": "Nvidia's quarterly revenue has more than doubled in two years, while Broadcom's has roughly doubled — but the gap between them is widening at an accelerating pace.",
+          "headline": "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog",
+          "summary": "Nvidia stock was slipping after Qualcomm's announcement of an AI infrastructure deal with Amazon.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc40c139926b5ff2051be84ab554f3af3871e90861ea3a2942e216cc5dac9983"
+          "url": "https://finnhub.io/api/news?id=7c0599bf40fca80776a43c8d40c92c3c7f6a76bb06d73ead9d4b6b7447626806"
+        },
+        {
+          "headline": "Zankore Raises $3.1 Billion With Nvidia Sharing the Credit Risk",
+          "summary": "Zankore's AI factory starts at 100 megawatts and is designed to reach 1 gigawatt",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b703a0e9c85aeab489dd630914f1321de7e45fbdeeec5b63b8fe08729e120223"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang Just Put a Nail in Michael Burry's Bear Case",
+          "summary": "The \"Big Short\" investor argues that big tech companies are inflating profits. The evidence tells a different story.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3425a2c7d70bccfb0d0589cb4718345c01faa1f958068b33fdf32eb1a666c3b3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Falls as Its Firmus Bet Lands OpenAI / Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
+      "news_summary": "최근 뉴스 헤드라인: The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom / Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog / Zankore Raises $3.1 Billion With Nvidia Sharing the Credit Risk / Nvidia CEO Jensen Huang Just Put a Nail in Michael Burry's Bear Case",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 104.47,
-      "change_pct": 9.0501,
-      "prev_close": 95.8,
+      "price": 106.24,
+      "change_pct": 1.6943,
+      "prev_close": 104.47,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.05,
-      "easy_explanation": "오늘 전일 대비 9.05% 올랐어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.69% 올랐어요. 최근 1년 최저가~최고가 구간에서 69% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
-          "summary": "Intel Stock Leads Semiconductor Surge as AMD, Qualcomm and Broadcom Rally",
+          "headline": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
+          "summary": "Intel Corporation (NASDAQ:INTC) and ASML Holding N.V. (NASDAQ: ASML) have recently provided fresh evidence that High-NA EUV lithography is advancing in commercial manufacturing. At the SPIE Photomask Technology + Extreme Ultraviolet Lithography conference, the two companies announced several updates related to this technology and next-generation chip production. While the update offers evidence of High-NA’s manufacturing […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d739d186225075e9056a68cc4ae547229f640d03a5923e585c062ac070f8f2e0"
+          "url": "https://finnhub.io/api/news?id=98c7ae31e7fda910af350e30413858c784b9d80f444af8732eed20b16961fa18"
         },
         {
-          "headline": "Update: Market Chatter: Intel May Raise PC CPU Prices Another 10% in October; Shares Rise in Afternoon Trading",
-          "summary": "(Updates with recent stock movement in headline and first paragraph.) Intel (INTC) shares were up",
+          "headline": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
+          "summary": "Apple Inc. (NASDAQ:AAPL) and Intel Corporation (NASDAQ:INTC) represent two sides of a historical silicon transition. A September 2 report from MacRumors highlighted a key milestone: Apple notified developers that universal Mac App Store apps requiring macOS 13 or later can now drop support for Intel-based Macs. Removing Intel binary slices simplifies app development and reduces […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b06ef2e7b21eabacb47f448953cdc5313ac44002c1eb6292f1629c7c2cee8147"
+          "url": "https://finnhub.io/api/news?id=5d4c9f741b9876d5d6540109b4d38795e1b5bd5db6126203f74e66994f36ce3a"
         },
         {
-          "headline": "Intel Stock Jumps on Major Analyst Upgrade",
-          "summary": "Intel Stock Jumps as Northland Turns Bullish and CPU Price Hike Looms",
+          "headline": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake",
+          "summary": "On September 3, a caller mentioned that they are unsure whether to buy, sell, or hold Intel Corporation (NASDAQ:INTC). In response, Mad Money host Jim Cramer said: Okay, now, let’s own this right up front. I got too excited about Intel because I knew it was going to have a good quarter. It had an […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=49a3447dff7403c9eca797433ba74d6f3d682c62f57a8bcc013d2782d463f1f3"
+          "url": "https://finnhub.io/api/news?id=b1ee559ff4aae0e6869a86afb9bfb4bcd5151edb911d502d1fe802470112103e"
         },
         {
-          "headline": "Intel planning another 10% PC chip price hike in October",
-          "summary": "The chipmaker may also discontinue its lower-margin Small Core products, according to DigiTimes",
+          "headline": "Intel Rises After a $120 Target Meets 59% AI Growth",
+          "summary": "The turnaround is becoming visible, but Tuesday's 9% surge already consumed much of the projected upside.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=555b70798b3a3016ddfc21cf8f2b889633d748e93c15f475fc337b756590d69f"
+          "url": "https://finnhub.io/api/news?id=1d6c59b4e6ceaa74a97876e6f96673e7f39f6a584a69bd529b1f47650e2b5e8f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump / Update: Market Chatter: Intel May Raise PC CPU Prices Another 10% in October; Shares Rise in Afternoon Trading / Intel Stock Jumps on Major Analyst Upgrade / Intel planning another 10% PC chip price hike in October",
+      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up? / Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem? / Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake / Intel Rises After a $120 Target Meets 59% AI Growth",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
