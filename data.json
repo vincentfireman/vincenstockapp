@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-09 22:55",
+  "updated_at": "2026-09-10 22:56",
   "stocks": {
     "NVDA": {
-      "price": 223.67,
-      "change_pct": -0.9126,
-      "prev_close": 225.73,
-      "pe_ttm": 28.7832,
+      "price": 218.36,
+      "change_pct": -2.374,
+      "prev_close": 223.67,
+      "pe_ttm": 28.0747,
       "week52_high": 236.54,
-      "week52_low": 164.07,
-      "easy_explanation": "오늘 전일 대비 0.91% 내렸어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
+      "week52_low": 164.27,
+      "easy_explanation": "오늘 전일 대비 2.37% 내렸어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 75% 지점에 있어요.",
       "news": [
         {
-          "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
-          "summary": "Qualcomm is gradually making a dent in the AI chip market.",
+          "headline": "Jensen Huang just answered Michael Burry's Nvidia bear case",
+          "summary": "Jensen Huang gave Nvidia investors something to counter Burry’s skepticism of cloud companies’ profits.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=835f3b1f585ccb6ae04d006003d09a06bad19dbccf12a972791656216f94634e"
+          "url": "https://finnhub.io/api/news?id=14dc337c114b095cc5d926996802387b7db63e979bc0a517175e43ca975b2b11"
         },
         {
-          "headline": "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog",
-          "summary": "Nvidia stock was slipping after Qualcomm's announcement of an AI infrastructure deal with Amazon.",
+          "headline": "Nvidia stock edges higher on Microsoft data center expansion report",
+          "summary": "Investing.com -- Nvidia Corporation (NASDAQ:NVDA) edged higher in after-hours trading, rising 0.5%, Thursday following a Bloomberg report that Microsoft plans to more than triple its data center capacity.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c0599bf40fca80776a43c8d40c92c3c7f6a76bb06d73ead9d4b6b7447626806"
+          "url": "https://finnhub.io/api/news?id=fbdd49aadc60b37a11d6281113c2d05972e2e33aacda9a0993421645a0b15a8c"
         },
         {
-          "headline": "Zankore Raises $3.1 Billion With Nvidia Sharing the Credit Risk",
-          "summary": "Zankore's AI factory starts at 100 megawatts and is designed to reach 1 gigawatt",
+          "headline": "Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock",
+          "summary": "Positron AI has raised $875 million in a combined Series C and Series C-1 round, valuing the Reno-based startup at $5 billion post-money. The financing, co-led by NEA, Andra Capital, Atreides Management, Valor Equity Partners, and SemiAnalysis Capital, represents a roughly five-fold markup from the company’s February 2026 Series B valuation of just over $1 […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b703a0e9c85aeab489dd630914f1321de7e45fbdeeec5b63b8fe08729e120223"
+          "url": "https://finnhub.io/api/news?id=8f37d4fa76e72e3bd0a599c986576ba17d2f388beb971b4cbc03e89845bbecb0"
         },
         {
-          "headline": "Nvidia CEO Jensen Huang Just Put a Nail in Michael Burry's Bear Case",
-          "summary": "The \"Big Short\" investor argues that big tech companies are inflating profits. The evidence tells a different story.",
+          "headline": "Nvidia Has $96 Billion in Quarterly Revenue. Here's Why the Stock Is Still a Buy.",
+          "summary": "Nvidia's next AI platform is already shipping -- and its 2028 growth outlook could be far bigger than Wall Street expects.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3425a2c7d70bccfb0d0589cb4718345c01faa1f958068b33fdf32eb1a666c3b3"
+          "url": "https://finnhub.io/api/news?id=90f3858225bf7e19b8f38f216f0615a4d2567ac937302f53798e2d2126a2dab8"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom / Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog / Zankore Raises $3.1 Billion With Nvidia Sharing the Credit Risk / Nvidia CEO Jensen Huang Just Put a Nail in Michael Burry's Bear Case",
+      "news_summary": "최근 뉴스 헤드라인: Jensen Huang just answered Michael Burry's Nvidia bear case / Nvidia stock edges higher on Microsoft data center expansion report / Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock / Nvidia Has $96 Billion in Quarterly Revenue. Here's Why the Stock Is Still a Buy.",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 106.24,
-      "change_pct": 1.6943,
-      "prev_close": 104.47,
+      "price": 100.32,
+      "change_pct": -5.5723,
+      "prev_close": 106.24,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.05,
-      "easy_explanation": "오늘 전일 대비 1.69% 올랐어요. 최근 1년 최저가~최고가 구간에서 69% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.57% 내렸어요. 최근 1년 최저가~최고가 구간에서 64% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
-          "summary": "Intel Corporation (NASDAQ:INTC) and ASML Holding N.V. (NASDAQ: ASML) have recently provided fresh evidence that High-NA EUV lithography is advancing in commercial manufacturing. At the SPIE Photomask Technology + Extreme Ultraviolet Lithography conference, the two companies announced several updates related to this technology and next-generation chip production. While the update offers evidence of High-NA’s manufacturing […]",
+          "headline": "Why Intel Stock Slumped Today",
+          "summary": "Piper Sandler to investors: Maybe you should have bought Intel stock last year?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98c7ae31e7fda910af350e30413858c784b9d80f444af8732eed20b16961fa18"
+          "url": "https://finnhub.io/api/news?id=849c5860697e69f155fee78b57f71ec903873fd470f6668db9c6d600a0f54c52"
         },
         {
-          "headline": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
-          "summary": "Apple Inc. (NASDAQ:AAPL) and Intel Corporation (NASDAQ:INTC) represent two sides of a historical silicon transition. A September 2 report from MacRumors highlighted a key milestone: Apple notified developers that universal Mac App Store apps requiring macOS 13 or later can now drop support for Intel-based Macs. Removing Intel binary slices simplifies app development and reduces […]",
+          "headline": "Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker",
+          "summary": "Intel Shares Drop After Piper Sandler Launches Coverage With Neutral Rating",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d4c9f741b9876d5d6540109b4d38795e1b5bd5db6126203f74e66994f36ce3a"
+          "url": "https://finnhub.io/api/news?id=aed6f750b56a018ddfed06e62d4cf755940e1bd3a679d40df1215e7e2b12c458"
         },
         {
-          "headline": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake",
-          "summary": "On September 3, a caller mentioned that they are unsure whether to buy, sell, or hold Intel Corporation (NASDAQ:INTC). In response, Mad Money host Jim Cramer said: Okay, now, let’s own this right up front. I got too excited about Intel because I knew it was going to have a good quarter. It had an […]",
+          "headline": "An Nvidia Move Just Put AMD and Intel on the Defensive",
+          "summary": "Nvidia is looking to extend its dominance in AI chips at the expense of Intel and AMD.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1ee559ff4aae0e6869a86afb9bfb4bcd5151edb911d502d1fe802470112103e"
+          "url": "https://finnhub.io/api/news?id=3c5c71e12ed2a7001ce14f1a7138094115f207f2f256a264a24ae40084536ace"
         },
         {
-          "headline": "Intel Rises After a $120 Target Meets 59% AI Growth",
-          "summary": "The turnaround is becoming visible, but Tuesday's 9% surge already consumed much of the projected upside.",
+          "headline": "Atsign and Intel® solve the Edge AI encryption conundrum",
+          "summary": "Trusted identity management/hardware acceleration tie-up improves performance by approximately 8700%, eliminating a major barrier to smart transportation systemsSAN JOSE, Calif., Sept. 10, 2026 (GLOBE NEWSWIRE) -- Atsign today announced that, with Intel, it has solved the massive encryption bottleneck that has until now held back the capabilities of autonomous Edge AI agents. In combination with Intel®, Atsign has achieved a staggering performance uplift of approximately ~88x for hardware-accele",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d6c59b4e6ceaa74a97876e6f96673e7f39f6a584a69bd529b1f47650e2b5e8f"
+          "url": "https://finnhub.io/api/news?id=7285dd30b1965ce46cf329cd105c79c7dd2b08a0bcf19ede7834173644f79e97"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up? / Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem? / Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake / Intel Rises After a $120 Target Meets 59% AI Growth",
+      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Slumped Today / Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker / An Nvidia Move Just Put AMD and Intel on the Defensive / Atsign and Intel® solve the Edge AI encryption conundrum",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
