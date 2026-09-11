@@ -1,41 +1,23 @@
 {
-  "updated_at": "2026-09-10 22:56",
+  "updated_at": "2026-09-11 22:57",
   "stocks": {
     "NVDA": {
-      "price": 218.36,
-      "change_pct": -2.374,
-      "prev_close": 223.67,
-      "pe_ttm": 28.0747,
+      "price": 218.29,
+      "change_pct": -0.0321,
+      "prev_close": 218.36,
+      "pe_ttm": 27.4762,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.37% 내렸어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 75% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.03% 내렸어요. PER은 27.5배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 75% 지점에 있어요.",
       "news": [
         {
-          "headline": "Jensen Huang just answered Michael Burry's Nvidia bear case",
-          "summary": "Jensen Huang gave Nvidia investors something to counter Burry’s skepticism of cloud companies’ profits.",
+          "headline": "Nvidia CEO Jensen Huang Sees 70% Growth as AI Demand Stays Red-Hot",
+          "summary": "Nvidia CEO Signals Another AI Growth Wave, Names Cybersecurity as Next Big Opportunity",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14dc337c114b095cc5d926996802387b7db63e979bc0a517175e43ca975b2b11"
-        },
-        {
-          "headline": "Nvidia stock edges higher on Microsoft data center expansion report",
-          "summary": "Investing.com -- Nvidia Corporation (NASDAQ:NVDA) edged higher in after-hours trading, rising 0.5%, Thursday following a Bloomberg report that Microsoft plans to more than triple its data center capacity.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbdd49aadc60b37a11d6281113c2d05972e2e33aacda9a0993421645a0b15a8c"
-        },
-        {
-          "headline": "Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock",
-          "summary": "Positron AI has raised $875 million in a combined Series C and Series C-1 round, valuing the Reno-based startup at $5 billion post-money. The financing, co-led by NEA, Andra Capital, Atreides Management, Valor Equity Partners, and SemiAnalysis Capital, represents a roughly five-fold markup from the company’s February 2026 Series B valuation of just over $1 […]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f37d4fa76e72e3bd0a599c986576ba17d2f388beb971b4cbc03e89845bbecb0"
-        },
-        {
-          "headline": "Nvidia Has $96 Billion in Quarterly Revenue. Here's Why the Stock Is Still a Buy.",
-          "summary": "Nvidia's next AI platform is already shipping -- and its 2028 growth outlook could be far bigger than Wall Street expects.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90f3858225bf7e19b8f38f216f0615a4d2567ac937302f53798e2d2126a2dab8"
+          "url": "https://finnhub.io/api/news?id=5ab6ee3e9aa8d59e1dc31b3c8688055e8f5e5dc0f6ae11275b47534180032e68"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Jensen Huang just answered Michael Burry's Nvidia bear case / Nvidia stock edges higher on Microsoft data center expansion report / Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock / Nvidia Has $96 Billion in Quarterly Revenue. Here's Why the Stock Is Still a Buy.",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia CEO Jensen Huang Sees 70% Growth as AI Demand Stays Red-Hot",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 100.32,
-      "change_pct": -5.5723,
-      "prev_close": 106.24,
+      "price": 102.94,
+      "change_pct": 2.6116,
+      "prev_close": 100.32,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.05,
-      "easy_explanation": "오늘 전일 대비 5.57% 내렸어요. 최근 1년 최저가~최고가 구간에서 64% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.61% 올랐어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Intel Stock Slumped Today",
-          "summary": "Piper Sandler to investors: Maybe you should have bought Intel stock last year?",
+          "headline": "Northland Upgraded Intel to Outperform and Set a $120 Target. Its Turnaround Is Finally Taking Hold.",
+          "summary": "Northland upgraded Intel to “Outperform” with a $120 target on Sept. 8, citing turnaround progress and tight server-CPU supply after shares jumped nearly 15% over five sessions.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=849c5860697e69f155fee78b57f71ec903873fd470f6668db9c6d600a0f54c52"
+          "url": "https://finnhub.io/api/news?id=d1190dc0559d18de5abd0107848cc4892c90d2aca63ad37be58b997a99124a4b"
         },
         {
-          "headline": "Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker",
-          "summary": "Intel Shares Drop After Piper Sandler Launches Coverage With Neutral Rating",
+          "headline": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
+          "summary": "A report of Intel raising chip prices sent shares surging 3% and erased the prior session's Piper Sandler-driven selloff, but the real question is whether the company has genuine pricing power or is simply charging scarcity rent that evaporates the moment supply loosens.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aed6f750b56a018ddfed06e62d4cf755940e1bd3a679d40df1215e7e2b12c458"
+          "url": "https://finnhub.io/api/news?id=960d7eb1578f5ef4017bcabc00d394515a6159bd1908dfa431ed2d45ed1af793"
         },
         {
-          "headline": "An Nvidia Move Just Put AMD and Intel on the Defensive",
-          "summary": "Nvidia is looking to extend its dominance in AI chips at the expense of Intel and AMD.",
+          "headline": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
+          "summary": "Intel (INTC) stock fell 5.6% on September 10 and trades near $100, about 29% below its 52-week high. Even so, it has returned 310.5% over the past year. The question is how much of that a market shock could take back, and on average Intel has fallen harder than the S&P 500 when shocks hit.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c5c71e12ed2a7001ce14f1a7138094115f207f2f256a264a24ae40084536ace"
+          "url": "https://finnhub.io/api/news?id=15c289a79238ab4a9401f956db4e9664320a7c85477116a6c5795db9e60089af"
         },
         {
-          "headline": "Atsign and Intel® solve the Edge AI encryption conundrum",
-          "summary": "Trusted identity management/hardware acceleration tie-up improves performance by approximately 8700%, eliminating a major barrier to smart transportation systemsSAN JOSE, Calif., Sept. 10, 2026 (GLOBE NEWSWIRE) -- Atsign today announced that, with Intel, it has solved the massive encryption bottleneck that has until now held back the capabilities of autonomous Edge AI agents. In combination with Intel®, Atsign has achieved a staggering performance uplift of approximately ~88x for hardware-accele",
+          "headline": "Why the driverless company Intel controls just bet on a Florida shuttle startup",
+          "summary": "Mobileye is losing money, trading below book value, and largely absent from Intel's investor pitch, yet it just led a venture round for a Florida shuttle startup with ambitions far beyond Orlando. What that check reveals about the future of this impaired asset inside a resurgent corporate giant will matter to every Intel shareholder.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7285dd30b1965ce46cf329cd105c79c7dd2b08a0bcf19ede7834173644f79e97"
+          "url": "https://finnhub.io/api/news?id=4015ceaad8a6bb931859504c0efea87841a0b9433a861b1d849c26e914e05090"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Slumped Today / Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker / An Nvidia Move Just Put AMD and Intel on the Defensive / Atsign and Intel® solve the Edge AI encryption conundrum",
+      "news_summary": "최근 뉴스 헤드라인: Northland Upgraded Intel to Outperform and Set a $120 Target. Its Turnaround Is Finally Taking Hold. / Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts / How Far Could Intel Stock Fall After More Than Quadrupling In A Year? / Why the driverless company Intel controls just bet on a Florida shuttle startup",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
