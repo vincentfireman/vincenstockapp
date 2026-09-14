@@ -1,23 +1,35 @@
 {
-  "updated_at": "2026-09-11 22:57",
+  "updated_at": "2026-09-14 23:40",
   "stocks": {
     "NVDA": {
-      "price": 218.29,
-      "change_pct": -0.0321,
-      "prev_close": 218.36,
-      "pe_ttm": 27.4762,
+      "price": 210.96,
+      "change_pct": -3.3579,
+      "prev_close": 218.29,
+      "pe_ttm": 27.2751,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.03% 내렸어요. PER은 27.5배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 75% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.36% 내렸어요. PER은 27.3배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia CEO Jensen Huang Sees 70% Growth as AI Demand Stays Red-Hot",
-          "summary": "Nvidia CEO Signals Another AI Growth Wave, Names Cybersecurity as Next Big Opportunity",
+          "headline": "Elon Musk sends strong signal for SpaceX, Nvidia stocks",
+          "summary": "A major SpaceX AI milestone may arrive sooner than expected.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ab6ee3e9aa8d59e1dc31b3c8688055e8f5e5dc0f6ae11275b47534180032e68"
+          "url": "https://finnhub.io/api/news?id=319b72a97e26eeff1eb1b5f244a4cf32e1af97ddc0e3cbd544ad3361c0a5e9d4"
+        },
+        {
+          "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+          "summary": "Dow Jones Futures: Nvidia stock, Micron and Sandisk dived on an AI warning ahead of a widely expected rate hike at this week's Fed meeting.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3086ce98c2030ae87a703075da360704d392c311f567a47242863841cfaa49f4"
+        },
+        {
+          "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+          "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f6a78e6d955f6a37eecc480087ec33c613d0b97aa4364bffe7e673442af27b2c"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia CEO Jensen Huang Sees 70% Growth as AI Demand Stays Red-Hot",
+      "news_summary": "최근 뉴스 헤드라인: Elon Musk sends strong signal for SpaceX, Nvidia stocks / Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms / Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -29,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 102.94,
-      "change_pct": 2.6116,
-      "prev_close": 100.32,
+      "price": 97.19,
+      "change_pct": -5.5858,
+      "prev_close": 102.94,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.05,
-      "easy_explanation": "오늘 전일 대비 2.61% 올랐어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.59% 내렸어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
       "news": [
         {
-          "headline": "Northland Upgraded Intel to Outperform and Set a $120 Target. Its Turnaround Is Finally Taking Hold.",
-          "summary": "Northland upgraded Intel to “Outperform” with a $120 target on Sept. 8, citing turnaround progress and tight server-CPU supply after shares jumped nearly 15% over five sessions.",
+          "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
+          "summary": "Nvidia, Intel And AMD Shares Sink As AI Leaders Sound Fresh Warning",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1190dc0559d18de5abd0107848cc4892c90d2aca63ad37be58b997a99124a4b"
+          "url": "https://finnhub.io/api/news?id=23082b3c996d80263fb2bc3abbf79f918117ebbd852c86fb0edda9edb8ab8b5b"
         },
         {
-          "headline": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-          "summary": "A report of Intel raising chip prices sent shares surging 3% and erased the prior session's Piper Sandler-driven selloff, but the real question is whether the company has genuine pricing power or is simply charging scarcity rent that evaporates the moment supply loosens.",
+          "headline": "Nvidia’s Training Trade Hit a Speed Bump. Intel Could Win From What Comes Next",
+          "summary": "The September 14 selloff treated slower frontier AI development as bad news for chips. The more interesting question is whether it changes which chips get bought. Reuters Breakingviews argued that a moderation in giant model-training runs could redirect part of this year’s roughly $1 trillion AI investment toward inference, where existing models answer queries and […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=960d7eb1578f5ef4017bcabc00d394515a6159bd1908dfa431ed2d45ed1af793"
+          "url": "https://finnhub.io/api/news?id=5b5789904f4f73d216143129f99ba9bd480a6a4a768b48794110cc7d998a8f0a"
         },
         {
-          "headline": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
-          "summary": "Intel (INTC) stock fell 5.6% on September 10 and trades near $100, about 29% below its 52-week high. Even so, it has returned 310.5% over the past year. The question is how much of that a market shock could take back, and on average Intel has fallen harder than the S&P 500 when shocks hit.",
+          "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+          "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15c289a79238ab4a9401f956db4e9664320a7c85477116a6c5795db9e60089af"
+          "url": "https://finnhub.io/api/news?id=f6a78e6d955f6a37eecc480087ec33c613d0b97aa4364bffe7e673442af27b2c"
         },
         {
-          "headline": "Why the driverless company Intel controls just bet on a Florida shuttle startup",
-          "summary": "Mobileye is losing money, trading below book value, and largely absent from Intel's investor pitch, yet it just led a venture round for a Florida shuttle startup with ambitions far beyond Orlando. What that check reveals about the future of this impaired asset inside a resurgent corporate giant will matter to every Intel shareholder.",
+          "headline": "Intel Or NVIDIA: Who Is Paying For The AI Build-Out?",
+          "summary": "If you own Intel (INTC) or NVIDIA, you own the same shortage. Both said the same thing at their latest reports: buyers want more compute than either can ship, and supply rather than demand is the limit. The fork is what each does about it. NVIDIA sells into the shortage and keeps most of what it collects. Intel has to build the capacity first, and it is paying for that now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4015ceaad8a6bb931859504c0efea87841a0b9433a861b1d849c26e914e05090"
+          "url": "https://finnhub.io/api/news?id=bd3160dead8735bc6a8bebd2b1cc70d5f7f95c90cc4dd0652fc2e33e0afc43b0"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Northland Upgraded Intel to Outperform and Set a $120 Target. Its Turnaround Is Finally Taking Hold. / Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts / How Far Could Intel Stock Fall After More Than Quadrupling In A Year? / Why the driverless company Intel controls just bet on a Florida shuttle startup",
+      "news_summary": "최근 뉴스 헤드라인: AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling / Nvidia’s Training Trade Hit a Speed Bump. Intel Could Win From What Comes Next / Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks / Intel Or NVIDIA: Who Is Paying For The AI Build-Out?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
