@@ -1,35 +1,41 @@
 {
-  "updated_at": "2026-09-14 23:40",
+  "updated_at": "2026-09-15 23:23",
   "stocks": {
     "NVDA": {
-      "price": 210.96,
-      "change_pct": -3.3579,
-      "prev_close": 218.29,
-      "pe_ttm": 27.2751,
+      "price": 212.17,
+      "change_pct": 0.5736,
+      "prev_close": 210.96,
+      "pe_ttm": 26.2005,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 3.36% 내렸어요. PER은 27.3배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.57% 올랐어요. PER은 26.2배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
       "news": [
         {
-          "headline": "Elon Musk sends strong signal for SpaceX, Nvidia stocks",
-          "summary": "A major SpaceX AI milestone may arrive sooner than expected.",
+          "headline": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+          "summary": "MediaTek launched its Dimensity 9600 Pro on September 15 using Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) 2-nanometer technology, putting TSMC’s newest node into a flagship mobile chip. MediaTek also has $3.5 billion of financing from NVIDIA Corporation (NASDAQ:NVDA) and a broader Nvidia partnership spanning custom AI chips, PCs and automotive. The smartphone launch is another […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=319b72a97e26eeff1eb1b5f244a4cf32e1af97ddc0e3cbd544ad3361c0a5e9d4"
+          "url": "https://finnhub.io/api/news?id=86105b30bc518a119ef014f8b7c80f7f22eae6554c40f68f5a512b72d3a97b49"
         },
         {
-          "headline": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-          "summary": "Dow Jones Futures: Nvidia stock, Micron and Sandisk dived on an AI warning ahead of a widely expected rate hike at this week's Fed meeting.",
+          "headline": "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
+          "summary": "By acquiring Hugging Face, Nvidia is working to capture the talent funnel.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3086ce98c2030ae87a703075da360704d392c311f567a47242863841cfaa49f4"
+          "url": "https://finnhub.io/api/news?id=29e1a877db5d1cab280a1b2138a1b0719b33ff2eaa5d332ed85debe811c8eb94"
         },
         {
-          "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-          "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
+          "headline": "NVIDIA (NVDA) Gets A Fresh Platform Test After Salesforce Deal Sparks Undervalued View",
+          "summary": "Salesforce’s launch of Koa, a CRM reasoning model built on NVIDIA (NVDA) Nemotron, places the chipmaker’s software stack directly inside front-line customer workflows, ranging from service agents to regulated government operations. That Salesforce partnership lands at a moment when NVIDIA’s share price has pulled back, with the 7 day share price return down 8.42% and the 30 day share price return down 6.31%. Even so, the year to date share price return is 11.71% and the 5 year total...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6a78e6d955f6a37eecc480087ec33c613d0b97aa4364bffe7e673442af27b2c"
+          "url": "https://finnhub.io/api/news?id=6a740db073e65b758284a46c3b47fbb8f82ef2de169baf77c3457fe3f490655f"
+        },
+        {
+          "headline": "Trump stuns Nvidia's Jensen Huang with an unexpected AI remark",
+          "summary": "A surprise exchange with President Donald Trump puts another spotlight on the growing backlash around AI.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cb217ca7c7bc4daf51a019f4b6eca553d75dd5af78815a7d72387bfef870020"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Elon Musk sends strong signal for SpaceX, Nvidia stocks / Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms / Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "news_summary": "최근 뉴스 헤드라인: TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table / Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything. / NVIDIA (NVDA) Gets A Fresh Platform Test After Salesforce Deal Sparks Undervalued View / Trump stuns Nvidia's Jensen Huang with an unexpected AI remark",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -41,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 97.19,
-      "change_pct": -5.5858,
-      "prev_close": 102.94,
+      "price": 97.14,
+      "change_pct": -0.0514,
+      "prev_close": 97.19,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.05,
-      "easy_explanation": "오늘 전일 대비 5.59% 내렸어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.05% 내렸어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
       "news": [
         {
-          "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
-          "summary": "Nvidia, Intel And AMD Shares Sink As AI Leaders Sound Fresh Warning",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23082b3c996d80263fb2bc3abbf79f918117ebbd852c86fb0edda9edb8ab8b5b"
+          "headline": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
+          "summary": "",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=24253218157182bdae74306508e7f30ef1f0e4b3be7679ed837b8e25702026a8"
         },
         {
-          "headline": "Nvidia’s Training Trade Hit a Speed Bump. Intel Could Win From What Comes Next",
-          "summary": "The September 14 selloff treated slower frontier AI development as bad news for chips. The more interesting question is whether it changes which chips get bought. Reuters Breakingviews argued that a moderation in giant model-training runs could redirect part of this year’s roughly $1 trillion AI investment toward inference, where existing models answer queries and […]",
+          "headline": "Top Midday Stories: Waystar Reportedly Mulling Potential Sale; Intel-Backed Altera Says Parent Company Files Confidentially for IPO",
+          "summary": "All three major US stock indexes were down in late-morning trading Tuesday, as Treasury yields conti",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5b5789904f4f73d216143129f99ba9bd480a6a4a768b48794110cc7d998a8f0a"
+          "url": "https://finnhub.io/api/news?id=9cf3fd61c9110cd03771e019f5f2252003b6aa7e5fe64b52287d4d498c391779"
         },
         {
-          "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-          "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
+          "headline": "Intel Rallies as Altera IPO Unlocks Its 49% Chip Stake",
+          "summary": "A public listing could reveal the value of Intel's retained FPGA interest without repairing its own losses.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6a78e6d955f6a37eecc480087ec33c613d0b97aa4364bffe7e673442af27b2c"
+          "url": "https://finnhub.io/api/news?id=7d677a3ddc582493c0d0f9a5e428fc63be70b9ac9024d385fa2959a5c610c174"
         },
         {
-          "headline": "Intel Or NVIDIA: Who Is Paying For The AI Build-Out?",
-          "summary": "If you own Intel (INTC) or NVIDIA, you own the same shortage. Both said the same thing at their latest reports: buyers want more compute than either can ship, and supply rather than demand is the limit. The fork is what each does about it. NVIDIA sells into the shortage and keeps most of what it collects. Intel has to build the capacity first, and it is paying for that now.",
+          "headline": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
+          "summary": "The company said the module consumes more than 60% less operating power than four 128GB DDR5 modules.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd3160dead8735bc6a8bebd2b1cc70d5f7f95c90cc4dd0652fc2e33e0afc43b0"
+          "url": "https://finnhub.io/api/news?id=4e4428fda73784dbdeb7055d7ffda5624234c4013c22e39ffa0204af82bac225"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling / Nvidia’s Training Trade Hit a Speed Bump. Intel Could Win From What Comes Next / Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks / Intel Or NVIDIA: Who Is Paying For The AI Build-Out?",
+      "news_summary": "최근 뉴스 헤드라인: Intel: No Bad Products, Just Bad Prices (Rating Downgrade) / Top Midday Stories: Waystar Reportedly Mulling Potential Sale; Intel-Backed Altera Says Parent Company Files Confidentially for IPO / Intel Rallies as Altera IPO Unlocks Its 49% Chip Stake / MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
