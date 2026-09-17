@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-09-16 23:32",
+  "updated_at": "2026-09-17 23:21",
   "stocks": {
     "NVDA": {
-      "price": 213.9,
-      "change_pct": 0.8154,
-      "prev_close": 212.17,
-      "pe_ttm": 26.5191,
+      "price": 219.34,
+      "change_pct": 2.5432,
+      "prev_close": 213.9,
+      "pe_ttm": 26.8303,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.82% 올랐어요. PER은 26.5배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 69% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.54% 올랐어요. PER은 26.8배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
       "news": [
         {
-          "headline": "Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle",
-          "summary": "Dell Technologies has delivered incredible returns to investors in 2026, and it isn't done soaring yet.",
+          "headline": "Matlantis Accelerates Catalyst Discovery to Advance Materials Innovation With NVIDIA ALCHEMI",
+          "summary": "AI-powered atomistic simulation enables ENEOS to screen approximately 100 million catalyst structures, cutting a discovery process from years to monthsCAMBRIDGE, Mass. and TOKYO, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Matlantis, a leading provider of AI-powered atomistic simulation for industrial materials R&D, today announced that ENEOS Holdings Corporation (“ENEOS HD”) is using Matlantis PFP, the company’s general-purpose machine learning potential to accelerate the discovery of new catalyst mater",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e4028ebf95e442bd53b5e517429f1646373e95278ff592882e1e007bb206d4e"
+          "url": "https://finnhub.io/api/news?id=564117f8d85821b516cd6e29c186ea01e2712d7148256dcc31afb593481f6840"
+        },
+        {
+          "headline": "Snap Lands Nvidia, Amazon and Salesforce Deals to Supercharge Specs",
+          "summary": "Snap's Specs Get a Major Boost From Nvidia, Amazon and Salesforce",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=44e080bf1d26e4f844b2bbc7dbc0f78b51541994f1f9c25a0d2062d6516f8d60"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle",
+      "news_summary": "최근 뉴스 헤드라인: Matlantis Accelerates Catalyst Discovery to Advance Materials Innovation With NVIDIA ALCHEMI / Snap Lands Nvidia, Amazon and Salesforce Deals to Supercharge Specs",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -29,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 101.05,
-      "change_pct": 4.0251,
-      "prev_close": 97.14,
+      "price": 108.8,
+      "change_pct": 7.6695,
+      "prev_close": 101.05,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 24.22,
-      "easy_explanation": "오늘 전일 대비 4.03% 올랐어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 7.67% 올랐어요. 최근 1년 최저가~최고가 구간에서 72% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Is In Advanced Talks On Ohio Memory Chip Manufacturing",
-          "summary": "Intel (NasdaqGS:INTC) is in advanced talks with SK Hynix on a U.S. memory chip manufacturing partnership centered on Intel's Ohio fab. Options under discussion reportedly include SK Hynix leasing part of Intel's planned Ohio facility or forming a new joint venture. The potential arrangement would extend memory chip production into Intel's U.S. manufacturing footprint, aligning with domestic semiconductor build-out priorities. This potential Intel and SK Hynix Ohio memory manufacturing...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c614cfd6afedec666c5ecc6638768587e7e1efce5c651e45d04c373c23c28d8"
+          "headline": "SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade)",
+          "summary": "Intel Corporation is rated a Speculative Buy, and the rumored SK hynix Inc. deal could support the Ohio foundry. Read more on INTC stock here.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fb27650eb491973c4390966297e2592051bfddcb48d33192f813d330221dd153"
         },
         {
-          "headline": "Salesforce, SpaceX, Intel, J.B. Hunt, Coinbase, and More Stocks That Explain Today’s Market",
-          "summary": "Salesforce declines after a widespread service outage hits the company during its annual Dreamforce conference.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4d265438d1aa37e7f541be1491ee485a5f3ae09d52803efa1cc16436e5ac3e9"
+          "headline": "AMD: The Biggest Winner Of Intel's Price Hike",
+          "summary": "Advanced Micro Devices benefits from Intelâs repeated PC CPU price hikes, creating a favorable pricing environment for AMDâs products. Read more on AMD stock.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=411d70f93b6a2bffe9e6512c7caada364c49534091a9f9ff74a1fdb32298068c"
         },
         {
-          "headline": "Top Midday Stories: Markets Await Key Fed Decision on Rates; SK Hynix Exploring Deal With Intel to Make Chips in US",
-          "summary": "The S&P 500 Index and Nasdaq Composite were both up in late-morning trading Wednesday, while the Dow",
+          "headline": "Why Micron Stock Is Rising as Intel CEO Issues Memory-Chip Warning",
+          "summary": "Micron Technology  stock was back on the rise early Thursday.  A warning from the head of  Intel  about soaring memory prices looks to be reminding shareholders of the company’s profit potential.  Micron shares were up 2% at $945.40 in premarket trading.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9a171cfe1628977e26fc286fe7db700a421226ea642a4f71747a7eb9209def6"
+          "url": "https://finnhub.io/api/news?id=40824b6fc20340999d8d544d63e7c5a833d7ff176b1c902e0171962a3798fc8a"
         },
         {
-          "headline": "5 Reasons Intel's CEO Just Made This Stock Worth Buying",
-          "summary": "Intel's turnaround is gaining credibility as its CEO commits his own money, raises capital, and tackles AI and manufacturing bottlenecks while attracting major backing from Washington and Nvidia.",
+          "headline": "SK Hynix and Intel explore US memory chip partnership",
+          "summary": "Talks between SK Hynix and Intel could lead to joint memory chip manufacturing at the latter’s Ohio facility.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a83e84f257da5517ef6e504cf053fd75602560965a846dec4c532517494b9533"
+          "url": "https://finnhub.io/api/news?id=09d743508a12996cad3b984adbe9e611ee2c0ee3a03e7c49ff8790a634852520"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Is In Advanced Talks On Ohio Memory Chip Manufacturing / Salesforce, SpaceX, Intel, J.B. Hunt, Coinbase, and More Stocks That Explain Today’s Market / Top Midday Stories: Markets Await Key Fed Decision on Rates; SK Hynix Exploring Deal With Intel to Make Chips in US / 5 Reasons Intel's CEO Just Made This Stock Worth Buying",
+      "news_summary": "최근 뉴스 헤드라인: SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade) / AMD: The Biggest Winner Of Intel's Price Hike / Why Micron Stock Is Rising as Intel CEO Issues Memory-Chip Warning / SK Hynix and Intel explore US memory chip partnership",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
