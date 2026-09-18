@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-09-17 23:21",
+  "updated_at": "2026-09-18 23:00",
   "stocks": {
     "NVDA": {
-      "price": 219.34,
-      "change_pct": 2.5432,
-      "prev_close": 213.9,
-      "pe_ttm": 26.8303,
+      "price": 222.27,
+      "change_pct": 1.3358,
+      "prev_close": 219.34,
+      "pe_ttm": 27.4063,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.54% 올랐어요. PER은 26.8배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.34% 올랐어요. PER은 27.4배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 80% 지점에 있어요.",
       "news": [
         {
-          "headline": "Matlantis Accelerates Catalyst Discovery to Advance Materials Innovation With NVIDIA ALCHEMI",
-          "summary": "AI-powered atomistic simulation enables ENEOS to screen approximately 100 million catalyst structures, cutting a discovery process from years to monthsCAMBRIDGE, Mass. and TOKYO, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Matlantis, a leading provider of AI-powered atomistic simulation for industrial materials R&D, today announced that ENEOS Holdings Corporation (“ENEOS HD”) is using Matlantis PFP, the company’s general-purpose machine learning potential to accelerate the discovery of new catalyst mater",
+          "headline": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
+          "summary": "Nvidia remains at the epicenter of the AI infrastructure build-out.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=564117f8d85821b516cd6e29c186ea01e2712d7148256dcc31afb593481f6840"
+          "url": "https://finnhub.io/api/news?id=4f642ff2edb3533eff63c0ebc3f2596d61b5d0656f22c8839eeb9c25a56d1016"
         },
         {
-          "headline": "Snap Lands Nvidia, Amazon and Salesforce Deals to Supercharge Specs",
-          "summary": "Snap's Specs Get a Major Boost From Nvidia, Amazon and Salesforce",
+          "headline": "Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus",
+          "summary": "AI data center provider Nscale has submitted paperwork for a New York initial public offering to fund computing infrastructure.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44e080bf1d26e4f844b2bbc7dbc0f78b51541994f1f9c25a0d2062d6516f8d60"
+          "url": "https://finnhub.io/api/news?id=50c1c34384df051ae4f5c121e78eeedff943bd3ad02020e5a77f55b71b84a5e2"
+        },
+        {
+          "headline": "Nvidia Stock Is Up 21% in Six Months. Here’s What the Street Still Isn’t Pricing In",
+          "summary": "Key TakeawaysSix-Month Run: NVDA stock has climbed 20. 6% since mid-March, a 45.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7befb3770a062088a8edf03cd759e5ed1cae5fb96adb61293e80dd6891b3269"
+        },
+        {
+          "headline": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+          "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e42e3b920ebd3317db6c18727698362c541ddeb139e09848f40d6d19b4e11fa"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Matlantis Accelerates Catalyst Discovery to Advance Materials Innovation With NVIDIA ALCHEMI / Snap Lands Nvidia, Amazon and Salesforce Deals to Supercharge Specs",
+      "news_summary": "최근 뉴스 헤드라인: Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels? / Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus / Nvidia Stock Is Up 21% in Six Months. Here’s What the Street Still Isn’t Pricing In / Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 108.8,
-      "change_pct": 7.6695,
-      "prev_close": 101.05,
+      "price": 108.6,
+      "change_pct": -0.1838,
+      "prev_close": 108.8,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 24.22,
-      "easy_explanation": "오늘 전일 대비 7.67% 올랐어요. 최근 1년 최저가~최고가 구간에서 72% 지점에 있어요.",
+      "week52_low": 24.45,
+      "easy_explanation": "오늘 전일 대비 0.18% 내렸어요. 최근 1년 최저가~최고가 구간에서 71% 지점에 있어요.",
       "news": [
         {
-          "headline": "SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade)",
-          "summary": "Intel Corporation is rated a Speculative Buy, and the rumored SK hynix Inc. deal could support the Ohio foundry. Read more on INTC stock here.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fb27650eb491973c4390966297e2592051bfddcb48d33192f813d330221dd153"
-        },
-        {
-          "headline": "AMD: The Biggest Winner Of Intel's Price Hike",
-          "summary": "Advanced Micro Devices benefits from Intelâs repeated PC CPU price hikes, creating a favorable pricing environment for AMDâs products. Read more on AMD stock.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=411d70f93b6a2bffe9e6512c7caada364c49534091a9f9ff74a1fdb32298068c"
-        },
-        {
-          "headline": "Why Micron Stock Is Rising as Intel CEO Issues Memory-Chip Warning",
-          "summary": "Micron Technology  stock was back on the rise early Thursday.  A warning from the head of  Intel  about soaring memory prices looks to be reminding shareholders of the company’s profit potential.  Micron shares were up 2% at $945.40 in premarket trading.",
+          "headline": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
+          "summary": "Intel (INTC) and SK Hynix (SKHY) have been among this week's hottest semiconductor stocks as investors react to reports that the companies are exploring partnership opportunities.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40824b6fc20340999d8d544d63e7c5a833d7ff176b1c902e0171962a3798fc8a"
+          "url": "https://finnhub.io/api/news?id=78a32cefff3b734a602cec1107d0af9612b36dcbd1da4258455cd14ace8a28a3"
         },
         {
-          "headline": "SK Hynix and Intel explore US memory chip partnership",
-          "summary": "Talks between SK Hynix and Intel could lead to joint memory chip manufacturing at the latter’s Ohio facility.",
+          "headline": "Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027",
+          "summary": "Five-to-sevenfold price increases protect margins while testing customers' hardware budgets.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09d743508a12996cad3b984adbe9e611ee2c0ee3a03e7c49ff8790a634852520"
+          "url": "https://finnhub.io/api/news?id=168f96da773350376c44dd47747cbf078a3f7a1b93691507a7b6961c5a1a5970"
+        },
+        {
+          "headline": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
+          "summary": "Jim Cramer put Intel Corporation (NASDAQ:INTC) and Micron Technology, Inc. (NASDAQ:MU) at the top of his technology stock list during the September 17 episode of Mad Money, as he said: Yesterday, I said that people would buy tech. We got that in spades today. I continue to recommend the cybersecurity stocks, and I’d add Okta […]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e844fe99f858236f348586b2748f26d7b2eeb58dddd36c970d70afa00ea33bb7"
+        },
+        {
+          "headline": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
+          "summary": "Component inflation supports AI scarcity while raising the cost of systems carrying Intel processors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39efe921888dcbae9abfa7e1cb0d58d8c0c305a17b84e595582970c987a5c241"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade) / AMD: The Biggest Winner Of Intel's Price Hike / Why Micron Stock Is Rising as Intel CEO Issues Memory-Chip Warning / SK Hynix and Intel explore US memory chip partnership",
+      "news_summary": "최근 뉴스 헤드라인: Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge? / Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027 / Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2 / Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
