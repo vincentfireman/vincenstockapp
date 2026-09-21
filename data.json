@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-18 23:00",
+  "updated_at": "2026-09-21 23:49",
   "stocks": {
     "NVDA": {
-      "price": 222.27,
-      "change_pct": 1.3358,
-      "prev_close": 219.34,
-      "pe_ttm": 27.4063,
+      "price": 227.38,
+      "change_pct": 2.299,
+      "prev_close": 222.27,
+      "pe_ttm": 27.9773,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.34% 올랐어요. PER은 27.4배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 80% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.30% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 87% 지점에 있어요.",
       "news": [
         {
-          "headline": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
-          "summary": "Nvidia remains at the epicenter of the AI infrastructure build-out.",
+          "headline": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
+          "summary": "Nvidia gets the AI spotlight, but three power infrastructure stocks may be quietly building the bigger long-term opportunity.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f642ff2edb3533eff63c0ebc3f2596d61b5d0656f22c8839eeb9c25a56d1016"
+          "url": "https://finnhub.io/api/news?id=908c26e1c27ebaff207c2b8ffd54dd49e00662a665e92c19b5f7862f9dfcd80e"
         },
         {
-          "headline": "Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus",
-          "summary": "AI data center provider Nscale has submitted paperwork for a New York initial public offering to fund computing infrastructure.",
+          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+          "summary": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50c1c34384df051ae4f5c121e78eeedff943bd3ad02020e5a77f55b71b84a5e2"
+          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985"
         },
         {
-          "headline": "Nvidia Stock Is Up 21% in Six Months. Here’s What the Street Still Isn’t Pricing In",
-          "summary": "Key TakeawaysSix-Month Run: NVDA stock has climbed 20. 6% since mid-March, a 45.",
+          "headline": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
+          "summary": "If you own NVIDIA (NVDA) or Micron Technology (MU), you own the same idea: AI data centers want more chips and memory than the industry can supply. The two split from there. NVIDIA is putting its own balance sheet behind some of its biggest buyers. Micron's buyers are posting cash deposits to secure its memory, so the money flows in opposite directions.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7befb3770a062088a8edf03cd759e5ed1cae5fb96adb61293e80dd6891b3269"
+          "url": "https://finnhub.io/api/news?id=ef3bfcf8c1c19773033f33386d60055f91601912d3a8bd7d6b25e6f17fac7f7a"
         },
         {
-          "headline": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-          "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+          "headline": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
+          "summary": "Nvidia expects chip sales to double next year.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e42e3b920ebd3317db6c18727698362c541ddeb139e09848f40d6d19b4e11fa"
+          "url": "https://finnhub.io/api/news?id=29e03bc18acca35b3f349c8868b819f3d181feaab90bafbb9c6543eee8b200b3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels? / Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus / Nvidia Stock Is Up 21% in Six Months. Here’s What the Street Still Isn’t Pricing In / Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "news_summary": "최근 뉴스 헤드라인: Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead? / Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers / NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? / Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 108.6,
-      "change_pct": -0.1838,
-      "prev_close": 108.8,
+      "price": 121.78,
+      "change_pct": 12.1363,
+      "prev_close": 108.6,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 24.45,
-      "easy_explanation": "오늘 전일 대비 0.18% 내렸어요. 최근 1년 최저가~최고가 구간에서 71% 지점에 있어요.",
+      "week52_low": 28.73,
+      "easy_explanation": "오늘 전일 대비 12.14% 올랐어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
-          "summary": "Intel (INTC) and SK Hynix (SKHY) have been among this week's hottest semiconductor stocks as investors react to reports that the companies are exploring partnership opportunities.",
+          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+          "summary": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78a32cefff3b734a602cec1107d0af9612b36dcbd1da4258455cd14ace8a28a3"
+          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985"
         },
         {
-          "headline": "Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027",
-          "summary": "Five-to-sevenfold price increases protect margins while testing customers' hardware budgets.",
+          "headline": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
+          "summary": "Intel,  Advanced Micro Devices  and  Arm Holdings  soared Monday as investors got excited about the potential growth of central-processing units.  The trigger looks to be the popularity of  Meta Platforms’  Muse artificial-intelligence agent.  The rally pushed AMD to close with a market valuation above $1 trillion, making it the 14th U.S. company to reach that mark.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=168f96da773350376c44dd47747cbf078a3f7a1b93691507a7b6961c5a1a5970"
+          "url": "https://finnhub.io/api/news?id=5b4e970cb47f994900a34f398272a08e66a4fad243837548ff09fcc191d531f4"
         },
         {
-          "headline": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-          "summary": "Jim Cramer put Intel Corporation (NASDAQ:INTC) and Micron Technology, Inc. (NASDAQ:MU) at the top of his technology stock list during the September 17 episode of Mad Money, as he said: Yesterday, I said that people would buy tech. We got that in spades today. I continue to recommend the cybersecurity stocks, and I’d add Okta […]",
+          "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
+          "summary": "Memory prices could continue to rise next year.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e844fe99f858236f348586b2748f26d7b2eeb58dddd36c970d70afa00ea33bb7"
+          "url": "https://finnhub.io/api/news?id=1dda7270cfc8bd93e3e9c4c195f17681dc9577e5fec7b4a70c4f4518b1f96881"
         },
         {
-          "headline": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
-          "summary": "Component inflation supports AI scarcity while raising the cost of systems carrying Intel processors.",
+          "headline": "Intel Stock Soars as AI Spending Fears Fade",
+          "summary": "Intel Jumps After Fresh AI Optimism Sparks Semiconductor Rally",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39efe921888dcbae9abfa7e1cb0d58d8c0c305a17b84e595582970c987a5c241"
+          "url": "https://finnhub.io/api/news?id=39696fe534e8f1e298e67fc58e6197f64ac536a4c9fae5d9cbdd89208fa82a27"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge? / Micron Adds 1.3% as Intel Extends Memory Scarcity Into 2027 / Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2 / Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers / Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. / Intel's CEO Just Gave Micron Technology Investors Great News / Intel Stock Soars as AI Spending Fears Fade",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
