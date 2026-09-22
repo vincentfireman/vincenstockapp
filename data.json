@@ -1,41 +1,35 @@
 {
-  "updated_at": "2026-09-21 23:49",
+  "updated_at": "2026-09-22 23:29",
   "stocks": {
     "NVDA": {
-      "price": 227.38,
-      "change_pct": 2.299,
-      "prev_close": 222.27,
+      "price": 228.87,
+      "change_pct": 0.6553,
+      "prev_close": 227.38,
       "pe_ttm": 27.9773,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.30% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 87% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.66% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
       "news": [
         {
-          "headline": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
-          "summary": "Nvidia gets the AI spotlight, but three power infrastructure stocks may be quietly building the bigger long-term opportunity.",
+          "headline": "Top Analyst Reports for NVIDIA, Berkshire Hathaway & GE Aerospace",
+          "summary": "NVIDIA's AI demand, Berkshire's diversified earnings and GE Aerospace's commercial and defense strength drive today's research focus.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=908c26e1c27ebaff207c2b8ffd54dd49e00662a665e92c19b5f7862f9dfcd80e"
+          "url": "https://finnhub.io/api/news?id=529d51ca192a19aae5f1c7eb4e7fab4a45c8e8abc22fcae43b70d8b2879ae89e"
         },
         {
-          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-          "summary": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
+          "headline": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
+          "summary": "Chip stocks have been doing well in recent years due to artificial intelligence (AI), and while Nvidia has typically outperformed AMD, the tide has turned over the past year.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985"
+          "url": "https://finnhub.io/api/news?id=5aad699f45e8041b8eff7ec629b21aa21274b5e4adcf4f31b1c78733bd973371"
         },
         {
-          "headline": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
-          "summary": "If you own NVIDIA (NVDA) or Micron Technology (MU), you own the same idea: AI data centers want more chips and memory than the industry can supply. The two split from there. NVIDIA is putting its own balance sheet behind some of its biggest buyers. Micron's buyers are posting cash deposits to secure its memory, so the money flows in opposite directions.",
+          "headline": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
+          "summary": "Apple Inc. (NASDAQ:AAPL) is pitching its newest Macs as a way for businesses to run powerful AI models without paying per-token cloud charges, taking aim at the economics behind the AI infrastructure boom.“There’s no cost per token. You’re just using...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef3bfcf8c1c19773033f33386d60055f91601912d3a8bd7d6b25e6f17fac7f7a"
-        },
-        {
-          "headline": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
-          "summary": "Nvidia expects chip sales to double next year.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29e03bc18acca35b3f349c8868b819f3d181feaab90bafbb9c6543eee8b200b3"
+          "url": "https://finnhub.io/api/news?id=8be536b9f66f311cd9292e88ddcca6a526d8c4df315d49d5dace60341ff7b545"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead? / Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers / NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? / Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
+      "news_summary": "최근 뉴스 헤드라인: Top Analyst Reports for NVIDIA, Berkshire Hathaway & GE Aerospace / AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? / Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 121.78,
-      "change_pct": 12.1363,
-      "prev_close": 108.6,
+      "price": 123.86,
+      "change_pct": 1.708,
+      "prev_close": 121.78,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 28.73,
-      "easy_explanation": "오늘 전일 대비 12.14% 올랐어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.71% 올랐어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-          "summary": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
+          "headline": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
+          "summary": "Intel just staged one of its fastest rallies in years, but the analyst who called the price target before the surge thinks the move is still missing its most important catalyst.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985"
+          "url": "https://finnhub.io/api/news?id=457883f0f473ada0a708561ff0eb577f3c075986ad8a6c2dfaedb9f4bee30251"
         },
         {
-          "headline": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
-          "summary": "Intel,  Advanced Micro Devices  and  Arm Holdings  soared Monday as investors got excited about the potential growth of central-processing units.  The trigger looks to be the popularity of  Meta Platforms’  Muse artificial-intelligence agent.  The rally pushed AMD to close with a market valuation above $1 trillion, making it the 14th U.S. company to reach that mark.",
+          "headline": "Intel Drops as Muse Revives the Server CPU Thesis",
+          "summary": "Persistent AI agents create orchestration work, but Meta has disclosed no Intel deployment.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5b4e970cb47f994900a34f398272a08e66a4fad243837548ff09fcc191d531f4"
+          "url": "https://finnhub.io/api/news?id=514f794d2eec0ba80a23001cbf4f1f2aa808fd46bc9d5b1137d93c9b147cd8d7"
         },
         {
-          "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
-          "summary": "Memory prices could continue to rise next year.",
+          "headline": "Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock?",
+          "summary": "INTC extends its Core Ultra platform to new Googlebook laptops, bringing Series 3 processors, AI capabilities and advanced connectivity.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1dda7270cfc8bd93e3e9c4c195f17681dc9577e5fec7b4a70c4f4518b1f96881"
+          "url": "https://finnhub.io/api/news?id=aa2252f79e3be560623c08d524ff70690f7fc7a745c8e271c3b58a6ab95aecd1"
         },
         {
-          "headline": "Intel Stock Soars as AI Spending Fears Fade",
-          "summary": "Intel Jumps After Fresh AI Optimism Sparks Semiconductor Rally",
+          "headline": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
+          "summary": "Intel stock is up 25% on the last 5 days.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39696fe534e8f1e298e67fc58e6197f64ac536a4c9fae5d9cbdd89208fa82a27"
+          "url": "https://finnhub.io/api/news?id=b43857665c5363aaf4c6c7aaeedd671aa130c326cc6dadf55b40fb37145e120e"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers / Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. / Intel's CEO Just Gave Micron Technology Investors Great News / Intel Stock Soars as AI Spending Fears Fade",
+      "news_summary": "최근 뉴스 헤드라인: Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too / Intel Drops as Muse Revives the Server CPU Thesis / Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock? / Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
