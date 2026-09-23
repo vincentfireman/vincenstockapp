@@ -1,35 +1,29 @@
 {
-  "updated_at": "2026-09-22 23:29",
+  "updated_at": "2026-09-23 23:25",
   "stocks": {
     "NVDA": {
-      "price": 228.87,
-      "change_pct": 0.6553,
-      "prev_close": 227.38,
-      "pe_ttm": 27.9773,
+      "price": 225.51,
+      "change_pct": -1.4681,
+      "prev_close": 228.87,
+      "pe_ttm": 28.51,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.66% 올랐어요. PER은 28.0배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.47% 내렸어요. PER은 28.5배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 85% 지점에 있어요.",
       "news": [
         {
-          "headline": "Top Analyst Reports for NVIDIA, Berkshire Hathaway & GE Aerospace",
-          "summary": "NVIDIA's AI demand, Berkshire's diversified earnings and GE Aerospace's commercial and defense strength drive today's research focus.",
+          "headline": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership",
+          "summary": "Today, Sept. 23, 2026, the trapped-ion quantum computing provider's decoder test and research-center collaboration kept commercialization progress in focus.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=529d51ca192a19aae5f1c7eb4e7fab4a45c8e8abc22fcae43b70d8b2879ae89e"
+          "url": "https://finnhub.io/api/news?id=e59c9cb6478a105fe7949c9bbb9722a6beb937562ea0f706bfbbf81cdc365e71"
         },
         {
-          "headline": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
-          "summary": "Chip stocks have been doing well in recent years due to artificial intelligence (AI), and while Nvidia has typically outperformed AMD, the tide has turned over the past year.",
+          "headline": "How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
+          "summary": "When Trump meets Xi this week, a tariff truce set to expire in November turns a state visit into a live portfolio event, and two giant S&P 500 stocks sitting on opposite sides of the China trade stand to move in very different ways.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5aad699f45e8041b8eff7ec629b21aa21274b5e4adcf4f31b1c78733bd973371"
-        },
-        {
-          "headline": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
-          "summary": "Apple Inc. (NASDAQ:AAPL) is pitching its newest Macs as a way for businesses to run powerful AI models without paying per-token cloud charges, taking aim at the economics behind the AI infrastructure boom.“There’s no cost per token. You’re just using...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8be536b9f66f311cd9292e88ddcca6a526d8c4df315d49d5dace60341ff7b545"
+          "url": "https://finnhub.io/api/news?id=bbde15b8b01b38eeefdccf8dc6047759fac486ebb55de6f8b6c64b09f2381662"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Top Analyst Reports for NVIDIA, Berkshire Hathaway & GE Aerospace / AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? / Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
+      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership / How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -41,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 123.86,
-      "change_pct": 1.708,
-      "prev_close": 121.78,
+      "price": 122.6,
+      "change_pct": -1.0173,
+      "prev_close": 123.86,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 28.73,
-      "easy_explanation": "오늘 전일 대비 1.71% 올랐어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
-          "summary": "Intel just staged one of its fastest rallies in years, but the analyst who called the price target before the surge thinks the move is still missing its most important catalyst.",
+          "headline": "Here is Why Intel (INTC) is a Bad Investment at Today’s Price",
+          "summary": "Intel Corporation (NASDAQ:INTC) has been one of the market’s biggest recoveries this year. The shares closed at $123.86 on September 22, near the top of a twelve-month range that started under $30. Three things drove the run. Chief executive Lip-Bu Tan has delivered a genuine turnaround. The manufacturing roadmap is finally shipping. And the market […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=457883f0f473ada0a708561ff0eb577f3c075986ad8a6c2dfaedb9f4bee30251"
+          "url": "https://finnhub.io/api/news?id=c693e3ce9bd4e6e29819a0ddef701662b426ce9443e77143fdf1ab1b3bb27b8e"
         },
         {
-          "headline": "Intel Drops as Muse Revives the Server CPU Thesis",
-          "summary": "Persistent AI agents create orchestration work, but Meta has disclosed no Intel deployment.",
+          "headline": "Intel (INTC) Can Fill Only Half its CPU Orders. Is That a Problem or a Signal?",
+          "summary": "Intel Corporation (NASDAQ:INTC) can supply only about half of the processor demand its customers are asking for. Chief executive Lip-Bu Tan said so at Splunk’s .conf26 conference in Denver this month. Other chief executives have called him asking for more chips, he said, and he has had to apologize. Not all of the shortage is […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=514f794d2eec0ba80a23001cbf4f1f2aa808fd46bc9d5b1137d93c9b147cd8d7"
+          "url": "https://finnhub.io/api/news?id=2b0be225bf6a62c68740ece8525ee0addf621729658a24ef95b588ac61702e28"
         },
         {
-          "headline": "Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock?",
-          "summary": "INTC extends its Core Ultra platform to new Googlebook laptops, bringing Series 3 processors, AI capabilities and advanced connectivity.",
+          "headline": "Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive",
+          "summary": "Persistent agents add orchestration work, but Meta disclosed neither Intel hardware nor a purchase commitment.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa2252f79e3be560623c08d524ff70690f7fc7a745c8e271c3b58a6ab95aecd1"
+          "url": "https://finnhub.io/api/news?id=754d6e25c06c824c73cdf8c62001fc31d0465aa1a56df0e754839d41800377f2"
         },
         {
-          "headline": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
-          "summary": "Intel stock is up 25% on the last 5 days.",
+          "headline": "Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers.",
+          "summary": "Taiwan Semiconductor holds a massive market share advantage.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b43857665c5363aaf4c6c7aaeedd671aa130c326cc6dadf55b40fb37145e120e"
+          "url": "https://finnhub.io/api/news?id=915fe84b4c7f7b4decd1665d6e197fe4c36ccfee1c4fbfa2d75631da47054ea6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too / Intel Drops as Muse Revives the Server CPU Thesis / Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock? / Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
+      "news_summary": "최근 뉴스 헤드라인: Here is Why Intel (INTC) is a Bad Investment at Today’s Price / Intel (INTC) Can Fill Only Half its CPU Orders. Is That a Problem or a Signal? / Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive / Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers.",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
