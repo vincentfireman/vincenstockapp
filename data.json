@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-23 23:25",
+  "updated_at": "2026-09-24 23:45",
   "stocks": {
     "NVDA": {
-      "price": 225.51,
-      "change_pct": -1.4681,
-      "prev_close": 228.87,
-      "pe_ttm": 28.51,
+      "price": 224.58,
+      "change_pct": -0.4124,
+      "prev_close": 225.51,
+      "pe_ttm": 28.5845,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.47% 내렸어요. PER은 28.5배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 85% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.41% 내렸어요. PER은 28.6배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
       "news": [
         {
-          "headline": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership",
-          "summary": "Today, Sept. 23, 2026, the trapped-ion quantum computing provider's decoder test and research-center collaboration kept commercialization progress in focus.",
+          "headline": "Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach",
+          "summary": "One rival semiconductor ETF has quietly lapped the most popular chip fund on the market over the past year, and the reason comes down to a single position that most investors never think to question.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e59c9cb6478a105fe7949c9bbb9722a6beb937562ea0f706bfbbf81cdc365e71"
+          "url": "https://finnhub.io/api/news?id=cc7f3145d3b9c6caf18b2af6bda94def5e393748336c73150a1d9e948cbbeada"
         },
         {
-          "headline": "How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
-          "summary": "When Trump meets Xi this week, a tariff truce set to expire in November turns a state visit into a live portfolio event, and two giant S&P 500 stocks sitting on opposite sides of the China trade stand to move in very different ways.",
+          "headline": "AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
+          "summary": "The AI compute boom is adding customers, but the money remains extraordinarily concentrated. New Ramp data highlighted Thursday by Apollo Chief Economist Torsten Slok shows the top 10% of Ramp customers account for 99.5% of spending on model-serving and inference...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bbde15b8b01b38eeefdccf8dc6047759fac486ebb55de6f8b6c64b09f2381662"
+          "url": "https://finnhub.io/api/news?id=d44cd3810ebbc16f5001645bc35bb6b43ba5889628a54e8463c31004e528bed9"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership / How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
+      "news_summary": "최근 뉴스 헤드라인: Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach / AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 122.6,
-      "change_pct": -1.0173,
-      "prev_close": 123.86,
+      "price": 127.39,
+      "change_pct": 3.907,
+      "prev_close": 122.6,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 28.73,
-      "easy_explanation": "오늘 전일 대비 1.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.91% 올랐어요. 최근 1년 최저가~최고가 구간에서 87% 지점에 있어요.",
       "news": [
         {
-          "headline": "Here is Why Intel (INTC) is a Bad Investment at Today’s Price",
-          "summary": "Intel Corporation (NASDAQ:INTC) has been one of the market’s biggest recoveries this year. The shares closed at $123.86 on September 22, near the top of a twelve-month range that started under $30. Three things drove the run. Chief executive Lip-Bu Tan has delivered a genuine turnaround. The manufacturing roadmap is finally shipping. And the market […]",
+          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
+          "summary": "Persistent agents create orchestration work around inference, while supplier selection remains unconfirmed.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c693e3ce9bd4e6e29819a0ddef701662b426ce9443e77143fdf1ab1b3bb27b8e"
+          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873"
         },
         {
-          "headline": "Intel (INTC) Can Fill Only Half its CPU Orders. Is That a Problem or a Signal?",
-          "summary": "Intel Corporation (NASDAQ:INTC) can supply only about half of the processor demand its customers are asking for. Chief executive Lip-Bu Tan said so at Splunk’s .conf26 conference in Denver this month. Other chief executives have called him asking for more chips, he said, and he has had to apologize. Not all of the shortage is […]",
+          "headline": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
+          "summary": "Intel (NASDAQ:INTC) shares are sliding in morning trading, giving back a slice of one of this year’s most extraordinary runs among large-cap technology names. Shares are down 3% to $119.04, and the plain reading of the session is profit taking amid a risk-off backdrop for tech stocks. The INTC pullback is happening alongside weakness in […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b0be225bf6a62c68740ece8525ee0addf621729658a24ef95b588ac61702e28"
+          "url": "https://finnhub.io/api/news?id=64d3734dffcb4d6ee2aa4fc1735308681a62c7eab2326637a8bf95ea58cc6349"
         },
         {
-          "headline": "Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive",
-          "summary": "Persistent agents add orchestration work, but Meta disclosed neither Intel hardware nor a purchase commitment.",
+          "headline": "Intel's 293% Rally Is Putting Its Valuation to the Test",
+          "summary": "Intel's AI opportunity has strengthened its growth story, but the stock's sharp run has pushed its sales multiple above the semiconductor industry average.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=754d6e25c06c824c73cdf8c62001fc31d0465aa1a56df0e754839d41800377f2"
+          "url": "https://finnhub.io/api/news?id=724010751e2b589d83eeaadbb254540f6aa93e913c97d50e3a6f03a38a4209c1"
         },
         {
-          "headline": "Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers.",
-          "summary": "Taiwan Semiconductor holds a massive market share advantage.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=915fe84b4c7f7b4decd1665d6e197fe4c36ccfee1c4fbfa2d75631da47054ea6"
+          "headline": "Meta's AI Agents Are Putting CPUs In Data Centers, But That's Not Bullish For Intel",
+          "summary": "Intel Corporation is rated a Hold due to supply constraints, aggressive capital needs, and limited upside at current valuation. Click for more on INTC.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=6369ad7450b6da70a0861f619d7db06180c4082a34e8f4dfbc7535398ff82df7"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Here is Why Intel (INTC) is a Bad Investment at Today’s Price / Intel (INTC) Can Fill Only Half its CPU Orders. Is That a Problem or a Signal? / Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive / Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers.",
+      "news_summary": "최근 뉴스 헤드라인: Intel Shares Rise as Agentic AI Keeps CPUs in the Loop / Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips / Intel's 293% Rally Is Putting Its Valuation to the Test / Meta's AI Agents Are Putting CPUs In Data Centers, But That's Not Bullish For Intel",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
