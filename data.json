@@ -1,29 +1,35 @@
 {
-  "updated_at": "2026-09-24 23:45",
+  "updated_at": "2026-09-25 23:48",
   "stocks": {
     "NVDA": {
-      "price": 224.58,
-      "change_pct": -0.4124,
-      "prev_close": 225.51,
-      "pe_ttm": 28.5845,
+      "price": 225.07,
+      "change_pct": 0.2182,
+      "prev_close": 224.58,
+      "pe_ttm": 27.8448,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.41% 내렸어요. PER은 28.6배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.22% 올랐어요. PER은 27.8배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach",
-          "summary": "One rival semiconductor ETF has quietly lapped the most popular chip fund on the market over the past year, and the reason comes down to a single position that most investors never think to question.",
+          "headline": "Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)?",
+          "summary": "In recent days, IonQ announced it will deploy its Superion 256 quantum processor at NVIDIA’s Accelerated Quantum Research Center, showcasing deeper integration between quantum and AI infrastructure. This milestone has drawn fresh attention to peers like Rigetti Computing, as investors reassess the longer-term commercial potential of quantum hardware platforms beyond the companies directly involved. Next, we’ll explore how IonQ’s NVIDIA deployment highlights Rigetti’s own government-backed...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc7f3145d3b9c6caf18b2af6bda94def5e393748336c73150a1d9e948cbbeada"
+          "url": "https://finnhub.io/api/news?id=2ba248df89a1705af5bd3220dd3941537d3b3000b40d5f7373c087f7f9f02079"
         },
         {
-          "headline": "AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
-          "summary": "The AI compute boom is adding customers, but the money remains extraordinarily concentrated. New Ramp data highlighted Thursday by Apollo Chief Economist Torsten Slok shows the top 10% of Ramp customers account for 99.5% of spending on model-serving and inference...",
+          "headline": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
+          "summary": "Few companies are in a league of their own quite like this one.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d44cd3810ebbc16f5001645bc35bb6b43ba5889628a54e8463c31004e528bed9"
+          "url": "https://finnhub.io/api/news?id=b28eba917a011f40661e75dc1bc15a471ccb5135d9911c90c4c4ed4c357afa90"
+        },
+        {
+          "headline": "Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026?",
+          "summary": "Credo more than tripled revenue last year but leans on 10 customers for 90% of sales, while Nvidia is doubling revenue at a scale nobody else in AI hardware can match.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1de20d5db04664ca26cc79dc9c98c740e0e658bf9759975a6f4560f2fb0a7d33"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach / AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
+      "news_summary": "최근 뉴스 헤드라인: Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)? / Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026 / Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 127.39,
-      "change_pct": 3.907,
-      "prev_close": 122.6,
+      "price": 123,
+      "change_pct": -3.4461,
+      "prev_close": 127.39,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 28.73,
-      "easy_explanation": "오늘 전일 대비 3.91% 올랐어요. 최근 1년 최저가~최고가 구간에서 87% 지점에 있어요.",
+      "week52_low": 28.82,
+      "easy_explanation": "오늘 전일 대비 3.45% 내렸어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
-          "summary": "Persistent agents create orchestration work around inference, while supplier selection remains unconfirmed.",
+          "headline": "What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing?",
+          "summary": "Intel (NasdaqGS:INTC) expanded its Edge AI reach through a new collaboration with Advantech Co., Ltd., focused on Advantech's Edge AI ecosystem. The partnership centers on deploying Intel hardware and software alongside Advantech platforms to support industrial and embedded AI workloads at the network edge. Intel also highlighted ongoing product development in brain-inspired computing, including neuromorphic style processors aimed at more energy-efficient AI inference. Intel's push into...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873"
+          "url": "https://finnhub.io/api/news?id=897b68f6020619a0eb0609739ade343e34dd4b11646f86203c40029c0da878a5"
         },
         {
-          "headline": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
-          "summary": "Intel (NASDAQ:INTC) shares are sliding in morning trading, giving back a slice of one of this year’s most extraordinary runs among large-cap technology names. Shares are down 3% to $119.04, and the plain reading of the session is profit taking amid a risk-off backdrop for tech stocks. The INTC pullback is happening alongside weakness in […]",
+          "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
+          "summary": "Intel's revenue base towers over ARM's, yet ARM has nearly doubled its quarterly haul over two years while Intel's remained relatively flat.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64d3734dffcb4d6ee2aa4fc1735308681a62c7eab2326637a8bf95ea58cc6349"
+          "url": "https://finnhub.io/api/news?id=67d8575455a4cf6658f4eeb38e99c3a13123a49a25b580d5c367b7bc5627038b"
         },
         {
-          "headline": "Intel's 293% Rally Is Putting Its Valuation to the Test",
-          "summary": "Intel's AI opportunity has strengthened its growth story, but the stock's sharp run has pushed its sales multiple above the semiconductor industry average.",
+          "headline": "Why Intel Stock Jumped This Week",
+          "summary": "The company could benefit from the rise in AI usage.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=724010751e2b589d83eeaadbb254540f6aa93e913c97d50e3a6f03a38a4209c1"
+          "url": "https://finnhub.io/api/news?id=d48f242763ee6ecba7a3bea1805b6ba6527d151bebf20eaa47f16ad723f8a8ce"
         },
         {
-          "headline": "Meta's AI Agents Are Putting CPUs In Data Centers, But That's Not Bullish For Intel",
-          "summary": "Intel Corporation is rated a Hold due to supply constraints, aggressive capital needs, and limited upside at current valuation. Click for more on INTC.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=6369ad7450b6da70a0861f619d7db06180c4082a34e8f4dfbc7535398ff82df7"
+          "headline": "AMD, NVIDIA and Intel Forecast: Chip Stocks Push Higher",
+          "summary": "AMD, NVIDIA and Intel show bullish momentum as chip stocks push higher despite elevated interest rates.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5e30bbd1eb32a63b73593e6e596b12dd0512b70132f2c5601bc9348ec88162cc"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Shares Rise as Agentic AI Keeps CPUs in the Loop / Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips / Intel's 293% Rally Is Putting Its Valuation to the Test / Meta's AI Agents Are Putting CPUs In Data Centers, But That's Not Bullish For Intel",
+      "news_summary": "최근 뉴스 헤드라인: What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing? / ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies / Why Intel Stock Jumped This Week / AMD, NVIDIA and Intel Forecast: Chip Stocks Push Higher",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
