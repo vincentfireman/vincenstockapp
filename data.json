@@ -1,35 +1,41 @@
 {
-  "updated_at": "2026-09-25 23:48",
+  "updated_at": "2026-09-29 00:48",
   "stocks": {
     "NVDA": {
-      "price": 225.07,
-      "change_pct": 0.2182,
-      "prev_close": 224.58,
-      "pe_ttm": 27.8448,
+      "price": 228.86,
+      "change_pct": 1.6839,
+      "prev_close": 225.07,
+      "pe_ttm": 29.0319,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.22% 올랐어요. PER은 27.8배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.68% 올랐어요. PER은 29.0배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
       "news": [
         {
-          "headline": "Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)?",
-          "summary": "In recent days, IonQ announced it will deploy its Superion 256 quantum processor at NVIDIA’s Accelerated Quantum Research Center, showcasing deeper integration between quantum and AI infrastructure. This milestone has drawn fresh attention to peers like Rigetti Computing, as investors reassess the longer-term commercial potential of quantum hardware platforms beyond the companies directly involved. Next, we’ll explore how IonQ’s NVIDIA deployment highlights Rigetti’s own government-backed...",
+          "headline": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus",
+          "summary": "President Donald Trump was open to providing sanctions relief to Iran on nuclear matters, CNN and Axios reported.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ba248df89a1705af5bd3220dd3941537d3b3000b40d5f7373c087f7f9f02079"
+          "url": "https://finnhub.io/api/news?id=b057d340744e7590865880f8a83751b466d402f8a17a19fb34b5a008d6e818fb"
         },
         {
-          "headline": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
-          "summary": "Few companies are in a league of their own quite like this one.",
+          "headline": "Nvidia’s Glass Packaging Push Could Reshape AI Chips",
+          "summary": "The next leap in Nvidia's AI performance may have nothing to do with the GPU itself. A shift in the material holding these chips together could determine how much memory fits in a package and how fast costs spiral upward.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b28eba917a011f40661e75dc1bc15a471ccb5135d9911c90c4c4ed4c357afa90"
+          "url": "https://finnhub.io/api/news?id=8a9725071a03f6f0d57eaf0d4874d92e0e61c5a50a265e4c7edb0afb01061936"
         },
         {
-          "headline": "Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026?",
-          "summary": "Credo more than tripled revenue last year but leans on 10 customers for 90% of sales, while Nvidia is doubling revenue at a scale nobody else in AI hardware can match.",
+          "headline": "Why Nvidia (NVDA) Stock Is Trading Up Today",
+          "summary": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) jumped 2.7% in the morning session after the company authorized an additional $150 billion for its share buyback program, taking the total authorization to $235 billion.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1de20d5db04664ca26cc79dc9c98c740e0e658bf9759975a6f4560f2fb0a7d33"
+          "url": "https://finnhub.io/api/news?id=19471c81a0941cd8c32237c47aea994c7c93ff3dcbea54e21c833de61a49f590"
+        },
+        {
+          "headline": "Nvidia’s Latest $150 Billion Move Delivers a Clear Message to Investors About What’s Next for the Stock.",
+          "summary": "Nvidia’s earnings are soaring as the AI boom marches on.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ba68aa13ff6c53f55d37aad8f18688db25660746319c49f28b810ebe3ee4622"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)? / Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026 / Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026?",
+      "news_summary": "최근 뉴스 헤드라인: S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus / Nvidia’s Glass Packaging Push Could Reshape AI Chips / Why Nvidia (NVDA) Stock Is Trading Up Today / Nvidia’s Latest $150 Billion Move Delivers a Clear Message to Investors About What’s Next for the Stock.",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -41,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 123,
-      "change_pct": -3.4461,
-      "prev_close": 127.39,
+      "price": 116.03,
+      "change_pct": -5.6667,
+      "prev_close": 123,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 28.82,
-      "easy_explanation": "오늘 전일 대비 3.45% 내렸어요. 최근 1년 최저가~최고가 구간에서 83% 지점에 있어요.",
+      "week52_low": 31.21,
+      "easy_explanation": "오늘 전일 대비 5.67% 내렸어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
       "news": [
         {
-          "headline": "What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing?",
-          "summary": "Intel (NasdaqGS:INTC) expanded its Edge AI reach through a new collaboration with Advantech Co., Ltd., focused on Advantech's Edge AI ecosystem. The partnership centers on deploying Intel hardware and software alongside Advantech platforms to support industrial and embedded AI workloads at the network edge. Intel also highlighted ongoing product development in brain-inspired computing, including neuromorphic style processors aimed at more energy-efficient AI inference. Intel's push into...",
+          "headline": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know",
+          "summary": "A number of stocks fell in the morning session after OpenAI paused training of its frontier artificial intelligence models following a security breach, raising concerns over near-term hardware demand.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=897b68f6020619a0eb0609739ade343e34dd4b11646f86203c40029c0da878a5"
+          "url": "https://finnhub.io/api/news?id=bbcb8cf02e94c79b7afb86be45278f2db91324c7ca7e777d9946575da85f33d6"
         },
         {
-          "headline": "ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies",
-          "summary": "Intel's revenue base towers over ARM's, yet ARM has nearly doubled its quarterly haul over two years while Intel's remained relatively flat.",
+          "headline": "Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?",
+          "summary": "Nvidia sits at the center of the AI build-out with demand that keeps accelerating. Intel is executing its most impressive turnaround in 15 years.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d8575455a4cf6658f4eeb38e99c3a13123a49a25b580d5c367b7bc5627038b"
+          "url": "https://finnhub.io/api/news?id=0726019203c959ef330179a848fd2f9ef99b2bd7a526bd3931ff4e6b545088b4"
         },
         {
-          "headline": "Why Intel Stock Jumped This Week",
-          "summary": "The company could benefit from the rise in AI usage.",
+          "headline": "Here's Why Intel (INTC) Fell More Than Broader Market",
+          "summary": "Intel (INTC) concluded the recent trading session at $116.03, signifying a -5.67% move from its prior day's close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d48f242763ee6ecba7a3bea1805b6ba6527d151bebf20eaa47f16ad723f8a8ce"
+          "url": "https://finnhub.io/api/news?id=23e27044634c79993551dcb8bea7adc783c19ad56ce16f926260e69c4024edb2"
         },
         {
-          "headline": "AMD, NVIDIA and Intel Forecast: Chip Stocks Push Higher",
-          "summary": "AMD, NVIDIA and Intel show bullish momentum as chip stocks push higher despite elevated interest rates.",
+          "headline": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
+          "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5e30bbd1eb32a63b73593e6e596b12dd0512b70132f2c5601bc9348ec88162cc"
+          "url": "https://finnhub.io/api/news?id=36af7b73f308d271333276d854ba112e9c59d582bbf0b9ed058cbf22a3f2547f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What Is Intel (INTC) Doing In Edge AI And Brain Inspired Computing? / ARM vs. Intel: What Revenue Growth Trends Reveal About These Artificial Intelligence Companies / Why Intel Stock Jumped This Week / AMD, NVIDIA and Intel Forecast: Chip Stocks Push Higher",
+      "news_summary": "최근 뉴스 헤드라인: AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know / Intel vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026? / Here's Why Intel (INTC) Fell More Than Broader Market / Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
