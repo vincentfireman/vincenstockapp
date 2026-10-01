@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-09-30 00:03",
+  "updated_at": "2026-10-01 00:20",
   "stocks": {
     "NVDA": {
-      "price": 227.21,
-      "change_pct": -0.721,
-      "prev_close": 228.86,
-      "pe_ttm": 28.7145,
+      "price": 228.38,
+      "change_pct": 0.5149,
+      "prev_close": 227.21,
+      "pe_ttm": 28.7932,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.72% 내렸어요. PER은 28.7배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 87% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.51% 올랐어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
       "news": [
         {
-          "headline": "Stocks making big moves yesterday: TTM Technologies, PacBio, Nvidia, Palo Alto Networks, and Teleflex",
-          "summary": "Check out the companies making headlines yesterday:",
+          "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
+          "summary": "Today, Sept. 30, 2026, the AI chip giant reinforced management confidence with an expanded repurchase program through 2028.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65449e3874ed1e771e4cd32752d31f5d3f78fa56cc77c594705ac1536a79f693"
+          "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394"
         },
         {
-          "headline": "Here's Why SpaceX Buying More Nvidia GPUs Is Bigger News for SpaceX's Stock Than Nvidia's",
-          "summary": "By renting out more compute capacity, SpaceX aims to generate revenue that it can put toward launching orbital data center satellites.",
+          "headline": "NVIDIA Is World's Largest Stock Yet Still Undervalued",
+          "summary": "Will McGough of Prime Capital Financial argues that NVIDIA’s earnings power and investments make its valuation more important than its already enormous size, while higher interest rates remain the shared risk for AI-linked stocks.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc1f5a5c1e79d61dc3359e1d59c814cb8002b01266a7f906c2fa04607f6a98b6"
+          "url": "https://finnhub.io/api/news?id=c85317ba82e5a7559eafed079255445fb4f6fccb74453227dfb85414759aac24"
+        },
+        {
+          "headline": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst",
+          "summary": "Keep your eye on this prediction for momentum tech stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef48d45c35218cde3a95f90f53e85f83fbec82d6e84677bb184d8ab378a3f949"
+        },
+        {
+          "headline": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
+          "summary": "Amazon.com Inc. (NASDAQ:AMZN) announced a multi-year deal worth more than $1 billion with Synopsys Inc. (NASDAQ:SNPS) Wednesday, expanding the chip-design technology behind AWS’s custom silicon push as it builds alternatives to processors from Nvidia Corp. (NASDAQ:NVDA). Amazon will become the...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8c26ba3bfc024599a5097724a731007e9c0dc6e84685e84e1218a807becf787"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Stocks making big moves yesterday: TTM Technologies, PacBio, Nvidia, Palo Alto Networks, and Teleflex / Here's Why SpaceX Buying More Nvidia GPUs Is Bigger News for SpaceX's Stock Than Nvidia's",
+      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B / NVIDIA Is World's Largest Stock Yet Still Undervalued / AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst / Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 115.93,
-      "change_pct": -0.0862,
-      "prev_close": 116.03,
+      "price": 120.23,
+      "change_pct": 3.7091,
+      "prev_close": 115.93,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 0.09% 내렸어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.71% 올랐어요. 최근 1년 최저가~최고가 구간에서 80% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stock Is Up 246% Over the Past Year. Here’s What This Week’s Pullback Signals",
-          "summary": "Key Stats for INTC StockPast week performance: -5. 4%52-week range: $33 to $142Valuation model target price: $141Implied upside: 21.",
+          "headline": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst",
+          "summary": "Keep your eye on this prediction for momentum tech stocks.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=631820b02a44d0a4e3368742f51d3adf03a96f9d44c12b901f7b18bdeada1ce8"
+          "url": "https://finnhub.io/api/news?id=ef48d45c35218cde3a95f90f53e85f83fbec82d6e84677bb184d8ab378a3f949"
         },
         {
-          "headline": "Next Generation Computing Market Report 2026: Capitalize on the $486 Billion Revenue Surge to $811.85 Billion by 2030 as Microsoft, AWS, NVIDIA, IBM and Intel Accelerate AI, Quantum and Edge Computing Disruption",
-          "summary": "AWS, Alphabet, Google, Microsoft and Alibaba are profiled, covering market share, segments, trends, opportunities, technologies, deployments and end users.Dublin, Sept. 29, 2026 (GLOBE NEWSWIRE) -- \"Next Generation Computing Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global next-generation computing market is experiencing rapid expansion, driven by rising demand for advanced data processing, high-performance infrastructure and energy-efficient computing systems.",
+          "headline": "32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show",
+          "summary": "Wall Street has overwhelmingly parked Intel in hold territory, but the stock just posted a 212% gain this year while simultaneously losing billions in its foundry division. Something in those conflicting signals deserves a closer look before you decide what to do with your shares.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91fb73dffa21ff5d80fdaf7d34a2d0b476d482388a30e3c4850260c6ce25fe8e"
+          "url": "https://finnhub.io/api/news?id=69fd4720968b35922efdfc322e11676026256837b41605de39ab6876df096874"
         },
         {
-          "headline": "Intel Stock Fell Nearly 6% in a Day. Here’s the Foundry Deadline That Matters More",
-          "summary": "Key Stats for Intel StockCurrent Price: $116. 03Target Price (Mid): ~$460Street Target: ~$116Potential Total Return: ~296%Annualized IRR: ~38% / yearWhat Happened?Intel Corporation (INTC) fell 5.",
+          "headline": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
+          "summary": "Intel closed out September with a move that has investors debating whether the chip giant's turnaround is finally gaining real traction or whether the rally has already run ahead of the fundamentals.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=542e0cae8c076c0cd85c34c6386eeb0e746300a9528b5e8ba4d5c41903c0ad38"
+          "url": "https://finnhub.io/api/news?id=4bcd5a5cd8da8dd27f905adce97cf90beb0d7209180c08583789f727f5171568"
         },
         {
-          "headline": "AMD at 4 Milestones: Total Return From the Intel Settlement to the $1 Trillion Club",
-          "summary": "AMD just hit a $1 trillion market cap, but the real story lives in the four moments before it got there. Each entry point produced a wildly different outcome, and the gaps reveal something most milestone headlines bury.",
+          "headline": "Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
+          "summary": "Gabelli Investment Management Firm recently released its “Dividend Growth Fund” second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The Fund faced a second quarter in which a dramatic stock-market rebound was led by semiconductor and industrial shares, while the Fund’s more defensive positioning and limited exposure to the strongest AI […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02dce43ec9539fb69ee339908e2077c295d212c60d148ed07440081c8f24b1ad"
+          "url": "https://finnhub.io/api/news?id=4be8f2b79900a56cbdc1fe2cb5c87e32e639b66f8f56ded05ae710b22815a179"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stock Is Up 246% Over the Past Year. Here’s What This Week’s Pullback Signals / Next Generation Computing Market Report 2026: Capitalize on the $486 Billion Revenue Surge to $811.85 Billion by 2030 as Microsoft, AWS, NVIDIA, IBM and Intel Accelerate AI, Quantum and Edge Computing Disruption / Intel Stock Fell Nearly 6% in a Day. Here’s the Foundry Deadline That Matters More / AMD at 4 Milestones: Total Return From the Intel Settlement to the $1 Trillion Club",
+      "news_summary": "최근 뉴스 헤드라인: AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst / 32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show / Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips / Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
