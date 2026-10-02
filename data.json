@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-01 00:20",
+  "updated_at": "2026-10-02 00:30",
   "stocks": {
     "NVDA": {
-      "price": 228.38,
-      "change_pct": 0.5149,
-      "prev_close": 227.21,
-      "pe_ttm": 28.7932,
+      "price": 230.86,
+      "change_pct": 1.0859,
+      "prev_close": 228.38,
+      "pe_ttm": 28.8319,
       "week52_high": 236.54,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.51% 올랐어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 89% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.09% 올랐어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 92% 지점에 있어요.",
       "news": [
         {
-          "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
-          "summary": "Today, Sept. 30, 2026, the AI chip giant reinforced management confidence with an expanded repurchase program through 2028.",
+          "headline": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",
+          "summary": "10-year Treasury yields cooled off from the 2002 highs on Thursday.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394"
+          "url": "https://finnhub.io/api/news?id=08849f65268b05479a386e4e1416205e9ce4b6026de02408d117e683d1982533"
         },
         {
-          "headline": "NVIDIA Is World's Largest Stock Yet Still Undervalued",
-          "summary": "Will McGough of Prime Capital Financial argues that NVIDIA’s earnings power and investments make its valuation more important than its already enormous size, while higher interest rates remain the shared risk for AI-linked stocks.",
+          "headline": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift",
+          "summary": "Nvidia’s updated valuation work now points to a fair value of US$327.70, up from US$302.83 in the latest analyst model. That change sits alongside research commentary that balances enthusiasm about Nvidia’s AI systems, ecosystem moves and planned Hugging Face acquisition with questions about financing structures, competition and execution risk. As you read on, you will see how to track these shifting inputs and keep up with the evolving analyst narrative around Nvidia. Analyst Price Targets...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c85317ba82e5a7559eafed079255445fb4f6fccb74453227dfb85414759aac24"
+          "url": "https://finnhub.io/api/news?id=a0b58e332b9b0027cd82bb5a84b9bf4c9d4de5f74ab050a43ceaf6b674d27cac"
         },
         {
-          "headline": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst",
-          "summary": "Keep your eye on this prediction for momentum tech stocks.",
+          "headline": "Chinese state funds backed purchases of restricted Nvidia AI chips, report says",
+          "summary": "Investing.com -- A Chinese state-backed financing entity has funded the purchase of restricted NVIDIA Corporation (NASDAQ:NVDA) processors, underscoring Beijing’s active role in facilitating access to advanced American technology despite strict export controls. The financial support signals a direct effort by local government entities to sustain China’s artificial intelligence ambitions, according to a report from Bloomberg News citing Chinese regulatory filings.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef48d45c35218cde3a95f90f53e85f83fbec82d6e84677bb184d8ab378a3f949"
+          "url": "https://finnhub.io/api/news?id=39a92312eb5f3f0a29db0c8d03eec83b18def1dd05a0216eac3e28641269405b"
         },
         {
-          "headline": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
-          "summary": "Amazon.com Inc. (NASDAQ:AMZN) announced a multi-year deal worth more than $1 billion with Synopsys Inc. (NASDAQ:SNPS) Wednesday, expanding the chip-design technology behind AWS’s custom silicon push as it builds alternatives to processors from Nvidia Corp. (NASDAQ:NVDA). Amazon will become the...",
+          "headline": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble",
+          "summary": "Famed “The Big Short” investor Michael Burry argues that temporary hardware shortages are masking rapid GPU depreciation and creating structural risks across tech and private credit sectors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8c26ba3bfc024599a5097724a731007e9c0dc6e84685e84e1218a807becf787"
+          "url": "https://finnhub.io/api/news?id=1b80fea09653124d313b874c1073d0985f37daa4988341b8027d292068075c55"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B / NVIDIA Is World's Largest Stock Yet Still Undervalued / AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst / Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
+      "news_summary": "최근 뉴스 헤드라인: S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus / Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift / Chinese state funds backed purchases of restricted Nvidia AI chips, report says / Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 120.23,
-      "change_pct": 3.7091,
-      "prev_close": 115.93,
+      "price": 120,
+      "change_pct": -0.1913,
+      "prev_close": 120.23,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 3.71% 올랐어요. 최근 1년 최저가~최고가 구간에서 80% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.19% 내렸어요. 최근 1년 최저가~최고가 구간에서 80% 지점에 있어요.",
       "news": [
         {
-          "headline": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst",
-          "summary": "Keep your eye on this prediction for momentum tech stocks.",
+          "headline": "Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+          "summary": "One is a turnaround story burning cash; the other generated $34.4 billion in free cash flow last year. The valuation gap tells the rest.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef48d45c35218cde3a95f90f53e85f83fbec82d6e84677bb184d8ab378a3f949"
+          "url": "https://finnhub.io/api/news?id=122862f215fd764d32810677d9c84ae6ee40be99ec463a2134ddd4b22bd71f0a"
         },
         {
-          "headline": "32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show",
-          "summary": "Wall Street has overwhelmingly parked Intel in hold territory, but the stock just posted a 212% gain this year while simultaneously losing billions in its foundry division. Something in those conflicting signals deserves a closer look before you decide what to do with your shares.",
+          "headline": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
+          "summary": "Recent commentary around Intel (INTC) has focused on its AI-centered strategy, including agentic CPU demand and anticipated foundry contracts, as investors respond to fresh data center momentum along with new enterprise security and edge AI tools. Intel’s recent AI headlines are landing against a powerful share price move, with the stock up 34.3% over the past 30 days and a 205.3% year to date share price return. The 1 year total shareholder return of 234.5% signals that momentum has been...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69fd4720968b35922efdfc322e11676026256837b41605de39ab6876df096874"
+          "url": "https://finnhub.io/api/news?id=891ca05509a50f107578ee2b01c168313686b9bbb672cfbb543cb065f69fe716"
         },
         {
-          "headline": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-          "summary": "Intel closed out September with a move that has investors debating whether the chip giant's turnaround is finally gaining real traction or whether the rally has already run ahead of the fundamentals.",
+          "headline": "Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech.",
+          "summary": "Taiwan Semiconductor Manufacturing and ASML each have their own competitive bulwarks.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4bcd5a5cd8da8dd27f905adce97cf90beb0d7209180c08583789f727f5171568"
+          "url": "https://finnhub.io/api/news?id=eac12169f885113769af0741873cfe186c5949d460f006440f3c0ccc6947220e"
         },
         {
-          "headline": "Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
-          "summary": "Gabelli Investment Management Firm recently released its “Dividend Growth Fund” second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The Fund faced a second quarter in which a dramatic stock-market rebound was led by semiconductor and industrial shares, while the Fund’s more defensive positioning and limited exposure to the strongest AI […]",
+          "headline": "Intel Surges 222% in a Year: Should Investors Join the Bandwagon?",
+          "summary": "INTC's 222% surge reflects AI momentum, stronger manufacturing execution and rising estimates, though margin and China risks persist.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4be8f2b79900a56cbdc1fe2cb5c87e32e639b66f8f56ded05ae710b22815a179"
+          "url": "https://finnhub.io/api/news?id=f6689f4b7741da17332c367f42ce77d361edeae2ccc0085880f1290d2d7bedb7"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst / 32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show / Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips / Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
+      "news_summary": "최근 뉴스 헤드라인: Intel vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? / Intel (INTC) Rides AI Optimism But Is It Already Fully Valued / Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech. / Intel Surges 222% in a Year: Should Investors Join the Bandwagon?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
