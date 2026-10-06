@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-03 00:09",
+  "updated_at": "2026-10-06 01:39",
   "stocks": {
     "NVDA": {
-      "price": 233.95,
-      "change_pct": 1.3385,
-      "prev_close": 230.86,
-      "pe_ttm": 29.6628,
-      "week52_high": 236.54,
+      "price": 238.9,
+      "change_pct": 2.1158,
+      "prev_close": 233.95,
+      "pe_ttm": 29.6847,
+      "week52_high": 237.88,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.34% 올랐어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 96% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.12% 올랐어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 101% 지점에 있어요.",
       "news": [
         {
-          "headline": "Jim Cramer Highlights NVIDIA (NVDA) Architecture Framework And Historic Share Buyback",
-          "summary": "During the September 28 episode of Mad Money, Jim Cramer focused on NVIDIA Corporation (NASDAQ:NVDA), reiterating his classic mantra to own rather than trade the stock while highlighting a major corporate development. He commented: Of course, remember the other own it, don’t trade stock, NVIDIA. Today, it announced a sound plan based on engineering that […]",
+          "headline": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+          "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a10cd465475cc83dc7c5e184694d9e4e5d085924c8369881f9de18d19fc34525"
+          "url": "https://finnhub.io/api/news?id=8b05235329873b3a6aefc1263a0519dcf558fad2478525d7f31f7e0d1584bf58"
         },
         {
-          "headline": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals. What To Do Now.",
-          "summary": "The Nasdaq is at highs with Nvidia, SpaceX, Bloom Energy in buy areas. But much of the market remains weak. Here's what to do.",
+          "headline": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
+          "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91bd2d00c1237f44cb091184786532b092b9d4c2060abd83e88d291e8852feb2"
+          "url": "https://finnhub.io/api/news?id=e2c64a14c0e41f421fd4f7a4b4ae51527ec82124dcaaade89b0072a2daea6227"
         },
         {
-          "headline": "Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today’s Market",
-          "summary": "Nvidia stock is on pace to close at a record high.",
+          "headline": "Nvidia (NVDA) Outperforms Broader Market: What You Need to Know",
+          "summary": "In the latest trading session, Nvidia (NVDA) closed at $238.9, marking a +2.12% move from the previous day.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89fc5bd71e48aa5f457e0a54a6168616070721737593c149e7beff464aad3dfc"
+          "url": "https://finnhub.io/api/news?id=c65c53ccf606bf231dedf47b0fa9c9eee413b7be42d422d9c2078076aa751b2e"
         },
         {
-          "headline": "Nvidia puts $500 billion on the table, challenges banking as we know it",
-          "summary": "Six of the largest asset managers in the world just lined up behind Nvidia. The debate is over what happens next.",
+          "headline": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand",
+          "summary": "Nvidia stock is on the cusp of a record high and Foxconn sales numbers could help it get there.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5332621f0198188c687f5bf216273be9a4dc16c6b23377d4d6060070f2ad42eb"
+          "url": "https://finnhub.io/api/news?id=9c3db8474410a71734247fa7738ace797d360325a264e1b995bd97f8d85db759"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Jim Cramer Highlights NVIDIA (NVDA) Architecture Framework And Historic Share Buyback / Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals. What To Do Now. / Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today’s Market / Nvidia puts $500 billion on the table, challenges banking as we know it",
+      "news_summary": "최근 뉴스 헤드라인: Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus / Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally / Nvidia (NVDA) Outperforms Broader Market: What You Need to Know / Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 119.33,
-      "change_pct": -0.5583,
-      "prev_close": 120,
+      "price": 116.19,
+      "change_pct": -2.6314,
+      "prev_close": 119.33,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 0.56% 내렸어요. 최근 1년 최저가~최고가 구간에서 79% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.63% 내렸어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
       "news": [
         {
-          "headline": "Is Intel Stock Too Dependent On One Big Bet?",
-          "summary": "Intel (INTC) expects its capital spending to be more than $20 billion in 2026. That money goes into chip plants and tools. Intel's operations produced $14.9 billion of cash over the last twelve months. Its 2026 plan costs more than the cash its operations brought in over the past year, so the new plants need to pay off. So is Intel stock too dependent on that spending paying off.",
+          "headline": "Elon Musk Confirmed Terafab Talks With TSMC. Intel Has Been Its Only Named Chip Partner.",
+          "summary": "If TSMC joins Musk's chip venture, what does its only named chip partner stand to lose?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80f041dce213a02c0075b7ae9b18fc9ce0008fe676709bafc4daf6d30d4c428a"
+          "url": "https://finnhub.io/api/news?id=aa7639a3c3a678974d5c11023c41de02bbca0849f0cd6e88e4114867505ad50e"
         },
         {
-          "headline": "Intel Sold Stock at $95. It Now Trades at $120. Who Won?",
-          "summary": "Key TakeawaysOn TIKR’s cash-from-operations-minus-capex measure, Intel generated about $4. 45 billion of free cash flow in the June quarter, its best in the eight-quarter view.",
+          "headline": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know",
+          "summary": "The latest trading day saw Intel (INTC) settling at $116.19, representing a -2.63% change from its previous close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a96fc8d27baab826688895ecf7aebf895f4750a555b7107d9b325177ae0402f"
+          "url": "https://finnhub.io/api/news?id=0b0ef73586dd9b50612a8ea15eb3e967b5e9d7085f0f177685f5490cd62b3bef"
         },
         {
-          "headline": "One Reason Intel Stock Looks Better Than Its Price",
-          "summary": "One business stands out at Intel (INTC): the chips it sells for data center servers, and that's what Intel bulls might be betting on. You probably still think of Intel as a PC chip company, but the ground reality has shifted. Intel stock returned 258% over the past twelve months, against 16.0% for the S&P 500. The company still reported a loss over its last twelve months. Therein lies the contradiction and it hinges on the data center bet. So, how big has Intel's data center business become.",
+          "headline": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026?",
+          "summary": "AMD is posting strong AI chip growth with high-profile customer wins. Intel is recovering, with its fastest revenue growth in 15 years, but execution risk remains.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7dc84ed4a34d097ece9a9b8f0ef5b16406c076082db8d9f7676ff10a13c126ef"
+          "url": "https://finnhub.io/api/news?id=33b8d9bb9c2dc48e016820ab0d3f668e5c726eb9bbd9b6e80ba979c8aca90b38"
         },
         {
-          "headline": "Trump Floats Intel-Style Government Equity Stakes in OpenAI and Anthropic: 'I Have Many Deals Like That' (UPDATED)",
-          "summary": "Trump is ruling out nationalizing AI labs like OpenAI and Anthropic, but may take an equity stake instead, modeled on the Intel deal.",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=4010a2a42ea84afca48e347c8d3d94f42330ebcb13c9cbef01e66e456d5d5473"
+          "headline": "Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
+          "summary": "Intel falls as Elon Musk confirms Taiwan Semiconductor Manufacturing is in talks with Musk’s chip venture Terafab.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=144899d00ff12872cd82ce48cba07cabdc267618152a96440cda2a1ad490fcd5"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Is Intel Stock Too Dependent On One Big Bet? / Intel Sold Stock at $95. It Now Trades at $120. Who Won? / One Reason Intel Stock Looks Better Than Its Price / Trump Floats Intel-Style Government Equity Stakes in OpenAI and Anthropic: 'I Have Many Deals Like That' (UPDATED)",
+      "news_summary": "최근 뉴스 헤드라인: Elon Musk Confirmed Terafab Talks With TSMC. Intel Has Been Its Only Named Chip Partner. / Intel (INTC) Stock Sinks As Market Gains: What You Should Know / Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? / Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
