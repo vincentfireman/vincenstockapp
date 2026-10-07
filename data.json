@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-06 01:39",
+  "updated_at": "2026-10-07 00:21",
   "stocks": {
     "NVDA": {
-      "price": 238.9,
-      "change_pct": 2.1158,
-      "prev_close": 233.95,
-      "pe_ttm": 29.6847,
-      "week52_high": 237.88,
+      "price": 239.24,
+      "change_pct": 0.1423,
+      "prev_close": 238.9,
+      "pe_ttm": 30.2079,
+      "week52_high": 240.0983,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.12% 올랐어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 101% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.14% 올랐어요. PER은 30.2배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 99% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
-          "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
+          "headline": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips",
+          "summary": "The company’s financing effort is expected to be led by Apollo Global Management, the Financial Times reported, citing people familiar with the matter.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b05235329873b3a6aefc1263a0519dcf558fad2478525d7f31f7e0d1584bf58"
+          "url": "https://finnhub.io/api/news?id=b9ff9ddd7d57304a0f8ca1bee180401b4a29bbdeff80e5120d693bbe2cc39b19"
         },
         {
-          "headline": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
-          "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
+          "headline": "Is Nvidia’s (NVDA) Free Cash Flow Keeping Pace With Its Reported Earnings?",
+          "summary": "NVIDIA Corporation (NASDAQ:NVDA) was trading at around $238 on October 5, up 1.66% on the day and within a few cents of its 52-week high. The company reported net income of $192.88 billion over the past twelve months and free cash flow of $127.01 billion. A gap of roughly $66 billion between profit and cash […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2c64a14c0e41f421fd4f7a4b4ae51527ec82124dcaaade89b0072a2daea6227"
+          "url": "https://finnhub.io/api/news?id=9048cae72df8cac6c22c8e5326f8b6b607372c11bd052fe1c634b4196b276fb9"
         },
         {
-          "headline": "Nvidia (NVDA) Outperforms Broader Market: What You Need to Know",
-          "summary": "In the latest trading session, Nvidia (NVDA) closed at $238.9, marking a +2.12% move from the previous day.",
+          "headline": "Nvidia stock flashes massive signal as Wall Street leans in",
+          "summary": "Wall Street is betting Nvidia still has room to run.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c65c53ccf606bf231dedf47b0fa9c9eee413b7be42d422d9c2078076aa751b2e"
+          "url": "https://finnhub.io/api/news?id=52584804f659ab8bef8262905f0f67a416ea18cdbbe36dad15e3feee71bc51de"
         },
         {
-          "headline": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand",
-          "summary": "Nvidia stock is on the cusp of a record high and Foxconn sales numbers could help it get there.",
+          "headline": "Buy These Top AI Stocks for Higher Highs: HPE, NVDA, TSM",
+          "summary": "These three top-ranked AI stocks are hitting new highs, but rising earnings estimates suggest their rallies may still have room to run.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c3db8474410a71734247fa7738ace797d360325a264e1b995bd97f8d85db759"
+          "url": "https://finnhub.io/api/news?id=fdaae1825e916b6badc050c1b1916d60c6fad6f89aa39adab6a776eebcb8e7aa"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus / Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally / Nvidia (NVDA) Outperforms Broader Market: What You Need to Know / Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand",
+      "news_summary": "최근 뉴스 헤드라인: SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips / Is Nvidia’s (NVDA) Free Cash Flow Keeping Pace With Its Reported Earnings? / Nvidia stock flashes massive signal as Wall Street leans in / Buy These Top AI Stocks for Higher Highs: HPE, NVDA, TSM",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 116.19,
-      "change_pct": -2.6314,
-      "prev_close": 119.33,
+      "price": 112.5,
+      "change_pct": -3.1758,
+      "prev_close": 116.19,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.63% 내렸어요. 최근 1년 최저가~최고가 구간에서 76% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.18% 내렸어요. 최근 1년 최저가~최고가 구간에서 73% 지점에 있어요.",
       "news": [
         {
-          "headline": "Elon Musk Confirmed Terafab Talks With TSMC. Intel Has Been Its Only Named Chip Partner.",
-          "summary": "If TSMC joins Musk's chip venture, what does its only named chip partner stand to lose?",
+          "headline": "Intel to Report Third-Quarter 2026 Financial Results",
+          "summary": "SANTA CLARA, Calif., October 06, 2026--Intel to Report Third-Quarter 2026 Financial Results",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa7639a3c3a678974d5c11023c41de02bbca0849f0cd6e88e4114867505ad50e"
+          "url": "https://finnhub.io/api/news?id=2aba9027a3af45003ab4ce7cd69bacf4723678a289facac10b8764e749496602"
         },
         {
-          "headline": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know",
-          "summary": "The latest trading day saw Intel (INTC) settling at $116.19, representing a -2.63% change from its previous close.",
+          "headline": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
+          "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b0ef73586dd9b50612a8ea15eb3e967b5e9d7085f0f177685f5490cd62b3bef"
+          "url": "https://finnhub.io/api/news?id=b20d74487d12ee8348f9eab77dabff4b7549dba9988236e66b36d49c0c0254a3"
         },
         {
-          "headline": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026?",
-          "summary": "AMD is posting strong AI chip growth with high-profile customer wins. Intel is recovering, with its fastest revenue growth in 15 years, but execution risk remains.",
+          "headline": "AMD Spikes 4% as Citi Lifts Target to $800 and Stifel Goes to $700; NVIDIA Ticks Up, Intel Slips",
+          "summary": "Citi and Stifel raised their AMD price targets for completely different reasons, yet the stock jumped while a chipmaker they both named as a beneficiary sold off. That contradiction is the real story behind today's rally.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33b8d9bb9c2dc48e016820ab0d3f668e5c726eb9bbd9b6e80ba979c8aca90b38"
+          "url": "https://finnhub.io/api/news?id=8677f0b25892457821cbc498c33ed40d6af7debd99f0760a2db4644d43046d23"
         },
         {
-          "headline": "Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
-          "summary": "Intel falls as Elon Musk confirms Taiwan Semiconductor Manufacturing is in talks with Musk’s chip venture Terafab.",
+          "headline": "Applied Materials and Intel Collaborate to Accelerate Chipmaking Innovations for AI-Driven Computing",
+          "summary": "Collaborations at Applied’s EPIC Center in Silicon Valley and Intel’s R&D campus in Oregon aim to develop breakthroughs in next-generation transistors, interconnects and advanced packaging technologies for AI chips and systems Collaboration builds on the companies’ long history of working together to solve complex semiconductor device scaling challenges SANTA CLARA, Calif., Oct. 06, 2026 (GLOBE NEWSWIRE) -- Applied Materials, Inc. (Nasdaq: AMAT), the leader in materials engineering for the semic",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=144899d00ff12872cd82ce48cba07cabdc267618152a96440cda2a1ad490fcd5"
+          "url": "https://finnhub.io/api/news?id=8a655c1feb080a90a0f88856784fb390c4e0a4707bfd075f4051ca0211c5db40"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Elon Musk Confirmed Terafab Talks With TSMC. Intel Has Been Its Only Named Chip Partner. / Intel (INTC) Stock Sinks As Market Gains: What You Should Know / Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? / Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
+      "news_summary": "최근 뉴스 헤드라인: Intel to Report Third-Quarter 2026 Financial Results / Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption / AMD Spikes 4% as Citi Lifts Target to $800 and Stifel Goes to $700; NVIDIA Ticks Up, Intel Slips / Applied Materials and Intel Collaborate to Accelerate Chipmaking Innovations for AI-Driven Computing",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
