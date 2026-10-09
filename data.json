@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-10-08 00:42",
+  "updated_at": "2026-10-09 00:58",
   "stocks": {
     "NVDA": {
-      "price": 237.47,
-      "change_pct": -0.7398,
-      "prev_close": 239.24,
-      "pe_ttm": 29.7266,
+      "price": 230.48,
+      "change_pct": -2.9435,
+      "prev_close": 237.47,
+      "pe_ttm": 29.6716,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.74% 내렸어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 93% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.94% 내렸어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
       "news": [
         {
-          "headline": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",
-          "summary": "The 30-year bond yield hit its highest level since May 2002 at 5.732%.",
+          "headline": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
+          "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50352b28347a16ef361adee73323be4f5be5b71231708705135708bc7bebdb49"
+          "url": "https://finnhub.io/api/news?id=dc1918cd0feb30add5eacf5d2b3e01797f856a03f979aebef0e228fc128111a6"
+        },
+        {
+          "headline": "Nvidia, Apple, and Microsoft Spell Trouble for Index Investors",
+          "summary": "Doug McIntyre and Lee Jackson recently broke down a historic and unsettling milestone for the stock market: just three companies—Nvidia, Apple, and Microsoft—now make up over 21% of the entire S&P 500.  The 24/7 Wall St. Analysts examined how this unprecedented concentration compares to past historical peaks (like IBM, AT&T, and ExxonMobil in the 1980s) and why thin market breadth leaves everyday index fund investors far less diversified than they realize.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39f10c0253fff9d4ac5a10c3ed0a73c61f4c5cb7d946862d6828e087ae4483ca"
+        },
+        {
+          "headline": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
+          "summary": "Both chipmakers are succeeding amid the AI infrastructure build-out.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f5c0ed61e2f3840a5c91a48ce06e2edd7964c85b43aac1ba3bca4ca906b05bd"
+        },
+        {
+          "headline": "Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation?",
+          "summary": "NVIDIA Corporation (NASDAQ:NVDA)’s $20 billion deal for Groq’s AI technology is facing a new legal challenge just as that technology begins contributing to Nvidia’s push into inference. A lawsuit filed by two former Groq engineers in Delaware alleges that Groq’s board improperly structured the 2025 transaction, which consisted of a $17 billion licensing agreement and […]",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5b11d5eb9cbd15b5eedb123a9748e63d0a66e4a7a101d927678cb4d6ae358a9"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",
+      "news_summary": "최근 뉴스 헤드라인: Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus / Nvidia, Apple, and Microsoft Spell Trouble for Index Investors / Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years? / Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -29,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 113.12,
-      "change_pct": 0.5511,
-      "prev_close": 112.5,
+      "price": 107.08,
+      "change_pct": -5.3395,
+      "prev_close": 113.12,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 0.55% 올랐어요. 최근 1년 최저가~최고가 구간에서 73% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.34% 내렸어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
       "news": [
         {
-          "headline": "Visual Computing - Global Strategic Business Report: Capitalize on 19.2% CAGR as the Market Surges to US$78.4B by 2030; Benchmark Intel, Arm, Clarifai, Imagination Technologies and Leela AI",
-          "summary": "Capitalize on AI-powered GPUs, cloud-edge processing, AR/VR and digital twins across key industries, guided by tariff and competitive insights.Dublin, Oct. 07, 2026 (GLOBE NEWSWIRE) -- \"Visual Computing - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global visual computing market was valued at US$27.4 billion in 2024 and is projected to reach US$78.4 billion by 2030, expanding at a compound annual growth rate (CAGR) of 19.2% during the forecast perio",
+          "headline": "Prediction: This Will Happen to Intel Stock in 2027",
+          "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36c3585ccd8fe6e010a7be06b57192429eb8ba892d7e8dc01c37cc9550e9dde6"
+          "url": "https://finnhub.io/api/news?id=d86469372b65f857abcfdce35ad6dfa75cd8288054ea643ead328937d0c166c8"
         },
         {
-          "headline": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market",
-          "summary": "Caterpillar and Deere trade lower. The Federal Trade Commission launches a probe into competition and business practices within the agricultural equipment and technology industries.",
+          "headline": "Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI",
+          "summary": "AUSTIN, Texas, October 08, 2026--Anaconda, Inc., the trusted foundation for AI-native development, today announced expansion of its collaboration with Intel to make Intel-optimized software even easier for developers to access, install and keep current through the conda ecosystem. The announcement comes as the companies mark a milestone of more than 500 million downloads of Intel-optimized AI, ML, and Python packages, increasing speed and accessibility for builders worldwide.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8476d3dd089d7b34e7c32f5c130c88033e4cb48365d9ca996293089746452b48"
+          "url": "https://finnhub.io/api/news?id=e214c7e91ae9f9d7541f2d7469416a7497b80923ae2759d9c714c2a06e46666e"
         },
         {
-          "headline": "Intel vs. SK Hynix: Which Semiconductor Stock Is a Better Buy in 2026?",
-          "summary": "SK Hynix is generating $31.6 billion in annual net income on explosive AI-driven demand, while Intel battles negative cash flow and shareholder litigation.",
+          "headline": "Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings?",
+          "summary": "What a fantastic six months it’s been for Intel. Shares of the company have skyrocketed 92.6%, hitting $113.56. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f931e8954e5454c5b64cb900c9c20ecc039e3723dcbb11b623ece3afefdc104"
+          "url": "https://finnhub.io/api/news?id=853f2a7bbcab96a9ebc0dc469ef18422c813691791005a57ca7ed1f4f871ceaf"
         },
         {
-          "headline": "Constellation Brands Down on Earnings; Intel Up on Terafab | Stock Movers",
-          "summary": "On this episode of Stock Movers: - Constellation Brands (STZ) is lower after the maker of Modelo Especial and Corona Extra reaffirmed its comparable earnings per share forecast for the full year. The company also announced the acquisition of SpikedAde, a vodka-based drink brand. - SpaceX (SPCX) shares are lower this morning as Elon Musk's SpaceX is in talks with banks and investors to raise $40 billion to buy chips from Nvidia. SpaceX's fundraising discussions are in an early stage and could end without a deal being completed, with Pacific Investment Management Co. and Apollo Global Management Inc. involved. - Intel (INTC) shares are higher as CEO Lip-Bu Tan said the company will continue working with Elon Musk on Terafab.",
+          "headline": "AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
+          "summary": "They are both profiting from the AI boom, but one of them looks more attractive right now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd10c2f91f050f096a119764c37fb3f109736cb7025bf9d3fe60d8fc14975161"
+          "url": "https://finnhub.io/api/news?id=98020f9bfdb050361c5c8f0c2941350ed505cd932925f96ab5709590d338163e"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Visual Computing - Global Strategic Business Report: Capitalize on 19.2% CAGR as the Market Surges to US$78.4B by 2030; Benchmark Intel, Arm, Clarifai, Imagination Technologies and Leela AI / Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market / Intel vs. SK Hynix: Which Semiconductor Stock Is a Better Buy in 2026? / Constellation Brands Down on Earnings; Intel Up on Terafab | Stock Movers",
+      "news_summary": "최근 뉴스 헤드라인: Prediction: This Will Happen to Intel Stock in 2027 / Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI / Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings? / AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
