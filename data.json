@@ -1,41 +1,29 @@
 {
-  "updated_at": "2026-10-09 00:58",
+  "updated_at": "2026-10-10 00:29",
   "stocks": {
     "NVDA": {
-      "price": 230.48,
-      "change_pct": -2.9435,
-      "prev_close": 237.47,
-      "pe_ttm": 29.6716,
+      "price": 229.28,
+      "change_pct": -0.5207,
+      "prev_close": 230.48,
+      "pe_ttm": 28.7982,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.94% 내렸어요. PER은 29.7배로, 회사가 1년에 버는 돈의 30배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 84% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.52% 내렸어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
-          "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
+          "headline": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
+          "summary": "Despite some chop, the S&P 500 and Nasdaq are near highs. ASML and Nvidia chipmaker Taiwan Semi earnings may decide if the AI stock pullback is bullish.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc1918cd0feb30add5eacf5d2b3e01797f856a03f979aebef0e228fc128111a6"
+          "url": "https://finnhub.io/api/news?id=1d72605c0992870fb58e326702fcc43d866e4c10a8462e08d3bcecd7536e0013"
         },
         {
-          "headline": "Nvidia, Apple, and Microsoft Spell Trouble for Index Investors",
-          "summary": "Doug McIntyre and Lee Jackson recently broke down a historic and unsettling milestone for the stock market: just three companies—Nvidia, Apple, and Microsoft—now make up over 21% of the entire S&P 500.  The 24/7 Wall St. Analysts examined how this unprecedented concentration compares to past historical peaks (like IBM, AT&T, and ExxonMobil in the 1980s) and why thin market breadth leaves everyday index fund investors far less diversified than they realize.",
+          "headline": "Jim Cramer Said NVIDIA’s Shares Were Due For A Gut Check Following Morgan Stanley’s Coverage",
+          "summary": "Nvidia Corporation (NASDAQ:NVDA) and Amazon.com, Inc. (NASDAQ:AMZN) were at the center of interesting news coverage last week after a report from the Financial Times claimed that Amazon was interested in creating a shell company for its NVIDIA AI GPUs. The shell company would remove the GPUs from Amazon’s balance sheet and allow external investors as […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39f10c0253fff9d4ac5a10c3ed0a73c61f4c5cb7d946862d6828e087ae4483ca"
-        },
-        {
-          "headline": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
-          "summary": "Both chipmakers are succeeding amid the AI infrastructure build-out.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f5c0ed61e2f3840a5c91a48ce06e2edd7964c85b43aac1ba3bca4ca906b05bd"
-        },
-        {
-          "headline": "Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation?",
-          "summary": "NVIDIA Corporation (NASDAQ:NVDA)’s $20 billion deal for Groq’s AI technology is facing a new legal challenge just as that technology begins contributing to Nvidia’s push into inference. A lawsuit filed by two former Groq engineers in Delaware alleges that Groq’s board improperly structured the 2025 transaction, which consisted of a $17 billion licensing agreement and […]",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5b11d5eb9cbd15b5eedb123a9748e63d0a66e4a7a101d927678cb4d6ae358a9"
+          "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus / Nvidia, Apple, and Microsoft Spell Trouble for Index Investors / Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years? / Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation?",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings / Jim Cramer Said NVIDIA’s Shares Were Due For A Gut Check Following Morgan Stanley’s Coverage",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 107.08,
-      "change_pct": -5.3395,
-      "prev_close": 113.12,
+      "price": 104.7,
+      "change_pct": -2.2226,
+      "prev_close": 107.08,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 5.34% 내렸어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.22% 내렸어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
       "news": [
         {
-          "headline": "Prediction: This Will Happen to Intel Stock in 2027",
-          "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+          "headline": "Super Micro Computer (SMCI) Appoints 35 Year Intel Veteran To Its Board",
+          "summary": "Super Micro Computer (NasdaqGS:SMCI) has appointed Shesha Krishnapura, a 35 year Intel veteran, as an independent Board member. Krishnapura, known for high performance computing and AI infrastructure work, replaces departing director Judy Lin on the Board. The appointment follows recent Super Micro Computer partnerships such as its AI focused collaboration with NetApp on data infrastructure solutions. This Board refresh through Shesha Krishnapura's appointment is worth weighing alongside our...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d86469372b65f857abcfdce35ad6dfa75cd8288054ea643ead328937d0c166c8"
+          "url": "https://finnhub.io/api/news?id=28ae91865bec5ef15f48f02d658d454c0399c913f633bb1cacb9b043225ca314"
         },
         {
-          "headline": "Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI",
-          "summary": "AUSTIN, Texas, October 08, 2026--Anaconda, Inc., the trusted foundation for AI-native development, today announced expansion of its collaboration with Intel to make Intel-optimized software even easier for developers to access, install and keep current through the conda ecosystem. The announcement comes as the companies mark a milestone of more than 500 million downloads of Intel-optimized AI, ML, and Python packages, increasing speed and accessibility for builders worldwide.",
+          "headline": "Intel Stock Is Still a Turnaround Bet. Here’s What I See Ahead",
+          "summary": "Intel shares have already surged more than 200% this year, but Wall Street still calls the stock a hold. Here is what bulls and skeptics are each missing about where INTC goes from here.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e214c7e91ae9f9d7541f2d7469416a7497b80923ae2759d9c714c2a06e46666e"
+          "url": "https://finnhub.io/api/news?id=db71244b3f144b7d977ad9c31aabe3a787aa31cf4007a12364913a0485b443a5"
         },
         {
-          "headline": "Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings?",
-          "summary": "What a fantastic six months it’s been for Intel. Shares of the company have skyrocketed 92.6%, hitting $113.56. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
+          "headline": "How Low Can Intel Stock Go?",
+          "summary": "Shares of Intel (INTC) have fallen 10.8% in a week. The slide began on October 5 following a report that TSMC might join Terafab, a chip plant project Intel is part of. While the report raised concerns that TSMC could displace Intel, the company maintains it is staying in the project. Broadly, AI stocks also struggled over yields and oil prices. This points to a rough week rather than a market shock. How much has Intel stock lost in full market shocks, and how long did it stay down.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=853f2a7bbcab96a9ebc0dc469ef18422c813691791005a57ca7ed1f4f871ceaf"
+          "url": "https://finnhub.io/api/news?id=953b0dd4ff17d9e0b02e5ecf50fc2adc9b13ea49966d80704995aa0883c00c86"
         },
         {
-          "headline": "AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
-          "summary": "They are both profiting from the AI boom, but one of them looks more attractive right now.",
+          "headline": "Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
+          "summary": "A chipmaker that lost billions last year now commands a valuation that dwarfs two of the world's most profitable consumer giants, and the math holding that together is razor thin.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98020f9bfdb050361c5c8f0c2941350ed505cd932925f96ab5709590d338163e"
+          "url": "https://finnhub.io/api/news?id=7c0df84702b3bed557b6d543c172e55edc3f04cd7f00cd03ec6ce03166ba8302"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Prediction: This Will Happen to Intel Stock in 2027 / Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI / Intel (INTC): Buy, Sell, or Hold Post Q2 Earnings? / AMD vs. Intel: Which Chip Stock Has More Upside From Here?",
+      "news_summary": "최근 뉴스 헤드라인: Super Micro Computer (SMCI) Appoints 35 Year Intel Veteran To Its Board / Intel Stock Is Still a Turnaround Bet. Here’s What I See Ahead / How Low Can Intel Stock Go? / Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
