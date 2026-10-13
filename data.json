@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-10-10 00:29",
+  "updated_at": "2026-10-13 02:24",
   "stocks": {
     "NVDA": {
-      "price": 229.28,
-      "change_pct": -0.5207,
-      "prev_close": 230.48,
-      "pe_ttm": 28.7982,
+      "price": 226.32,
+      "change_pct": -1.291,
+      "prev_close": 229.28,
+      "pe_ttm": 28.4572,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.52% 내렸어요. PER은 28.8배로, 회사가 1년에 버는 돈의 29배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 82% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.29% 내렸어요. PER은 28.5배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 78% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
-          "summary": "Despite some chop, the S&P 500 and Nasdaq are near highs. ASML and Nvidia chipmaker Taiwan Semi earnings may decide if the AI stock pullback is bullish.",
+          "headline": "Nvidia’s 'Reflection' move could put customers on edge",
+          "summary": "A reported Reflection AI deal could change its position in the market.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d72605c0992870fb58e326702fcc43d866e4c10a8462e08d3bcecd7536e0013"
+          "url": "https://finnhub.io/api/news?id=d0c64f4cab4b38a9021dae6a235c2400f8844bf25bcf41fc8d9f267eac6287b4"
         },
         {
-          "headline": "Jim Cramer Said NVIDIA’s Shares Were Due For A Gut Check Following Morgan Stanley’s Coverage",
-          "summary": "Nvidia Corporation (NASDAQ:NVDA) and Amazon.com, Inc. (NASDAQ:AMZN) were at the center of interesting news coverage last week after a report from the Financial Times claimed that Amazon was interested in creating a shell company for its NVIDIA AI GPUs. The shell company would remove the GPUs from Amazon’s balance sheet and allow external investors as […]",
+          "headline": "Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good'",
+          "summary": "Deirdre Bosa sat down with Microsoft's (MSFT) Executive Vice President of the Cloud and AI group, Scott Guthrie, to discuss its new Maia 300 AI chip, which he says can deliver about 40% more tokens per megawatt or per dollar. Guthrie said the company would deploy programs from Nvidia (NVDA), AMD (AMD), and Intel (INTC) within its cloud.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3"
+          "url": "https://finnhub.io/api/news?id=2e694d9f84f8b8ca1b5bab1a4a47e16f6c9f9aff8d66f78c383149c0c3de070c"
+        },
+        {
+          "headline": "$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030",
+          "summary": "Split $10,000 between Alphabet and Nvidia today, and by 2030 that bet touches everything from search ads to robotaxis to quantum chips.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac3ad1c31f2e904129842dedfc3a722f17f4ac6d12c8ed4382cc5aff8c00ab94"
+        },
+        {
+          "headline": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
+          "summary": "Investing.com -- Shares of Navitas Semiconductor (NASDAQ: NVTS) climbed 5% in after-hours trading following the announcement of a strategic collaboration with Nvidia to develop an advanced power delivery board for next-generation AI data centers.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c6f17dc0ca4f9833ff26125b02e80cb543359317eb7d9d75f51b04dd6d20efb"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings / Jim Cramer Said NVIDIA’s Shares Were Due For A Gut Check Following Morgan Stanley’s Coverage",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia’s 'Reflection' move could put customers on edge / Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good' / $10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030 / Navitas shares surge 5% on Nvidia AI infrastructure partnership",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 104.7,
-      "change_pct": -2.2226,
-      "prev_close": 107.08,
+      "price": 101.35,
+      "change_pct": -3.1996,
+      "prev_close": 104.7,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.22% 내렸어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.20% 내렸어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
       "news": [
         {
-          "headline": "Super Micro Computer (SMCI) Appoints 35 Year Intel Veteran To Its Board",
-          "summary": "Super Micro Computer (NasdaqGS:SMCI) has appointed Shesha Krishnapura, a 35 year Intel veteran, as an independent Board member. Krishnapura, known for high performance computing and AI infrastructure work, replaces departing director Judy Lin on the Board. The appointment follows recent Super Micro Computer partnerships such as its AI focused collaboration with NetApp on data infrastructure solutions. This Board refresh through Shesha Krishnapura's appointment is worth weighing alongside our...",
+          "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
+          "summary": "Financing concerns and China’s push into advanced memory technology deepen pressure on semiconductor stocks.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28ae91865bec5ef15f48f02d658d454c0399c913f633bb1cacb9b043225ca314"
+          "url": "https://finnhub.io/api/news?id=4da3ace9fd7e6c35d1f9538b6e30923a81a5306ec3d5a4fcb00fc2f2264beb9d"
         },
         {
-          "headline": "Intel Stock Is Still a Turnaround Bet. Here’s What I See Ahead",
-          "summary": "Intel shares have already surged more than 200% this year, but Wall Street still calls the stock a hold. Here is what bulls and skeptics are each missing about where INTC goes from here.",
+          "headline": "Entegris, Intel, KLA Corporation, Lam Research, and Microchip Technology Shares Are Falling, What You Need To Know",
+          "summary": "A number of stocks fell in the afternoon session after worries weighed on memory chipmakers and sparked selling pressure across the broader semiconductor sector, following news of domestic Chinese technological advancements and looming labor strikes in Taiwan.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db71244b3f144b7d977ad9c31aabe3a787aa31cf4007a12364913a0485b443a5"
+          "url": "https://finnhub.io/api/news?id=bdee110d585b385d2f845c881ee95975ac306c38bf349e9eb4208961879d8492"
         },
         {
-          "headline": "How Low Can Intel Stock Go?",
-          "summary": "Shares of Intel (INTC) have fallen 10.8% in a week. The slide began on October 5 following a report that TSMC might join Terafab, a chip plant project Intel is part of. While the report raised concerns that TSMC could displace Intel, the company maintains it is staying in the project. Broadly, AI stocks also struggled over yields and oil prices. This points to a rough week rather than a market shock. How much has Intel stock lost in full market shocks, and how long did it stay down.",
+          "headline": "Intel (INTC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+          "summary": "Intel (INTC) concluded the recent trading session at $101.4, signifying a -3.15% move from its prior day's close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=953b0dd4ff17d9e0b02e5ecf50fc2adc9b13ea49966d80704995aa0883c00c86"
+          "url": "https://finnhub.io/api/news?id=4ca7409a737898f1248e5f7d135431941f1df7d32b068afc913b68fe5b792bd4"
         },
         {
-          "headline": "Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
-          "summary": "A chipmaker that lost billions last year now commands a valuation that dwarfs two of the world's most profitable consumer giants, and the math holding that together is razor thin.",
+          "headline": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
+          "summary": "SANTA CLARA, Calif., October 12, 2026--Intel® GPU D-series, Xeon CPUs, open software and ecosystem innovations help customers scale agentic AI.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c0df84702b3bed557b6d543c172e55edc3f04cd7f00cd03ec6ce03166ba8302"
+          "url": "https://finnhub.io/api/news?id=2bcdbbe36c4c0cae26c8e38cd4c6143336325b92d7a787ea8be60ab8150388e6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Super Micro Computer (SMCI) Appoints 35 Year Intel Veteran To Its Board / Intel Stock Is Still a Turnaround Bet. Here’s What I See Ahead / How Low Can Intel Stock Go? / Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
+      "news_summary": "최근 뉴스 헤드라인: SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector / Entegris, Intel, KLA Corporation, Lam Research, and Microchip Technology Shares Are Falling, What You Need To Know / Intel (INTC) Sees a More Significant Dip Than Broader Market: Some Facts to Know / Intel Accelerates Open Infrastructure for the Agentic AI Era",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
