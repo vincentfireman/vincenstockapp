@@ -1,41 +1,23 @@
 {
-  "updated_at": "2026-10-13 02:24",
+  "updated_at": "2026-10-14 00:08",
   "stocks": {
     "NVDA": {
-      "price": 226.32,
-      "change_pct": -1.291,
-      "prev_close": 229.28,
-      "pe_ttm": 28.4572,
+      "price": 228.52,
+      "change_pct": 0.9721,
+      "prev_close": 226.32,
+      "pe_ttm": 28.0785,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.29% 내렸어요. PER은 28.5배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 78% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 81% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia’s 'Reflection' move could put customers on edge",
-          "summary": "A reported Reflection AI deal could change its position in the market.",
+          "headline": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
+          "summary": "A single semiconductor ETF sounds like a spread bet across dozens of chip companies, but the math inside one popular fund tells a very different story about where your money actually lands.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0c64f4cab4b38a9021dae6a235c2400f8844bf25bcf41fc8d9f267eac6287b4"
-        },
-        {
-          "headline": "Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good'",
-          "summary": "Deirdre Bosa sat down with Microsoft's (MSFT) Executive Vice President of the Cloud and AI group, Scott Guthrie, to discuss its new Maia 300 AI chip, which he says can deliver about 40% more tokens per megawatt or per dollar. Guthrie said the company would deploy programs from Nvidia (NVDA), AMD (AMD), and Intel (INTC) within its cloud.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e694d9f84f8b8ca1b5bab1a4a47e16f6c9f9aff8d66f78c383149c0c3de070c"
-        },
-        {
-          "headline": "$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030",
-          "summary": "Split $10,000 between Alphabet and Nvidia today, and by 2030 that bet touches everything from search ads to robotaxis to quantum chips.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac3ad1c31f2e904129842dedfc3a722f17f4ac6d12c8ed4382cc5aff8c00ab94"
-        },
-        {
-          "headline": "Navitas shares surge 5% on Nvidia AI infrastructure partnership",
-          "summary": "Investing.com -- Shares of Navitas Semiconductor (NASDAQ: NVTS) climbed 5% in after-hours trading following the announcement of a strategic collaboration with Nvidia to develop an advanced power delivery board for next-generation AI data centers.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c6f17dc0ca4f9833ff26125b02e80cb543359317eb7d9d75f51b04dd6d20efb"
+          "url": "https://finnhub.io/api/news?id=0e7ffea49829556d0aa3cf30308ee117642c067473a7d6ef97d3055b864633b9"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia’s 'Reflection' move could put customers on edge / Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good' / $10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030 / Navitas shares surge 5% on Nvidia AI infrastructure partnership",
+      "news_summary": "최근 뉴스 헤드라인: You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -47,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 101.35,
-      "change_pct": -3.1996,
-      "prev_close": 104.7,
+      "price": 102.81,
+      "change_pct": 1.4406,
+      "prev_close": 101.35,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 3.20% 내렸어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.44% 올랐어요. 최근 1년 최저가~최고가 구간에서 64% 지점에 있어요.",
       "news": [
         {
-          "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
-          "summary": "Financing concerns and China’s push into advanced memory technology deepen pressure on semiconductor stocks.",
+          "headline": "Inside the Intel Supreme Court Case: Fees, Fiduciaries and Hidden Risk",
+          "summary": "In this episode of the Broadcast Retirement Network, we sit down with Chris Tobe, CFA, CAIA, Chief Investment Officer at The Hackett Group and author of \"Kentucky Fried Pensions,\" to unpack the Intel Supreme Court case and what it means for everyday retirement savers.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4da3ace9fd7e6c35d1f9538b6e30923a81a5306ec3d5a4fcb00fc2f2264beb9d"
+          "url": "https://finnhub.io/api/news?id=427a4101b210c6e157e78f4ea953abb66aa712d361cf2afcaaa9db7404ed308b"
         },
         {
-          "headline": "Entegris, Intel, KLA Corporation, Lam Research, and Microchip Technology Shares Are Falling, What You Need To Know",
-          "summary": "A number of stocks fell in the afternoon session after worries weighed on memory chipmakers and sparked selling pressure across the broader semiconductor sector, following news of domestic Chinese technological advancements and looming labor strikes in Taiwan.",
+          "headline": "Trump Says US Still Sharing Intelligence With Ukraine",
+          "summary": "Kelly Grieco, a senior fellow at global research firm the Stimson Center, said a ceasefire on attacking energy infrastructure between Russia and Ukraine benefits the Russians more as the country is able to sell oil to fund the war. Grieco said that even if Ukraine is not able to hit Russian energy infrastructure there are still ways to inflict damage including hitting at travel hubs like airports.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bdee110d585b385d2f845c881ee95975ac306c38bf349e9eb4208961879d8492"
+          "url": "https://finnhub.io/api/news?id=8a7117dfbc22c7769f68cb8ee8440f2bcd43ef48241ac99d8ab4ee9e79204422"
         },
         {
-          "headline": "Intel (INTC) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-          "summary": "Intel (INTC) concluded the recent trading session at $101.4, signifying a -3.15% move from its prior day's close.",
+          "headline": "Can Intel's New GPU and Xeon Technologies Enhance its AI Capabilities?",
+          "summary": "INTC is advancing its AI infrastructure with Xeon systems exceeding 46,000 cores per rack, powerful Crescent Island GPUs and open software to scale agentic AI workloads.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ca7409a737898f1248e5f7d135431941f1df7d32b068afc913b68fe5b792bd4"
+          "url": "https://finnhub.io/api/news?id=a76fdad4066ecc592f9447896955732858e10d46f16db179ed8d6996c28f4d05"
         },
         {
-          "headline": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
-          "summary": "SANTA CLARA, Calif., October 12, 2026--Intel® GPU D-series, Xeon CPUs, open software and ecosystem innovations help customers scale agentic AI.",
+          "headline": "Intel vs. Sanmina: Which AI Infrastructure Stock is a Better Buy Now?",
+          "summary": "INTC and SANM are expanding their AI infrastructure presence, but differences in stock performance, growth prospects and valuation make one a better pick.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2bcdbbe36c4c0cae26c8e38cd4c6143336325b92d7a787ea8be60ab8150388e6"
+          "url": "https://finnhub.io/api/news?id=af052e75f66113d009c12f2bf2fcb24ddc3a5f65ba67376d594ba82ac5f9ec48"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector / Entegris, Intel, KLA Corporation, Lam Research, and Microchip Technology Shares Are Falling, What You Need To Know / Intel (INTC) Sees a More Significant Dip Than Broader Market: Some Facts to Know / Intel Accelerates Open Infrastructure for the Agentic AI Era",
+      "news_summary": "최근 뉴스 헤드라인: Inside the Intel Supreme Court Case: Fees, Fiduciaries and Hidden Risk / Trump Says US Still Sharing Intelligence With Ukraine / Can Intel's New GPU and Xeon Technologies Enhance its AI Capabilities? / Intel vs. Sanmina: Which AI Infrastructure Stock is a Better Buy Now?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
