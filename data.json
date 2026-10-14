@@ -1,23 +1,35 @@
 {
-  "updated_at": "2026-10-14 00:08",
+  "updated_at": "2026-10-14 23:40",
   "stocks": {
     "NVDA": {
-      "price": 228.52,
-      "change_pct": 0.9721,
-      "prev_close": 226.32,
-      "pe_ttm": 28.0785,
+      "price": 221.3,
+      "change_pct": -3.1595,
+      "prev_close": 228.52,
+      "pe_ttm": 28.1435,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 81% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.16% 내렸어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 72% 지점에 있어요.",
       "news": [
         {
-          "headline": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
-          "summary": "A single semiconductor ETF sounds like a spread bet across dozens of chip companies, but the math inside one popular fund tells a very different story about where your money actually lands.",
+          "headline": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
+          "summary": "It could, but not in the way you might think.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e7ffea49829556d0aa3cf30308ee117642c067473a7d6ef97d3055b864633b9"
+          "url": "https://finnhub.io/api/news?id=3b21b8ed43d6146ab7b78d71ad16ec2e608f7d35e23693f96d04aea5cfd49889"
+        },
+        {
+          "headline": "Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up.",
+          "summary": "What did Nvidia tell investors two weeks before ChatGPT arrived? More about generative AI than most people noticed at the time.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9047d550b0fa5994cfc24310f3f1eaa828b5eb91f786518a30bddf3aa64a78bb"
+        },
+        {
+          "headline": "Nvidia's Huang Says He Would Not Sell Chips to Irresponsible AI Customers",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang says his company would stop selling chips to a customer that was developing unsafe AI software. He talks extensively about AI safety and how the industry is growing with Bloomberg's Emily Chang in London.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e65e94b48b08c858e42323fedf6ef8790def3c08c0c9630cec52f99053bfbff2"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
+      "news_summary": "최근 뉴스 헤드라인: Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For? / Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up. / Nvidia's Huang Says He Would Not Sell Chips to Irresponsible AI Customers",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -29,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 102.81,
-      "change_pct": 1.4406,
-      "prev_close": 101.35,
+      "price": 98.12,
+      "change_pct": -4.5618,
+      "prev_close": 102.81,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 1.44% 올랐어요. 최근 1년 최저가~최고가 구간에서 64% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.56% 내렸어요. 최근 1년 최저가~최고가 구간에서 60% 지점에 있어요.",
       "news": [
         {
-          "headline": "Inside the Intel Supreme Court Case: Fees, Fiduciaries and Hidden Risk",
-          "summary": "In this episode of the Broadcast Retirement Network, we sit down with Chris Tobe, CFA, CAIA, Chief Investment Officer at The Hackett Group and author of \"Kentucky Fried Pensions,\" to unpack the Intel Supreme Court case and what it means for everyday retirement savers.",
+          "headline": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
+          "summary": "Baird tech strategist, Ted Mortonson, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to explain what's going on in the markets with tech names like CoreWeave (CRWV), ASML (ASML), Micron (MU), and Intel (INTC).",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=427a4101b210c6e157e78f4ea953abb66aa712d361cf2afcaaa9db7404ed308b"
+          "url": "https://finnhub.io/api/news?id=9a972fc3dfa397990af772db13828e08a255962c3dcea4be101de858b338f981"
         },
         {
-          "headline": "Trump Says US Still Sharing Intelligence With Ukraine",
-          "summary": "Kelly Grieco, a senior fellow at global research firm the Stimson Center, said a ceasefire on attacking energy infrastructure between Russia and Ukraine benefits the Russians more as the country is able to sell oil to fund the war. Grieco said that even if Ukraine is not able to hit Russian energy infrastructure there are still ways to inflict damage including hitting at travel hubs like airports.",
+          "headline": "Why Intel Stock Hit the Skids on Wednesday",
+          "summary": "An explosion at the chipmaker's facility in Israel gave investors pause.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a7117dfbc22c7769f68cb8ee8440f2bcd43ef48241ac99d8ab4ee9e79204422"
+          "url": "https://finnhub.io/api/news?id=97ecc7585f00446c30cb687f5baeb01beda437215cc5c939229d9edca11de5ff"
         },
         {
-          "headline": "Can Intel's New GPU and Xeon Technologies Enhance its AI Capabilities?",
-          "summary": "INTC is advancing its AI infrastructure with Xeon systems exceeding 46,000 cores per rack, powerful Crescent Island GPUs and open software to scale agentic AI workloads.",
+          "headline": "Is Intel's Record Sales Growth Still Improving?",
+          "summary": "Intel Corporation (INTC) sold 25.4% more in the three months to June than it did in the same quarter a year earlier. The chipmaker has not grown faster in any quarter of the last ten years. To judge that record properly requires looking at what is normal for the company. So take a guess: in a typical quarter, how much more does Intel sell than a year earlier.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a76fdad4066ecc592f9447896955732858e10d46f16db179ed8d6996c28f4d05"
+          "url": "https://finnhub.io/api/news?id=2fe070f8faf7b04f250dae80895a0259c59b791d08b50392f11d51d6f71e4a58"
         },
         {
-          "headline": "Intel vs. Sanmina: Which AI Infrastructure Stock is a Better Buy Now?",
-          "summary": "INTC and SANM are expanding their AI infrastructure presence, but differences in stock performance, growth prospects and valuation make one a better pick.",
+          "headline": "Intel CEO says ‘good enough’ Chinese models are winning on price",
+          "summary": "Lip-Bu Tan’s remarks point to cheaper AI spreading across more servers, a shift that could lift demand for Intel’s own processors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af052e75f66113d009c12f2bf2fcb24ddc3a5f65ba67376d594ba82ac5f9ec48"
+          "url": "https://finnhub.io/api/news?id=309804b43f36531e69d4c331a238aa92d16422b8feb89aef1498fa84bb0f2acb"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Inside the Intel Supreme Court Case: Fees, Fiduciaries and Hidden Risk / Trump Says US Still Sharing Intelligence With Ukraine / Can Intel's New GPU and Xeon Technologies Enhance its AI Capabilities? / Intel vs. Sanmina: Which AI Infrastructure Stock is a Better Buy Now?",
+      "news_summary": "최근 뉴스 헤드라인: CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why. / Why Intel Stock Hit the Skids on Wednesday / Is Intel's Record Sales Growth Still Improving? / Intel CEO says ‘good enough’ Chinese models are winning on price",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
