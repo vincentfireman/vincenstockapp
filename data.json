@@ -1,35 +1,29 @@
 {
-  "updated_at": "2026-10-14 23:40",
+  "updated_at": "2026-10-15 23:32",
   "stocks": {
     "NVDA": {
-      "price": 221.3,
-      "change_pct": -3.1595,
-      "prev_close": 228.52,
-      "pe_ttm": 28.1435,
+      "price": 217.23,
+      "change_pct": -1.8391,
+      "prev_close": 221.3,
+      "pe_ttm": 26.8827,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 3.16% 내렸어요. PER은 28.1배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 72% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.84% 내렸어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
       "news": [
         {
-          "headline": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
-          "summary": "It could, but not in the way you might think.",
+          "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
+          "summary": "Deutsche Bank stands by its CoreWeave call while bond markets flash warning signs over the AI firm’s heavy debt load.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b21b8ed43d6146ab7b78d71ad16ec2e608f7d35e23693f96d04aea5cfd49889"
+          "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0"
         },
         {
-          "headline": "Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up.",
-          "summary": "What did Nvidia tell investors two weeks before ChatGPT arrived? More about generative AI than most people noticed at the time.",
+          "headline": "NVIDIA Is The Foundational AI Company To Own",
+          "summary": "Motley Fool Asset Management's Bill Mann sees long-term potential in AI, but says investors should weigh debt, cash-flow timing, and business quality before treating a sell-off as a bargain.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9047d550b0fa5994cfc24310f3f1eaa828b5eb91f786518a30bddf3aa64a78bb"
-        },
-        {
-          "headline": "Nvidia's Huang Says He Would Not Sell Chips to Irresponsible AI Customers",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang says his company would stop selling chips to a customer that was developing unsafe AI software. He talks extensively about AI safety and how the industry is growing with Bloomberg's Emily Chang in London.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e65e94b48b08c858e42323fedf6ef8790def3c08c0c9630cec52f99053bfbff2"
+          "url": "https://finnhub.io/api/news?id=3106320f99beee8a2d8f290b6acebe20b07bd7ab64465f847f80e569cf09b470"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For? / Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up. / Nvidia's Huang Says He Would Not Sell Chips to Irresponsible AI Customers",
+      "news_summary": "최근 뉴스 헤드라인: Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15% / NVIDIA Is The Foundational AI Company To Own",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -41,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 98.12,
-      "change_pct": -4.5618,
-      "prev_close": 102.81,
+      "price": 95.37,
+      "change_pct": -2.8027,
+      "prev_close": 98.12,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 4.56% 내렸어요. 최근 1년 최저가~최고가 구간에서 60% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.80% 내렸어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
       "news": [
         {
-          "headline": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
-          "summary": "Baird tech strategist, Ted Mortonson, sits down with Yahoo Finance Senior Reporter Brooke DiPalma to explain what's going on in the markets with tech names like CoreWeave (CRWV), ASML (ASML), Micron (MU), and Intel (INTC).",
+          "headline": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now?",
+          "summary": "Intel (INTC) stock slipped alongside the wider chip sector as investors reacted to Chinese rival CXMT’s reported progress and fresh warnings about how long AI infrastructure spending and higher interest rates can support recent valuations. Recent news around CXMT and sector-wide AI spending concerns hit Intel’s share price hard in the short term, with a 1-day share price return of down 4.56% and a 7-day share price return of down 8.37%. At the same time, the 1-year total shareholder return of...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a972fc3dfa397990af772db13828e08a255962c3dcea4be101de858b338f981"
+          "url": "https://finnhub.io/api/news?id=b67b284f3d78dd72f7147c8d2695a0eeebffebc8d33991423a6fafd54f182d1a"
         },
         {
-          "headline": "Why Intel Stock Hit the Skids on Wednesday",
-          "summary": "An explosion at the chipmaker's facility in Israel gave investors pause.",
+          "headline": "FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know",
+          "summary": "A number of stocks fell in the morning session after hotter-than-expected inflation data compounded fears that elevated borrowing costs will curb artificial intelligence infrastructure spending.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=97ecc7585f00446c30cb687f5baeb01beda437215cc5c939229d9edca11de5ff"
+          "url": "https://finnhub.io/api/news?id=6cc178efc4c11fa0f16b6115ba0fcae460e042ec5b5ad7607f5abb0cfee00528"
         },
         {
-          "headline": "Is Intel's Record Sales Growth Still Improving?",
-          "summary": "Intel Corporation (INTC) sold 25.4% more in the three months to June than it did in the same quarter a year earlier. The chipmaker has not grown faster in any quarter of the last ten years. To judge that record properly requires looking at what is normal for the company. So take a guess: in a typical quarter, how much more does Intel sell than a year earlier.",
+          "headline": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
+          "summary": "During TSMC’s earnings call, CEO C.C. Wei said TSMC’s advanced assembly and packaging technologies remain “very, very competitive.”",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fe070f8faf7b04f250dae80895a0259c59b791d08b50392f11d51d6f71e4a58"
+          "url": "https://finnhub.io/api/news?id=d8769948bf75b9817a259e0dd09c5e1abdb2520858ec8c6492318b769b1b7595"
         },
         {
-          "headline": "Intel CEO says ‘good enough’ Chinese models are winning on price",
-          "summary": "Lip-Bu Tan’s remarks point to cheaper AI spreading across more servers, a shift that could lift demand for Intel’s own processors.",
+          "headline": "Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
+          "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) stock trades at $418.90, down 3% even after the chipmaker posted a sixth consecutive quarter of record profit. A record report from the world’s largest dedicated semiconductor foundry isn’t stopping the selling, and the weakness is spreading across chip names. Meanwhile, Intel (NASDAQ:INTC) stock is at $94.33, down 4% and sliding […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=309804b43f36531e69d4c331a238aa92d16422b8feb89aef1498fa84bb0f2acb"
+          "url": "https://finnhub.io/api/news?id=4cd73645d6f56b4d48529c06bdfaa6645dfa79677c6dc211dcc1765065b2c7df"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why. / Why Intel Stock Hit the Skids on Wednesday / Is Intel's Record Sales Growth Still Improving? / Intel CEO says ‘good enough’ Chinese models are winning on price",
+      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Stock Dropped, So What Is Driving Attention Now? / FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know / TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short / Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
