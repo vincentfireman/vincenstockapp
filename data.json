@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-10-15 23:32",
+  "updated_at": "2026-10-16 23:14",
   "stocks": {
     "NVDA": {
-      "price": 217.23,
-      "change_pct": -1.8391,
-      "prev_close": 221.3,
+      "price": 214.13,
+      "change_pct": -1.4271,
+      "prev_close": 217.23,
       "pe_ttm": 26.8827,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.84% 내렸어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.43% 내렸어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
       "news": [
         {
-          "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
-          "summary": "Deutsche Bank stands by its CoreWeave call while bond markets flash warning signs over the AI firm’s heavy debt load.",
+          "headline": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
+          "summary": "Apple (NASDAQ: AAPL) has emerged as the best-performing Magnificent Seven stock of 2026, outperforming NVIDIA (NVDA), Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOGL), Meta Platforms (META), and Tesla (TSLA). But what's driving Apple's surprising rally while other AI stocks struggle? In this episode, 24/7 Wall St.'s Eric Bleeker examines why Apple shares have surged more than 27% in 2026, even as concerns about artificial intelligence spending are weighing on some of the market's biggest technology companies. While competitors are committing hundreds of billions of dollars to AI data centers, Apple is taking a different approach. Its strategy emphasizes on-device artificial intelligence, privacy, and integrating AI directly into its ecosystem, avoiding much of the enormous infrastructure spending burden facing its rivals. Eric breaks down Apple's latest earnings, its massive share repurchase program, and why investors are increasingly rewarding the company's capital-efficient AI strategy. He also compares the Magnificent Seven's performance in 2026 against their remarkable returns since the beginning of 2023, revealing a very different picture of the AI investment boom. Has Apple become the market's ultimate AI safe-haven stock? And could its strategy continue outperforming NVIDIA and the rest of Big Tech?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0"
+          "url": "https://finnhub.io/api/news?id=f831231eaab13eb8aeb433db1cbbdbf1fe067161173a318013a30dfc63d8ee53"
         },
         {
-          "headline": "NVIDIA Is The Foundational AI Company To Own",
-          "summary": "Motley Fool Asset Management's Bill Mann sees long-term potential in AI, but says investors should weigh debt, cash-flow timing, and business quality before treating a sell-off as a bargain.",
+          "headline": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
+          "summary": "ASML is the most important semiconductor equipment maker in the world.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3106320f99beee8a2d8f290b6acebe20b07bd7ab64465f847f80e569cf09b470"
+          "url": "https://finnhub.io/api/news?id=7979460cfc3853b228cfe1ea57200761ae9f166876b5352460e5b22d8f6f39f2"
+        },
+        {
+          "headline": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin?",
+          "summary": "Nvidia (NVDA:NASDAQ) now has its German industrial AI deal confirmed by Berlin. Government sources told Reuters on Friday, October 16, that Germany will announce the cooperation agreement next week, with partners beyond Nvidia.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2abcdd96d7c24d3c4086c23e65d41c85d613d70bec5dda0f0913d86dfd46119c"
+        },
+        {
+          "headline": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+          "summary": "The market's fears are real.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15361c076e474dc082c06dcf114d46246b0b89d7fce26d21789162d53a9fac79"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15% / NVIDIA Is The Foundational AI Company To Own",
+      "news_summary": "최근 뉴스 헤드라인: Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon / Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. / Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin? / Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-09-01",
@@ -35,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 95.37,
-      "change_pct": -2.8027,
-      "prev_close": 98.12,
+      "price": 89.85,
+      "change_pct": -5.788,
+      "prev_close": 95.37,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.80% 내렸어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.79% 내렸어요. 최근 1년 최저가~최고가 구간에서 52% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now?",
-          "summary": "Intel (INTC) stock slipped alongside the wider chip sector as investors reacted to Chinese rival CXMT’s reported progress and fresh warnings about how long AI infrastructure spending and higher interest rates can support recent valuations. Recent news around CXMT and sector-wide AI spending concerns hit Intel’s share price hard in the short term, with a 1-day share price return of down 4.56% and a 7-day share price return of down 8.37%. At the same time, the 1-year total shareholder return of...",
+          "headline": "Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
+          "summary": "A number of stocks fell in the afternoon session after investors weighed escalating borrowing costs and Federal Reserve remarks emphasizing price stability over rate cut signals.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b67b284f3d78dd72f7147c8d2695a0eeebffebc8d33991423a6fafd54f182d1a"
+          "url": "https://finnhub.io/api/news?id=2f1060b0a9a66e1667b8fa3b6ae9dbc37418694a3bc7eea16dabdbd8dc837b73"
         },
         {
-          "headline": "FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know",
-          "summary": "A number of stocks fell in the morning session after hotter-than-expected inflation data compounded fears that elevated borrowing costs will curb artificial intelligence infrastructure spending.",
+          "headline": "Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report?",
+          "summary": "Intel (INTC) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6cc178efc4c11fa0f16b6115ba0fcae460e042ec5b5ad7607f5abb0cfee00528"
+          "url": "https://finnhub.io/api/news?id=56654c063736dce0f354bbfd28dec9bf4380ad3a631220f5de70792bce6d6123"
         },
         {
-          "headline": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
-          "summary": "During TSMC’s earnings call, CEO C.C. Wei said TSMC’s advanced assembly and packaging technologies remain “very, very competitive.”",
+          "headline": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady",
+          "summary": "Investors are bailing on AI chip stocks, but not all of them equally, and the gap between winners and losers reveals something important about how Wall Street is rethinking the cost of building out artificial intelligence infrastructure.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8769948bf75b9817a259e0dd09c5e1abdb2520858ec8c6492318b769b1b7595"
+          "url": "https://finnhub.io/api/news?id=57f08d280b9c80838e49201efbb36200d116dc03b8f8ba2b2a82870f97a899f8"
         },
         {
-          "headline": "Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
-          "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) stock trades at $418.90, down 3% even after the chipmaker posted a sixth consecutive quarter of record profit. A record report from the world’s largest dedicated semiconductor foundry isn’t stopping the selling, and the weakness is spreading across chip names. Meanwhile, Intel (NASDAQ:INTC) stock is at $94.33, down 4% and sliding […]",
+          "headline": "Intel Cratered Over The Last 90 Days: This Prominent Analyst Says It’s Going to Double",
+          "summary": "Intel just lost a third of its value while rivals AMD and NVIDIA kept climbing, yet one prominent analyst sees a path that leaves the consensus in the dust. The bull case rests on a single unproven bet.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cd73645d6f56b4d48529c06bdfaa6645dfa79677c6dc211dcc1765065b2c7df"
+          "url": "https://finnhub.io/api/news?id=76c477547848ffa679d6696d5d6b2f4dc2ce29713a6d7b9b6b763264357ea9e3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Stock Dropped, So What Is Driving Attention Now? / FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know / TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short / Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
+      "news_summary": "최근 뉴스 헤드라인: Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know / Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report? / Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady / Intel Cratered Over The Last 90 Days: This Prominent Analyst Says It’s Going to Double",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-09-01",
