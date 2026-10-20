@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-20 00:06",
+  "updated_at": "2026-10-20 23:36",
   "stocks": {
     "NVDA": {
-      "price": 217.09,
-      "change_pct": 1.3823,
-      "prev_close": 214.13,
+      "price": 216.47,
+      "change_pct": -0.2856,
+      "prev_close": 217.09,
       "pe_ttm": 26.7553,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.38% 올랐어요. PER은 26.8배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.29% 내렸어요. PER은 26.8배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 66% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-          "summary": "Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due.",
+          "headline": "Major gold holder backs NVIDIA challenger",
+          "summary": "The funding gives another boost to an up-and-coming AI chipmaker.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a"
+          "url": "https://finnhub.io/api/news?id=051c6dd9f8f62ceba74591218953033eb7b944ec3cc7cbeac9777e83d0458be7"
         },
         {
-          "headline": "NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment",
-          "summary": "Tiny's original US$250,000 seed investment in Poolside now has an ascribed value of approximately US$11.1 million (C$15.8 million), or ~44x its initial investment, based on the reported NVIDIA financing terms.NVIDIA's reported agreement combines a US$6 billion technology licence with a separate US$1 billion investment in Poolside at a US$13 billion post-money valuation.Tiny retains its Poolside interest and separately holds shares in Poolside Infrastructure Company (\"PIC\") following the...",
+          "headline": "Amazon stockpiles Nvidia AI hardware ahead of power availability -Business Insider",
+          "summary": "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) is fundamentally altering its hardware procurement playbook, agreeing to purchase billions of dollars in Nvidia Corp. graphics processors before its data centers are equipped with the power to run them. According to internal August emails obtained by Business Insider, the cloud giant established a new \"Early Rack Receipt\" program to take delivery of roughly $5 billion in Nvidia GB300 server racks at U.S. facilities ahead of final deployment, with exp",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=32791da660ac6326069f650aedaedef3fd85b93865f200a413f63bda30a4bd34"
+          "url": "https://finnhub.io/api/news?id=ab574575bc56dcfc0cd06ef844851b998d5564737e945aab4859e7d98b0587f1"
         },
         {
-          "headline": "Nvidia (NVDA) Exceeds Market Returns: Some Facts to Consider",
-          "summary": "In the most recent trading session, Nvidia (NVDA) closed at $217.09, indicating a +1.38% shift from the previous trading day.",
+          "headline": "Anthropic Is in Talks for Another $45 Billion AI Deal. Nvidia Could Be a Big Winner.",
+          "summary": "Anthropic’s proposed $45 billion Nscale expansion could help fuel its growth, but it also adds another enormous bill ahead of its anticipated IPO.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f6483da0b0f7a61a11b7a39cda3abff2beeb15032924249e65241ef625130cc"
+          "url": "https://finnhub.io/api/news?id=e7614a1c2f40846e8541b05cc5535d834a3170da285d81e21d784000cd103613"
         },
         {
-          "headline": "NVIDIA's Price Implies Less Growth Than Its History",
-          "summary": "New Age Alpha’s chief investment officer argues that the growth embedded in stock prices, rather than a broad valuation label, offers a better way to judge whether market fears are justified.",
+          "headline": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
+          "summary": "Amazon (AMZN) is securing billions of dollars worth of artificial intelligence hardware from Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1cf68919ecf72707adb2d33940c25edecdce6be84b2d86826bf1e56839fdb1a"
+          "url": "https://finnhub.io/api/news?id=af5b78cf3bc72ee40b61c9f88597575013b276cf78183bbb30a4005d404291c0"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck / NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment / Nvidia (NVDA) Exceeds Market Returns: Some Facts to Consider / NVIDIA's Price Implies Less Growth Than Its History",
+      "news_summary": "최근 뉴스 헤드라인: Major gold holder backs NVIDIA challenger / Amazon stockpiles Nvidia AI hardware ahead of power availability -Business Insider / Anthropic Is in Talks for Another $45 Billion AI Deal. Nvidia Could Be a Big Winner. / Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 92.03,
-      "change_pct": 2.4263,
-      "prev_close": 89.85,
+      "price": 91.69,
+      "change_pct": -0.3694,
+      "prev_close": 92.03,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.43% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.37% 내렸어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Intel (INTC) Outpaced the Stock Market Today",
-          "summary": "In the latest trading session, Intel (INTC) closed at $92.03, marking a +2.43% move from the previous day.",
+          "headline": "Intel Vs. Micron: Who Is More Exposed By Chinese Rival CXMT’s Progress?",
+          "summary": "CXMT is closing in on server memory, and Micron and Intel sit on opposite sides of the same threat. Their business models guarantee that one company sweats this far more than the other.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8751ab5f9f5ece1cb6e26bd11bbad03b9218645add32e9355e654a41991501d6"
+          "url": "https://finnhub.io/api/news?id=0714160c956c1e36fb80d4b05e2bc5646f21aa5300978c36a447459b96639889"
         },
         {
-          "headline": "Why Intel (INTC) Stock Is Up Today",
-          "summary": "Shares of computer processor maker Intel (NASDAQ:INTC) jumped 4.2% in the morning session after retreating Treasury yields and broad dip-buying following the previous week’s technology sell-off lifted equities, as JPMorgan upgraded the chipmaker with an $85 price target.",
+          "headline": "Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market",
+          "summary": "Capitalize on rising demand for high-bandwidth, energy-efficient PICs across telecom, data centers, biosensing and lidar, with insights into tariffs, competition and revenue opportunities.Dublin, Oct. 20, 2026 (GLOBE NEWSWIRE) -- \"Photonic Integrated Circuit (PIC) - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Photonic Integrated Circuit Market to Reach US$5.5 Billion by 2030, Driven by High-Speed Connectivity and Energy-Efficient Data Processing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bb71e82141cff2d5ba739c7ef1b9829295ee79b9aee961e14f853441a38e32e3"
+          "url": "https://finnhub.io/api/news?id=e9fbcbbf889a1d30c09c9def430bb49c061554c9320f310a611b4f043365dfb0"
         },
         {
-          "headline": "Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock",
-          "summary": "Key TakeawaysIntel shares rose [4%] today after JPMorgan upgraded the stock to Neutral from Underweight and kept its $85 price target. Tesla committed to Intel’s 14A process back in April, so the upgrade is today’s news, and it rests on better execution and rising earnings estimates.",
+          "headline": "JPMorgan Upgrades Intel Stock Following Strong Management Execution",
+          "summary": "Key Stats for Intel StockPrice change for Intel stocthe k in last 6 months: 37%$INTC Stock Price as of Oct. 19: $9252-Week High: $142$INTC Stock Price Target: $118What Happened?JPMorgan upgraded Intel (INTC:NASDAQ) to Neutral from Underweight late Friday, according to Investing.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bb54ff3683b83061badd91f3a125a0617189000da3f2260cf75bdd41478f462"
+          "url": "https://finnhub.io/api/news?id=6ecaf6deb330724ae990075f189aae32effc8291c5ceefa2212010a16dba521e"
         },
         {
-          "headline": "Intel stock surges on JPMorgan upgrade after 14% weekly plunge",
-          "summary": "JPMorgan upgrades Intel stock ahead of Q3 earnings, citing stronger AI chip demand and improving execution under CEO Lip-Bu Tan.",
+          "headline": "Industrial Semiconductors - Global Strategic Business Report 2026 | Secure Share of the US$156.1 Billion 2032 Market as Infineon, Intel, STMicroelectronics, NXP, and Texas Instruments Lead",
+          "summary": "Target automation, IoT, energy-efficient power electronics and resilient supply chains to unlock revenue across smart manufacturing and harsh-environment applicationsDublin, Oct. 20, 2026 (GLOBE NEWSWIRE) -- \"Industrial Semiconductors - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global industrial semiconductors market was estimated at US$95.6 billion in 2025 and is projected to reach US$156.1 billion by 2032, expanding at a compound annual growth r",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=574bb875a4a4835be7eb00365a41a5cc7f82bd7662ddf32c794e3dc4f8bc0d83"
+          "url": "https://finnhub.io/api/news?id=ddd06b07b3aca572d83581e023722de47e18eb9f6a7aec2763791f4e2229d534"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel (INTC) Outpaced the Stock Market Today / Why Intel (INTC) Stock Is Up Today / Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock / Intel stock surges on JPMorgan upgrade after 14% weekly plunge",
+      "news_summary": "최근 뉴스 헤드라인: Intel Vs. Micron: Who Is More Exposed By Chinese Rival CXMT’s Progress? / Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market / JPMorgan Upgrades Intel Stock Following Strong Management Execution / Industrial Semiconductors - Global Strategic Business Report 2026 | Secure Share of the US$156.1 Billion 2032 Market as Infineon, Intel, STMicroelectronics, NXP, and Texas Instruments Lead",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
