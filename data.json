@@ -1,92 +1,92 @@
 {
-  "updated_at": "2026-10-16 23:14",
+  "updated_at": "2026-10-20 00:06",
   "stocks": {
     "NVDA": {
-      "price": 214.13,
-      "change_pct": -1.4271,
-      "prev_close": 217.23,
-      "pe_ttm": 26.8827,
+      "price": 217.09,
+      "change_pct": 1.3823,
+      "prev_close": 214.13,
+      "pe_ttm": 26.7553,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.43% 내렸어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 63% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.38% 올랐어요. PER은 26.8배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 67% 지점에 있어요.",
       "news": [
         {
-          "headline": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
-          "summary": "Apple (NASDAQ: AAPL) has emerged as the best-performing Magnificent Seven stock of 2026, outperforming NVIDIA (NVDA), Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOGL), Meta Platforms (META), and Tesla (TSLA). But what's driving Apple's surprising rally while other AI stocks struggle? In this episode, 24/7 Wall St.'s Eric Bleeker examines why Apple shares have surged more than 27% in 2026, even as concerns about artificial intelligence spending are weighing on some of the market's biggest technology companies. While competitors are committing hundreds of billions of dollars to AI data centers, Apple is taking a different approach. Its strategy emphasizes on-device artificial intelligence, privacy, and integrating AI directly into its ecosystem, avoiding much of the enormous infrastructure spending burden facing its rivals. Eric breaks down Apple's latest earnings, its massive share repurchase program, and why investors are increasingly rewarding the company's capital-efficient AI strategy. He also compares the Magnificent Seven's performance in 2026 against their remarkable returns since the beginning of 2023, revealing a very different picture of the AI investment boom. Has Apple become the market's ultimate AI safe-haven stock? And could its strategy continue outperforming NVIDIA and the rest of Big Tech?",
+          "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+          "summary": "Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f831231eaab13eb8aeb433db1cbbdbf1fe067161173a318013a30dfc63d8ee53"
+          "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a"
         },
         {
-          "headline": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
-          "summary": "ASML is the most important semiconductor equipment maker in the world.",
+          "headline": "NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment",
+          "summary": "Tiny's original US$250,000 seed investment in Poolside now has an ascribed value of approximately US$11.1 million (C$15.8 million), or ~44x its initial investment, based on the reported NVIDIA financing terms.NVIDIA's reported agreement combines a US$6 billion technology licence with a separate US$1 billion investment in Poolside at a US$13 billion post-money valuation.Tiny retains its Poolside interest and separately holds shares in Poolside Infrastructure Company (\"PIC\") following the...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7979460cfc3853b228cfe1ea57200761ae9f166876b5352460e5b22d8f6f39f2"
+          "url": "https://finnhub.io/api/news?id=32791da660ac6326069f650aedaedef3fd85b93865f200a413f63bda30a4bd34"
         },
         {
-          "headline": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin?",
-          "summary": "Nvidia (NVDA:NASDAQ) now has its German industrial AI deal confirmed by Berlin. Government sources told Reuters on Friday, October 16, that Germany will announce the cooperation agreement next week, with partners beyond Nvidia.",
+          "headline": "Nvidia (NVDA) Exceeds Market Returns: Some Facts to Consider",
+          "summary": "In the most recent trading session, Nvidia (NVDA) closed at $217.09, indicating a +1.38% shift from the previous trading day.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2abcdd96d7c24d3c4086c23e65d41c85d613d70bec5dda0f0913d86dfd46119c"
+          "url": "https://finnhub.io/api/news?id=8f6483da0b0f7a61a11b7a39cda3abff2beeb15032924249e65241ef625130cc"
         },
         {
-          "headline": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
-          "summary": "The market's fears are real.",
+          "headline": "NVIDIA's Price Implies Less Growth Than Its History",
+          "summary": "New Age Alpha’s chief investment officer argues that the growth embedded in stock prices, rather than a broad valuation label, offers a better way to judge whether market fears are justified.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15361c076e474dc082c06dcf114d46246b0b89d7fce26d21789162d53a9fac79"
+          "url": "https://finnhub.io/api/news?id=e1cf68919ecf72707adb2d33940c25edecdce6be84b2d86826bf1e56839fdb1a"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon / Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. / Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin? / Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck / NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment / Nvidia (NVDA) Exceeds Market Returns: Some Facts to Consider / NVIDIA's Price Implies Less Growth Than Its History",
       "recommendation": {
         "symbol": "NVDA",
-        "period": "2026-09-01",
-        "strongBuy": 24,
+        "period": "2026-10-01",
+        "strongBuy": 25,
         "buy": 41,
-        "hold": 3,
+        "hold": 2,
         "sell": 1,
         "strongSell": 0
       }
     },
     "INTC": {
-      "price": 89.85,
-      "change_pct": -5.788,
-      "prev_close": 95.37,
+      "price": 92.03,
+      "change_pct": 2.4263,
+      "prev_close": 89.85,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 5.79% 내렸어요. 최근 1년 최저가~최고가 구간에서 52% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.43% 올랐어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
-          "summary": "A number of stocks fell in the afternoon session after investors weighed escalating borrowing costs and Federal Reserve remarks emphasizing price stability over rate cut signals.",
+          "headline": "Why Intel (INTC) Outpaced the Stock Market Today",
+          "summary": "In the latest trading session, Intel (INTC) closed at $92.03, marking a +2.43% move from the previous day.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f1060b0a9a66e1667b8fa3b6ae9dbc37418694a3bc7eea16dabdbd8dc837b73"
+          "url": "https://finnhub.io/api/news?id=8751ab5f9f5ece1cb6e26bd11bbad03b9218645add32e9355e654a41991501d6"
         },
         {
-          "headline": "Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report?",
-          "summary": "Intel (INTC) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+          "headline": "Why Intel (INTC) Stock Is Up Today",
+          "summary": "Shares of computer processor maker Intel (NASDAQ:INTC) jumped 4.2% in the morning session after retreating Treasury yields and broad dip-buying following the previous week’s technology sell-off lifted equities, as JPMorgan upgraded the chipmaker with an $85 price target.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=56654c063736dce0f354bbfd28dec9bf4380ad3a631220f5de70792bce6d6123"
+          "url": "https://finnhub.io/api/news?id=bb71e82141cff2d5ba739c7ef1b9829295ee79b9aee961e14f853441a38e32e3"
         },
         {
-          "headline": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady",
-          "summary": "Investors are bailing on AI chip stocks, but not all of them equally, and the gap between winners and losers reveals something important about how Wall Street is rethinking the cost of building out artificial intelligence infrastructure.",
+          "headline": "Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock",
+          "summary": "Key TakeawaysIntel shares rose [4%] today after JPMorgan upgraded the stock to Neutral from Underweight and kept its $85 price target. Tesla committed to Intel’s 14A process back in April, so the upgrade is today’s news, and it rests on better execution and rising earnings estimates.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57f08d280b9c80838e49201efbb36200d116dc03b8f8ba2b2a82870f97a899f8"
+          "url": "https://finnhub.io/api/news?id=1bb54ff3683b83061badd91f3a125a0617189000da3f2260cf75bdd41478f462"
         },
         {
-          "headline": "Intel Cratered Over The Last 90 Days: This Prominent Analyst Says It’s Going to Double",
-          "summary": "Intel just lost a third of its value while rivals AMD and NVIDIA kept climbing, yet one prominent analyst sees a path that leaves the consensus in the dust. The bull case rests on a single unproven bet.",
+          "headline": "Intel stock surges on JPMorgan upgrade after 14% weekly plunge",
+          "summary": "JPMorgan upgrades Intel stock ahead of Q3 earnings, citing stronger AI chip demand and improving execution under CEO Lip-Bu Tan.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=76c477547848ffa679d6696d5d6b2f4dc2ce29713a6d7b9b6b763264357ea9e3"
+          "url": "https://finnhub.io/api/news?id=574bb875a4a4835be7eb00365a41a5cc7f82bd7662ddf32c794e3dc4f8bc0d83"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know / Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report? / Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady / Intel Cratered Over The Last 90 Days: This Prominent Analyst Says It’s Going to Double",
+      "news_summary": "최근 뉴스 헤드라인: Why Intel (INTC) Outpaced the Stock Market Today / Why Intel (INTC) Stock Is Up Today / Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock / Intel stock surges on JPMorgan upgrade after 14% weekly plunge",
       "recommendation": {
         "symbol": "INTC",
-        "period": "2026-09-01",
+        "period": "2026-10-01",
         "strongBuy": 4,
-        "buy": 15,
-        "hold": 34,
+        "buy": 16,
+        "hold": 33,
         "sell": 2,
         "strongSell": 0
       }
