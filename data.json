@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-21 23:53",
+  "updated_at": "2026-10-22 23:52",
   "stocks": {
     "NVDA": {
-      "price": 221.97,
-      "change_pct": 2.5408,
-      "prev_close": 216.47,
-      "pe_ttm": 27.4887,
+      "price": 212.21,
+      "change_pct": -4.397,
+      "prev_close": 221.97,
+      "pe_ttm": 27.7349,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.54% 올랐어요. PER은 27.5배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 73% 지점에 있어요.",
-      "news": [],
-      "news_summary": "최근 일주일 사이 엔비디아 관련 뉴스가 눈에 띄게 없었어요.",
+      "easy_explanation": "오늘 전일 대비 4.40% 내렸어요. PER은 27.7배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
+      "news": [
+        {
+          "headline": "Vertiv, Nvidia target 10-week cut in AI power, cooling setup",
+          "summary": "Vertiv’s model cuts design and infrastructure deployment days as AI data centers race to come online faster.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8a50ebd79af547e0ca96287af0003f685083379d3157a8a03ca0ed9baa654b68"
+        }
+      ],
+      "news_summary": "최근 뉴스 헤드라인: Vertiv, Nvidia target 10-week cut in AI power, cooling setup",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -22,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 92.96,
-      "change_pct": 1.3851,
-      "prev_close": 91.69,
+      "price": 85.49,
+      "change_pct": -8.0357,
+      "prev_close": 92.96,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 1.39% 올랐어요. 최근 1년 최저가~최고가 구간에서 55% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 8.04% 내렸어요. 최근 1년 최저가~최고가 구간에서 48% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel’s $28B Ohio Chip Project Hits Construction Milestone After Years Of Delays — Arizona Fab Targets 2028 Start",
-          "summary": "Intel's Ohio factory, originally expected to begin production in 2025, is now targeting operations in 2030–2031 as the chipmaker looks to expand U.S. manufacturing capacity.",
+          "headline": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+          "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=09a241c5532847859dd335abef472930a78c2640d951d6c94ea750d0fc53fe6f"
+          "url": "https://finnhub.io/api/news?id=29b9fa56f5808b68b18027a3e11472f8520e87b60c011c5bdc9074703bc4bde2"
         },
         {
-          "headline": "Intel advances Arizona, Ohio factory projects as chip demand outlook improves",
-          "summary": "Investing.com -- Intel is making progress on its long-delayed U.S. factory expansion, with equipment installation underway at a new Arizona plant and construction advancing at its planned Ohio complex, Bloomberg first reported.",
+          "headline": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+          "summary": "The GPU giant expects almost $20 billion in CPU sales this year.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df15e46dd0f9fb5fe59f824665bd16a4725bd6938162659b40a3e279c1cc88d6"
+          "url": "https://finnhub.io/api/news?id=880f03ba7e81048e0aebf80b9e558d26a95dadedeeeb78a657d262fb3ef5dfaa"
         },
         {
-          "headline": "Anthropic Has Locked In Over $600 Billion of Computing, More Than Intel Is Worth. It Still Wants More and That’s Big News for AMD.",
-          "summary": "Anthropic just committed a staggering sum to computing power before its IPO, and its appetite keeps growing even as losses mount. One chipmaker stands out as the biggest beneficiary, and its stock is already moving.",
+          "headline": "Could Intel be the next trillion-dollar company?",
+          "summary": "Market Hang's panel debates whether Intel (INTC) can become the next trillion-dollar company amid surging chip demand, while weighing other holdings such as Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD). Today's panel consists of hosts Jen Saarbach and Kristen Kelly, co-founders of The Wall Street Skinny, along with Laffer Tengler Investments CEO and CIO Nancy Tengler; Slatestone Wealth Partner and Chief Market Strategist and Kace Capital Advisors Founder and CEO Kenny Polcari; and BD8 Capital Partners CEO and chief investment officer Barbara Doran.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e16ad8d5c99aece4ced267f91a11eb6605a8e01c36e1ce3f36a2f8551b997c55"
+          "url": "https://finnhub.io/api/news?id=1550f03d0e6d5c5fcf4c18f942947334d46dbafb1c9868987b45ac01020ecf03"
         },
         {
-          "headline": "Elon Musk May Have Ended the October AI Crash as NVIDIA, Intel, and SanDisk Rally after One SpaceX Quote",
-          "summary": "One quote from Elon Musk sent chip stocks surging in premarket trading, but whether that momentum signals a real turning point or just a brief relief rally is what the rest of October will decide.",
+          "headline": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+          "summary": "A chipmaking equipment maker’s supply warning is turning the artificial intelligence (AI) trade into a broad semiconductor selloff, and the chip designers most tied to data center spending are taking the heaviest hits. Marvell Technology (NASDAQ:MRVL) stock is down 8% to $224.64 in morning trading, a drop that puts the custom chip designer at the […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c148a30507b181b491832d05201a856845755646d305bde08e40c3b1c17b5d13"
+          "url": "https://finnhub.io/api/news?id=5f60df6060f5377484118df074e70e99b09cbb1e2c929d709401ed6890e3622e"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel’s $28B Ohio Chip Project Hits Construction Milestone After Years Of Delays — Arizona Fab Targets 2028 Start / Intel advances Arizona, Ohio factory projects as chip demand outlook improves / Anthropic Has Locked In Over $600 Billion of Computing, More Than Intel Is Worth. It Still Wants More and That’s Big News for AMD. / Elon Musk May Have Ended the October AI Crash as NVIDIA, Intel, and SanDisk Rally after One SpaceX Quote",
+      "news_summary": "최근 뉴스 헤드라인: Intel vs. Qualcomm: A Widening Gap in Revenue / What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel / Could Intel be the next trillion-dollar company? / Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
