@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-10-22 23:52",
+  "updated_at": "2026-10-23 23:44",
   "stocks": {
     "NVDA": {
-      "price": 212.21,
-      "change_pct": -4.397,
-      "prev_close": 221.97,
+      "price": 210.96,
+      "change_pct": -0.589,
+      "prev_close": 212.21,
       "pe_ttm": 27.7349,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 4.40% 내렸어요. PER은 27.7배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 61% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.59% 내렸어요. PER은 27.7배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
       "news": [
         {
-          "headline": "Vertiv, Nvidia target 10-week cut in AI power, cooling setup",
-          "summary": "Vertiv’s model cuts design and infrastructure deployment days as AI data centers race to come online faster.",
+          "headline": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
+          "summary": "But AI investors can’t go wrong with either stock.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8a50ebd79af547e0ca96287af0003f685083379d3157a8a03ca0ed9baa654b68"
+          "url": "https://finnhub.io/api/news?id=66256381411d99cd7083b0b026b36dd3034d7e8981ef344027c64ed2a7d2c1a2"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
+          "summary": "Nvidia Corp. CEO Jensen Huang said the U.S. must treat China as a major rival in chips, AI, and research while competing globally through innovation and infrastructure. Huang made the remarks during an interview with Yahoo Finance journalist Deirdre Bosa...",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2aa5d5b149c227961e38c1a4dd10bc02473c3197cb56571b5b18be47fc059911"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Vertiv, Nvidia target 10-week cut in AI power, cooling setup",
+      "news_summary": "최근 뉴스 헤드라인: Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years / Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -29,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 85.49,
-      "change_pct": -8.0357,
-      "prev_close": 92.96,
+      "price": 86.96,
+      "change_pct": 1.7195,
+      "prev_close": 85.49,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 8.04% 내렸어요. 최근 1년 최저가~최고가 구간에서 48% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.72% 올랐어요. 최근 1년 최저가~최고가 구간에서 49% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel vs. Qualcomm: A Widening Gap in Revenue",
-          "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
+          "headline": "Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One?",
+          "summary": "The chipmaker beat its own forecast all three times. Why did the stock fall twice?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29b9fa56f5808b68b18027a3e11472f8520e87b60c011c5bdc9074703bc4bde2"
+          "url": "https://finnhub.io/api/news?id=212c917958a2f968f8f5e26bebde87087e78494dff522c6539fb3fe63e079b8b"
         },
         {
-          "headline": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
-          "summary": "The GPU giant expects almost $20 billion in CPU sales this year.",
+          "headline": "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
+          "summary": "Microsoft stock is an anomaly in the beaten-up AI sector as the large-cap hyperscaler holds near highs ahead of its fiscal Q4 report.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=880f03ba7e81048e0aebf80b9e558d26a95dadedeeeb78a657d262fb3ef5dfaa"
+          "url": "https://finnhub.io/api/news?id=2778e33345ef6abc3bf9e4ebc22ad3cd8a466b5258189c63c8ef560e4332f950"
         },
         {
-          "headline": "Could Intel be the next trillion-dollar company?",
-          "summary": "Market Hang's panel debates whether Intel (INTC) can become the next trillion-dollar company amid surging chip demand, while weighing other holdings such as Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD). Today's panel consists of hosts Jen Saarbach and Kristen Kelly, co-founders of The Wall Street Skinny, along with Laffer Tengler Investments CEO and CIO Nancy Tengler; Slatestone Wealth Partner and Chief Market Strategist and Kace Capital Advisors Founder and CEO Kenny Polcari; and BD8 Capital Partners CEO and chief investment officer Barbara Doran.",
+          "headline": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
+          "summary": "Nvidia has invested in a number of artificial intelligence (AI) companies over the last few years.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1550f03d0e6d5c5fcf4c18f942947334d46dbafb1c9868987b45ac01020ecf03"
+          "url": "https://finnhub.io/api/news?id=62658832c5c0472b4548f80863502bf78b11ed4ffd94b8f7f7faba61c7821e69"
         },
         {
-          "headline": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
-          "summary": "A chipmaking equipment maker’s supply warning is turning the artificial intelligence (AI) trade into a broad semiconductor selloff, and the chip designers most tied to data center spending are taking the heaviest hits. Marvell Technology (NASDAQ:MRVL) stock is down 8% to $224.64 in morning trading, a drop that puts the custom chip designer at the […]",
+          "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+          "summary": "Intel can now build a transistor that rivals anyone in the world, yet its foundry business is bleeding billions while TSMC signs hundreds of outside customers. The two latest earnings reports expose a gap that transistor specs alone cannot close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f60df6060f5377484118df074e70e99b09cbb1e2c929d709401ed6890e3622e"
+          "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel vs. Qualcomm: A Widening Gap in Revenue / What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel / Could Intel be the next trillion-dollar company? / Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One? / Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel / Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8. / The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
