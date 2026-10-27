@@ -1,29 +1,23 @@
 {
-  "updated_at": "2026-10-23 23:44",
+  "updated_at": "2026-10-27 00:13",
   "stocks": {
     "NVDA": {
-      "price": 210.96,
-      "change_pct": -0.589,
-      "prev_close": 212.21,
-      "pe_ttm": 27.7349,
+      "price": 216,
+      "change_pct": 2.3891,
+      "prev_close": 210.96,
+      "pe_ttm": 26.8559,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.59% 내렸어요. PER은 27.7배로, 회사가 1년에 버는 돈의 28배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 59% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.39% 올랐어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
       "news": [
         {
-          "headline": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
-          "summary": "But AI investors can’t go wrong with either stock.",
+          "headline": "Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
+          "summary": "Nvidia (NVDA) concluded the recent trading session at $216.02, signifying a +2.4% move from its prior day's close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66256381411d99cd7083b0b026b36dd3034d7e8981ef344027c64ed2a7d2c1a2"
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
-          "summary": "Nvidia Corp. CEO Jensen Huang said the U.S. must treat China as a major rival in chips, AI, and research while competing globally through innovation and infrastructure. Huang made the remarks during an interview with Yahoo Finance journalist Deirdre Bosa...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2aa5d5b149c227961e38c1a4dd10bc02473c3197cb56571b5b18be47fc059911"
+          "url": "https://finnhub.io/api/news?id=42e84b9e34833ce56086092e51ea8a863281d4acbce29593b63ef0a83d46bc96"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years / Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -35,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 86.96,
-      "change_pct": 1.7195,
-      "prev_close": 85.49,
+      "price": 90.47,
+      "change_pct": 4.0363,
+      "prev_close": 86.96,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 1.72% 올랐어요. 최근 1년 최저가~최고가 구간에서 49% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.04% 올랐어요. 최근 1년 최저가~최고가 구간에서 53% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One?",
-          "summary": "The chipmaker beat its own forecast all three times. Why did the stock fall twice?",
+          "headline": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
+          "summary": "This could be the most important week of 2026 for AI stocks. Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), Alphabet (NASDAQ: GOOGL), Intel (NASDAQ: INTC), and SanDisk (NASDAQ: SNDK) are preparing to report earnings, and the results could determine where the technology sector heads next. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., previews the biggest earnings announcements and explains what investors should watch as concerns about artificial intelligence spending continue to pressure technology stocks. After sharp declines across AI infrastructure companies, Wall Street is increasingly questioning whether the hundreds of billions of dollars being invested in data centers will generate sufficient returns. Microsoft's Azure growth, Amazon Web Services' accelerating revenue, and Alphabet's expanding AI infrastructure investments will be especially important. Meanwhile, Intel, SanDisk, and SK Hynix could provide critical insight into demand for semiconductors, memory, and AI hardware. We'll break down earnings expectations, the most important numbers to watch, and why this week's results could either reignite enthusiasm for AI stocks or accelerate the selloff.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=212c917958a2f968f8f5e26bebde87087e78494dff522c6539fb3fe63e079b8b"
+          "url": "https://finnhub.io/api/news?id=3ba45970045d616ae03d3cc67e7f9f6059a35dc49bdd2be6aa520a0bc20af7bf"
         },
         {
-          "headline": "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
-          "summary": "Microsoft stock is an anomaly in the beaten-up AI sector as the large-cap hyperscaler holds near highs ahead of its fiscal Q4 report.",
+          "headline": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+          "summary": "SANTA CLARA, Calif. & TEL AVIV, Israel, October 26, 2026--Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2778e33345ef6abc3bf9e4ebc22ad3cd8a466b5258189c63c8ef560e4332f950"
+          "url": "https://finnhub.io/api/news?id=3f5e55e541513c0b99caefa208f59f95a84d2f781c7f223638e7e93b17c76ebf"
         },
         {
-          "headline": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
-          "summary": "Nvidia has invested in a number of artificial intelligence (AI) companies over the last few years.",
+          "headline": "Top Analyst Reports for Intel, Novartis & Itau Unibanco",
+          "summary": "Intel's manufacturing recovery and AI expansion, Novartis' growth drugs and Itau Unibanco's strategic moves headline today's top analyst reports.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=62658832c5c0472b4548f80863502bf78b11ed4ffd94b8f7f7faba61c7821e69"
+          "url": "https://finnhub.io/api/news?id=7481a76e11433e997e2e804e967bcd278caa6ec86f97abe592f7aa9008e58984"
         },
         {
-          "headline": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
-          "summary": "Intel can now build a transistor that rivals anyone in the world, yet its foundry business is bleeding billions while TSMC signs hundreds of outside customers. The two latest earnings reports expose a gap that transistor specs alone cannot close.",
+          "headline": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
+          "summary": "A Wall Street analyst just slapped a Buy rating on Intel days before its earnings report, citing a server CPU shortage that could last for years. Whether the chip giant can actually deliver enough silicon to prove that thesis right is the question hanging over the whole trade.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbca34c34dde68eada86d9fca42fbd0932fd97b7b5a19e23c6f2ef800dafddee"
+          "url": "https://finnhub.io/api/news?id=af1cac33fdfcbf5bfa630db94996b564147c3c6f253fa74b20628558ad22cce6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One? / Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel / Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8. / The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+      "news_summary": "최근 뉴스 헤드라인: Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move / Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform / Top Analyst Reports for Intel, Novartis & Itau Unibanco / Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
