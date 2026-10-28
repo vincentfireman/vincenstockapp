@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-10-27 00:13",
+  "updated_at": "2026-10-28 00:14",
   "stocks": {
     "NVDA": {
-      "price": 216,
-      "change_pct": 2.3891,
-      "prev_close": 210.96,
-      "pe_ttm": 26.8559,
+      "price": 217.94,
+      "change_pct": 0.8981,
+      "prev_close": 216,
+      "pe_ttm": 27.2064,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.39% 올랐어요. PER은 26.9배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.90% 올랐어요. PER은 27.2배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
-          "summary": "Nvidia (NVDA) concluded the recent trading session at $216.02, signifying a +2.4% move from its prior day's close.",
+          "headline": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
+          "summary": "Nvidia’s $3 billion investment in Meta strengthens an important partnership. It also raises familiar questions about who is funding the AI boom.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=42e84b9e34833ce56086092e51ea8a863281d4acbce29593b63ef0a83d46bc96"
+          "url": "https://finnhub.io/api/news?id=995b09e1776ebfbb47f422fd5d6dadf7dcb149e84ac3a45287398f342a51db9e"
+        },
+        {
+          "headline": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
+          "summary": "Chinese companies reportedly want billions in Nvidia chips, but shipments have still fallen 44% in the first half of 2026.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2bd5147d1bbd37ead4a993d669e21660010ab4ba55377370ce14f8c7ee422eff"
+        },
+        {
+          "headline": "NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means",
+          "summary": "The company that sells Meta its AI chips is now buying a piece of Meta itself. NVIDIA is putting $3 billion into Meta's stock offering, making Jensen Huang's chip giant a shareholder in one of its biggest customers. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., examines why Meta Platforms (NASDAQ: META) is raising as much as $95 billion, and what NVIDIA (NASDAQ: NVDA) gets beyond the shares. With Meta guiding to as much as $145 billion in capital spending and posting negative free cash flow, the biggest questions are whether this is smart partnership or circular financing, and how much dilution Meta shareholders should expect. We'll also look at Muse, Meta's personal AI agent, which signed up more than 10 million users in about six weeks and could drive years of demand for NVIDIA hardware. Finally, we'll discuss the two numbers that will decide whether this spending pays off: Meta's AI revenue starting in 2027, and Zuckerberg's goal of making Muse more than 10 times cheaper to run.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67efecb897dc4a3fe14157c8f0124022052a3997d1028ec4b6d4d9017d1a3618"
+        },
+        {
+          "headline": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
+          "summary": "Nvidia and AMD separately announced deals with Meta Platforms to power the social media company's AI endeavors.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e9fbfac689c4f6b9e750a8ac7270e5d1bcaeefd6f25760c5067178e33f65db96"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia (NVDA) Surpasses Market Returns: Some Facts Worth Knowing",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers / Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters. / NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means / Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -29,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 90.47,
-      "change_pct": 4.0363,
-      "prev_close": 86.96,
+      "price": 93.74,
+      "change_pct": 3.6145,
+      "prev_close": 90.47,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 4.04% 올랐어요. 최근 1년 최저가~최고가 구간에서 53% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.61% 올랐어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
       "news": [
         {
-          "headline": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
-          "summary": "This could be the most important week of 2026 for AI stocks. Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), Alphabet (NASDAQ: GOOGL), Intel (NASDAQ: INTC), and SanDisk (NASDAQ: SNDK) are preparing to report earnings, and the results could determine where the technology sector heads next. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., previews the biggest earnings announcements and explains what investors should watch as concerns about artificial intelligence spending continue to pressure technology stocks. After sharp declines across AI infrastructure companies, Wall Street is increasingly questioning whether the hundreds of billions of dollars being invested in data centers will generate sufficient returns. Microsoft's Azure growth, Amazon Web Services' accelerating revenue, and Alphabet's expanding AI infrastructure investments will be especially important. Meanwhile, Intel, SanDisk, and SK Hynix could provide critical insight into demand for semiconductors, memory, and AI hardware. We'll break down earnings expectations, the most important numbers to watch, and why this week's results could either reignite enthusiasm for AI stocks or accelerate the selloff.",
+          "headline": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business”",
+          "summary": "Key TakeawaysIonQ shares rose 7% today, Rigetti rose 8% and D-Wave rose about 4%, after Intel agreed to buy quantum software company Classiq in a deal reportedly worth about $2. 3 billion.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ba45970045d616ae03d3cc67e7f9f6059a35dc49bdd2be6aa520a0bc20af7bf"
+          "url": "https://finnhub.io/api/news?id=e53ae03f46a044cc8b70eb3fff75055c546bb3f17a2de14bb79866fcc4487787"
         },
         {
-          "headline": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
-          "summary": "SANTA CLARA, Calif. & TEL AVIV, Israel, October 26, 2026--Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+          "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+          "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f5e55e541513c0b99caefa208f59f95a84d2f781c7f223638e7e93b17c76ebf"
+          "url": "https://finnhub.io/api/news?id=c6a7556c6173bb894e29cb5d494ed7949e64d5905d0c3208797a77c208301a09"
         },
         {
-          "headline": "Top Analyst Reports for Intel, Novartis & Itau Unibanco",
-          "summary": "Intel's manufacturing recovery and AI expansion, Novartis' growth drugs and Itau Unibanco's strategic moves headline today's top analyst reports.",
+          "headline": "Intel faces test of recovery as Wedbush looks beyond Q3 results",
+          "summary": "Intel Corp (NASDAQ:INTC, XETRA:INL) is expected to beat third-quarter revenue and earnings forecasts, according to Wedbush, but the broker said the chipmaker’s fourth-quarter outlook and guidance on 2027 growth and capital spending will be more important in determining how its shares...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7481a76e11433e997e2e804e967bcd278caa6ec86f97abe592f7aa9008e58984"
+          "url": "https://finnhub.io/api/news?id=1a31d5ccf8f7106dff32125c97436d4f2ca087aa48780cf5b251577789e05ecf"
         },
         {
-          "headline": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
-          "summary": "A Wall Street analyst just slapped a Buy rating on Intel days before its earnings report, citing a server CPU shortage that could last for years. Whether the chip giant can actually deliver enough silicon to prove that thesis right is the question hanging over the whole trade.",
+          "headline": "Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
+          "summary": "LAS VEGAS, October 27, 2026--Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af1cac33fdfcbf5bfa630db94996b564147c3c6f253fa74b20628558ad22cce6"
+          "url": "https://finnhub.io/api/news?id=280fc49edd8edfea8591e9552c3827d83e2c8a6eb7172450c7ef9165bbb1b312"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move / Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform / Top Analyst Reports for Intel, Novartis & Itau Unibanco / Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
+      "news_summary": "최근 뉴스 헤드라인: IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business” / Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26 / Intel faces test of recovery as Wedbush looks beyond Q3 results / Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
