@@ -1,41 +1,23 @@
 {
-  "updated_at": "2026-10-28 00:14",
+  "updated_at": "2026-10-29 00:35",
   "stocks": {
     "NVDA": {
-      "price": 217.94,
-      "change_pct": 0.8981,
-      "prev_close": 216,
-      "pe_ttm": 27.2064,
+      "price": 215.38,
+      "change_pct": -1.1746,
+      "prev_close": 217.94,
+      "pe_ttm": 27.3588,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.90% 올랐어요. PER은 27.2배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 68% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.17% 내렸어요. PER은 27.4배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
-          "summary": "Nvidia’s $3 billion investment in Meta strengthens an important partnership. It also raises familiar questions about who is funding the AI boom.",
+          "headline": "NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition",
+          "summary": "According to a report from Reuters, citing people familiar with the matter, department officials have asked whether the Hugging Face deal would allow Nvidia to control a key distribution point for AI models and tools.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=995b09e1776ebfbb47f422fd5d6dadf7dcb149e84ac3a45287398f342a51db9e"
-        },
-        {
-          "headline": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
-          "summary": "Chinese companies reportedly want billions in Nvidia chips, but shipments have still fallen 44% in the first half of 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2bd5147d1bbd37ead4a993d669e21660010ab4ba55377370ce14f8c7ee422eff"
-        },
-        {
-          "headline": "NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means",
-          "summary": "The company that sells Meta its AI chips is now buying a piece of Meta itself. NVIDIA is putting $3 billion into Meta's stock offering, making Jensen Huang's chip giant a shareholder in one of its biggest customers. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., examines why Meta Platforms (NASDAQ: META) is raising as much as $95 billion, and what NVIDIA (NASDAQ: NVDA) gets beyond the shares. With Meta guiding to as much as $145 billion in capital spending and posting negative free cash flow, the biggest questions are whether this is smart partnership or circular financing, and how much dilution Meta shareholders should expect. We'll also look at Muse, Meta's personal AI agent, which signed up more than 10 million users in about six weeks and could drive years of demand for NVIDIA hardware. Finally, we'll discuss the two numbers that will decide whether this spending pays off: Meta's AI revenue starting in 2027, and Zuckerberg's goal of making Muse more than 10 times cheaper to run.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67efecb897dc4a3fe14157c8f0124022052a3997d1028ec4b6d4d9017d1a3618"
-        },
-        {
-          "headline": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
-          "summary": "Nvidia and AMD separately announced deals with Meta Platforms to power the social media company's AI endeavors.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e9fbfac689c4f6b9e750a8ac7270e5d1bcaeefd6f25760c5067178e33f65db96"
+          "url": "https://finnhub.io/api/news?id=29c29bdca33dac3ae0146381132c02f6897d6530703224f2e537087756f61e6f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers / Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters. / NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means / Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
+      "news_summary": "최근 뉴스 헤드라인: NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -47,40 +29,40 @@
       }
     },
     "INTC": {
-      "price": 93.74,
-      "change_pct": 3.6145,
-      "prev_close": 90.47,
+      "price": 95.53,
+      "change_pct": 1.9095,
+      "prev_close": 93.74,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 3.61% 올랐어요. 최근 1년 최저가~최고가 구간에서 56% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.91% 올랐어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
       "news": [
         {
-          "headline": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business”",
-          "summary": "Key TakeawaysIonQ shares rose 7% today, Rigetti rose 8% and D-Wave rose about 4%, after Intel agreed to buy quantum software company Classiq in a deal reportedly worth about $2. 3 billion.",
+          "headline": "Intel to report Q3 earnings as chip stocks continue to rebound",
+          "summary": "Intel will report its Q3 earnings after the bell Thursday.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e53ae03f46a044cc8b70eb3fff75055c546bb3f17a2de14bb79866fcc4487787"
+          "url": "https://finnhub.io/api/news?id=344e11951a5e48991be1d30f94a41b7e1a40bd943e0113b198dfe400ec8c608f"
         },
         {
-          "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-          "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
+          "headline": "Intel (INTC) reports earnings tomorrow: what to expect",
+          "summary": "Computer processor maker Intel (NASDAQ:INTC) will be reporting earnings this Thursday after the bell. Here’s what to look for.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6a7556c6173bb894e29cb5d494ed7949e64d5905d0c3208797a77c208301a09"
+          "url": "https://finnhub.io/api/news?id=2c3fe6213bc24829cae3c845d7650a11e4ec4de05ab3c689d18a32c267262421"
         },
         {
-          "headline": "Intel faces test of recovery as Wedbush looks beyond Q3 results",
-          "summary": "Intel Corp (NASDAQ:INTC, XETRA:INL) is expected to beat third-quarter revenue and earnings forecasts, according to Wedbush, but the broker said the chipmaker’s fourth-quarter outlook and guidance on 2027 growth and capital spending will be more important in determining how its shares...",
+          "headline": "Intel Just Fell 24% in a Month: What Will It Take to Get INTC Stock Back Above $100?",
+          "summary": "Intel shed a quarter of its value in just one month, even as rivals AMD and NVIDIA held up far better, and now a surprise quantum acquisition has done little to reassure investors. The path back above $100 runs through some critical upcoming tests that could either revive the bull case or extend the pain.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1a31d5ccf8f7106dff32125c97436d4f2ca087aa48780cf5b251577789e05ecf"
+          "url": "https://finnhub.io/api/news?id=44a1d76291038951db943721e883203ad99f5ba0b01e3a2cd89a9009c9761816"
         },
         {
-          "headline": "Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
-          "summary": "LAS VEGAS, October 27, 2026--Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
+          "headline": "Intel Just Made a $2.3 Billion Quantum Buy and Is Spending Again. Can Cash Flow Keep Up?",
+          "summary": "Key TakeawaysIntel agreed to buy quantum software company Classiq in a deal reportedly worth $2. 3 billion, three days before its third-quarter report on Thursday, Oct.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=280fc49edd8edfea8591e9552c3827d83e2c8a6eb7172450c7ef9165bbb1b312"
+          "url": "https://finnhub.io/api/news?id=d33d9a63fb739c160dd24f94aed225af3ab3accd0dd51974fd313ef1bdd3b91d"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business” / Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26 / Intel faces test of recovery as Wedbush looks beyond Q3 results / Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
+      "news_summary": "최근 뉴스 헤드라인: Intel to report Q3 earnings as chip stocks continue to rebound / Intel (INTC) reports earnings tomorrow: what to expect / Intel Just Fell 24% in a Month: What Will It Take to Get INTC Stock Back Above $100? / Intel Just Made a $2.3 Billion Quantum Buy and Is Spending Again. Can Cash Flow Keep Up?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
