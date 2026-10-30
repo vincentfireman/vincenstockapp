@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-10-29 00:35",
+  "updated_at": "2026-10-30 00:36",
   "stocks": {
     "NVDA": {
-      "price": 215.38,
-      "change_pct": -1.1746,
-      "prev_close": 217.94,
-      "pe_ttm": 27.3588,
+      "price": 213.66,
+      "change_pct": -0.7986,
+      "prev_close": 215.38,
+      "pe_ttm": 26.7265,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.17% 내렸어요. PER은 27.4배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 65% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.80% 내렸어요. PER은 26.7배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
       "news": [
         {
-          "headline": "NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition",
-          "summary": "According to a report from Reuters, citing people familiar with the matter, department officials have asked whether the Hugging Face deal would allow Nvidia to control a key distribution point for AI models and tools.",
+          "headline": "Nvidia's $12.9 billion deal could shape the AI apps you use",
+          "summary": "Nvidia may have too much control over an AI gateway, according to the Justice Department.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29c29bdca33dac3ae0146381132c02f6897d6530703224f2e537087756f61e6f"
+          "url": "https://finnhub.io/api/news?id=cc58be1127d0c3a0753d3f81ae9e2eae4adb9d1036ab7cece15adae0972ce869"
+        },
+        {
+          "headline": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
+          "summary": "Nvidia described Megaspeed as a typical regional cloud customer.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3c00e857bc45aae2679828a3e975abc8d37544482de1ebfc3aa25405d31bb514"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia's $12.9 billion deal could shape the AI apps you use / Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -29,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 95.53,
-      "change_pct": 1.9095,
-      "prev_close": 93.74,
+      "price": 92.07,
+      "change_pct": -3.6219,
+      "prev_close": 95.53,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 1.91% 올랐어요. 최근 1년 최저가~최고가 구간에서 57% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.62% 내렸어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel to report Q3 earnings as chip stocks continue to rebound",
-          "summary": "Intel will report its Q3 earnings after the bell Thursday.",
+          "headline": "What Intel (INTC) Said on Its Q3 Earnings Call",
+          "summary": "Intel (NASDAQ:INTC) reported third-quarter results that exceeded its guidance for revenue, gross margin and earnings per share, supported by strong demand for server CPUs and improved manufacturing output. Management said the gains were partly offset by a sharp deterioration in the PC market tied to",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=344e11951a5e48991be1d30f94a41b7e1a40bd943e0113b198dfe400ec8c608f"
+          "url": "https://finnhub.io/api/news?id=d46b273d45e8f23e69ff76cd5c00a8dd56abe70c03ef0e918b2b3c15c6520d23"
         },
         {
-          "headline": "Intel (INTC) reports earnings tomorrow: what to expect",
-          "summary": "Computer processor maker Intel (NASDAQ:INTC) will be reporting earnings this Thursday after the bell. Here’s what to look for.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c3fe6213bc24829cae3c845d7650a11e4ec4de05ab3c689d18a32c267262421"
+          "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+          "summary": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc"
         },
         {
-          "headline": "Intel Just Fell 24% in a Month: What Will It Take to Get INTC Stock Back Above $100?",
-          "summary": "Intel shed a quarter of its value in just one month, even as rivals AMD and NVIDIA held up far better, and now a surprise quantum acquisition has done little to reassure investors. The path back above $100 runs through some critical upcoming tests that could either revive the bull case or extend the pain.",
+          "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
+          "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44a1d76291038951db943721e883203ad99f5ba0b01e3a2cd89a9009c9761816"
+          "url": "https://finnhub.io/api/news?id=29af632925ef1c1bbde9c465d3cd7dd95bf05d1bfc0f26c90a8c49f1868c2534"
         },
         {
-          "headline": "Intel Just Made a $2.3 Billion Quantum Buy and Is Spending Again. Can Cash Flow Keep Up?",
-          "summary": "Key TakeawaysIntel agreed to buy quantum software company Classiq in a deal reportedly worth $2. 3 billion, three days before its third-quarter report on Thursday, Oct.",
+          "headline": "Intel Stock Plummets. A Supply Setback and PC Weakness Overshadow AI Growth.",
+          "summary": "The earnings report highlighted both the intense demand for artificial-intelligence chips and the setbacks companies can face in supplying them.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d33d9a63fb739c160dd24f94aed225af3ab3accd0dd51974fd313ef1bdd3b91d"
+          "url": "https://finnhub.io/api/news?id=0f9319502ad7794802096dd7506feaa78813783e3e39a3901ad2d60d83e6e5dc"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel to report Q3 earnings as chip stocks continue to rebound / Intel (INTC) reports earnings tomorrow: what to expect / Intel Just Fell 24% in a Month: What Will It Take to Get INTC Stock Back Above $100? / Intel Just Made a $2.3 Billion Quantum Buy and Is Spending Again. Can Cash Flow Keep Up?",
+      "news_summary": "최근 뉴스 헤드라인: What Intel (INTC) Said on Its Q3 Earnings Call / After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall / Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq / Intel Stock Plummets. A Supply Setback and PC Weakness Overshadow AI Growth.",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
