@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-30 00:36",
+  "updated_at": "2026-10-31 00:21",
   "stocks": {
     "NVDA": {
-      "price": 213.66,
-      "change_pct": -0.7986,
-      "prev_close": 215.38,
-      "pe_ttm": 26.7265,
+      "price": 204.64,
+      "change_pct": -4.2217,
+      "prev_close": 213.66,
+      "pe_ttm": 25.8169,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 0.80% 내렸어요. PER은 26.7배로, 회사가 1년에 버는 돈의 27배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 62% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.22% 내렸어요. PER은 25.8배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia's $12.9 billion deal could shape the AI apps you use",
-          "summary": "Nvidia may have too much control over an AI gateway, according to the Justice Department.",
+          "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
+          "summary": "Nvidia’s relationship with SpaceX runs deeper than most investors have noticed. The way that stake came together is worth understanding.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc58be1127d0c3a0753d3f81ae9e2eae4adb9d1036ab7cece15adae0972ce869"
+          "url": "https://finnhub.io/api/news?id=caacf5f94fcf70cc3f34014138b424898593976245fc97cfa396c75ce7c21626"
         },
         {
-          "headline": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
-          "summary": "Nvidia described Megaspeed as a typical regional cloud customer.",
+          "headline": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+          "summary": "Investing.com -- Apple Inc (NASDAQ:AAPL) reclaimed its position as the world’s most valuable publicly traded company on Friday, edging past NVIDIA Corporation (NASDAQ:NVDA) as mounting skepticism surrounding aggressive artificial intelligence spending prompted a rotation into more capital-disciplined balance sheets. Even with a 1.2% dip on the day, the iPhone maker closed with a market capitalization of $5.03 trillion, while a 4.2% slide in Nvidia lowered the chipmaker's valuation to $4.93 trill",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c00e857bc45aae2679828a3e975abc8d37544482de1ebfc3aa25405d31bb514"
+          "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia's $12.9 billion deal could shape the AI apps you use / Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia has a stake in SpaceX that came from an unexpected place / Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-10-01",
@@ -35,40 +35,40 @@
       }
     },
     "INTC": {
-      "price": 92.07,
-      "change_pct": -3.6219,
-      "prev_close": 95.53,
+      "price": 65.76,
+      "change_pct": -28.5761,
+      "prev_close": 92.07,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 3.62% 내렸어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 28.58% 내렸어요. 최근 1년 최저가~최고가 구간에서 30% 지점에 있어요.",
       "news": [
         {
-          "headline": "What Intel (INTC) Said on Its Q3 Earnings Call",
-          "summary": "Intel (NASDAQ:INTC) reported third-quarter results that exceeded its guidance for revenue, gross margin and earnings per share, supported by strong demand for server CPUs and improved manufacturing output. Management said the gains were partly offset by a sharp deterioration in the PC market tied to",
+          "headline": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
+          "summary": "The chipmaker's data center business just saw its fastest growth in 15 years. Why did shares fall?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d46b273d45e8f23e69ff76cd5c00a8dd56abe70c03ef0e918b2b3c15c6520d23"
+          "url": "https://finnhub.io/api/news?id=7a84ab3b2bc5a24d390988ea46bd6ee541eb2ea98dd76710ba02b52ffe34fb7a"
         },
         {
-          "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
-          "summary": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc"
+          "headline": "Intel CEO reveals a PC problem as Goldman cuts stock target",
+          "summary": "The real squeeze may reach your next laptop",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f296dfcd97c83a9d5e8ea0d6a8497c48a122aaf72d1fdc69680162b79bccee4e"
         },
         {
-          "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
-          "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
+          "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
+          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29af632925ef1c1bbde9c465d3cd7dd95bf05d1bfc0f26c90a8c49f1868c2534"
+          "url": "https://finnhub.io/api/news?id=2fbbe404de1db5cfc8f95b8945f100a2e69d69a2964709d453b88de740a9e6b2"
         },
         {
-          "headline": "Intel Stock Plummets. A Supply Setback and PC Weakness Overshadow AI Growth.",
-          "summary": "The earnings report highlighted both the intense demand for artificial-intelligence chips and the setbacks companies can face in supplying them.",
+          "headline": "Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
+          "summary": "Major investors like Jim Cramer aren’t the only ones feeling the pain after a disappointing Q3 report. Every American has some Intel exposure.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f9319502ad7794802096dd7506feaa78813783e3e39a3901ad2d60d83e6e5dc"
+          "url": "https://finnhub.io/api/news?id=78d46876769bdd8d689976588ef06944e16b1a53f2599d1d1649d5642318b11f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What Intel (INTC) Said on Its Q3 Earnings Call / After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall / Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq / Intel Stock Plummets. A Supply Setback and PC Weakness Overshadow AI Growth.",
+      "news_summary": "최근 뉴스 헤드라인: Is Intel Stock a Buy After Its Post-Earnings Plunge? / Intel CEO reveals a PC problem as Goldman cuts stock target / Intel’s stock crashes, knocking $12B from government’s stake / Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-10-01",
