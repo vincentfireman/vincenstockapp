@@ -1,32 +1,38 @@
 {
-  "updated_at": "2026-10-31 00:21",
+  "updated_at": "2026-11-03 02:45",
   "stocks": {
     "NVDA": {
-      "price": 204.64,
-      "change_pct": -4.2217,
-      "prev_close": 213.66,
-      "pe_ttm": 25.8169,
+      "price": 202.06,
+      "change_pct": -1.2608,
+      "prev_close": 204.64,
+      "pe_ttm": 25.5695,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 4.22% 내렸어요. PER은 25.8배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 51% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 1.26% 내렸어요. PER은 25.6배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 48% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia has a stake in SpaceX that came from an unexpected place",
-          "summary": "Nvidia’s relationship with SpaceX runs deeper than most investors have noticed. The way that stake came together is worth understanding.",
+          "headline": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
+          "summary": "The chipmaker has topped its own revenue forecast every quarter for over two years. So why have its shares dropped the next day more often than not?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=caacf5f94fcf70cc3f34014138b424898593976245fc97cfa396c75ce7c21626"
+          "url": "https://finnhub.io/api/news?id=3c728dc79867372b9297e801a10faf9fc9d969ddfe99ceec3c64409bb7096bb6"
         },
         {
-          "headline": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
-          "summary": "Investing.com -- Apple Inc (NASDAQ:AAPL) reclaimed its position as the world’s most valuable publicly traded company on Friday, edging past NVIDIA Corporation (NASDAQ:NVDA) as mounting skepticism surrounding aggressive artificial intelligence spending prompted a rotation into more capital-disciplined balance sheets. Even with a 1.2% dip on the day, the iPhone maker closed with a market capitalization of $5.03 trillion, while a 4.2% slide in Nvidia lowered the chipmaker's valuation to $4.93 trill",
+          "headline": "AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia",
+          "summary": "Third-quarter revenue will probably come in close to expectations. The fourth-quarter guidance is what matters more.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59"
+          "url": "https://finnhub.io/api/news?id=9d148b63147b3ed04402b3dce544a0023c42abdcc0c71836c19e8c708d371323"
+        },
+        {
+          "headline": "Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now?",
+          "summary": "Nvidia stock fell below its 200-day moving average as of Monday. The AI chip titan has scheduled its third-quarter results for Nov. 17.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=13dbf8ab3af692103a08b63ac90c7a1f22ab33524811ba09eb5c7948157c7bda"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia has a stake in SpaceX that came from an unexpected place / Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. / AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia / Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now?",
       "recommendation": {
         "symbol": "NVDA",
-        "period": "2026-10-01",
+        "period": "2026-11-01",
         "strongBuy": 25,
         "buy": 41,
         "hold": 2,
@@ -35,47 +41,47 @@
       }
     },
     "INTC": {
-      "price": 65.76,
-      "change_pct": -28.5761,
-      "prev_close": 92.07,
+      "price": 59.97,
+      "change_pct": -8.8047,
+      "prev_close": 65.76,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 28.58% 내렸어요. 최근 1년 최저가~최고가 구간에서 30% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 8.80% 내렸어요. 최근 1년 최저가~최고가 구간에서 25% 지점에 있어요.",
       "news": [
         {
-          "headline": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
-          "summary": "The chipmaker's data center business just saw its fastest growth in 15 years. Why did shares fall?",
+          "headline": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
+          "summary": "Intel (NasdaqGS: INTC) has joined a US$700 million funding round for AI startup Hark, alongside Nvidia and AMD Ventures. Hark is building AI native hardware and digital assistant foundation models that require substantial computing resources. Intel Capital's role in this round ties directly to Intel's wider push into AI infrastructure and related data center demand. Intel Capital backing Hark beside Nvidia and AMD Ventures reshapes the context for Intel's AI plans that our research tracks...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a84ab3b2bc5a24d390988ea46bd6ee541eb2ea98dd76710ba02b52ffe34fb7a"
+          "url": "https://finnhub.io/api/news?id=0d6068f6ec451abcd04366c2084c93622cd908a1232790844f5cbde9a5499bae"
         },
         {
-          "headline": "Intel CEO reveals a PC problem as Goldman cuts stock target",
-          "summary": "The real squeeze may reach your next laptop",
+          "headline": "Bank of America pulls its Buy on Intel as the comeback slips",
+          "summary": "Intel’s data center chips are selling faster than ever, but the PC slump and a slow foundry ramp may delay its turnaround.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f296dfcd97c83a9d5e8ea0d6a8497c48a122aaf72d1fdc69680162b79bccee4e"
+          "url": "https://finnhub.io/api/news?id=cca15a12a3d4a0b658820b75f0093b5a23da3907c1974c03b05b2e8a18ad6034"
         },
         {
-          "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
-          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+          "headline": "Why Intel Stock Is Down After Weak Q4 Guidance",
+          "summary": "Intel reported Q3 2026 sales of US$16,513 million with net income of US$3,320 million, and issued Q4 guidance calling for US$15.0 billion to US$16.0 billion in revenue and US$0.10 in diluted EPS attributable to Intel. Management attributed the weaker Q4 outlook to soft PC demand, memory shortages, and production disruptions including a shutdown at its Israel facility, while demand for Xeon server and AI chips remained strong. We will now examine how Intel's weaker Q4 outlook and PC headwinds...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fbbe404de1db5cfc8f95b8945f100a2e69d69a2964709d453b88de740a9e6b2"
+          "url": "https://finnhub.io/api/news?id=01927f6765d3f892fa1f0bd664e0ab5af2224cd697c326b713058439c095c69d"
         },
         {
-          "headline": "Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
-          "summary": "Major investors like Jim Cramer aren’t the only ones feeling the pain after a disappointing Q3 report. Every American has some Intel exposure.",
+          "headline": "Intel Just Suffered Its Steepest Drop in Decades, and 1 Word From a Top Bernstein Analyst Sums Up the Outlook",
+          "summary": "Intel (Nasdaq: INTC) fell about 28.6% after a fourth-quarter revenue guide well below expectations. Eric Bleeker covers the one word a top Bernstein analyst used to sum up the outlook, and the bull and bear cases for the stock.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78d46876769bdd8d689976588ef06944e16b1a53f2599d1d1649d5642318b11f"
+          "url": "https://finnhub.io/api/news?id=a73d7efc187cdd3f61fec55144578568c7b49d0788aad99a3d7f49a4bec5399c"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Is Intel Stock a Buy After Its Post-Earnings Plunge? / Intel CEO reveals a PC problem as Goldman cuts stock target / Intel’s stock crashes, knocking $12B from government’s stake / Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
+      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Joined A $700 Million AI Startup Funding Round / Bank of America pulls its Buy on Intel as the comeback slips / Why Intel Stock Is Down After Weak Q4 Guidance / Intel Just Suffered Its Steepest Drop in Decades, and 1 Word From a Top Bernstein Analyst Sums Up the Outlook",
       "recommendation": {
         "symbol": "INTC",
-        "period": "2026-10-01",
+        "period": "2026-11-01",
         "strongBuy": 4,
-        "buy": 16,
-        "hold": 33,
-        "sell": 2,
+        "buy": 12,
+        "hold": 38,
+        "sell": 1,
         "strongSell": 0
       }
     }
