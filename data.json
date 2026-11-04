@@ -1,35 +1,29 @@
 {
-  "updated_at": "2026-11-03 02:45",
+  "updated_at": "2026-11-04 01:02",
   "stocks": {
     "NVDA": {
-      "price": 202.06,
-      "change_pct": -1.2608,
-      "prev_close": 204.64,
-      "pe_ttm": 25.5695,
+      "price": 206.69,
+      "change_pct": 2.2914,
+      "prev_close": 202.06,
+      "pe_ttm": 25.2472,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 1.26% 내렸어요. PER은 25.6배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 48% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.29% 올랐어요. PER은 25.2배로, 회사가 1년에 버는 돈의 25배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
-          "summary": "The chipmaker has topped its own revenue forecast every quarter for over two years. So why have its shares dropped the next day more often than not?",
+          "headline": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
+          "summary": "Nvidia (NasdaqGS:NVDA) has told data center and cloud customers to curb sales to Chinese clients to comply with new US export rules. The instruction reportedly requires at least 51% of future sales from these partners to come from non Chinese buyers. The policy affects global AI infrastructure providers that rely on Nvidia hardware to serve both Chinese and non Chinese enterprises. Nvidia's new 51% non Chinese sales rule for data center clients sits alongside wider pressures that our...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c728dc79867372b9297e801a10faf9fc9d969ddfe99ceec3c64409bb7096bb6"
+          "url": "https://finnhub.io/api/news?id=6c60cb8e77fc34073aa007e7725e51d40ea1927e99fa47c552ec067b46ec44f4"
         },
         {
-          "headline": "AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia",
-          "summary": "Third-quarter revenue will probably come in close to expectations. The fourth-quarter guidance is what matters more.",
+          "headline": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
+          "summary": "Five years ago, you had $10,000 to invest and two hot options: a volatile cryptocurrency riding a wave of hype, or a chipmaker few people outside gaming circles took seriously. The gap between where those two bets land today will surprise you.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d148b63147b3ed04402b3dce544a0023c42abdcc0c71836c19e8c708d371323"
-        },
-        {
-          "headline": "Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now?",
-          "summary": "Nvidia stock fell below its 200-day moving average as of Monday. The AI chip titan has scheduled its third-quarter results for Nov. 17.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=13dbf8ab3af692103a08b63ac90c7a1f22ab33524811ba09eb5c7948157c7bda"
+          "url": "https://finnhub.io/api/news?id=36f57bdfbe22643185a8bb18c518325afea992792da59e9b83873117de8f630b"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. / AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia / Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now?",
+      "news_summary": "최근 뉴스 헤드라인: What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules? / Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -41,40 +35,34 @@
       }
     },
     "INTC": {
-      "price": 59.97,
-      "change_pct": -8.8047,
-      "prev_close": 65.76,
+      "price": 60.55,
+      "change_pct": 0.9672,
+      "prev_close": 59.97,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 8.80% 내렸어요. 최근 1년 최저가~최고가 구간에서 25% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. 최근 1년 최저가~최고가 구간에서 25% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
-          "summary": "Intel (NasdaqGS: INTC) has joined a US$700 million funding round for AI startup Hark, alongside Nvidia and AMD Ventures. Hark is building AI native hardware and digital assistant foundation models that require substantial computing resources. Intel Capital's role in this round ties directly to Intel's wider push into AI infrastructure and related data center demand. Intel Capital backing Hark beside Nvidia and AMD Ventures reshapes the context for Intel's AI plans that our research tracks...",
+          "headline": "Intel Stocks Rebound 2.5% as Revenue Guidance Still Implies Sequential Decline",
+          "summary": "Strong data-center growth competes with a weaker near-term company outlook.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d6068f6ec451abcd04366c2084c93622cd908a1232790844f5cbde9a5499bae"
+          "url": "https://finnhub.io/api/news?id=916d4389bd6fdf19ae8e3e7cd09a9abd12c7e9fd6356c55eac812cc97db82416"
         },
         {
-          "headline": "Bank of America pulls its Buy on Intel as the comeback slips",
-          "summary": "Intel’s data center chips are selling faster than ever, but the PC slump and a slow foundry ramp may delay its turnaround.",
+          "headline": "Intel Stock Jumps After Brutal Sell-Off as Wall Street Sees $125 Upside",
+          "summary": "Intel Stock Gets a Major Lift as Analyst Sees AI Server Boom Driving Demand",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cca15a12a3d4a0b658820b75f0093b5a23da3907c1974c03b05b2e8a18ad6034"
+          "url": "https://finnhub.io/api/news?id=3ff9b1dce34e5e85c7b0f79629a6ee9ea30376a8c722fe99304188843c1f1052"
         },
         {
-          "headline": "Why Intel Stock Is Down After Weak Q4 Guidance",
-          "summary": "Intel reported Q3 2026 sales of US$16,513 million with net income of US$3,320 million, and issued Q4 guidance calling for US$15.0 billion to US$16.0 billion in revenue and US$0.10 in diluted EPS attributable to Intel. Management attributed the weaker Q4 outlook to soft PC demand, memory shortages, and production disruptions including a shutdown at its Israel facility, while demand for Xeon server and AI chips remained strong. We will now examine how Intel's weaker Q4 outlook and PC headwinds...",
+          "headline": "Intel Has Lost More Than Half Its Value Since Its Peak",
+          "summary": "Intel shed nearly $440 billion in market value in a matter of months, yet Wall Street's average price target still implies 68% upside. Find out why the market and analysts are telling completely different stories about where this stock goes next.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01927f6765d3f892fa1f0bd664e0ab5af2224cd697c326b713058439c095c69d"
-        },
-        {
-          "headline": "Intel Just Suffered Its Steepest Drop in Decades, and 1 Word From a Top Bernstein Analyst Sums Up the Outlook",
-          "summary": "Intel (Nasdaq: INTC) fell about 28.6% after a fourth-quarter revenue guide well below expectations. Eric Bleeker covers the one word a top Bernstein analyst used to sum up the outlook, and the bull and bear cases for the stock.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a73d7efc187cdd3f61fec55144578568c7b49d0788aad99a3d7f49a4bec5399c"
+          "url": "https://finnhub.io/api/news?id=3ddc62ad7b285b6b00986b604eb1bbe11451f50f0a637d6f0d5d0bac5c5002de"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Joined A $700 Million AI Startup Funding Round / Bank of America pulls its Buy on Intel as the comeback slips / Why Intel Stock Is Down After Weak Q4 Guidance / Intel Just Suffered Its Steepest Drop in Decades, and 1 Word From a Top Bernstein Analyst Sums Up the Outlook",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Rebound 2.5% as Revenue Guidance Still Implies Sequential Decline / Intel Stock Jumps After Brutal Sell-Off as Wall Street Sees $125 Upside / Intel Has Lost More Than Half Its Value Since Its Peak",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
