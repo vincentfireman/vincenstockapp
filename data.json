@@ -1,29 +1,16 @@
 {
-  "updated_at": "2026-11-04 01:02",
+  "updated_at": "2026-11-05 01:16",
   "stocks": {
     "NVDA": {
-      "price": 206.69,
-      "change_pct": 2.2914,
-      "prev_close": 202.06,
-      "pe_ttm": 25.2472,
+      "price": 200.13,
+      "change_pct": -3.1738,
+      "prev_close": 206.69,
+      "pe_ttm": 25.8257,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 2.29% 올랐어요. PER은 25.2배로, 회사가 1년에 버는 돈의 25배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 54% 지점에 있어요.",
-      "news": [
-        {
-          "headline": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
-          "summary": "Nvidia (NasdaqGS:NVDA) has told data center and cloud customers to curb sales to Chinese clients to comply with new US export rules. The instruction reportedly requires at least 51% of future sales from these partners to come from non Chinese buyers. The policy affects global AI infrastructure providers that rely on Nvidia hardware to serve both Chinese and non Chinese enterprises. Nvidia's new 51% non Chinese sales rule for data center clients sits alongside wider pressures that our...",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c60cb8e77fc34073aa007e7725e51d40ea1927e99fa47c552ec067b46ec44f4"
-        },
-        {
-          "headline": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
-          "summary": "Five years ago, you had $10,000 to invest and two hot options: a volatile cryptocurrency riding a wave of hype, or a chipmaker few people outside gaming circles took seriously. The gap between where those two bets land today will surprise you.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36f57bdfbe22643185a8bb18c518325afea992792da59e9b83873117de8f630b"
-        }
-      ],
-      "news_summary": "최근 뉴스 헤드라인: What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules? / Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
+      "easy_explanation": "오늘 전일 대비 3.17% 내렸어요. PER은 25.8배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
+      "news": [],
+      "news_summary": "최근 일주일 사이 엔비디아 관련 뉴스가 눈에 띄게 없었어요.",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -35,34 +22,40 @@
       }
     },
     "INTC": {
-      "price": 60.55,
-      "change_pct": 0.9672,
-      "prev_close": 59.97,
+      "price": 58.27,
+      "change_pct": -3.7655,
+      "prev_close": 60.55,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 0.97% 올랐어요. 최근 1년 최저가~최고가 구간에서 25% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.77% 내렸어요. 최근 1년 최저가~최고가 구간에서 23% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stocks Rebound 2.5% as Revenue Guidance Still Implies Sequential Decline",
-          "summary": "Strong data-center growth competes with a weaker near-term company outlook.",
+          "headline": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+          "summary": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=916d4389bd6fdf19ae8e3e7cd09a9abd12c7e9fd6356c55eac812cc97db82416"
+          "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d"
         },
         {
-          "headline": "Intel Stock Jumps After Brutal Sell-Off as Wall Street Sees $125 Upside",
-          "summary": "Intel Stock Gets a Major Lift as Analyst Sees AI Server Boom Driving Demand",
+          "headline": "INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares",
+          "summary": "Intel CEO Lip-Bu Tan has acquired roughly $9.7 million worth of company shares through a family trust, following an extensive stock selloff and a turbulent third-quarter earnings report.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ff9b1dce34e5e85c7b0f79629a6ee9ea30376a8c722fe99304188843c1f1052"
+          "url": "https://finnhub.io/api/news?id=ee0369fd8ecf0f282f4b93059c28a02c2fe6c74763a8f7a2d5304113ae4e2b71"
         },
         {
-          "headline": "Intel Has Lost More Than Half Its Value Since Its Peak",
-          "summary": "Intel shed nearly $440 billion in market value in a matter of months, yet Wall Street's average price target still implies 68% upside. Find out why the market and analysts are telling completely different stories about where this stock goes next.",
+          "headline": "Intel: The Foundry Trap Is Getting Worse",
+          "summary": "Intel gets a Sell rating as Foundry losses persist, AI revenue growth masks weak unit demand, and CPU declines hit earnings. Click for an INTC update.",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3ca577d6134cd28ce647f746f8adf809abe6bcad6512baea7ae5236835f56c75"
+        },
+        {
+          "headline": "Intel Stock Down 47% Following Worst Day Since 1974. Is This a Buy-the-Dip Opportunity?",
+          "summary": "Intel's $3.7 Trillion Chip Rout Gets Worse as Weak Forecast Sparks Historic Sell-Off",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ddc62ad7b285b6b00986b604eb1bbe11451f50f0a637d6f0d5d0bac5c5002de"
+          "url": "https://finnhub.io/api/news?id=9a3d8727a092e6c6c85e81818147c69a66ecb6964baacb374ec19428a445d181"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Rebound 2.5% as Revenue Guidance Still Implies Sequential Decline / Intel Stock Jumps After Brutal Sell-Off as Wall Street Sees $125 Upside / Intel Has Lost More Than Half Its Value Since Its Peak",
+      "news_summary": "최근 뉴스 헤드라인: S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus / INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares / Intel: The Foundry Trap Is Getting Worse / Intel Stock Down 47% Following Worst Day Since 1974. Is This a Buy-the-Dip Opportunity?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
