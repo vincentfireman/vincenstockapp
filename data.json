@@ -1,16 +1,35 @@
 {
-  "updated_at": "2026-11-05 01:16",
+  "updated_at": "2026-11-06 01:22",
   "stocks": {
     "NVDA": {
-      "price": 200.13,
-      "change_pct": -3.1738,
-      "prev_close": 206.69,
-      "pe_ttm": 25.8257,
+      "price": 181.6,
+      "change_pct": -9.259,
+      "prev_close": 200.13,
+      "pe_ttm": 25.006,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 3.17% 내렸어요. PER은 25.8배로, 회사가 1년에 버는 돈의 26배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 45% 지점에 있어요.",
-      "news": [],
-      "news_summary": "최근 일주일 사이 엔비디아 관련 뉴스가 눈에 띄게 없었어요.",
+      "easy_explanation": "오늘 전일 대비 9.26% 내렸어요. PER은 25.0배로, 회사가 1년에 버는 돈의 25배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 22% 지점에 있어요.",
+      "news": [
+        {
+          "headline": "Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026",
+          "summary": "BOX (NYSE:BOX) unveiled new artificial intelligence and security tools at its BoxWorks 2026 investor product briefing, outlining a strategy to help companies connect AI agents with their documents and automate content-heavy workflows. The announcements included Box Context Retrieval, designed to he",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a4c105f2c4ed4758f2ab2c0159252a781e7e9d4c230b80a286f661520b0428d2"
+        },
+        {
+          "headline": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
+          "summary": "Jim Cramer keeps telling investors to buy while Nvidia sinks, and the math behind his bold valuation claim might surprise skeptics. But several red flags explain why Wall Street refuses to listen, and one upcoming report could settle the fight.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fb53db2219cbdf79acadf79f9ce1f148fde100725be35265f6b568489e6a2b47"
+        },
+        {
+          "headline": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+          "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392"
+        }
+      ],
+      "news_summary": "최근 뉴스 헤드라인: Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026 / Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade / Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -22,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 58.27,
-      "change_pct": -3.7655,
-      "prev_close": 60.55,
+      "price": 52.25,
+      "change_pct": -10.3312,
+      "prev_close": 58.27,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 3.77% 내렸어요. 최근 1년 최저가~최고가 구간에서 23% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 10.33% 내렸어요. 최근 1년 최저가~최고가 구간에서 18% 지점에 있어요.",
       "news": [
         {
-          "headline": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
-          "summary": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
+          "headline": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
+          "summary": "On Nov. 5, 2026, Intel's shares tumbled as a soft revenue forecast for the coming quarter rattled investors already wary of chip-sector weakness.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d"
+          "url": "https://finnhub.io/api/news?id=709048b6289f5f0d0edd479ac94d20dd593f9de67c248ddd2bf1cc25fb8c873b"
         },
         {
-          "headline": "INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares",
-          "summary": "Intel CEO Lip-Bu Tan has acquired roughly $9.7 million worth of company shares through a family trust, following an extensive stock selloff and a turbulent third-quarter earnings report.",
+          "headline": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+          "summary": "Intel stock is on track to slump more than 50% in a month.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee0369fd8ecf0f282f4b93059c28a02c2fe6c74763a8f7a2d5304113ae4e2b71"
+          "url": "https://finnhub.io/api/news?id=d6784bebba95b60477507aea26a3a9d56f78dbcb9a9be3ebd153988120627c01"
         },
         {
-          "headline": "Intel: The Foundry Trap Is Getting Worse",
-          "summary": "Intel gets a Sell rating as Foundry losses persist, AI revenue growth masks weak unit demand, and CPU declines hit earnings. Click for an INTC update.",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3ca577d6134cd28ce647f746f8adf809abe6bcad6512baea7ae5236835f56c75"
+          "headline": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
+          "summary": "Intel stock's 26-year comeback and subsequent reckoning this year carry an eerie echo of its dot-com days.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=125b955ef01ed09f0fef76163ef2ce6bf18871ef40a324a043ccb82ff981f7d9"
         },
         {
-          "headline": "Intel Stock Down 47% Following Worst Day Since 1974. Is This a Buy-the-Dip Opportunity?",
-          "summary": "Intel's $3.7 Trillion Chip Rout Gets Worse as Weak Forecast Sparks Historic Sell-Off",
+          "headline": "Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
+          "summary": "Key TakeawaysIntel fell 8% today as chip stocks sold off on worries that Democrats’ midterm wins could slow the data-center buildout. Intel’s problem is supply: it can’t make enough server chips, so a slower buildout hurts it less than most.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a3d8727a092e6c6c85e81818147c69a66ecb6964baacb374ec19428a445d181"
+          "url": "https://finnhub.io/api/news?id=93e01637e38f8b2960b9372c826773de7bfab53d95737c37f5535a42e12f9561"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus / INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares / Intel: The Foundry Trap Is Getting Worse / Intel Stock Down 47% Following Worst Day Since 1974. Is This a Buy-the-Dip Opportunity?",
+      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff / Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market / Intel's stock crash shares an uncanny resemblance to its 2000 bust / Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
