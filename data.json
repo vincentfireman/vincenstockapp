@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-06 01:22",
+  "updated_at": "2026-11-07 00:36",
   "stocks": {
     "NVDA": {
-      "price": 181.6,
-      "change_pct": -9.259,
-      "prev_close": 200.13,
-      "pe_ttm": 25.006,
+      "price": 186.64,
+      "change_pct": 2.7753,
+      "prev_close": 181.6,
+      "pe_ttm": 22.6907,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 9.26% 내렸어요. PER은 25.0배로, 회사가 1년에 버는 돈의 25배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 22% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.78% 올랐어요. PER은 22.7배로, 회사가 1년에 버는 돈의 23배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 28% 지점에 있어요.",
       "news": [
         {
-          "headline": "Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026",
-          "summary": "BOX (NYSE:BOX) unveiled new artificial intelligence and security tools at its BoxWorks 2026 investor product briefing, outlining a strategy to help companies connect AI agents with their documents and automate content-heavy workflows. The announcements included Box Context Retrieval, designed to he",
+          "headline": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture",
+          "summary": "DANA POINT, Calif., November 06, 2026--SovAI, Inc. (\"SovAI\"), The AI Factory Architect, today announced that it has joined NVIDIA Inception, a program that nurtures startups revolutionizing industries with technology advancements. SovAI designs, builds and operates sovereign, behind-the-meter AI Factories — campuses built on Sovereign Fuel, Sovereign Power and Sovereign Compute — to NVIDIA’s published DSX reference architecture, and orchestrates them with Scotty, its operating engineer for AI Fa",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4c105f2c4ed4758f2ab2c0159252a781e7e9d4c230b80a286f661520b0428d2"
+          "url": "https://finnhub.io/api/news?id=2b9471663aa38930f32f8f6b7c2e465d7fddcb4c247564ec2e3cbc939fb3bb43"
         },
         {
-          "headline": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
-          "summary": "Jim Cramer keeps telling investors to buy while Nvidia sinks, and the math behind his bold valuation claim might surprise skeptics. But several red flags explain why Wall Street refuses to listen, and one upcoming report could settle the fight.",
+          "headline": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market",
+          "summary": "Nvidia trades higher Friday after recording its second-largest one-day market cap decline on record on Thursday.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fb53db2219cbdf79acadf79f9ce1f148fde100725be35265f6b568489e6a2b47"
+          "url": "https://finnhub.io/api/news?id=2480405a1cce846a97720bc8c938ac402e4170a6e2d73d97494757da4d3a6d54"
         },
         {
-          "headline": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
-          "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+          "headline": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
+          "summary": "Micron (MU) and Nvidia (NVDA) have become major beneficiaries of the AI boom. Nvidia leads in AI chips, while Micron supplies memory used in AI systems. Both companies could benefit from continued spending on data centers in 2027. In terms of price performance, Micron stock has gained 130% year-to-date, while Nvidia stock has fallen about 3%. Still, analysts see room for both stocks to rise. TipRanks data shows Micron has greater forecast upside. MU average price target implies 147.06% upside, c",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392"
+          "url": "https://finnhub.io/api/news?id=ad3b1f3a99e8d775542e6dd0f2f4f8fe20eaf7a40df5c5aa5d9b9855933dd009"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026 / Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade / Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+      "news_summary": "최근 뉴스 헤드라인: SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture / Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market / Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -41,40 +41,40 @@
       }
     },
     "INTC": {
-      "price": 52.25,
-      "change_pct": -10.3312,
-      "prev_close": 58.27,
+      "price": 56.28,
+      "change_pct": 7.7129,
+      "prev_close": 52.25,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 10.33% 내렸어요. 최근 1년 최저가~최고가 구간에서 18% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 7.71% 올랐어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
       "news": [
         {
-          "headline": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
-          "summary": "On Nov. 5, 2026, Intel's shares tumbled as a soft revenue forecast for the coming quarter rattled investors already wary of chip-sector weakness.",
+          "headline": "Dell Sinks 16% in a Week on Intel’s PC Warning. Its CFO Already Saw “Minus Double Digit”",
+          "summary": "Key TakeawaysDell Technologies (DELL) stock fell approximately 16% from October 26 to November 2, closing near $393 as higher memory costs and weakening PC demand pressured shares. Intel (INTC) projected PC unit declines of approximately 12% in 2026 and 10% in 2027, raising concerns about a prolonged downturn.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=709048b6289f5f0d0edd479ac94d20dd593f9de67c248ddd2bf1cc25fb8c873b"
+          "url": "https://finnhub.io/api/news?id=87afc9a2ed5da323c062476c0df052231c9934f62b8612e4d886b9b4cff0e12c"
         },
         {
-          "headline": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
-          "summary": "Intel stock is on track to slump more than 50% in a month.",
+          "headline": "Intel Stock’s (INTC) Deep Sell-Off Shows Signs of an Overreaction",
+          "summary": "Intel Corporation (INTC) stock’s deep sell-off shows signs of an overreaction, in my view, as the market may be overlooking the progress the chipmaker has made in its recovery. Since its June peak, the company’s market capitalization has fallen by more than half. In late October, shares cratered nearly 30% in a single session after the company issued disappointing fourth-quarter guidance. The fear now is that its recovery could take much longer than expected. Yet isn’t there some market overreac",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d6784bebba95b60477507aea26a3a9d56f78dbcb9a9be3ebd153988120627c01"
+          "url": "https://finnhub.io/api/news?id=4efca12a9d3c1b8739659ddd126d8be38b93edf6be9416f699c2aaa9bb302ecb"
         },
         {
-          "headline": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
-          "summary": "Intel stock's 26-year comeback and subsequent reckoning this year carry an eerie echo of its dot-com days.",
+          "headline": "Intel and AMD in Focus as Tech Stocks Seek Rebound",
+          "summary": "Investors weighed a possible technology recovery ahead of the October U.S. jobs report.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=125b955ef01ed09f0fef76163ef2ce6bf18871ef40a324a043ccb82ff981f7d9"
+          "url": "https://finnhub.io/api/news?id=a6f641ff01d1e6498be33dc3f519c23ddc9fb977d1a96964605736eadf05dcd6"
         },
         {
-          "headline": "Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
-          "summary": "Key TakeawaysIntel fell 8% today as chip stocks sold off on worries that Democrats’ midterm wins could slow the data-center buildout. Intel’s problem is supply: it can’t make enough server chips, so a slower buildout hurts it less than most.",
+          "headline": "AMD, Nvidia and Intel diverge as Morningstar resets the scorecard",
+          "summary": "Morningstar’s latest estimates put AMD, Nvidia and Intel on different paths.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93e01637e38f8b2960b9372c826773de7bfab53d95737c37f5535a42e12f9561"
+          "url": "https://finnhub.io/api/news?id=9ec02035921821a68469385f2933382ea40f0065fb915c64f9e717497e68973a"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff / Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market / Intel's stock crash shares an uncanny resemblance to its 2000 bust / Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
+      "news_summary": "최근 뉴스 헤드라인: Dell Sinks 16% in a Week on Intel’s PC Warning. Its CFO Already Saw “Minus Double Digit” / Intel Stock’s (INTC) Deep Sell-Off Shows Signs of an Overreaction / Intel and AMD in Focus as Tech Stocks Seek Rebound / AMD, Nvidia and Intel diverge as Morningstar resets the scorecard",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
