@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-10 03:09",
+  "updated_at": "2026-11-11 00:59",
   "stocks": {
     "NVDA": {
-      "price": 178.67,
-      "change_pct": -4.2703,
-      "prev_close": 186.64,
-      "pe_ttm": 23.3204,
+      "price": 168.89,
+      "change_pct": -5.4738,
+      "prev_close": 178.67,
+      "pe_ttm": 22.3246,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 4.27% 내렸어요. PER은 23.3배로, 회사가 1년에 버는 돈의 23배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 18% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.47% 내렸어요. PER은 22.3배로, 회사가 1년에 버는 돈의 22배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 6% 지점에 있어요.",
       "news": [
         {
-          "headline": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
-          "summary": "Nvidia (NasdaqGS:NVDA) faces fresh rivalry as Google announces new advanced tensor processing units for AI workloads in early November 2026. Google's latest TPUs are described as tailored for generative AI and large language models that previously leaned heavily on Nvidia GPUs. At the same time, Nvidia CEO Jensen Huang is the subject of a high profile probe into alleged links to a Chinese spy, according to investigators. Google's AI chip push and the Jensen Huang investigation are important...",
+          "headline": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
+          "summary": "The stock market fell Tuesday as Fed rate-hike fears sent Treasury yields soaring while Nvidia kept falling. Indexes did come off lows though. CoreWeave rose late on results.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f55af9c53b5fac3d7a8783f85feec5091ffabcbe8fe51e63fb640dbfa6422074"
+          "url": "https://finnhub.io/api/news?id=0b137a6186a25e3654e20ff1b1f46d98a17d11a77b51a8e1fa1d59d378949301"
         },
         {
-          "headline": "Nvidia stock falls after probe into CEO’s affair with alleged Chinese spy",
-          "summary": "CNN’s Hadas Gold reports for The Lead.",
+          "headline": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
+          "summary": "Nvidia shares extended their sell-off as an investigation involving CEO Jensen Huang raised fresh concerns about corporate governance, leadership uncertainty, and the AI chipmaker's future.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=681f92660ae2ca86f2000b51cf5a0f37e8a4292738aa5c0d18ddb3335c3559fb"
+          "url": "https://finnhub.io/api/news?id=a604812e52a6f3f5035183e9f57510c1caa222d64d6f0ef994ea22ba86e56b79"
         },
         {
-          "headline": "Goldman Sachs sees something Wall Street may be missing on Nvidia",
-          "summary": "Nvidia’s recent slide has put its growth story under fresh scrutiny, with several developments leaving investors looking for answers.",
+          "headline": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
+          "summary": "The chipmaker usually beats expectations, but the market may be looking for more this time.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=122223994a207338d6cb9bf057458cfd628c12b4dd8020e296e27014ddadcd1a"
+          "url": "https://finnhub.io/api/news?id=85989dff3e44a88e0be1d5fd8203b194c88636e72fed9cedaa2ed23b20ba9c5a"
         },
         {
-          "headline": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-          "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’",
+          "headline": "Update: Equities Fall as Nvidia Leads Tech Sell-Off",
+          "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street closed",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=231a17c02810b19312f7f61c999fd392b613a34265f463da35e6a7afad2fc912"
+          "url": "https://finnhub.io/api/news?id=f33553abd92e7de18d5372b4986ef9049f915d12d306815fbafe655fff9e096b"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build? / Nvidia stock falls after probe into CEO’s affair with alleged Chinese spy / Goldman Sachs sees something Wall Street may be missing on Nvidia / Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late / Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report / Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17? / Update: Equities Fall as Nvidia Leads Tech Sell-Off",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 59.37,
-      "change_pct": 5.4904,
-      "prev_close": 56.28,
+      "price": 58.13,
+      "change_pct": -2.0886,
+      "prev_close": 59.37,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 5.49% 올랐어요. 최근 1년 최저가~최고가 구간에서 24% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.09% 내렸어요. 최근 1년 최저가~최고가 구간에서 23% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day",
-          "summary": "Half off sounds like a deal. On Wall Street, it can be the start of a much bigger sale.",
+          "headline": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
+          "summary": "Shares give back part of Monday's 5.49% rebound as hot inflation data and a guided gross-margin drop weigh on the chipmaker.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=135ff513b66c036e5881dacb2659e54fb2a9e67b2b0ff897de9cd3e340fbe047"
+          "url": "https://finnhub.io/api/news?id=f00d1ba35af215fe7ede776414480d6785e2d19ae6ecee18e4d71be132f40bdc"
         },
         {
-          "headline": "INTC Stock Down 57% in the Past 6 Months: Should You Exercise Caution?",
-          "summary": "Intel's 56.5% stock plunge, weak Q4 outlook and China headwinds raise concerns, even as foundry growth and AI investments bolster its turnaround prospects.",
+          "headline": "Intel Sees 2027 Growth as Data-Center Strength Offsets PC Weakness, RBC Says",
+          "summary": "Intel's (INTC) management sees 2027 as a growth year, with data-center strength expected to more tha",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03cfe6e998379f43112ddb62eb5072ae040521b7c95a5071fc4cf53ce13c198b"
+          "url": "https://finnhub.io/api/news?id=4227b4e1c5e25929f8a79b442c59b361d9e0608c727afae4e7cf0d022dd82263"
         },
         {
-          "headline": "Why Is Intel (INTC) Pushing Deeper Into Industrial AI With New Edge Tools?",
-          "summary": "Intel (NasdaqGS: INTC) announced a new collaboration with ZKH's LingLong Intelligence to launch the LingLong Insight 1.0 industrial AI model. The LingLong Insight 1.0 system combines Intel edge computing processors with ZKH industrial datasets for on site verification in factories and warehouses. Both groups plan further co development of edge AI platforms aimed at industrial customers outside traditional data center workloads. The LingLong Insight 1.0 partnership matters, but investors...",
+          "headline": "Intel Is Still Up 61% in 2026 After Its October Crash: “A Broken Company,” or a Buy?",
+          "summary": "Key TakeawaysIntel stock is up 61% in 2026, but it’s down 58% from its June 30 high after a weak fourth-quarter outlook on Oct. 29.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=470d79994c332b6a3de38c462754f2e8acb18776ff254ffedf8a3dd809d19f7b"
+          "url": "https://finnhub.io/api/news?id=d0a991d2e9a3b93e61dbc0f8154796c57732d6da832324b81a507d01171b889f"
         },
         {
-          "headline": "NVIDIA Falls 5% as Board Probes Jensen Huang’s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady",
-          "summary": "The fallout from a leadership scandal at NVIDIA (NASDAQ:NVDA) is hitting one chip stock while its closest rivals hold up. NVIDIA stock is at $176.76 in premarket trading, down 5%. The company’s board said it would investigate the relationship between CEO Jensen Huang and a woman the intelligence community believes could be a Chinese spy. […]",
+          "headline": "Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?",
+          "summary": "Liontrust Investment Partners recently released its “GF Global Dividend Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -0.6% in the third quarter of 2026, underperforming the MSCI AC World Index, which gained 1.6%. However, the Fund remained ahead of the benchmark year to date, with a […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aa4650f77a1393c3a32eaef59685403a315a65ab3ed4daa2d784ae2404b2392f"
+          "url": "https://finnhub.io/api/news?id=43fe1cfc9090651970b56c6a04bd8d8dd4ce589af05df5cc81936453c3d5a59b"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day / INTC Stock Down 57% in the Past 6 Months: Should You Exercise Caution? / Why Is Intel (INTC) Pushing Deeper Into Industrial AI With New Edge Tools? / NVIDIA Falls 5% as Board Probes Jensen Huang’s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4 / Intel Sees 2027 Growth as Data-Center Strength Offsets PC Weakness, RBC Says / Intel Is Still Up 61% in 2026 After Its October Crash: “A Broken Company,” or a Buy? / Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
