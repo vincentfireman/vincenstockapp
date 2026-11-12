@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-11 00:59",
+  "updated_at": "2026-11-12 02:06",
   "stocks": {
     "NVDA": {
-      "price": 168.89,
-      "change_pct": -5.4738,
-      "prev_close": 178.67,
-      "pe_ttm": 22.3246,
+      "price": 173.73,
+      "change_pct": 2.8658,
+      "prev_close": 168.89,
+      "pe_ttm": 21.1026,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 5.47% 내렸어요. PER은 22.3배로, 회사가 1년에 버는 돈의 22배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 6% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.87% 올랐어요. PER은 21.1배로, 회사가 1년에 버는 돈의 21배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 12% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
-          "summary": "The stock market fell Tuesday as Fed rate-hike fears sent Treasury yields soaring while Nvidia kept falling. Indexes did come off lows though. CoreWeave rose late on results.",
+          "headline": "Nvidia Directors Reportedly Consider Ousting CEO Jensen Huang, WSJ Reports",
+          "summary": "AI chipmaker Nvidia (NASDAQ: $NVDA) is preparing to oust founder and CEO Jensen Huang after reports that he had two...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b137a6186a25e3654e20ff1b1f46d98a17d11a77b51a8e1fa1d59d378949301"
+          "url": "https://finnhub.io/api/news?id=1e793578e568123606a1dba9e23dcb0b7bd1782b4c32c2fe5131b9884b13917d"
         },
         {
-          "headline": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
-          "summary": "Nvidia shares extended their sell-off as an investigation involving CEO Jensen Huang raised fresh concerns about corporate governance, leadership uncertainty, and the AI chipmaker's future.",
+          "headline": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+          "summary": "Shares in Nvidia sank Wednesday night after the New York Times reported CEO Jensen Huang had a second affair with a senior executive who reports to him.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a604812e52a6f3f5035183e9f57510c1caa222d64d6f0ef994ea22ba86e56b79"
+          "url": "https://finnhub.io/api/news?id=662fac808e5b9135fda0044b0cb23b925a9a75eea16b7433eb00a6b66f7dda91"
         },
         {
-          "headline": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
-          "summary": "The chipmaker usually beats expectations, but the market may be looking for more this time.",
+          "headline": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
+          "summary": "Nvidia shares fall sharply in after-hours trading as the company's board considers whether to remove Jensen Huang as CEO.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85989dff3e44a88e0be1d5fd8203b194c88636e72fed9cedaa2ed23b20ba9c5a"
+          "url": "https://finnhub.io/api/news?id=2411578ee09832557fc1387c6f2181677be979b7b64e1ced2e6a1e0e00fa567c"
         },
         {
-          "headline": "Update: Equities Fall as Nvidia Leads Tech Sell-Off",
-          "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street closed",
+          "headline": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+          "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f33553abd92e7de18d5372b4986ef9049f915d12d306815fbafe655fff9e096b"
+          "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late / Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report / Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17? / Update: Equities Fall as Nvidia Leads Tech Sell-Off",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Directors Reportedly Consider Ousting CEO Jensen Huang, WSJ Reports / Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair / Nvidia's stock dives as board weighs move to oust Jensen Huang / Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 58.13,
-      "change_pct": -2.0886,
-      "prev_close": 59.37,
+      "price": 62.5,
+      "change_pct": 7.5176,
+      "prev_close": 58.13,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.09% 내렸어요. 최근 1년 최저가~최고가 구간에서 23% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 7.52% 올랐어요. 최근 1년 최저가~최고가 구간에서 27% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
-          "summary": "Shares give back part of Monday's 5.49% rebound as hot inflation data and a guided gross-margin drop weigh on the chipmaker.",
+          "headline": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
+          "summary": "Nvidia's board is preparing to oust Jensen Huang, the Wall Street Journal reported, after a Times report of his relationship with executive Kimberly Powell; Nvidia fell 7.4% after hours to $160.95. When Intel (2018) and McDonald's (2019) pushed out CEOs over relationships with employees, Intel trailed the S&P 500 by 17 points over a year and McDonald's beat it. The difference was a ready successor.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f00d1ba35af215fe7ede776414480d6785e2d19ae6ecee18e4d71be132f40bdc"
+          "url": "https://finnhub.io/api/news?id=fffb4e76d93a0e08167eea3a0746446c12793b434698c221801c4f9ecd1ac8ad"
         },
         {
-          "headline": "Intel Sees 2027 Growth as Data-Center Strength Offsets PC Weakness, RBC Says",
-          "summary": "Intel's (INTC) management sees 2027 as a growth year, with data-center strength expected to more tha",
+          "headline": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+          "summary": "Today, Nov. 11, 2026, Intel shares rallied as CoreWeave's stronger results reinforced AI chip demand across the semiconductor group.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4227b4e1c5e25929f8a79b442c59b361d9e0608c727afae4e7cf0d022dd82263"
+          "url": "https://finnhub.io/api/news?id=5775ee9f1287376cba33fcb8173fb8e9a0f9145346349f7677d1a575333a6c60"
         },
         {
-          "headline": "Intel Is Still Up 61% in 2026 After Its October Crash: “A Broken Company,” or a Buy?",
-          "summary": "Key TakeawaysIntel stock is up 61% in 2026, but it’s down 58% from its June 30 high after a weak fourth-quarter outlook on Oct. 29.",
+          "headline": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
+          "summary": "SoftBank lost about $7 billion in its latest quarter as its Intel stake took losses on both the shares and the hedge contracts backing them.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0a991d2e9a3b93e61dbc0f8154796c57732d6da832324b81a507d01171b889f"
+          "url": "https://finnhub.io/api/news?id=9b792649ad8d56ef66b03b6d48fc0a017e8b5b4b5b14c1d88b5508df8061dd23"
         },
         {
-          "headline": "Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?",
-          "summary": "Liontrust Investment Partners recently released its “GF Global Dividend Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -0.6% in the third quarter of 2026, underperforming the MSCI AC World Index, which gained 1.6%. However, the Fund remained ahead of the benchmark year to date, with a […]",
+          "headline": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
+          "summary": "SoftBank's Intel stake jumped to $10.5 billion and was used to raise cash through prepaid forward contracts.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43fe1cfc9090651970b56c6a04bd8d8dd4ce589af05df5cc81936453c3d5a59b"
+          "url": "https://finnhub.io/api/news?id=1ce94ac6cec927d13ec0a2ce581fdbdebbb6dba4c6fd0eaecfb43244738aea71"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4 / Intel Sees 2027 Growth as Data-Center Strength Offsets PC Weakness, RBC Says / Intel Is Still Up 61% in 2026 After Its October Crash: “A Broken Company,” or a Buy? / Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results / Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks / Intel Stock Faces 87 Million-Share Risk After SoftBank Deal / Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
