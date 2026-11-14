@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-13 01:39",
+  "updated_at": "2026-11-14 01:17",
   "stocks": {
     "NVDA": {
-      "price": 166.19,
-      "change_pct": -4.3401,
-      "prev_close": 173.73,
-      "pe_ttm": 21.7074,
+      "price": 162.85,
+      "change_pct": -2.0097,
+      "prev_close": 166.19,
+      "pe_ttm": 20.7652,
       "week52_high": 243.37,
-      "week52_low": 164.27,
-      "easy_explanation": "오늘 전일 대비 4.34% 내렸어요. PER은 21.7배로, 회사가 1년에 버는 돈의 22배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 2% 지점에 있어요.",
+      "week52_low": 148.8,
+      "easy_explanation": "오늘 전일 대비 2.01% 내렸어요. PER은 20.8배로, 회사가 1년에 버는 돈의 21배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 15% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus",
-          "summary": "When Nvidia shocked markets with Jensen Huang’s abrupt exit, the selloff and frenzy of retail dip-buying did more than shake one ticker. It pulled a spotlight onto a group of large tech and semiconductor stocks that might either benefit from Nvidia’s leadership vacuum or feel heat from the same regulatory and governance questions. This article walks through three stocks from that governance resilient screener that look particularly exposed to this news shock and explains why that may matter...",
+          "headline": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus",
+          "summary": "Nvidia saw its worst week since April last year after Jensen Huang stepped down as CEO, and its board is looking for candidates.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f22d663d31eb1752b449e842f7f4a04630a5df1f38e72cd93692f2e91fd79467"
+          "url": "https://finnhub.io/api/news?id=8883930906339ea2702d39740cca5933cd51cd819a6ff65f5b6953a44eef2a78"
         },
         {
-          "headline": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
-          "summary": "Nvidia’s CEO Jensen Huang ousted; CFO Colette Kress named interim chief executive officer.",
+          "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
+          "summary": "Wall Street stocks mostly fell Friday as tech shares remained under pressure following the shock downfall of Nvidia's chief Jensen Huang, while the dollar rose following additional data that showed US inflation is persisting.\"There is certainly a defensive leadership as we look at the sectors, which points to some caution,\" said Kourkafas, who expects AI to be in the spotlight again next week when Nvidia reports quarterly results and Anthropic makes its Wall Street debut.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=383ecf6f897beec4320ed48bd9da1a155c4211611ff169f0435fe4be0923459c"
+          "url": "https://finnhub.io/api/news?id=0d9b9cfa98b5ec996c26cf12ec3cac006164623cc2af91af3c48da84732a5b82"
         },
         {
-          "headline": "SemiAnalysis speculates U.S. intelligence played role in Nvidia CEO exit",
-          "summary": "Investing.com -- The scandal forcing Jensen Huang’s abrupt resignation as chief executive of NVIDIA Corporation (NASDAQ:NVDA), which sent shares down roughly 4% on Thursday, as Chief Financial Officer Colette Kress stepped in as interim chief executive, may reflect a coordinated push by the U.S. intelligence community to remove a major obstacle to stricter China export controls, according to semiconductor supply chain research firm SemiAnalysis. Analysts at SemiAnalysis argued in a Thursday repo",
+          "headline": "Nvidia Has Real Problems—but Don’t Fall For Fear Mongering",
+          "summary": "Yes, Nvidia helps finance the AI buildout. Just used the right number when evaluating the impact.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5c9cae3a024ea7f69234b49060cae0c140f0a767da8102359e477a670110381"
+          "url": "https://finnhub.io/api/news?id=4cd987a41e895ec2d6ab8fe4c3ae20086074b4ca94ff53465632109103d4b4fd"
         },
         {
-          "headline": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
-          "summary": "Nvidia's fair value estimate has been trimmed from $328.72 to $319.99, reflecting a slightly more cautious stance on the stock. Recent analyst commentary has become more divided, with bulls pointing to AI demand and ecosystem breadth, while bears highlight governance questions, financing exposure and long term visibility, which helps explain why price targets are being adjusted rather than reset. As you read on, you will see how these shifting views shape the evolving Nvidia story and what it...",
+          "headline": "Nvidia’s week of chaos, explained",
+          "summary": "In a matter of days, a corporate scandal has toppled the leader of the world’s second-most valuable company, Nvidia CEO Jensen Huang; thrust his family into the spotlight; raised huge questions about the future of the AI industry; and landed on Washington’s doorstep.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0aeae8ccf1b4145aac3467e8297fedbb616e8dd243cdb84cb8a825f877d10a4"
+          "url": "https://finnhub.io/api/news?id=f6c3d4457adef8cfd0f757db1d55ed01b8eb7465e4b448084a9ac739288d659f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus / S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus / SemiAnalysis speculates U.S. intelligence played role in Nvidia CEO exit / Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
+      "news_summary": "최근 뉴스 헤드라인: S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus / Wall Street stocks mostly lower as Nvidia extends slump / Nvidia Has Real Problems—but Don’t Fall For Fear Mongering / Nvidia’s week of chaos, explained",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 61.2,
-      "change_pct": -2.08,
-      "prev_close": 62.5,
+      "price": 59.66,
+      "change_pct": -2.5163,
+      "prev_close": 61.2,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.08% 내렸어요. 최근 1년 최저가~최고가 구간에서 26% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 2.52% 내렸어요. 최근 1년 최저가~최고가 구간에서 24% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Could Be 88% Undervalued Following AI Partnerships And Sector Volatility",
-          "summary": "Intel (INTC) has been pulled in two directions lately. New collaborations in AI infrastructure and edge computing land alongside sharp sector swings tied to Nvidia’s CEO exit, as well as fresh governance and geopolitical headlines. Recent trading shows how conflicted investors are about Intel. The 1-day share price return of 7.52% and 7-day gain of 19.62% follow a 30-day share price decline of 39.21%. At the same time, the year-to-date share price return is 58.71% and the 1-year total...",
+          "headline": "Why Intel Stock Slumped Today",
+          "summary": "It wasn't a good day for tech stocks generally.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f042f5d4a7bfd1bf42b48b85d044de506b64dd44db6108852011fbcf66213e6"
+          "url": "https://finnhub.io/api/news?id=cf73b339f6ee94bd531fa99dd101e301e6ccca89981288579b5569a5353b7e22"
         },
         {
-          "headline": "Intel, RadixArk Collaborate to Advance Open AI Inference on Intel Platforms",
-          "summary": "SANTA CLARA, Calif., November 12, 2026--Expanding developer choice and performance for leading AI models across Intel infrastructure through upstreamed SGLang optimization",
+          "headline": "Intel CEO’s warning offers a 2027 signal for Micron investors",
+          "summary": "The bigger problem isn’t on the price tag.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a0ad236f85932071f5f3753df9df655fb3adfd86ffefc9d9a78e59e211b9feb"
+          "url": "https://finnhub.io/api/news?id=705cc8eb8abfeed335724b851d3594a42049d7d72a417303c38b2e3716f4b2ea"
         },
         {
-          "headline": "After Intel’s Worst Day on Record, CEO Lip-Bu Tan Buys $9.7 Million in Stock",
-          "summary": "Intel’s CEO made his second open-market purchase of the year following the stock’s worst single-day percentage drop on record.",
+          "headline": "AMD or Intel: 1 Chip Stock Is the Clear Winner",
+          "summary": "It's really not close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=058fa4f6527a22dc7d09a4e2085df2dd15304ac35df54cafaf01302b96bc6b38"
+          "url": "https://finnhub.io/api/news?id=05f652161992a70de4824bc57bd5becfea734e89113ca033fe35c6b3110a74c6"
         },
         {
-          "headline": "Intel Stocks Fall 3.49% as NVIDIA CEO Exit Clouds a $13 Billion Partnership Stake",
-          "summary": "NVIDIA's 214.78 million Intel shares are worth about $13 billion, but the joint chip roadmap now answers to new leadership.",
+          "headline": "Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
+          "summary": "Nvidia's stake, bought at $23.28 a share, is now worth about $12.5 billion, but the next round of joint deals looks less certain.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cae127bd6457e6dde2deeb7e8ba39e81ee83c24044d9b1aad88ff36fe105a0b1"
+          "url": "https://finnhub.io/api/news?id=f7b77f0865e6470dfcb42aa1dfc38148c52b4f6d393495385dfa78598540785c"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Could Be 88% Undervalued Following AI Partnerships And Sector Volatility / Intel, RadixArk Collaborate to Advance Open AI Inference on Intel Platforms / After Intel’s Worst Day on Record, CEO Lip-Bu Tan Buys $9.7 Million in Stock / Intel Stocks Fall 3.49% as NVIDIA CEO Exit Clouds a $13 Billion Partnership Stake",
+      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Slumped Today / Intel CEO’s warning offers a 2027 signal for Micron investors / AMD or Intel: 1 Chip Stock Is the Clear Winner / Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
