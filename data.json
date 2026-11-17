@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-14 01:17",
+  "updated_at": "2026-11-17 03:23",
   "stocks": {
     "NVDA": {
-      "price": 162.85,
-      "change_pct": -2.0097,
-      "prev_close": 166.19,
-      "pe_ttm": 20.7652,
+      "price": 156.14,
+      "change_pct": -4.1204,
+      "prev_close": 162.85,
+      "pe_ttm": 20.3479,
       "week52_high": 243.37,
       "week52_low": 148.8,
-      "easy_explanation": "오늘 전일 대비 2.01% 내렸어요. PER은 20.8배로, 회사가 1년에 버는 돈의 21배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 15% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 4.12% 내렸어요. PER은 20.3배로, 회사가 1년에 버는 돈의 20배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 8% 지점에 있어요.",
       "news": [
         {
-          "headline": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus",
-          "summary": "Nvidia saw its worst week since April last year after Jensen Huang stepped down as CEO, and its board is looking for candidates.",
+          "headline": "Nvidia earnings to test AI boom after Huang's exit",
+          "summary": "Nvidia reports quarterly earnings on Tuesday, its first since Jensen Huang's departure as CEO, with investors watching for signs of whether the AI boom can withstand the widening scandal that toppled him.Analysts will be watching for signs of whether Kress will slow Huang's aggressive investment strategy, which saw him commit tens of billions of dollars to AI companies.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8883930906339ea2702d39740cca5933cd51cd819a6ff65f5b6953a44eef2a78"
+          "url": "https://finnhub.io/api/news?id=47452ed0648fab9f518a837a16380505a6a7ccec5f8133a4ac378d9205180444"
         },
         {
-          "headline": "Wall Street stocks mostly lower as Nvidia extends slump",
-          "summary": "Wall Street stocks mostly fell Friday as tech shares remained under pressure following the shock downfall of Nvidia's chief Jensen Huang, while the dollar rose following additional data that showed US inflation is persisting.\"There is certainly a defensive leadership as we look at the sectors, which points to some caution,\" said Kourkafas, who expects AI to be in the spotlight again next week when Nvidia reports quarterly results and Anthropic makes its Wall Street debut.",
+          "headline": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
+          "summary": "Nvidia's first earnings report since Jensen Huang resigned, the Fed's meeting minutes, and Anthropic's massive public debut all land this week, and together they could help decide whether the pain in stocks continues or a comeback gets started.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d9b9cfa98b5ec996c26cf12ec3cac006164623cc2af91af3c48da84732a5b82"
+          "url": "https://finnhub.io/api/news?id=3aa37774fbae62d6611f869f3f52bb1660e5e496139a8f66b78a28a93e2d5daf"
         },
         {
-          "headline": "Nvidia Has Real Problems—but Don’t Fall For Fear Mongering",
-          "summary": "Yes, Nvidia helps finance the AI buildout. Just used the right number when evaluating the impact.",
+          "headline": "Wall Street futures muted as Nvidia earnings loom amid AI jitters",
+          "summary": "Investing.com-- U.S. stock futures were little changed on Monday evening after Wall Street fell sharply, with Nvidia dragging the technology sector lower ahead of its quarterly results, while investors also eyed details surrounding Anthropic's potential initial public offering.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cd987a41e895ec2d6ab8fe4c3ae20086074b4ca94ff53465632109103d4b4fd"
+          "url": "https://finnhub.io/api/news?id=a30956b12a3b9b593ab81f4f5448dae73d22990e32610f0541d6979d43e78dd0"
         },
         {
-          "headline": "Nvidia’s week of chaos, explained",
-          "summary": "In a matter of days, a corporate scandal has toppled the leader of the world’s second-most valuable company, Nvidia CEO Jensen Huang; thrust his family into the spotlight; raised huge questions about the future of the AI industry; and landed on Washington’s doorstep.",
+          "headline": "Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
+          "summary": "Joe Gebbia, the U.S. chief design officer, Airbnb cofounder, and Tesla board member, told Alyson Shontell that Nvidia should reinstate Jensen Huang as CEO and then run a due diligence process. “Nvidia is one of the greatest companies ever of all time, and it got there because of founder mode,” Gebbia said at the F500 Innovation Forum.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6c3d4457adef8cfd0f757db1d55ed01b8eb7465e4b448084a9ac739288d659f"
+          "url": "https://finnhub.io/api/news?id=4e5b488f40f9c1efca5f7216f3fcce8382147a72c5e957f221d5c82363afb0f4"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus / Wall Street stocks mostly lower as Nvidia extends slump / Nvidia Has Real Problems—but Don’t Fall For Fear Mongering / Nvidia’s week of chaos, explained",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia earnings to test AI boom after Huang's exit / This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO / Wall Street futures muted as Nvidia earnings loom amid AI jitters / Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 59.66,
-      "change_pct": -2.5163,
-      "prev_close": 61.2,
+      "price": 55.47,
+      "change_pct": -7.0231,
+      "prev_close": 59.66,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 2.52% 내렸어요. 최근 1년 최저가~최고가 구간에서 24% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 7.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Intel Stock Slumped Today",
-          "summary": "It wasn't a good day for tech stocks generally.",
+          "headline": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
+          "summary": "Intel is up big this year, yet the fund built to double its moves is sitting in the red. A daily reset quirk explains the gap, and it matters for anyone tempted to buy this dip.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf73b339f6ee94bd531fa99dd101e301e6ccca89981288579b5569a5353b7e22"
+          "url": "https://finnhub.io/api/news?id=1c62335723868c483e22a6ee74ea08e056bfd5df0228ab9486a41ff961d572c2"
         },
         {
-          "headline": "Intel CEO’s warning offers a 2027 signal for Micron investors",
-          "summary": "The bigger problem isn’t on the price tag.",
+          "headline": "Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing",
+          "summary": "Key TakeawaysIntel shareholders sued on Nov. 13, saying the company hid its PC slump before the stock fell nearly 29% on Oct.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=705cc8eb8abfeed335724b851d3594a42049d7d72a417303c38b2e3716f4b2ea"
+          "url": "https://finnhub.io/api/news?id=df8713115f19e55bb9ac869e5ce676103b79b643293b2f196727c69b9ec76ea4"
         },
         {
-          "headline": "AMD or Intel: 1 Chip Stock Is the Clear Winner",
-          "summary": "It's really not close.",
+          "headline": "Why Intel's turnaround will take years",
+          "summary": "Market Hang host Mark Malek, Siebert Financial chief investment officer, and his panel of experts weigh in on Intel's (INTC) year-to-date performance and how long its turnaround may take. Today's panel includes Neostellar Principal Willy Lee, FAS Wealth Partners Chief Investment Strategist Mike Rode, Lopez Research Founder Maribel Lopez, and Macro Talk News founder Hope King,",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05f652161992a70de4824bc57bd5becfea734e89113ca033fe35c6b3110a74c6"
+          "url": "https://finnhub.io/api/news?id=4f23bf122ffb89a9b8fc52f03c0fc8d74ffffc4181bf6d390ae513b10384733e"
         },
         {
-          "headline": "Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
-          "summary": "Nvidia's stake, bought at $23.28 a share, is now worth about $12.5 billion, but the next round of joint deals looks less certain.",
+          "headline": "Intel Stocks Drop 6.13% as Shareholder Suit Targets PC Slump Disclosures",
+          "summary": "A Michigan pension fund alleges Intel downplayed weakening PC sales before an October forecast sent shares down nearly 29% in a day.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7b77f0865e6470dfcb42aa1dfc38148c52b4f6d393495385dfa78598540785c"
+          "url": "https://finnhub.io/api/news?id=dccff98112da4a08f1690b14a7335bb1f38ab188607c5bfe4cf66f525b41f307"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Slumped Today / Intel CEO’s warning offers a 2027 signal for Micron investors / AMD or Intel: 1 Chip Stock Is the Clear Winner / Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
+      "news_summary": "최근 뉴스 헤드라인: INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5% / Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing / Why Intel's turnaround will take years / Intel Stocks Drop 6.13% as Shareholder Suit Targets PC Slump Disclosures",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
