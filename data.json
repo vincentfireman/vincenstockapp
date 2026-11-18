@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-17 03:23",
+  "updated_at": "2026-11-18 02:43",
   "stocks": {
     "NVDA": {
-      "price": 156.14,
-      "change_pct": -4.1204,
-      "prev_close": 162.85,
-      "pe_ttm": 20.3479,
+      "price": 155.46,
+      "change_pct": -0.4355,
+      "prev_close": 156.14,
+      "pe_ttm": 19.5095,
       "week52_high": 243.37,
       "week52_low": 148.8,
-      "easy_explanation": "오늘 전일 대비 4.12% 내렸어요. PER은 20.3배로, 회사가 1년에 버는 돈의 20배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 8% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.44% 내렸어요. PER은 19.5배로, 회사가 1년에 버는 돈의 20배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 7% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia earnings to test AI boom after Huang's exit",
-          "summary": "Nvidia reports quarterly earnings on Tuesday, its first since Jensen Huang's departure as CEO, with investors watching for signs of whether the AI boom can withstand the widening scandal that toppled him.Analysts will be watching for signs of whether Kress will slow Huang's aggressive investment strategy, which saw him commit tens of billions of dollars to AI companies.",
+          "headline": "Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+          "summary": "Nvidia earnings beat after the stock market broke below recent lows. Target earnings are on tap, with the Anthropic IPO set to price Wednesday night.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47452ed0648fab9f518a837a16380505a6a7ccec5f8133a4ac378d9205180444"
+          "url": "https://finnhub.io/api/news?id=4fca2e56670f0ff0f0e303326fe61e80b2faf7bb352d7ffbaa7ae7a8016c3f3d"
         },
         {
-          "headline": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
-          "summary": "Nvidia's first earnings report since Jensen Huang resigned, the Fed's meeting minutes, and Anthropic's massive public debut all land this week, and together they could help decide whether the pain in stocks continues or a comeback gets started.",
+          "headline": "NVIDIA Q3 Earnings Call Highlights",
+          "summary": "NVIDIA (NASDAQ:NVDA) raised its fiscal 2028 revenue growth forecast and reported record quarterly revenue as its Vera Rubin platform ramped up, even as the company searches for a permanent chief executive following Jensen Huang’s resignation. Revenue reached $116 billion in the third quarter of fis",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3aa37774fbae62d6611f869f3f52bb1660e5e496139a8f66b78a28a93e2d5daf"
+          "url": "https://finnhub.io/api/news?id=0859321ec316448904b21682047296d3297676dfd0ffdcf89e36286a7cc6a784"
         },
         {
-          "headline": "Wall Street futures muted as Nvidia earnings loom amid AI jitters",
-          "summary": "Investing.com-- U.S. stock futures were little changed on Monday evening after Wall Street fell sharply, with Nvidia dragging the technology sector lower ahead of its quarterly results, while investors also eyed details surrounding Anthropic's potential initial public offering.",
+          "headline": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
+          "summary": "AI data centers just hit a fresh plot twist. Nvidia’s leadership shakeup, blowout quarter and intense regulatory glare have pushed hyperscalers and their suppliers into the spotlight at the same time. That collision of growth expectations and uncertainty has created a live test of how investors price AI promise against real world risk. This article walks through three stocks exposed to that story from our Hyperscaler Focused AI Data Center Enablers screener. The three stocks highlighted below...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a30956b12a3b9b593ab81f4f5448dae73d22990e32610f0541d6979d43e78dd0"
+          "url": "https://finnhub.io/api/news?id=56b2518521a35308a5b657e052d2dd937d3f936c37c6103e63289c70bf23ad8f"
         },
         {
-          "headline": "Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
-          "summary": "Joe Gebbia, the U.S. chief design officer, Airbnb cofounder, and Tesla board member, told Alyson Shontell that Nvidia should reinstate Jensen Huang as CEO and then run a due diligence process. “Nvidia is one of the greatest companies ever of all time, and it got there because of founder mode,” Gebbia said at the F500 Innovation Forum.",
+          "headline": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+          "summary": "Investing.com-- Shares of chipmakers and cloud computing firms rose sharply in aftermarket trade on Tuesday after blowout quarterly earnings from sector giant Nvidia helped restore faith in the artificial intelligence trade.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e5b488f40f9c1efca5f7216f3fcce8382147a72c5e957f221d5c82363afb0f4"
+          "url": "https://finnhub.io/api/news?id=2fe58940cbf9a02cea880566b2694dc17b2b0fe8ec64daac2fed7a689df78fb6"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia earnings to test AI boom after Huang's exit / This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO / Wall Street futures muted as Nvidia earnings loom amid AI jitters / Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead / NVIDIA Q3 Earnings Call Highlights / 3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News / Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 55.47,
-      "change_pct": -7.0231,
-      "prev_close": 59.66,
+      "price": 55.17,
+      "change_pct": -0.5408,
+      "prev_close": 55.47,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 7.02% 내렸어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.54% 내렸어요. 최근 1년 최저가~최고가 구간에서 20% 지점에 있어요.",
       "news": [
         {
-          "headline": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
-          "summary": "Intel is up big this year, yet the fund built to double its moves is sitting in the red. A daily reset quirk explains the gap, and it matters for anyone tempted to buy this dip.",
+          "headline": "Intel Stock Has Given Back About 60% Since June. Is It a Buy Now?",
+          "summary": "The chipmaker expects its quarterly profit to drop by over half. How much of that does a $56 share price already reflect?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1c62335723868c483e22a6ee74ea08e056bfd5df0228ab9486a41ff961d572c2"
+          "url": "https://finnhub.io/api/news?id=1e0cd3b6aea9011ccce1183037ec18eee035f358b256e0c14e0e7a80ee1a749f"
         },
         {
-          "headline": "Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing",
-          "summary": "Key TakeawaysIntel shareholders sued on Nov. 13, saying the company hid its PC slump before the stock fell nearly 29% on Oct.",
+          "headline": "Intel shareholders sue CEO, CFO after stock rout",
+          "summary": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=df8713115f19e55bb9ac869e5ce676103b79b643293b2f196727c69b9ec76ea4"
+          "url": "https://finnhub.io/api/news?id=69271974ec4952b9ca3ef9fda0c2bfa59d607ab45979d8a66e631872b98ac67f"
         },
         {
-          "headline": "Why Intel's turnaround will take years",
-          "summary": "Market Hang host Mark Malek, Siebert Financial chief investment officer, and his panel of experts weigh in on Intel's (INTC) year-to-date performance and how long its turnaround may take. Today's panel includes Neostellar Principal Willy Lee, FAS Wealth Partners Chief Investment Strategist Mike Rode, Lopez Research Founder Maribel Lopez, and Macro Talk News founder Hope King,",
+          "headline": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms",
+          "summary": "CHICAGO, November 17, 2026--At SC26, ASUS unveils a unified AI Factory blueprint that gives enterprises the flexibility to build AI infrastructure around their workloads, performance targets, and deployment needs. Spanning AMD, Intel and NVIDIA platforms — from rack-scale AI systems and enterprise servers to edge computing — ASUS brings architectural choice together with integrated engineering, automated manufacturing, rigorous validation, and lifecycle support. With volume shipments of its late",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f23bf122ffb89a9b8fc52f03c0fc8d74ffffc4181bf6d390ae513b10384733e"
+          "url": "https://finnhub.io/api/news?id=626dc9d991aeac9b4dcb02b7836ea45435504bbed4c9f727842951934852a6e1"
         },
         {
-          "headline": "Intel Stocks Drop 6.13% as Shareholder Suit Targets PC Slump Disclosures",
-          "summary": "A Michigan pension fund alleges Intel downplayed weakening PC sales before an October forecast sent shares down nearly 29% in a day.",
+          "headline": "Why Intel Stock Just Dropped",
+          "summary": "Sure, Nvidia sold 25% of its Intel stock -- but it kept 75%.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dccff98112da4a08f1690b14a7335bb1f38ab188607c5bfe4cf66f525b41f307"
+          "url": "https://finnhub.io/api/news?id=336a52d6c269d3e0fdceb62900ed68e9b4cec92c7beb3b22f918b74701b06ab3"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5% / Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing / Why Intel's turnaround will take years / Intel Stocks Drop 6.13% as Shareholder Suit Targets PC Slump Disclosures",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stock Has Given Back About 60% Since June. Is It a Buy Now? / Intel shareholders sue CEO, CFO after stock rout / ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms / Why Intel Stock Just Dropped",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
