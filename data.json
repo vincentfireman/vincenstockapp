@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-20 02:00",
+  "updated_at": "2026-11-21 01:57",
   "stocks": {
     "NVDA": {
-      "price": 145.98,
-      "change_pct": -3.2989,
-      "prev_close": 150.96,
-      "pe_ttm": 16.0797,
+      "price": 125.53,
+      "change_pct": -14.0088,
+      "prev_close": 145.98,
+      "pe_ttm": 15.5493,
       "week52_high": 243.37,
       "week52_low": 148.8,
-      "easy_explanation": "오늘 전일 대비 3.30% 내렸어요. PER은 16.1배로, 회사가 1년에 버는 돈의 16배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 -3% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 14.01% 내렸어요. PER은 15.5배로, 회사가 1년에 버는 돈의 16배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 -25% 지점에 있어요.",
       "news": [
         {
-          "headline": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
-          "summary": "Alibaba Group Holding (BABA) was sued in a proposed securities class action by shareholders who accu",
+          "headline": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+          "summary": "Nvidia is searching for a new CEO following Jensen Huang's abrupt resignation.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74406cd314cf4182011ad0e415b562c81c76f6e61c1c988a826f667762446573"
+          "url": "https://finnhub.io/api/news?id=f42b6b0936e5b436cf568eaee0a53500e3ccf3c4459b53880f1ae1ebca984852"
         },
         {
-          "headline": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
-          "summary": "The famed investor took a victory lap as AI stocks slid again on Thursday.",
+          "headline": "NVDA Stock Clocks Worst Week In 18 Years As SEC Reportedly Probes Its Accounting Practices",
+          "summary": "SEC is scrutinizing Nvidia’s accounting practices, Reuters reported, citing two people familiar with the matter.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d08afd289d5a3fb8c0bef43a829d42c33337df31271078244eee17edfb1ea0c9"
+          "url": "https://finnhub.io/api/news?id=fe85428ac252f2f71c02ad6b9d581ebd740aaf7f4f5e9da38c5158286056f3ff"
         },
         {
-          "headline": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club",
-          "summary": "AMD looks poised to reclaim a $1 trillion market cap as Nvidia turmoil creates an opportunity.",
+          "headline": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.",
+          "summary": "Analysts report on Nvidia, L3Harris, Viking Holdings, Dolby Laboratories, Microsoft, Nvidia, and Lowe’s.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f82b251780aa7db8aa1944b697a8649176ccaf7a0a0167f826265319474ce94"
+          "url": "https://finnhub.io/api/news?id=d134c672de700998ae32c72c5dc3077a421b7dc19577e16d692e0f310d4c7304"
         },
         {
-          "headline": "Nvidia Faces California Subpoena as Its Regulatory Troubles Grow",
-          "summary": "The California attorney general is investigating whether Nvidia or its former CEO, Jensen Huang, allowed advanced chips or confidential information to reach China.",
+          "headline": "The Case for Buying Nvidia Stock Now",
+          "summary": "Letters to the editor on Nvidia, Anthropic, and Walt Disney.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=436127883e2cefb0bdd1d5e69617b4a897a807d93b76ebdd2d0166e648f581e5"
+          "url": "https://finnhub.io/api/news?id=08c9630aac8d27607df4cd769bdbd159f3418d2da93b2e1b26e19d6d8bb6082f"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says / Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw / 1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club / Nvidia Faces California Subpoena as Its Regulatory Troubles Grow",
+      "news_summary": "최근 뉴스 헤드라인: Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History / NVDA Stock Clocks Worst Week In 18 Years As SEC Reportedly Probes Its Accounting Practices / Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks. / The Case for Buying Nvidia Stock Now",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 55.72,
-      "change_pct": 1.9206,
-      "prev_close": 54.67,
+      "price": 51.28,
+      "change_pct": -7.9684,
+      "prev_close": 55.72,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 1.92% 올랐어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 7.97% 내렸어요. 최근 1년 최저가~최고가 구간에서 17% 지점에 있어요.",
       "news": [
         {
-          "headline": "Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor",
-          "summary": "For a while, the only thing Nvidia (NASDAQ:NVDA) and Intel (NASDAQ:INTC) had in common was that they both made chips. Nvidia rode the AI boom to become one of the world’s most valuable companies, while Intel spent years trying to repair its business. Now they share a problem: shareholders who aren’t sure what comes next. Nvidia released its third-quarter earnings report on Tuesday, its first since Jensen Huang resigned as CEO, and the stock still fell the next day. Intel’s slide deepened after i",
+          "headline": "Could Jensen Huang Land At Nvidia Rival Intel?",
+          "summary": "A Wall Street portfolio manager speculated that ex-Nvidia CEO Jensen Huang could end up at rival Intel.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b89c962d6827de4d755fccfbd677c1760eb7b4b78a8b1ac4e6a1b7216319da4"
+          "url": "https://finnhub.io/api/news?id=17d322f78d56df54b25aee57070831527fe631cd351995d563a2c812e0098ca5"
         },
         {
-          "headline": "This Is Incredible News for AMD Stock Investors (Hint: It’s Bad News for Intel)",
-          "summary": "AMD continues to chip away at Intel's dominance in the server CPU market.",
+          "headline": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip?",
+          "summary": "As Wall Street reassesses the economics of the AI boom, the differences between these two chipmakers are becoming increasingly important.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b840e3e9698d55c0c8e262b076aea6bb20030296712ff301162cdd2b66b890e0"
+          "url": "https://finnhub.io/api/news?id=508b47838c9c6b854dc7a819b077dcb76b8aa8601a12831496b1330470110bb2"
         },
         {
-          "headline": "What's Happening To Intel's Factory Cash?",
-          "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+          "headline": "How to Play INTC Stock as Intel Launches Another Round of Layoffs",
+          "summary": "As Intel prepares for another round of layoffs, its turnaround faces fresh uncertainty, putting INTC stock under pressure.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d0969fd34281717551314f11af5ca47e1102b0e1a51846e9761ea048f28b878"
+          "url": "https://finnhub.io/api/news?id=f4a80afec08b6219275f19d4bca90410c2fbb9635e5a83e9fa2f48e5d993e885"
         },
         {
-          "headline": "Intel (INTC) Stock Could Be 33% Undervalued On Chip Breakthrough News",
-          "summary": "Intel has delivered a 55.7% gain over the past year, even after a sharp recent pullback, which puts fresh focus on whether that share price is properly backed by the cash it can generate over time. With headlines swinging between chip breakthroughs, big cloud partnerships and restructuring moves, the key issue for you is how those stories translate into long term cash flows that support the current valuation. The 55.7% rise over the last 12 months means a lot of future cash flow is now...",
+          "headline": "Intel Stock: Bounceback Potential Etches Path Toward Lower-Cost Ownership",
+          "summary": "Intel stock is due for recovery. In options, a synthetic position is equivalent to owning 73 shares for a lower cost.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63f4e6b4d3f55db4a97454ab1a8ab65fd272fdc8c508e93f8132ddc935cc4289"
+          "url": "https://finnhub.io/api/news?id=cb9c5941f41c9be3eeffcf6a3667ed7bc2ab7920b36a133f91d881919b4f77fa"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor / This Is Incredible News for AMD Stock Investors (Hint: It’s Bad News for Intel) / What's Happening To Intel's Factory Cash? / Intel (INTC) Stock Could Be 33% Undervalued On Chip Breakthrough News",
+      "news_summary": "최근 뉴스 헤드라인: Could Jensen Huang Land At Nvidia Rival Intel? / AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip? / How to Play INTC Stock as Intel Launches Another Round of Layoffs / Intel Stock: Bounceback Potential Etches Path Toward Lower-Cost Ownership",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
