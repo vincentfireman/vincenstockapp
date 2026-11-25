@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-24 05:07",
+  "updated_at": "2026-11-25 03:56",
   "stocks": {
     "NVDA": {
-      "price": 165.05,
-      "change_pct": 31.4825,
-      "prev_close": 125.53,
-      "pe_ttm": 13.371,
+      "price": 155.38,
+      "change_pct": -5.8588,
+      "prev_close": 165.05,
+      "pe_ttm": 17.5806,
       "week52_high": 243.37,
       "week52_low": 124.5,
-      "easy_explanation": "오늘 전일 대비 31.48% 올랐어요. PER은 13.4배로, 회사가 1년에 버는 돈의 13배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 34% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.86% 내렸어요. PER은 17.6배로, 회사가 1년에 버는 돈의 18배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 26% 지점에 있어요.",
       "news": [
         {
-          "headline": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
-          "summary": "AMD is not selling the shares itself and will not receive any proceeds from potential sales.",
+          "headline": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
+          "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65b84ff5d824ba1bb5f8a8b11ce90a25daf9124937c7c86a0c8450b6953663bc"
+          "url": "https://finnhub.io/api/news?id=7c631a0af4fb5c60045497a9b53256b831697c66e5db07fc429ed119b5bed9cf"
         },
         {
-          "headline": "Nvidia Just Built Agent Security Into Its Chips. What Does That Mean for CrowdStrike?",
-          "summary": "A brief mention on Nvidia’s earnings call hints at a bigger role for CrowdStrike in securing AI agents.",
+          "headline": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
+          "summary": "Fundstrat technical strategist Mark Newton sees opportunity in beaten-down technology stocks but wants broader evidence before declaring a market bottom.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d2dcc79292e3970b27336fdffdb036545a9c8b38a5f2266f127c64079dd3796"
+          "url": "https://finnhub.io/api/news?id=fc89dbbad873c20e4a6d278e42940c4713e12b973c1e5aaa97dd11605f208b86"
         },
         {
-          "headline": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
-          "summary": "HONG KONG (AP) — Asian stocks advanced after a rally on Wall Street as Jensen Huang returned as Nvidia’s CEO, while U. futures edged higher and oil prices fell.",
+          "headline": "Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling",
+          "summary": "Nvidia (NVDA) remains under investigation by California, with Attorney General Rob Bonta saying he w",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f5d81a3a41a511f97040b73e0259305cee5b85e387e0edf9f8d7de2928acb61"
+          "url": "https://finnhub.io/api/news?id=cd38b7fd92803e479322a2d545bc51859fa919cdc46c69894ab6cca7f62b752e"
         },
         {
-          "headline": "Michael Burry Bought Nvidia Calls, Cut His Semiconductor Shorts Before The Rally – But He’s Not Done Questioning Jensen Huang",
-          "summary": "Before Monday’s rally, Burry bought Nvidia calls and sold three-quarters of his puts, keeping some protection against another decline.",
+          "headline": "Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
+          "summary": "Nvidia rebounded incredibly the last time it saw a steep pullback.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=26c2c2f293915fc7af9aae46b9fc7fec952aba5be60d16801255e2fea98586cc"
+          "url": "https://finnhub.io/api/news?id=6d6dfa03d9c23f68dbefce46114677ed4ea3af6a876bc18eed3ccb33abca8554"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants / Nvidia Just Built Agent Security Into Its Chips. What Does That Mean for CrowdStrike? / Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO / Michael Burry Bought Nvidia Calls, Cut His Semiconductor Shorts Before The Rally – But He’s Not Done Questioning Jensen Huang",
+      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake / Why Nvidia's rebound may not mean the S&P 500 has bottomed / Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling / Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 59.66,
-      "change_pct": 16.3417,
-      "prev_close": 51.28,
+      "price": 54.8,
+      "change_pct": -8.1462,
+      "prev_close": 59.66,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 16.34% 올랐어요. 최근 1년 최저가~최고가 구간에서 24% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 8.15% 내렸어요. 최근 1년 최저가~최고가 구간에서 20% 지점에 있어요.",
       "news": [
         {
-          "headline": "Newegg and ABS Bring PC Building to Fifth Avenue with a Holiday Showcase at the Intel Experience Store in New York City",
-          "summary": "NEW YORK, November 23, 2026--Newegg (Newegg Commerce, Inc., NASDAQ: NEGG), a global leader in computer and technology products, today announced the opportunity for customers to join Newegg at the 2026 Holiday Showcase at the Intel Experience Store at 529 Fifth Avenue this holiday season. From Nov. 22 through Nov. 30, Newegg and its in-house gaming PC brand ABS will host a hands-on showcase offering visitors the chance to get behind the wheel of a motion racing simulator, play on ABS gaming PCs p",
+          "headline": "Why Intel Stock Fell Today",
+          "summary": "Intel says it has landed its first outside customer for 18A-P, but it's unclear how much that will matter financially.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e65819ccd98ec3ef12f4eebaab5874594c281c80b342e332cbb99d946cc7f8ca"
+          "url": "https://finnhub.io/api/news?id=03dec1022a3485736da32277ae334371b537d56564dccbf1c0f24f817eafae0b"
         },
         {
-          "headline": "Intel Corporation to Participate in Upcoming Investor Conferences",
-          "summary": "SANTA CLARA, Calif., November 23, 2026--Intel Corporation to Participate in Upcoming Investor Conferences",
+          "headline": "Intel And 2 More AI Stocks To Watch",
+          "summary": "Jensen Huang’s rapid return to Nvidia and the sharp rebound in chip shares have reminded markets that AI is still the main story driving big money flows. When capital swings back toward the picks and shovels of the ChatGPT and AI boom, investors start hunting for quality businesses that have not yet been fully priced for that theme. This article highlights three such undervalued AI stocks across chips, software, and cloud. The three undervalued AI stocks covered below are just a sample, and...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8fc17d1bb6b81a8da3cf9bd2987d0b7ff1a69868784bbdfbf268f9ead7c9cdf"
+          "url": "https://finnhub.io/api/news?id=b58bf68bc74c20c63635edfb0122e8828726fdcfecb430b721e3ac2eb3c7b2a5"
         },
         {
-          "headline": "INTW 2X Intel ETF Jumps 26% in a Day: Should Investors Ride This Leveraged Intel Fund Back to $10?",
-          "summary": "A chip rally sparked by Nvidia's boardroom shake-up sent a 2x Intel fund soaring in a single session, yet the same fund has barely budged this year while the stock it tracks has surged. What explains the gap, and can a $10 comeback happen?",
+          "headline": "Top Analyst Reports for Apple, Philip Morris & Intel",
+          "summary": "Apple's expanding Services business, Philip Morris' smoke-free momentum and Intel's manufacturing recovery and AI expansion headline today's top analyst reports.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f523f837431d9a50bbe8282bd4eb9db7559c779d7ab638d422672ff6511df69c"
+          "url": "https://finnhub.io/api/news?id=764d55c69ca785aa343eecf68a083d0fcdf5759f7ccf85661f27cc140c313399"
         },
         {
-          "headline": "Intel landed Microsoft, but now it needs something it can't make",
-          "summary": "Intel’s packaging business just got a major vote of confidence. The next step hinges on a scarce material.",
+          "headline": "Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+          "summary": "Intel looks cheaper on sales, yet its forward earnings multiple is more than double Applied Materials', and a sizable net loss complicates the picture.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=46783e2ce3887c8f1950c360f912ea3ed61426913e12f175b9f2c89b33b6928e"
+          "url": "https://finnhub.io/api/news?id=0bfe8206232df7e673ddff8c19707e6a1bbb8633aeca76ed1d889864f0fcb2fb"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Newegg and ABS Bring PC Building to Fifth Avenue with a Holiday Showcase at the Intel Experience Store in New York City / Intel Corporation to Participate in Upcoming Investor Conferences / INTW 2X Intel ETF Jumps 26% in a Day: Should Investors Ride This Leveraged Intel Fund Back to $10? / Intel landed Microsoft, but now it needs something it can't make",
+      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Fell Today / Intel And 2 More AI Stocks To Watch / Top Analyst Reports for Apple, Philip Morris & Intel / Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
