@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-25 03:56",
+  "updated_at": "2026-11-26 03:21",
   "stocks": {
     "NVDA": {
-      "price": 155.38,
-      "change_pct": -5.8588,
-      "prev_close": 165.05,
-      "pe_ttm": 17.5806,
+      "price": 149.3,
+      "change_pct": -3.913,
+      "prev_close": 155.38,
+      "pe_ttm": 16.5505,
       "week52_high": 243.37,
       "week52_low": 124.5,
-      "easy_explanation": "오늘 전일 대비 5.86% 내렸어요. PER은 17.6배로, 회사가 1년에 버는 돈의 18배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 26% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 3.91% 내렸어요. PER은 16.6배로, 회사가 1년에 버는 돈의 17배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
       "news": [
         {
-          "headline": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
-          "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+          "headline": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+          "summary": "The FBI has provided at least two \"defensive briefings\" to Nvidia leadership regarding Chinese espionage tactics, according to a separate law enforcement official.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c631a0af4fb5c60045497a9b53256b831697c66e5db07fc429ed119b5bed9cf"
+          "url": "https://finnhub.io/api/news?id=6f393e1fab1b62c1644942b6aa5fccf3176a6f8d0b74f8d155f48dc81e146e9a"
         },
         {
-          "headline": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
-          "summary": "Fundstrat technical strategist Mark Newton sees opportunity in beaten-down technology stocks but wants broader evidence before declaring a market bottom.",
+          "headline": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW  In Focus",
+          "summary": "The Nasdaq 100 briefly touched bear market territory on Wednesday before paring some losses.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc89dbbad873c20e4a6d278e42940c4713e12b973c1e5aaa97dd11605f208b86"
+          "url": "https://finnhub.io/api/news?id=c6dfdcab5190999e3b1cc53253d4a097aa42a9f3abc948ea292b3aea25e0ff60"
         },
         {
-          "headline": "Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling",
-          "summary": "Nvidia (NVDA) remains under investigation by California, with Attorney General Rob Bonta saying he w",
+          "headline": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+          "summary": "The market went on a wild ride before Thanksgiving, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd38b7fd92803e479322a2d545bc51859fa919cdc46c69894ab6cca7f62b752e"
+          "url": "https://finnhub.io/api/news?id=37e810abbd6318dcef19cc006990e5a6a0131b21e16944b93c130712a4a4548f"
         },
         {
-          "headline": "Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
-          "summary": "Nvidia rebounded incredibly the last time it saw a steep pullback.",
+          "headline": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+          "summary": "Key TakeawaysNVIDIA (NVDA:NASDAQ) jumped 31. 5% on Monday after its board reinstated Jensen Huang as CEO, but it still traded at about 11x forward earnings at the close.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d6dfa03d9c23f68dbefce46114677ed4ea3af6a876bc18eed3ccb33abca8554"
+          "url": "https://finnhub.io/api/news?id=d770f4fdc86e5b30c9d3d6a4d9cf85135d8e263481f11187b0825a7388865971"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake / Why Nvidia's rebound may not mean the S&P 500 has bottomed / Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling / Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
+      "news_summary": "최근 뉴스 헤드라인: 'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns / S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW  In Focus / Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher. / Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 54.8,
-      "change_pct": -8.1462,
-      "prev_close": 59.66,
+      "price": 54.47,
+      "change_pct": -0.6022,
+      "prev_close": 54.8,
       "pe_ttm": null,
       "week52_high": 142.35,
-      "week52_low": 32.89,
-      "easy_explanation": "오늘 전일 대비 8.15% 내렸어요. 최근 1년 최저가~최고가 구간에서 20% 지점에 있어요.",
+      "week52_low": 34.68,
+      "easy_explanation": "오늘 전일 대비 0.60% 내렸어요. 최근 1년 최저가~최고가 구간에서 18% 지점에 있어요.",
       "news": [
         {
-          "headline": "Why Intel Stock Fell Today",
-          "summary": "Intel says it has landed its first outside customer for 18A-P, but it's unclear how much that will matter financially.",
+          "headline": "Intel Stocks Drop 7.47% as GuruFocus Flags 48.7% Premium to GF Value",
+          "summary": "Intel's turnaround produced 78% data center growth last quarter, but it guided to a weaker fourth quarter and its free cash flow remains thin.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=03dec1022a3485736da32277ae334371b537d56564dccbf1c0f24f817eafae0b"
+          "url": "https://finnhub.io/api/news?id=fa82ac5c91cf6bd7ecab0a65e493853b901c69d5f574a44bcfa343cea593f80d"
         },
         {
-          "headline": "Intel And 2 More AI Stocks To Watch",
-          "summary": "Jensen Huang’s rapid return to Nvidia and the sharp rebound in chip shares have reminded markets that AI is still the main story driving big money flows. When capital swings back toward the picks and shovels of the ChatGPT and AI boom, investors start hunting for quality businesses that have not yet been fully priced for that theme. This article highlights three such undervalued AI stocks across chips, software, and cloud. The three undervalued AI stocks covered below are just a sample, and...",
+          "headline": "Nvidia’s Biggest Advantage Could Become Its Biggest Weakness, Says Former Intel AI Chief",
+          "summary": "Artificial intelligence has helped make Nvidia Corp. (NASDAQ:NVDA) one of the world’s most valuable companies, but could eventually undermine one of its biggest competitive advantages. Naveen Rao, the former head of Intel’s AI chip division, argues that Nvidia’s chips sacrifice...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b58bf68bc74c20c63635edfb0122e8828726fdcfecb430b721e3ac2eb3c7b2a5"
+          "url": "https://finnhub.io/api/news?id=9eedbbc28ac026ed075688d1019110424f580f92585fc1da7b45e4e58d07b8de"
         },
         {
-          "headline": "Top Analyst Reports for Apple, Philip Morris & Intel",
-          "summary": "Apple's expanding Services business, Philip Morris' smoke-free momentum and Intel's manufacturing recovery and AI expansion headline today's top analyst reports.",
+          "headline": "Trump Just Floated Taking a Stake in Nvidia. An Intel-Style Deal Could Be Worth $380 Billion",
+          "summary": "Nvidia is printing cash and has no need for a federal bailout, yet the president says \"maybe I should do it.\" A government stake would put Washington on both sides of the chip export decisions that shape the company's profits.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=764d55c69ca785aa343eecf68a083d0fcdf5759f7ccf85661f27cc140c313399"
+          "url": "https://finnhub.io/api/news?id=68707db74465da173a9255dc6e23a776c886cdb67da9413c5d4df9887122ff2b"
         },
         {
-          "headline": "Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
-          "summary": "Intel looks cheaper on sales, yet its forward earnings multiple is more than double Applied Materials', and a sizable net loss complicates the picture.",
+          "headline": "The Zacks Analyst Blog Highlights Apple, Philip Morris, Intel and Crimson Wine",
+          "summary": "Apple's expanding Services business, Philip Morris' smoke-free transition and Intel's manufacturing recovery and AI opportunities headline top analyst reports.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0bfe8206232df7e673ddff8c19707e6a1bbb8633aeca76ed1d889864f0fcb2fb"
+          "url": "https://finnhub.io/api/news?id=098e62c26487b49e59528a915b8af67338f041c39f0d1690a0af2326fafb948a"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Why Intel Stock Fell Today / Intel And 2 More AI Stocks To Watch / Top Analyst Reports for Apple, Philip Morris & Intel / Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Drop 7.47% as GuruFocus Flags 48.7% Premium to GF Value / Nvidia’s Biggest Advantage Could Become Its Biggest Weakness, Says Former Intel AI Chief / Trump Just Floated Taking a Stake in Nvidia. An Intel-Style Deal Could Be Worth $380 Billion / The Zacks Analyst Blog Highlights Apple, Philip Morris, Intel and Crimson Wine",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
