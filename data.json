@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-27 03:28",
+  "updated_at": "2026-11-28 03:05",
   "stocks": {
     "NVDA": {
-      "price": 149.3,
-      "change_pct": -3.913,
-      "prev_close": 155.38,
+      "price": 150.49,
+      "change_pct": 0.7971,
+      "prev_close": 149.3,
       "pe_ttm": 15.9029,
       "week52_high": 243.37,
       "week52_low": 124.5,
-      "easy_explanation": "오늘 전일 대비 3.91% 내렸어요. PER은 15.9배로, 회사가 1년에 버는 돈의 16배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 0.80% 올랐어요. PER은 15.9배로, 회사가 1년에 버는 돈의 16배 가격에 거래되고 있어요. 최근 1년 최저가~최고가 구간에서 22% 지점에 있어요.",
       "news": [
         {
-          "headline": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
-          "summary": "Taiwan Semiconductor offers a compelling way to capitalize on the artificial intelligence (AI) chip revolution without having to pick a winner among competing chip designers.",
+          "headline": "Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027.",
+          "summary": "Nvidia's accelerating earnings growth and historically cheap valuation could help investors double their money by the end of 2027.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e56a35f5645b5a73c26870701de9815fb57d698eaf78dfa2a5bbc1fab6df80f"
+          "url": "https://finnhub.io/api/news?id=e07d3a43315060afd5e0d3bc3c2192d50d0b4a848235681d146e184299fe362c"
         },
         {
-          "headline": "Did Jensen Huang’s Alleged Chinese Spy Get Him to Do Anything Nvidia Didn’t Want?",
-          "summary": "Kain Warwick, founder of Infinex and Synthetix, says Jensen Huang’s alleged spy scandal is far worse than the affairs, while security expert Taylor Monahan argues the spy never got him to act against Nvidia. From Unchained, the no-hype resource for all things crypto.",
+          "headline": "3 Reasons I Might Buy More Nvidia in December",
+          "summary": "The stock is down nearly 30% over the past month, even as its fundamentals have only improved.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=549d58c0687944ed251bd01b581409ad37503dc43d6b2fba79a06933d06acad9"
+          "url": "https://finnhub.io/api/news?id=0b2acc6a0bdaa0b905568d1dac4ab17287e47a473d5507b373e52c81b41d24a4"
         },
         {
-          "headline": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
-          "summary": "Even with Jensen Huang back as CEO, Nvidia is drastically underperforming the S&P 500 and Nasdaq this year.",
+          "headline": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+          "summary": "Key TakeawaysSemiAnalysis found that Nvidia’s Vera Rubin NVL72 rack delivers 2x to 6. 5x the tokens per dollar of total cost of its GB300 NVL72 rack.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82bbdc1f980d9510642c4f9b8837ce329a0a724d0d62b617025b5aab498b6725"
+          "url": "https://finnhub.io/api/news?id=e299fe88567a7a659bfd5f2a6daa4f621b9279aa134e42209b2c5a991d644c68"
         },
         {
-          "headline": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
-          "summary": "Jensen Huang’s return as CEO doesn’t make Nvidia (NVDA) stock a Buy, despite the market’s positive reaction. Shares of the leading semiconductor manufacturer jumped roughly 31.5% on November 23 after Nvidia’s board unanimously reinstated Huang with immediate effect. Yet the stock remains down roughly 31% over the past month following a steep sell-off. Although Nvidia enjoys a long runway for growth, I believe investors should closely watch the regulatory scrutiny still surrounding the company. I",
+          "headline": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+          "summary": "Chinese videos are advertising banned Nvidia chips for sale at $3 million apiece, more than five times the US price. Prices have spiked amid a crackdown by both Washington and...",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0ac8bb3dace73cd41b4bef182a77951706cdc8225f5b141c4ff618953132724"
+          "url": "https://finnhub.io/api/news?id=9491a22c2c534687927467547dd49c6da73fb76a5db30c33ecbe952c7dfe37d1"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. / Did Jensen Huang’s Alleged Chinese Spy Get Him to Do Anything Nvidia Didn’t Want? / Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027? / Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "news_summary": "최근 뉴스 헤드라인: Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027. / 3 Reasons I Might Buy More Nvidia in December / Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip / Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
       "recommendation": {
         "symbol": "NVDA",
         "period": "2026-11-01",
@@ -47,40 +47,40 @@
       }
     },
     "INTC": {
-      "price": 54.47,
-      "change_pct": -0.6022,
-      "prev_close": 54.8,
+      "price": 57.4,
+      "change_pct": 5.3791,
+      "prev_close": 54.47,
       "pe_ttm": null,
       "week52_high": 142.35,
       "week52_low": 34.68,
-      "easy_explanation": "오늘 전일 대비 0.60% 내렸어요. 최근 1년 최저가~최고가 구간에서 18% 지점에 있어요.",
+      "easy_explanation": "오늘 전일 대비 5.38% 올랐어요. 최근 1년 최저가~최고가 구간에서 21% 지점에 있어요.",
       "news": [
         {
-          "headline": "Intel (INTC) Faces Lawsuit And AI Selloff As Fair Value Debate Gets Harder",
-          "summary": "Intel (INTC) is under pressure after a sector-wide selloff in semiconductor and AI stocks coincided with a new class action lawsuit accusing the company of misleading disclosures about its slowing PC business and AI positioning. The share price has retreated sharply in the past month, with a 30-day share price return of down 39.8% and a 90-day move of down 40.9%, even though Intel’s year-to-date share price return is still up 38.3% and the 1-year total shareholder return is 48%. This points...",
+          "headline": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
+          "summary": "Documents in a Delaware shareholder suit show Commerce told Intel its equity deal was not a negotiation; a hearing is set for December 10.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e0745ef3e15f01868ad5073bb07fc23b63278347dd23cb49905db4f46a414c3"
+          "url": "https://finnhub.io/api/news?id=ae2516a501fc74ded5264cd4ab5c2af163def89e4dcebcd7b3280c453ae1eade"
         },
         {
-          "headline": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8.",
-          "summary": "Nvidia and Cathie Wood both added to SpaceX after its steep fall, but the Dec. 8 lock-up expiry will test whether the stock can hold up.",
+          "headline": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+          "summary": "Intel just posted its best data center growth in 15 years, yet its foundry still bleeds cash while TSMC says AI demand outruns supply. One missing signature from a big customer could change the story, and Intel has promised to deliver soon.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a21db26c9b7f3fb6db055e89e1f48046f8e62be858c181676926d72c53e0e65"
+          "url": "https://finnhub.io/api/news?id=17aad9b017356426b964aeb13f02e64d5805b7eaf2162799882f70e2026c0f20"
         },
         {
-          "headline": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
-          "summary": "Shares hit $49.16 in the morning chip rout, then recovered almost all the loss as buyers defended the $50 level.",
+          "headline": "AMD Rises 4% Despite Erste Group Downgrade on Valuation; Marvell Climbs 6%, Intel Gains 5%",
+          "summary": "Advanced Micro Devices (NASDAQ:AMD) is joining the chip-stock rebound despite a fresh valuation downgrade from Erste Group. AMD stock is at $423.96 in morning trading, up 4%. The gain follows a steep slide, with the stock down 20% over the past month as worries about AI spending and financing costs weighed on the sector. Erste […]",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=674f5bafbef8d0c4cf9dc83c77a09237323d07bb781cea39e25fa2b0a6068502"
+          "url": "https://finnhub.io/api/news?id=b8392aee7e2e4448b0edf4de718af44418cb42f545cc522599cc0da0c6bb833c"
         },
         {
-          "headline": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
-          "summary": "Nvidia remains Intel's largest strategic shareholder despite cutting its stake by 25%, while several major hedge funds are increasing their exposure.",
+          "headline": "How Much More Could You Lose In Intel Stock?",
+          "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b9abdb30baba49802338685a178dd931ed393a31905ad9aeb0570041b68ee12"
+          "url": "https://finnhub.io/api/news?id=0f332bdc892350be850485d505a1f73fccdb3f15622b71d7ba6aac380a4fe86b"
         }
       ],
-      "news_summary": "최근 뉴스 헤드라인: Intel (INTC) Faces Lawsuit And AI Selloff As Fair Value Debate Gets Harder / Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8. / Intel Stocks Slip After Erasing a 10.3% Plunge Below $50 / Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
+      "news_summary": "최근 뉴스 헤드라인: Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push / No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge / AMD Rises 4% Despite Erste Group Downgrade on Valuation; Marvell Climbs 6%, Intel Gains 5% / How Much More Could You Lose In Intel Stock?",
       "recommendation": {
         "symbol": "INTC",
         "period": "2026-11-01",
